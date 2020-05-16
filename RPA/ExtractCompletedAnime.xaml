@@ -1,4 +1,4 @@
-﻿<Activity mc:Ignorable="sap sap2010 sads" x:Class="ExtractCompletedAnime"
+﻿<Activity mc:Ignorable="sap sap2010 sads" x:Class="ExtractCompletedAnime" this:ExtractCompletedAnime.in_user="Kaizoku-Otaku" this:ExtractCompletedAnime.in_test="True"
  xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities"
  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
  xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities"
@@ -15,12 +15,9 @@
  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <x:Members>
     <x:Property Name="in_user" Type="InArgument(x:String)" />
+    <x:Property Name="in_test" Type="InArgument(x:Boolean)" />
+    <x:Property Name="ExtractDataTable" Type="OutArgument(sd:DataTable)" />
   </x:Members>
-  <this:ExtractCompletedAnime.in_user>
-    <InArgument x:TypeArguments="x:String">
-      <Literal x:TypeArguments="x:String" Value="" />
-    </InArgument>
-  </this:ExtractCompletedAnime.in_user>
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
@@ -79,173 +76,188 @@
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence sap2010:WorkflowViewState.IdRef="Sequence_5">
-    <ui:Comment sap2010:Annotation.AnnotationText="use uipath instead of API since api limits results to 300.. e.g. https://api.jikan.moe/v3/user/TuyNOM/animelist/completed" Text="// Write your comments in the Text property" sap2010:WorkflowViewState.IdRef="Comment_1" />
-    <Sequence sap2010:Annotation.AnnotationText="default page only shows 300, have to scroll to bottom to display the next 300... and so on (scroll to btm by pressing 'End') , to find out how many times i have to press 'End', get total number of rows from the stats details" DisplayName="scroll to btm" sap2010:WorkflowViewState.IdRef="Sequence_8">
-      <Sequence.Variables>
-        <Variable x:TypeArguments="ui:GenericValue" Default="[&quot;&quot;]" Name="statsText" />
-        <Variable x:TypeArguments="x:Int32" Name="statsSum" />
-        <Variable x:TypeArguments="x:Int32" Name="adjustedSum" />
-        <Variable x:TypeArguments="x:Int32" Name="scrollCount" />
-      </Sequence.Variables>
-      <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[&quot;Extracting in for &quot;+in_user]" />
-      <ui:SetFocus DelayBefore="{x:Null}" DelayMS="{x:Null}" DisplayName="Set Focus 'chrome.exe'" sap2010:WorkflowViewState.IdRef="SetFocus_1">
-        <ui:SetFocus.Target>
-          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="937b5b4edbaa04d82ccdacdc50922439" Selector="&lt;html app='chrome.exe' title='*Anime List - MyAnimeList.net' /&gt;" WaitForReady="INTERACTIVE" />
-        </ui:SetFocus.Target>
-      </ui:SetFocus>
-      <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Chrome" DisplayName="Attach Browser 'chrome.exe Kaizoku-Otak...'" sap2010:WorkflowViewState.IdRef="BrowserScope_3" InformativeScreenshot="251342539266e65fccabc23e9ca56bdd" Selector="&lt;html app='chrome.exe' title='*Anime List - MyAnimeList.net' /&gt;">
-        <ui:BrowserScope.Body>
-          <ActivityAction x:TypeArguments="x:Object">
-            <ActivityAction.Argument>
-              <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
-            </ActivityAction.Argument>
-            <Sequence DisplayName="Do" sap2010:WorkflowViewState.IdRef="Sequence_10">
-              <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click 'A  show-stats-button'" sap2010:WorkflowViewState.IdRef="Click_1" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
-                <ui:Click.CursorPosition>
-                  <ui:CursorPosition Position="Center">
-                    <ui:CursorPosition.OffsetX>
-                      <InArgument x:TypeArguments="x:Int32" />
-                    </ui:CursorPosition.OffsetX>
-                    <ui:CursorPosition.OffsetY>
-                      <InArgument x:TypeArguments="x:Int32" />
-                    </ui:CursorPosition.OffsetY>
-                  </ui:CursorPosition>
-                </ui:Click.CursorPosition>
-                <ui:Click.Target>
-                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="506b8a2f4b122fcbaac9f8b2256880ca" Selector="&lt;webctrl id='show-stats-button' tag='A' /&gt;" WaitForReady="INTERACTIVE" />
-                </ui:Click.Target>
-              </ui:Click>
-              <ui:RetryScope DisplayName="Retry Scope" sap2010:WorkflowViewState.IdRef="RetryScope_1" NumberOfRetries="10" RetryInterval="00:00:01">
-                <ui:RetryScope.ActivityBody>
-                  <ActivityAction>
-                    <Sequence DisplayName="Action" sap2010:WorkflowViewState.IdRef="Sequence_12">
-                      <ui:GetValue ContinueOnError="{x:Null}" DisplayName="Get Text 'DIV'" sap2010:WorkflowViewState.IdRef="GetValue_1">
-                        <ui:GetValue.Target>
-                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="930b419aa3009cf3644add21a031ac42" Selector="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='2' parentid='list-container' tag='DIV' /&gt;" WaitForReady="INTERACTIVE" />
-                        </ui:GetValue.Target>
-                        <ui:GetValue.Value>
-                          <OutArgument x:TypeArguments="ui:GenericValue">[statsText]</OutArgument>
-                        </ui:GetValue.Value>
-                      </ui:GetValue>
-                    </Sequence>
-                  </ActivityAction>
-                </ui:RetryScope.ActivityBody>
-                <ui:RetryScope.Condition>
-                  <ActivityFunc x:TypeArguments="x:Boolean">
-                    <p:IsTrue DisplayName="Is true" sap2010:WorkflowViewState.IdRef="IsTrue_1" Input="[not statsText.Equals(&quot;&quot;)]" />
-                  </ActivityFunc>
-                </ui:RetryScope.Condition>
-              </ui:RetryScope>
-            </Sequence>
-          </ActivityAction>
-        </ui:BrowserScope.Body>
-      </ui:BrowserScope>
-      <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Info" Message="[&quot;text =&quot; + statsText]" />
-      <Sequence DisplayName="get total rows" sap2010:WorkflowViewState.IdRef="Sequence_13">
-        <Sequence.Variables>
-          <Variable x:TypeArguments="x:Int32" Name="tvCount" />
-          <Variable x:TypeArguments="x:Int32" Name="ovaCount" />
-          <Variable x:TypeArguments="x:Int32" Name="moviesCount" />
-          <Variable x:TypeArguments="x:Int32" Name="spclCount" />
-          <Variable x:TypeArguments="str:Match" Name="statusRegexMatch" />
-        </Sequence.Variables>
-        <Assign sap2010:WorkflowViewState.IdRef="Assign_1">
-          <Assign.To>
-            <OutArgument x:TypeArguments="str:Match">[statusRegexMatch]</OutArgument>
-          </Assign.To>
-          <Assign.Value>
-            <InArgument x:TypeArguments="str:Match">[System.Text.RegularExpressions.Regex.Match(statsText, "TV: ([\d]+?),\s+OVA: ([\d]+?),\s+Movies: ([\d]+?),\s+Spcl.: ([\d]+?),")]</InArgument>
-          </Assign.Value>
-        </Assign>
-        <Assign sap2010:WorkflowViewState.IdRef="Assign_2">
-          <Assign.To>
-            <OutArgument x:TypeArguments="x:Int32">[tvCount]</OutArgument>
-          </Assign.To>
-          <Assign.Value>
-            <InArgument x:TypeArguments="x:Int32">[Integer.Parse(statusRegexMatch.Groups(1).Value)]</InArgument>
-          </Assign.Value>
-        </Assign>
-        <Assign sap2010:WorkflowViewState.IdRef="Assign_3">
-          <Assign.To>
-            <OutArgument x:TypeArguments="x:Int32">[ovaCount]</OutArgument>
-          </Assign.To>
-          <Assign.Value>
-            <InArgument x:TypeArguments="x:Int32">[Integer.Parse(statusRegexMatch.Groups(2).Value)]</InArgument>
-          </Assign.Value>
-        </Assign>
-        <Assign sap2010:WorkflowViewState.IdRef="Assign_4">
-          <Assign.To>
-            <OutArgument x:TypeArguments="x:Int32">[moviesCount]</OutArgument>
-          </Assign.To>
-          <Assign.Value>
-            <InArgument x:TypeArguments="x:Int32">[Integer.Parse(statusRegexMatch.Groups(3).Value)]</InArgument>
-          </Assign.Value>
-        </Assign>
-        <Assign sap2010:WorkflowViewState.IdRef="Assign_5">
-          <Assign.To>
-            <OutArgument x:TypeArguments="x:Int32">[spclCount]</OutArgument>
-          </Assign.To>
-          <Assign.Value>
-            <InArgument x:TypeArguments="x:Int32">[Integer.Parse(statusRegexMatch.Groups(4).Value)]</InArgument>
-          </Assign.Value>
-        </Assign>
-        <Assign sap2010:WorkflowViewState.IdRef="Assign_6">
-          <Assign.To>
-            <OutArgument x:TypeArguments="str:Match">[statusRegexMatch]</OutArgument>
-          </Assign.To>
-          <Assign.Value>
-            <InArgument x:TypeArguments="str:Match">[System.Text.RegularExpressions.Regex.Match(statsText, "TV: ([\d]+?),\s+OVA: ([\d]+?),\s+Movies: ([\d]+?),\s+Spcl.: ([\d]+?),")]</InArgument>
-          </Assign.Value>
-        </Assign>
-        <Assign sap2010:WorkflowViewState.IdRef="Assign_7">
-          <Assign.To>
-            <OutArgument x:TypeArguments="x:Int32">[statsSum]</OutArgument>
-          </Assign.To>
-          <Assign.Value>
-            <InArgument x:TypeArguments="x:Int32">[ovaCount+moviesCount+tvCount+spclCount]</InArgument>
-          </Assign.Value>
-        </Assign>
-        <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_5" Level="Info" Message="[&quot;Sum of stats = &quot;+statsSum.ToString]" />
-      </Sequence>
-      <Assign sap2010:Annotation.AnnotationText="i notice that the actual total rows will always be more than the sum from stats e.g. sum = 1100, then total rows = 1234" sap2010:WorkflowViewState.IdRef="Assign_8">
-        <Assign.To>
-          <OutArgument x:TypeArguments="x:Int32">[adjustedSum]</OutArgument>
-        </Assign.To>
-        <Assign.Value>
-          <InArgument x:TypeArguments="x:Int32">[statsSum+300]</InArgument>
-        </Assign.Value>
-      </Assign>
-      <Assign sap2010:Annotation.AnnotationText="i notice that the actual total rows will always be more than the sum from stats e.g. sum = 1100, then total rows = 1234" sap2010:WorkflowViewState.IdRef="Assign_9">
-        <Assign.To>
-          <OutArgument x:TypeArguments="x:Int32">[scrollCount]</OutArgument>
-        </Assign.To>
-        <Assign.Value>
-          <InArgument x:TypeArguments="x:Int32">[Convert.ToInt32(Math.Floor(adjustedSum / 300.0))]</InArgument>
-        </Assign.Value>
-      </Assign>
-      <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_6" Level="Info" Message="[&quot;Adjusted sum = &quot;+adjustedSum.ToString+&quot; , scroll count = &quot;+scrollCount.ToString]" />
-      <ui:ForEach x:TypeArguments="x:Int32" CurrentIndex="{x:Null}" DisplayName="For Each" sap2010:WorkflowViewState.IdRef="ForEach`1_4" Values="[Enumerable.Range(1,scrollCount)]">
-        <ui:ForEach.Body>
-          <ActivityAction x:TypeArguments="x:Int32">
-            <ActivityAction.Argument>
-              <DelegateInArgument x:TypeArguments="x:Int32" Name="item" />
-            </ActivityAction.Argument>
-            <Sequence DisplayName="Body" sap2010:WorkflowViewState.IdRef="Sequence_14">
-              <ui:SendHotkey DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" Activate="True" ClickBeforeTyping="False" DisplayName="Send Hotkey 'BODY'" EmptyField="False" sap2010:WorkflowViewState.IdRef="SendHotkey_1" Key="end" KeyModifiers="None" SendWindowMessages="False" SpecialKey="True">
-                <ui:SendHotkey.Target>
-                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="9f3c1a24281f6129d37983b94a3a0401" Selector="&lt;html app='chrome.exe' title='*Anime List - MyAnimeList.net' /&gt;&lt;webctrl tag='BODY' /&gt;" WaitForReady="INTERACTIVE" />
-                </ui:SendHotkey.Target>
-              </ui:SendHotkey>
-              <Delay Duration="00:00:03" sap2010:WorkflowViewState.IdRef="Delay_1" />
-            </Sequence>
-          </ActivityAction>
-        </ui:ForEach.Body>
-      </ui:ForEach>
-    </Sequence>
+    <ui:Comment sap2010:Annotation.AnnotationText="use uipath instead of API since api limits results to 300.. e.g. https://api.jikan.moe/v3/user/TuyNOM/animelist/completed" sap2010:WorkflowViewState.IdRef="Comment_1" Text="// Write your comments in the Text property" />
+    <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Chrome" DisplayName="Attach Browser 'chrome.exe Kaizoku-Otak...'" sap2010:WorkflowViewState.IdRef="BrowserScope_4" InformativeScreenshot="59d0c6deca3127ee27745cb11a9bf929" Selector="&lt;html app='chrome.exe' omit:title='Kaizoku-Otaku&amp;apos;s Anime List - MyAnimeList.net' /&gt;">
+      <ui:BrowserScope.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap2010:WorkflowViewState.IdRef="Sequence_18">
+            <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_10" Level="Info" Message="[&quot;NAVIGATE TO &quot;+&quot;https://myanimelist.net/animelist/&quot;+in_user+&quot;?status=2&quot;]" />
+            <ui:NavigateTo Browser="{x:Null}" sap2010:Annotation.AnnotationText="status=2 means only search anime that user has completed watching" DisplayName="Navigate To" sap2010:WorkflowViewState.IdRef="NavigateTo_1" Url="[&quot;https://myanimelist.net/animelist/&quot;+in_user+&quot;?status=2&quot;]" />
+          </Sequence>
+        </ActivityAction>
+      </ui:BrowserScope.Body>
+    </ui:BrowserScope>
+    <ui:SetFocus DelayBefore="{x:Null}" DelayMS="{x:Null}" DisplayName="Set Focus 'chrome.exe'" sap2010:WorkflowViewState.IdRef="SetFocus_1">
+      <ui:SetFocus.Target>
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="937b5b4edbaa04d82ccdacdc50922439" Selector="&lt;html app='chrome.exe' title='*Anime List - MyAnimeList.net' /&gt;" WaitForReady="INTERACTIVE" />
+      </ui:SetFocus.Target>
+    </ui:SetFocus>
+    <If sap2010:Annotation.AnnotationText="**skip if in test mode -i.e. dont need to scroll btm , just get first page results**&#xD;&#xA;&#xD;&#xA;default page only shows 300, have to scroll to bottom to display the next 300... and so on (scroll to btm by pressing 'End') , to find out how many times i have to press 'End', get total number of rows from the stats details" Condition="[in_test = True]" DisplayName="scroll to bottom" sap2010:WorkflowViewState.IdRef="If_2">
+      <If.Else>
+        <Sequence sap2010:Annotation.AnnotationText="default page only shows 300, have to scroll to bottom to display the next 300... and so on (scroll to btm by pressing 'End') , to find out how many times i have to press 'End', get total number of rows from the stats details" DisplayName="scroll to btm" sap2010:WorkflowViewState.IdRef="Sequence_8">
+          <Sequence.Variables>
+            <Variable x:TypeArguments="ui:GenericValue" Default="[&quot;&quot;]" Name="statsText" />
+            <Variable x:TypeArguments="x:Int32" Name="statsSum" />
+            <Variable x:TypeArguments="x:Int32" Name="adjustedSum" />
+            <Variable x:TypeArguments="x:Int32" Name="scrollCount" />
+          </Sequence.Variables>
+          <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[&quot;Extracting in for &quot;+in_user]" />
+          <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Chrome" DisplayName="Attach Browser 'chrome.exe Kaizoku-Otak...'" sap2010:WorkflowViewState.IdRef="BrowserScope_3" InformativeScreenshot="251342539266e65fccabc23e9ca56bdd" Selector="&lt;html app='chrome.exe' title='*Anime List - MyAnimeList.net' /&gt;">
+            <ui:BrowserScope.Body>
+              <ActivityAction x:TypeArguments="x:Object">
+                <ActivityAction.Argument>
+                  <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
+                </ActivityAction.Argument>
+                <Sequence DisplayName="Do" sap2010:WorkflowViewState.IdRef="Sequence_10">
+                  <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click 'A  show-stats-button'" sap2010:WorkflowViewState.IdRef="Click_1" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+                    <ui:Click.CursorPosition>
+                      <ui:CursorPosition Position="Center">
+                        <ui:CursorPosition.OffsetX>
+                          <InArgument x:TypeArguments="x:Int32" />
+                        </ui:CursorPosition.OffsetX>
+                        <ui:CursorPosition.OffsetY>
+                          <InArgument x:TypeArguments="x:Int32" />
+                        </ui:CursorPosition.OffsetY>
+                      </ui:CursorPosition>
+                    </ui:Click.CursorPosition>
+                    <ui:Click.Target>
+                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="506b8a2f4b122fcbaac9f8b2256880ca" Selector="&lt;webctrl id='show-stats-button' tag='A' /&gt;" WaitForReady="INTERACTIVE" />
+                    </ui:Click.Target>
+                  </ui:Click>
+                  <ui:RetryScope DisplayName="Retry Scope" sap2010:WorkflowViewState.IdRef="RetryScope_1" NumberOfRetries="10" RetryInterval="00:00:01">
+                    <ui:RetryScope.ActivityBody>
+                      <ActivityAction>
+                        <Sequence DisplayName="Action" sap2010:WorkflowViewState.IdRef="Sequence_12">
+                          <ui:GetValue ContinueOnError="{x:Null}" DisplayName="Get Text 'DIV'" sap2010:WorkflowViewState.IdRef="GetValue_1">
+                            <ui:GetValue.Target>
+                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="930b419aa3009cf3644add21a031ac42" Selector="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='2' parentid='list-container' tag='DIV' /&gt;" WaitForReady="INTERACTIVE" />
+                            </ui:GetValue.Target>
+                            <ui:GetValue.Value>
+                              <OutArgument x:TypeArguments="ui:GenericValue">[statsText]</OutArgument>
+                            </ui:GetValue.Value>
+                          </ui:GetValue>
+                        </Sequence>
+                      </ActivityAction>
+                    </ui:RetryScope.ActivityBody>
+                    <ui:RetryScope.Condition>
+                      <ActivityFunc x:TypeArguments="x:Boolean">
+                        <p:IsTrue DisplayName="Is true" sap2010:WorkflowViewState.IdRef="IsTrue_1" Input="[not statsText.Equals(&quot;&quot;)]" />
+                      </ActivityFunc>
+                    </ui:RetryScope.Condition>
+                  </ui:RetryScope>
+                </Sequence>
+              </ActivityAction>
+            </ui:BrowserScope.Body>
+          </ui:BrowserScope>
+          <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Info" Message="[&quot;text =&quot; + statsText]" />
+          <Sequence sap2010:Annotation.AnnotationText="get total rows from stats - note this will be less than actual rows because stats only show movie+tv+ova but actual rows include ONA/music..." DisplayName="get total rows" sap2010:WorkflowViewState.IdRef="Sequence_13">
+            <Sequence.Variables>
+              <Variable x:TypeArguments="x:Int32" Name="tvCount" />
+              <Variable x:TypeArguments="x:Int32" Name="ovaCount" />
+              <Variable x:TypeArguments="x:Int32" Name="moviesCount" />
+              <Variable x:TypeArguments="x:Int32" Name="spclCount" />
+              <Variable x:TypeArguments="str:Match" Name="statusRegexMatch" />
+            </Sequence.Variables>
+            <Assign sap2010:WorkflowViewState.IdRef="Assign_1">
+              <Assign.To>
+                <OutArgument x:TypeArguments="str:Match">[statusRegexMatch]</OutArgument>
+              </Assign.To>
+              <Assign.Value>
+                <InArgument x:TypeArguments="str:Match">[System.Text.RegularExpressions.Regex.Match(statsText, "TV: ([\d]+?),\s+OVA: ([\d]+?),\s+Movies: ([\d]+?),\s+Spcl.: ([\d]+?),")]</InArgument>
+              </Assign.Value>
+            </Assign>
+            <Assign sap2010:WorkflowViewState.IdRef="Assign_2">
+              <Assign.To>
+                <OutArgument x:TypeArguments="x:Int32">[tvCount]</OutArgument>
+              </Assign.To>
+              <Assign.Value>
+                <InArgument x:TypeArguments="x:Int32">[Integer.Parse(statusRegexMatch.Groups(1).Value)]</InArgument>
+              </Assign.Value>
+            </Assign>
+            <Assign sap2010:WorkflowViewState.IdRef="Assign_3">
+              <Assign.To>
+                <OutArgument x:TypeArguments="x:Int32">[ovaCount]</OutArgument>
+              </Assign.To>
+              <Assign.Value>
+                <InArgument x:TypeArguments="x:Int32">[Integer.Parse(statusRegexMatch.Groups(2).Value)]</InArgument>
+              </Assign.Value>
+            </Assign>
+            <Assign sap2010:WorkflowViewState.IdRef="Assign_4">
+              <Assign.To>
+                <OutArgument x:TypeArguments="x:Int32">[moviesCount]</OutArgument>
+              </Assign.To>
+              <Assign.Value>
+                <InArgument x:TypeArguments="x:Int32">[Integer.Parse(statusRegexMatch.Groups(3).Value)]</InArgument>
+              </Assign.Value>
+            </Assign>
+            <Assign sap2010:WorkflowViewState.IdRef="Assign_5">
+              <Assign.To>
+                <OutArgument x:TypeArguments="x:Int32">[spclCount]</OutArgument>
+              </Assign.To>
+              <Assign.Value>
+                <InArgument x:TypeArguments="x:Int32">[Integer.Parse(statusRegexMatch.Groups(4).Value)]</InArgument>
+              </Assign.Value>
+            </Assign>
+            <Assign sap2010:WorkflowViewState.IdRef="Assign_6">
+              <Assign.To>
+                <OutArgument x:TypeArguments="str:Match">[statusRegexMatch]</OutArgument>
+              </Assign.To>
+              <Assign.Value>
+                <InArgument x:TypeArguments="str:Match">[System.Text.RegularExpressions.Regex.Match(statsText, "TV: ([\d]+?),\s+OVA: ([\d]+?),\s+Movies: ([\d]+?),\s+Spcl.: ([\d]+?),")]</InArgument>
+              </Assign.Value>
+            </Assign>
+            <Assign sap2010:WorkflowViewState.IdRef="Assign_7">
+              <Assign.To>
+                <OutArgument x:TypeArguments="x:Int32">[statsSum]</OutArgument>
+              </Assign.To>
+              <Assign.Value>
+                <InArgument x:TypeArguments="x:Int32">[ovaCount+moviesCount+tvCount+spclCount]</InArgument>
+              </Assign.Value>
+            </Assign>
+            <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_5" Level="Info" Message="[&quot;Sum of stats = &quot;+statsSum.ToString]" />
+          </Sequence>
+          <Assign sap2010:Annotation.AnnotationText="since actual rows &gt; stats total rows we add another 300 to account for this" sap2010:WorkflowViewState.IdRef="Assign_8">
+            <Assign.To>
+              <OutArgument x:TypeArguments="x:Int32">[adjustedSum]</OutArgument>
+            </Assign.To>
+            <Assign.Value>
+              <InArgument x:TypeArguments="x:Int32">[statsSum+300]</InArgument>
+            </Assign.Value>
+          </Assign>
+          <Assign sap2010:Annotation.AnnotationText="" sap2010:WorkflowViewState.IdRef="Assign_9">
+            <Assign.To>
+              <OutArgument x:TypeArguments="x:Int32">[scrollCount]</OutArgument>
+            </Assign.To>
+            <Assign.Value>
+              <InArgument x:TypeArguments="x:Int32">[Convert.ToInt32(Math.Floor(adjustedSum / 300.0))]</InArgument>
+            </Assign.Value>
+          </Assign>
+          <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_6" Level="Info" Message="[&quot;Adjusted sum = &quot;+adjustedSum.ToString+&quot; , scroll count = &quot;+scrollCount.ToString]" />
+          <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_8" Level="Info" Message="[&quot;Test mode = &quot;+in_test.ToString]" />
+          <ui:ForEach x:TypeArguments="x:Int32" CurrentIndex="{x:Null}" DisplayName="For Each" sap2010:WorkflowViewState.IdRef="ForEach`1_4" Values="[Enumerable.Range(1,scrollCount)]">
+            <ui:ForEach.Body>
+              <ActivityAction x:TypeArguments="x:Int32">
+                <ActivityAction.Argument>
+                  <DelegateInArgument x:TypeArguments="x:Int32" Name="item" />
+                </ActivityAction.Argument>
+                <Sequence DisplayName="Body" sap2010:WorkflowViewState.IdRef="Sequence_14">
+                  <ui:SendHotkey DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" Activate="True" ClickBeforeTyping="False" DisplayName="Send Hotkey 'BODY'" EmptyField="False" sap2010:WorkflowViewState.IdRef="SendHotkey_1" Key="end" KeyModifiers="None" SendWindowMessages="False" SpecialKey="True">
+                    <ui:SendHotkey.Target>
+                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="9f3c1a24281f6129d37983b94a3a0401" Selector="&lt;html app='chrome.exe' title='*Anime List - MyAnimeList.net' /&gt;&lt;webctrl tag='BODY' /&gt;" WaitForReady="INTERACTIVE" />
+                    </ui:SendHotkey.Target>
+                  </ui:SendHotkey>
+                  <Delay Duration="00:00:03" sap2010:WorkflowViewState.IdRef="Delay_1" />
+                </Sequence>
+              </ActivityAction>
+            </ui:ForEach.Body>
+          </ui:ForEach>
+        </Sequence>
+      </If.Else>
+    </If>
     <Sequence DisplayName="Data Scraping" sap2010:WorkflowViewState.IdRef="Sequence_7">
-      <Sequence.Variables>
-        <Variable x:TypeArguments="sd:DataTable" Default="[New System.Data.DataTable]" Name="ExtractDataTable" />
-      </Sequence.Variables>
       <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Chrome" DisplayName="Attach Browser 'TuyNOMsAn Page'" sap2010:WorkflowViewState.IdRef="BrowserScope_2" InformativeScreenshot="da44dd183c0ecda877cd72393862c35b" Selector="&lt;html app='chrome.exe' title='*Anime List - MyAnimeList.net' /&gt;">
         <ui:BrowserScope.Body>
           <ActivityAction x:TypeArguments="x:Object">
@@ -253,18 +265,41 @@
               <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
             </ActivityAction.Argument>
             <Sequence DisplayName="Do" sap2010:WorkflowViewState.IdRef="Sequence_6">
-              <ui:ExtractData NextLinkSelector="{x:Null}" ContinueOnError="True" DataTable="[ExtractDataTable]" DelayBetweenPagesMS="300" DisplayName="Extract Structured Data 'TABLE'" ExtractMetadata="&lt;extract&gt;&lt;row exact='1'&gt;&lt;webctrl tag='tbody' class='list-item'/&gt;&lt;webctrl tag='tr' class='list-table-data' idx='1'/&gt;&lt;/row&gt;&lt;column exact='1' name='AName' attr='text'&gt;&lt;webctrl tag='tbody' class='list-item'/&gt;&lt;webctrl tag='tr' class='list-table-data' idx='1'/&gt;&lt;webctrl tag='td' class='data title clearfix' idx='1'/&gt;&lt;webctrl tag='a' class='link sort' idx='1'/&gt;&lt;/column&gt;&lt;column exact='1' name='Rating' attr='text'&gt;&lt;webctrl tag='tbody' class='list-item'/&gt;&lt;webctrl tag='tr' class='list-table-data' idx='1'/&gt;&lt;webctrl tag='td' class='data score' idx='1'/&gt;&lt;webctrl tag='a' class='link edit-disabled' idx='1'/&gt;&lt;/column&gt;&lt;/extract&gt;" sap2010:WorkflowViewState.IdRef="ExtractData_2" MaxNumberOfResults="2000">
+              <ui:ExtractData NextLinkSelector="{x:Null}" ContinueOnError="True" DataTable="[ExtractDataTable]" DelayBetweenPagesMS="300" DisplayName="Extract Structured Data 'TABLE'" ExtractMetadata="&lt;extract&gt;&lt;row exact='1'&gt;&lt;webctrl tag='tbody' class='list-item'/&gt;&lt;webctrl tag='tr' class='list-table-data' idx='1'/&gt;&lt;/row&gt;&lt;column exact='1' name='AName' attr='text'&gt;&lt;webctrl tag='tbody' class='list-item'/&gt;&lt;webctrl tag='tr' class='list-table-data' idx='1'/&gt;&lt;webctrl tag='td' class='data title clearfix' idx='1'/&gt;&lt;webctrl tag='a' class='link sort' idx='1'/&gt;&lt;/column&gt;&lt;column exact='1' name='Rating' attr='text'&gt;&lt;webctrl tag='tbody' class='list-item'/&gt;&lt;webctrl tag='tr' class='list-table-data' idx='1'/&gt;&lt;webctrl tag='td' class='data score' idx='1'/&gt;&lt;webctrl tag='a' class='link edit-disabled' idx='1'/&gt;&lt;/column&gt;&lt;column exact='1' name='Type' attr='text'&gt;&lt;webctrl tag='tbody' class='list-item'/&gt;&lt;webctrl tag='tr' class='list-table-data' idx='1'/&gt;&lt;webctrl tag='td' class='data type' idx='1'/&gt;&lt;/column&gt;&lt;/extract&gt;" sap2010:WorkflowViewState.IdRef="ExtractData_2" MaxNumberOfResults="2000">
                 <ui:ExtractData.Target>
                   <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="f780737aa7e5331c4ba57b6c3552bde8" Selector="&lt;webctrl tag='TABLE' /&gt;" WaitForReady="COMPLETE" />
                 </ui:ExtractData.Target>
               </ui:ExtractData>
-              <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[ExtractDataTable.Rows.Count.ToString]" />
+              <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;Extracted row count = &quot;+ExtractDataTable.Rows.Count.ToString]" />
             </Sequence>
           </ActivityAction>
         </ui:BrowserScope.Body>
       </ui:BrowserScope>
     </Sequence>
-    <sads:DebugSymbol.Symbol>d1tDOlxVc2Vyc1xqYWNrY1xEb2N1bWVudHNcVWlQYXRoXEZyZWVsYW5jZVxQM1N0YXJodWJcQmxhbmtQcm9jZXNzXEV4dHJhY3RDb21wbGV0ZWRBbmltZS54YW1sTxUHFTYBAlEDjAIOAgEBUgVSkAICAWZTBfQBEAIBEfUBBYoCEAIBAlU9VU0CARJaB1qhAQIBY1sHXxUCAWFgB44BGQIBUo8BB48BmQECAVCQAQfRARICASjSAQfZARACASPaAQfhARACAR/iAQfiAd8BAgEb4wEH8wEUAgET9wE69wFXAgED+QEHiQIZAgEEWnRangECAWRdmgFd4QECAWJgrgJg9QICAWBmDYsBGAIBU48BdI8BlgECAVGYAQmfARICAUygAQmnARICAUeoAQmvARICAUKwAQm3ARICAT24AQm/ARICATjAAQnHARICATTIAQnPARICASzQAQnQAaoBAgEp1wEx1wE/AgEm1AEy1AE/AgEk3wEx3wFjAgEi3AEy3AE/AgEg4gF04gHcAQIBHOMBkQHjAbQBAgEa6QEN8AEYAgEU+QGiAvkB6QICARD/AQ2GAhgCAQVnD3UaAgFedg+KAR8CAVSdATWdAbUBAgFPmgE2mgFIAgFNpQEzpQFkAgFKogE0ogE9AgFIrQEzrQFkAgFFqgE0qgE+AgFDtQEztQFkAgFAsgE0sgFBAgE+vQEzvQFkAgE7ugE0ugE/AgE5xQE1xQG1AQIBN8IBNsIBSAIBNc0BM80BWwIBL8oBNMoBPgIBLdABdtABpwECASrqAQ/uAR8CARfvAQ/vAVYCARWAAg+EAiACAQiFAg+FAqcBAgEGc6IBc9QBAgFfdooBdpQBAgFddnd2ewIBXHkVggEgAgFXhwEVhwGPAQIBVewBogHsAYUCAgEZ6gH1AeoB+gECARjvAR/vASkCARaAAuMHgALpBwIBD4ICogGCAsEBAgEOgAKFAYACigECAQ2AAkuAAlECAQyAAlyAAnACAQqAAskBgAKfBwIBCYUCfIUCpAECAQd6F4EBJQIBWIcBZocBjAECAVZ/Sn9VAgFZfKoBfKkCAgFb</sads:DebugSymbol.Symbol>
+    <Sequence sap2010:Annotation.AnnotationText="only filter by &quot;TV&quot; i.e. ignore ova / movies etc" DisplayName="Process data table" sap2010:WorkflowViewState.IdRef="Sequence_15">
+      <ui:FilterDataTable DataTable="[ExtractDataTable]" DisplayName="Filter Data Table" FilterRowsMode="Keep" sap2010:WorkflowViewState.IdRef="FilterDataTable_1" OutputDataTable="[ExtractDataTable]" SelectColumnsMode="Keep">
+        <ui:FilterDataTable.Filters>
+          <scg:List x:TypeArguments="ui:FilterOperationArgument" Capacity="4">
+            <ui:FilterOperationArgument BooleanOperator="And" Operator="STARTSWITH">
+              <ui:FilterOperationArgument.Column>
+                <InArgument x:TypeArguments="x:String">["Type"]</InArgument>
+              </ui:FilterOperationArgument.Column>
+              <ui:FilterOperationArgument.Operand>
+                <InArgument x:TypeArguments="x:String">["TV"]</InArgument>
+              </ui:FilterOperationArgument.Operand>
+            </ui:FilterOperationArgument>
+          </scg:List>
+        </ui:FilterDataTable.Filters>
+        <ui:FilterDataTable.SelectColumns>
+          <scg:List x:TypeArguments="InArgument" Capacity="4">
+            <x:Null />
+          </scg:List>
+        </ui:FilterDataTable.SelectColumns>
+      </ui:FilterDataTable>
+      <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_7" Level="Info" Message="[&quot;After filter by tv only row count = &quot;+ExtractDataTable.Rows.Count.ToString]" />
+    </Sequence>
+    <ui:LogMessage DisplayName="Log Message" sap2010:WorkflowViewState.IdRef="LogMessage_9" Level="Info" Message="[ExtractDataTable.Rows(0)(&quot;Type&quot;).ToString]" />
+    <sads:DebugSymbol.Symbol>d1dDOlxVc2Vyc1xqYWNrY1xEZXNrdG9wXFdvcmtcQUlcUHJvamVjdHNcTW92aWVSZWNvbW1lbmRlclxSUEFcRXh0cmFjdENvbXBsZXRlZEFuaW1lLnhhbWxkAW4BfAEDAaEBAaYBAQJOA68CDgIBAU8FT5ACAwGAAVAFXBcCAXddBWETAgF1YgWDAgoCARyEAgWWAhACAQ6XAgWsAhACAQStAgWtAqwBAgECUKwCUJADAgF/VgtZFgIBeF+YAV/fAQIBdmKAA2KSAwIBHWQJgQIUAgEfhQIHlQIZAgEPmAIHqgIcAgEHqwIHqwLQAQIBBa0Ccq0CqQECAQNXDVfnAQIBfFgNWLUCAgF5ZkFmUQIBIGsLa6UBAgFybAuaAR0CAWObAQubAZ0BAgFhnAEL3QEWAgE53gEL5QEUAgE05gEL7QEUAgEw7gEL7gHjAQIBLO8BC+8BqAECASnwAQuAAhgCASGFAqIChQLpAgIBG4sCDZICGAIBEJ0COJ0CQAIBDaACOKACPgIBDJgCtAGYAsgBAgEKmAIlmAI5AgEIqwJ0qwLNAQIBBld7V+QBAgF9WOIBWLICAgF6a3hrogECAXNssgJs+QICAXFyEZcBHAIBZJsBeJsBmgECAWKkAQ2rARYCAV2sAQ2zARYCAVi0AQ27ARYCAVO8AQ3DARYCAU7EAQ3LARYCAUnMAQ3TARYCAUXUAQ3bARYCAT3cAQ3cAa4BAgE64wE14wFDAgE34AE24AFDAgE16wE16wFnAgEz6AE26AFDAgEx7gF47gHgAQIBLe8BeO8BpQECASrwAZUB8AG4AQIBKPYBEf0BHAIBIowCD5ACIAIBE5ECD5ECygECARFzE4EBHgIBb4IBE5YBIwIBZakBOakBuQECAWCmATqmAUwCAV6xATexAWgCAVuuATiuAUECAVm5ATe5AWgCAVa2ATi2AUICAVTBATfBAWgCAVG+ATi+AUUCAU/JATfJAWgCAUzGATjGAUMCAUrRATnRAbkBAgFIzgE6zgFMAgFG2QE32QFfAgFA1gE41gFCAgE+3AF63AGrAQIBO/cBE/sBIwIBJfwBE/wBWgIBI4wCvAmMAsIJAgEajgKiAY4CwQECARmMAoUBjAKKAQIBGIwCS4wCUQIBF4wCXIwCcAIBFYwCyQGMAvgIAgEUkQJ8kQLHAQIBEn+mAX/YAQIBcIIBjgGCAZgBAgFuggF7ggF/AgFthQEZjgEkAgFokwEZkwGTAQIBZvkBpgH5AYkCAgEn9wH5AfcB/gECASb8ASP8AS0CASSGARuNASkCAWmTAWqTAZABAgFniwFOiwFZAgFqiAGuAYgBrQICAWw=</sads:DebugSymbol.Symbol>
   </Sequence>
   <sap2010:WorkflowViewState.ViewStateManager>
     <sap2010:ViewStateManager>
@@ -275,7 +310,22 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="LogMessage_3" sap:VirtualizedContainerService.HintSize="314.4,52.8">
+      <sap2010:ViewStateData Id="LogMessage_10" sap:VirtualizedContainerService.HintSize="314.4,92.8" />
+      <sap2010:ViewStateData Id="NavigateTo_1" sap:VirtualizedContainerService.HintSize="314.4,104">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </sap2010:ViewStateData>
+      <sap2010:ViewStateData Id="Sequence_18" sap:VirtualizedContainerService.HintSize="336.8,361.6">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </sap2010:ViewStateData>
+      <sap2010:ViewStateData Id="BrowserScope_4" sap:VirtualizedContainerService.HintSize="314.4,52.8">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -284,6 +334,14 @@
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
       <sap2010:ViewStateData Id="SetFocus_1" sap:VirtualizedContainerService.HintSize="314.4,52.8">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </sap2010:ViewStateData>
+      <sap2010:ViewStateData Id="LogMessage_3" sap:VirtualizedContainerService.HintSize="314.4,52.8">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -323,7 +381,7 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="Sequence_10" sap:VirtualizedContainerService.HintSize="381.6,324.8">
+      <sap2010:ViewStateData Id="Sequence_10" sap:VirtualizedContainerService.HintSize="381.6,606.4">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -354,22 +412,23 @@
       <sap2010:ViewStateData Id="Assign_6" sap:VirtualizedContainerService.HintSize="314.4,60" />
       <sap2010:ViewStateData Id="Assign_7" sap:VirtualizedContainerService.HintSize="314.4,60" />
       <sap2010:ViewStateData Id="LogMessage_5" sap:VirtualizedContainerService.HintSize="314.4,92.8" />
-      <sap2010:ViewStateData Id="Sequence_13" sap:VirtualizedContainerService.HintSize="314.4,52.8">
+      <sap2010:ViewStateData Id="Sequence_13" sap:VirtualizedContainerService.HintSize="314.4,160.8">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">False</x:Boolean>
             <x:Boolean x:Key="IsPinned">False</x:Boolean>
+            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="Assign_8" sap:VirtualizedContainerService.HintSize="314.4,136">
+      <sap2010:ViewStateData Id="Assign_8" sap:VirtualizedContainerService.HintSize="314.4,120">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="Assign_9" sap:VirtualizedContainerService.HintSize="314.4,136">
+      <sap2010:ViewStateData Id="Assign_9" sap:VirtualizedContainerService.HintSize="314.4,88">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
@@ -377,6 +436,14 @@
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
       <sap2010:ViewStateData Id="LogMessage_6" sap:VirtualizedContainerService.HintSize="314.4,92.8" />
+      <sap2010:ViewStateData Id="LogMessage_8" sap:VirtualizedContainerService.HintSize="314.4,52.8">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </sap2010:ViewStateData>
       <sap2010:ViewStateData Id="SendHotkey_1" sap:VirtualizedContainerService.HintSize="314.4,156" />
       <sap2010:ViewStateData Id="Delay_1" sap:VirtualizedContainerService.HintSize="314.4,22.4" />
       <sap2010:ViewStateData Id="Sequence_14" sap:VirtualizedContainerService.HintSize="336.8,343.2">
@@ -394,12 +461,21 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="Sequence_8" sap:VirtualizedContainerService.HintSize="314.4,192.8">
+      <sap2010:ViewStateData Id="Sequence_8" sap:VirtualizedContainerService.HintSize="336.8,1262.4">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
-            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
             <x:Boolean x:Key="IsPinned">False</x:Boolean>
             <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </sap2010:ViewStateData>
+      <sap2010:ViewStateData Id="If_2" sap:VirtualizedContainerService.HintSize="314.4,256.8">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
@@ -435,14 +511,40 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="Sequence_5" sap:VirtualizedContainerService.HintSize="336.8,566.4">
+      <sap2010:ViewStateData Id="FilterDataTable_1" sap:VirtualizedContainerService.HintSize="314.4,60" />
+      <sap2010:ViewStateData Id="LogMessage_7" sap:VirtualizedContainerService.HintSize="314.4,52.8">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </sap2010:ViewStateData>
+      <sap2010:ViewStateData Id="Sequence_15" sap:VirtualizedContainerService.HintSize="314.4,96.8">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </sap2010:ViewStateData>
+      <sap2010:ViewStateData Id="LogMessage_9" sap:VirtualizedContainerService.HintSize="314.4,52.8">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </sap2010:ViewStateData>
+      <sap2010:ViewStateData Id="Sequence_5" sap:VirtualizedContainerService.HintSize="336.8,1045.6">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="ExtractCompletedAnime_1" sap:VirtualizedContainerService.HintSize="262.4,490.4" />
+      <sap2010:ViewStateData Id="ExtractCompletedAnime_1" sap:VirtualizedContainerService.HintSize="376.8,1125.6" />
     </sap2010:ViewStateManager>
   </sap2010:WorkflowViewState.ViewStateManager>
 </Activity>
