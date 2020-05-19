@@ -1,0 +1,133 @@
+Accel World,8
+Air Gear,8
+Amagi Brilliant Park,-
+Angel Beats!,-
+Ansatsu Kyoushitsu,9
+Ansatsu Kyoushitsu 2nd Season,10
+Baby Steps,-
+Baccano!,-
+Baka to Test to Shoukanjuu,-
+Baka to Test to Shoukanjuu Ni!,-
+Bakemonogatari,9
+Bakuman.,-
+Bakuman. 2nd Season,-
+Bakuman. 3rd Season,-
+Ballroom e Youkoso,-
+Barakamon,-
+Bikini Warriors,-
+Blood Lad,-
+Boku no Hero Academia,-
+Boku no Hero Academia 2nd Season,-
+Boku no Hero Academia 3rd Season,-
+Boku wa Tomodachi ga Sukunai,-
+Boku wa Tomodachi ga Sukunai Next,-
+Bokura wa Minna Kawai-sou,-
+Charlotte,-
+Clannad,-
+Clannad: After Story,-
+Danna ga Nani wo Itteiru ka Wakaranai Ken,-
+Death Parade,7
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
+Eromanga-sensei,-
+Fuuka,-
+Gantz,-
+Gantz 2nd Stage,-
+Gate: Jieitai Kanochi nite Kaku Tatakaeri,-
+Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,-
+Gekkan Shoujo Nozaki-kun,-
+Golden Time,-
+Haikyuu!!,-
+Haikyuu!! Second Season,-
+Hajimete no Gal,-
+High School DxD,-
+High School DxD BorN,-
+High School DxD New,-
+High Score Girl,-
+Highschool of the Dead,-
+Hikaru no Go,-
+Hunter x Hunter (2011),-
+Hyouka,-
+Isekai Maou to Shoukan Shoujo no Dorei Majutsu,-
+K,-
+K-On!,-
+Kaichou wa Maid-sama!,-
+Kakegurui,-
+Kami nomi zo Shiru Sekai,-
+Kaze ga Tsuyoku Fuiteiru,-
+Kimetsu no Yaiba,-
+Knight's & Magic,-
+Kokoro Connect,-
+Kono Oto Tomare!,-
+Kono Subarashii Sekai ni Shukufuku wo!,-
+Kono Subarashii Sekai ni Shukufuku wo! 2,-
+Kuroko no Basket,-
+Kuroko no Basket 2nd Season,-
+Kuzu no Honkai,-
+Log Horizon,-
+Maburaho,-
+Masamune-kun no Revenge,-
+Masou Gakuen HxH,5
+Mayo Chiki!,-
+Megalo Box,7
+Mirai Nikki,9
+Mob Psycho 100,-
+Nanatsu no Taizai,9
+Nanatsu no Taizai: Imashime no Fukkatsu,-
+Nanatsu no Taizai: Seisen no Shirushi,-
+Nejimaki Seirei Senki: Tenkyou no Alderamin,-
+Netoge no Yome wa Onnanoko ja Nai to Omotta?,-
+No Game No Life,9
+One Punch Man,-
+One Punch Man 2nd Season,-
+Ore no Imouto ga Konnani Kawaii Wake ga Nai,-
+Ore no Imouto ga Konnani Kawaii Wake ga Nai.,-
+Oushitsu Kyoushi Heine,-
+Overlord,8
+Overlord II,-
+Overlord III,-
+Papa no Iukoto wo Kikinasai!,7
+Piano no Mori (TV),-
+Prison School,9
+Re:Zero kara Hajimeru Isekai Seikatsu,-
+ReLIFE,-
+Rokudenashi Majutsu Koushi to Akashic Records,-
+Rosario to Vampire,7
+Saenai Heroine no Sodatekata,-
+Saenai Heroine no Sodatekata ♭,-
+Sakura-sou no Pet na Kanojo,-
+School Days,4
+Seiken Tsukai no World Break,-
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,-
+Sekirei,7
+Shigatsu wa Kimi no Uso,9
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,-
+Shingeki no Bahamut: Genesis,-
+Shingeki no Kyojin,-
+Shinmai Maou no Testament,-
+Shokugeki no Souma,-
+Shokugeki no Souma: Ni no Sara,-
+Shokugeki no Souma: San no Sara,-
+Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,-
+Shouwa Genroku Rakugo Shinjuu,-
+Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,-
+Suzumiya Haruhi no Yuuutsu,-
+Suzumiya Haruhi no Yuuutsu (2009),-
+Sword Art Online,9
+Sword Art Online Alternative: Gun Gale Online,-
+Sword Art Online II,8
+Tate no Yuusha no Nariagari,-
+Tensei shitara Slime Datta Ken,-
+Tiger & Bunny,-
+Tokyo Ghoul,-
+Tokyo Ghoul √A,-
+Tokyo Ravens,-
+Toradora!,-
+Trinity Seven,7
+Usagi Drop,9
+Violet Evergarden,-
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,-
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,-
+Yamada-kun to 7-nin no Majo (TV),-
+Youjo Senki,-
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),-
+Yowamushi Pedal,-

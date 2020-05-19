@@ -1,0 +1,157 @@
+91 Days,8
+Akame ga Kill!,2
+Another,2
+Ao Haru Ride,7
+Bakemonogatari,5
+Ballroom e Youkoso,-
+Banana Fish,-
+Beastars,9
+Black Lagoon,8
+Black Lagoon: The Second Barrage,9
+Bleach,-
+Boku dake ga Inai Machi,7
+Boku no Hero Academia,1
+Boku no Hero Academia 2nd Season,1
+Boku no Hero Academia 3rd Season,1
+Chuukan Kanriroku Tonegawa,9
+Chuunibyou demo Koi ga Shitai!,7
+Chuunibyou demo Koi ga Shitai! Ren,6
+Claymore,8
+Code Geass: Hangyaku no Lelouch,10
+Code Geass: Hangyaku no Lelouch R2,10
+Dagashi Kashi,5
+Dagashi Kashi 2,7
+Deadman Wonderland,2
+Death Note,10
+Death Parade,10
+Domestic na Kanojo,5
+Dorohedoro,9
+Doukyonin wa Hiza Tokidoki Atama no Ue.,8
+Drifters,9
+Dumbbell Nan Kilo Moteru?,7
+Fate/stay night: Unlimited Blade Works,1
+Fate/stay night: Unlimited Blade Works 2nd Season,1
+Fate/Zero,1
+Fate/Zero 2nd Season,1
+Fruits Basket 1st Season,-
+Fullmetal Alchemist: Brotherhood,-
+Gangsta.,7
+Gankutsuou,10
+Gate: Jieitai Kanochi nite Kaku Tatakaeri,6
+Given,8
+Goblin Slayer,5
+Golden Kamuy,10
+Golden Kamuy 2nd Season,10
+Grand Blue,-
+Great Teacher Onizuka,10
+Gyakkyou Burai Kaiji: Hakairoku-hen,-
+Gyakkyou Burai Kaiji: Ultimate Survivor,-
+Haikyuu!!,-
+Haikyuu!! Second Season,-
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,-
+Hajime no Ippo,-
+Hajime no Ippo: New Challenger,-
+Hajimete no Gal,2
+Hataraku Maou-sama!,7
+Hataraku Saibou (TV),6
+High Score Girl,9
+High Score Girl II,9
+Hunter x Hunter (2011),-
+Inuyashiki,-
+Ishuzoku Reviewers,7
+JoJo no Kimyou na Bouken (TV),6
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,3
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,4
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,5
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,-
+Jormungand,-
+Jormungand: Perfect Order,-
+Juuni Taisen,5
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Kaichou wa Maid-sama!,8
+Kakegurui,1
+Kakegurui××,1
+Kamisama Hajimemashita,7
+Kaze ga Tsuyoku Fuiteiru,-
+Kenpuu Denki Berserk,10
+Kill la Kill,5
+Kimetsu no Yaiba,-
+Kiseijuu: Sei no Kakuritsu,9
+Kishuku Gakkou no Juliet,5
+Koi wa Ameagari no You ni,-
+Kono Oto Tomare!,-
+Kono Oto Tomare! 2nd Season,-
+Kono Subarashii Sekai ni Shukufuku wo!,9
+Kono Subarashii Sekai ni Shukufuku wo! 2,9
+Koutetsujou no Kabaneri,1
+Kuroko no Basket,-
+Kuroko no Basket 2nd Season,-
+Kuroko no Basket 3rd Season,-
+Kuzu no Honkai,4
+Mawaru Penguindrum,10
+Mirai Nikki,-
+Mob Psycho 100,9
+Mob Psycho 100 II,10
+Monster,-
+Monster Musume no Iru Nichijou,6
+Nana,9
+Nanatsu no Taizai,7
+Nanatsu no Taizai: Imashime no Fukkatsu,8
+Nanatsu no Taizai: Seisen no Shirushi,6
+Naruto,2
+Naruto: Shippuuden,1
+NHK ni Youkoso!,10
+No Game No Life,5
+One Outs,-
+One Punch Man,10
+Ookami Shoujo to Kuro Ouji,7
+Ore no Imouto ga Konnani Kawaii Wake ga Nai,9
+Oshi ga Budoukan Ittekuretara Shinu,8
+Overlord,2
+Paradise Kiss,-
+Plastic Memories,5
+Prison School,8
+Psycho-Pass,10
+Psycho-Pass 2,8
+Psycho-Pass 3,5
+Rainbow: Nisha Rokubou no Shichinin,-
+ReLIFE,7
+Sakamichi no Apollon,-
+Sakamoto Desu ga?,7
+Serial Experiments Lain,10
+Sewayaki Kitsune no Senko-san,7
+Shigatsu wa Kimi no Uso,-
+Shiki,10
+Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,7
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,8
+Shingeki no Kyojin Season 3,8
+Shingeki no Kyojin Season 3 Part 2,-
+Shinsekai yori,-
+Shokugeki no Souma,-
+Shokugeki no Souma: Ni no Sara,-
+Shokugeki no Souma: San no Sara,-
+Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,-
+Shokugeki no Souma: Shin no Sara,5
+Slam Dunk,10
+Steins;Gate,10
+Sukitte Ii na yo.,5
+Tasogare Otome x Amnesia,-
+Tate no Yuusha no Nariagari,4
+Tengen Toppa Gurren Lagann,10
+Terra Formars,8
+Tokyo Ghoul,2
+Tokyo Ghoul √A,2
+Tokyo Ghoul:re,1
+Tokyo Ghoul:re 2nd Season,1
+Toradora!,-
+Tsurezure Children,5
+Usagi Drop,-
+Vinland Saga,10
+Violet Evergarden,10
+Watashi ga Motete Dousunda,5
+Wotaku ni Koi wa Muzukashii,7
+Yagate Kimi ni Naru,7
+Yakusoku no Neverland,-
+Youjo Senki,8
+Zankyou no Terror,8

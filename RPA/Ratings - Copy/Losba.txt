@@ -1,0 +1,135 @@
+﻿Absolute Duo,6
+Akame ga Kill!,7
+Angel Beats!,7
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
+Another,7
+Ansatsu Kyoushitsu,10
+Ansatsu Kyoushitsu 2nd Season,10
+Arifureta Shokugyou de Sekai Saikyou,6
+Attack No.1,6
+Ben-To,6
+Blade & Soul,4
+Blend S,7
+Boku dake ga Inai Machi,8
+Boku no Hero Academia,7
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,7
+Btooom!,6
+Bungou Stray Dogs,9
+Bungou Stray Dogs 2nd Season,8
+Bungou Stray Dogs 3rd Season,9
+Charlotte,7
+Clannad,7
+Clannad: After Story,8
+Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,6
+Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,7
+Darling in the FranXX,6
+Deadman Wonderland,7
+Death Note,9
+Death Parade,9
+Dive!!,4
+Domestic na Kanojo,7
+Dorei-ku The Animation,6
+Dr. Stone,8
+Durarara!!,8
+Durarara!!x2 Ketsu,7
+Durarara!!x2 Shou,7
+Durarara!!x2 Ten,7
+Fate/stay night,7
+Free!,7
+Free!: Dive to the Future,6
+Free!: Eternal Summer,7
+Fullmetal Alchemist: Brotherhood,9
+Fuuka,5
+God Eater,6
+Hai to Gensou no Grimgar,8
+Haikyuu!!,9
+Haikyuu!! Second Season,9
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
+High School DxD,5
+Himouto! Umaru-chan,6
+Houseki no Kuni (TV),9
+Hunter x Hunter,8
+Hunter x Hunter (2011),10
+Ichiban Ushiro no Daimaou,4
+Inazuma Eleven,9
+Inazuma Eleven Go,7
+Inazuma Eleven Go: Chrono Stone,6
+Inazuma Eleven Go: Galaxy,7
+Inazuma Eleven: Ares no Tenbin,6
+Initial D Fifth Stage,8
+Initial D Final Stage,9
+Initial D First Stage,9
+Initial D Fourth Stage,8
+Initial D Second Stage,8
+Isekai wa Smartphone to Tomo ni.,5
+JoJo no Kimyou na Bouken (TV),8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,7
+Kakegurui,5
+Kaze ga Tsuyoku Fuiteiru,9
+Keijo!!!!!!!!,5
+Kekkai Sensen,8
+Kekkai Sensen & Beyond,7
+Kenja no Mago,6
+Kiseijuu: Sei no Kakuritsu,8
+Knight's & Magic,8
+Kuroko no Basket,8
+Kuroko no Basket 2nd Season,8
+Kuroko no Basket 3rd Season,7
+Kuusen Madoushi Kouhosei no Kyoukan,6
+Made in Abyss,10
+Magi: The Labyrinth of Magic,8
+Mahou Shoujo Madoka★Magica,10
+Mahouka Koukou no Rettousei,7
+Mai-HiME,7
+Mirai Nikki,6
+Nanatsu no Taizai,7
+Nanatsu no Taizai: Imashime no Fukkatsu,7
+Naruto,6
+Naruto: Shippuuden,7
+New Game!,8
+New Game!!,7
+No Game No Life,7
+Noragami,7
+Noragami Aragoto,8
+One Outs,9
+One Punch Man,8
+One Punch Man 2nd Season,5
+Ousama Game The Animation,4
+Outbreak Company,7
+Pandora Hearts,8
+Pokemon,7
+Prison School,6
+Rakudai Kishi no Cavalry,6
+Re:Zero kara Hajimeru Isekai Seikatsu,7
+ReLIFE,7
+Rokka no Yuusha,7
+Rokudenashi Majutsu Koushi to Akashic Records,8
+Seiken Tsukai no World Break,5
+Shigatsu wa Kimi no Uso,9
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,8
+Shingeki no Kyojin Season 3,8
+Shingeki no Kyojin Season 3 Part 2,10
+Shinmai Maou no Testament,4
+Shinmai Maou no Testament Burst,4
+Shokugeki no Souma,7
+Shokugeki no Souma: Ni no Sara,6
+Shokugeki no Souma: San no Sara,7
+Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,7
+Shokugeki no Souma: Shin no Sara,7
+Steins;Gate,10
+Steins;Gate 0,9
+Sword Art Online,6
+Sword Art Online II,5
+Tate no Yuusha no Nariagari,7
+Tokyo Ghoul,8
+Tokyo Ghoul √A,7
+Tokyo Ghoul:re,3
+Tokyo Ghoul:re 2nd Season,3
+Trinity Seven,6
+Yakusoku no Neverland,9
+Youjo Senki,8
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),9
+Zankyou no Terror,10
+Zombieland Saga,5

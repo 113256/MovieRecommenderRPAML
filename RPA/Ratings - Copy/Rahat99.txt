@@ -1,0 +1,140 @@
+91 Days,8
+Accel World,6
+Air,4
+Akagami no Shirayuki-hime,6
+Akame ga Kill!,5
+Angel Beats!,5
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
+Ano Natsu de Matteru,6
+Another,7
+Ao Haru Ride,7
+Ao no Exorcist,5
+Bakemonogatari,7
+Black Bullet,6
+Bleach,6
+Blood Lad,7
+Boku dake ga Inai Machi,6
+Boku no Hero Academia,8
+Bokura ga Ita,7
+Bokura wa Minna Kawai-sou,5
+Btooom!,7
+Charlotte,6
+ChäoS;HEAd,1
+Clannad,8
+Clannad: After Story,10
+Code Geass: Hangyaku no Lelouch,7
+Code Geass: Hangyaku no Lelouch R2,7
+Dakara Boku wa H ga Dekinai.,6
+Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,8
+Deadman Wonderland,6
+Death Note,9
+Death Parade,7
+Donten ni Warau,7
+Dragon Ball,7
+Dragon Ball GT,6
+Dragon Ball Kai,9
+Dragon Ball Z,9
+Durarara!!,8
+ef: A Tale of Memories.,6
+Elfen Lied,8
+Fairy Tail,7
+Fate/stay night: Unlimited Blade Works,8
+Fate/stay night: Unlimited Blade Works 2nd Season,7
+Fate/Zero,10
+Fate/Zero 2nd Season,10
+Fullmetal Alchemist: Brotherhood,10
+Fuuka,6
+Glasslip,3
+God Eater,7
+Gokukoku no Brynhildr,6
+Golden Time,9
+Groove Adventure Rave,9
+Guilty Crown,8
+Hai to Gensou no Grimgar,6
+Hamatora The Animation,6
+Hanamonogatari,5
+Hataraku Maou-sama!,7
+Higashi no Eden,7
+High School DxD,7
+High School DxD New,7
+Highschool of the Dead,5
+Higurashi no Naku Koro ni,7
+Higurashi no Naku Koro ni Kai,5
+Hunter x Hunter (2011),8
+Hyouka,7
+Itazura na Kiss,8
+Kaichou wa Maid-sama!,5
+Kanon (2006),8
+Kämpfer,4
+Kenpuu Denki Berserk,8
+Kill la Kill,9
+Kimi ga Nozomu Eien,8
+Kiseijuu: Sei no Kakuritsu,9
+Kiss x Sis (TV),6
+Kiznaiver,6
+Kokoro Connect,8
+Kyoukai no Kanata,6
+Magi: The Kingdom of Magic,8
+Magi: The Labyrinth of Magic,8
+Maken-Ki!,5
+Mayo Chiki!,5
+Mirai Nikki,8
+Monogatari Series: Second Season,8
+Myself; Yourself,9
+Naruto,7
+Nekomonogatari: Kuro,7
+Nisekoi,5
+Nisemonogatari,8
+No Game No Life,6
+Noragami,7
+Noragami Aragoto,7
+Omamori Himari,6
+One Punch Man,7
+Ookami Shoujo to Kuro Ouji,5
+Ore Monogatari!!,6
+Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,8
+Owari no Seraph,8
+Plastic Memories,8
+Pokemon,6
+Psycho-Pass,8
+Psycho-Pass 2,8
+Pupa,4
+Re:Zero kara Hajimeru Isekai Seikatsu,7
+Rokka no Yuusha,7
+Rosario to Vampire,5
+Rurouni Kenshin: Meiji Kenkaku Romantan,8
+Sakamichi no Apollon,5
+Sakura Trick,4
+Sakura-sou no Pet na Kanojo,9
+School Days,8
+Sekirei,6
+Serial Experiments Lain,7
+Shakugan no Shana,6
+Shaman King,8
+Shigatsu wa Kimi no Uso,9
+Shiki,8
+Shingeki no Kyojin,9
+Shinrei Tantei Yakumo,7
+Skip Beat!,7
+Special A,6
+Steins;Gate,9
+Sukitte Ii na yo.,7
+Sword Art Online,7
+Sword Art Online II,7
+Tales of Zestiria the Cross,7
+Terra Formars,5
+Tokyo Ghoul,3
+Tokyo Ghoul √A,1
+Tonari no Kaibutsu-kun,7
+Toradora!,7
+True Tears,7
+Umineko no Naku Koro ni,6
+White Album,8
+White Album 2,9
+White Album 2nd Season,8
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,7
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,6
+Zankyou no Terror,9
+Zero no Tsukaima,6
+Zero no Tsukaima: Futatsuki no Kishi,6
+Zetsuen no Tempest,8

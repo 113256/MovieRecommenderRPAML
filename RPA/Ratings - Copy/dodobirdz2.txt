@@ -1,0 +1,157 @@
+﻿5-toubun no Hanayome,8
+Akatsuki no Yona,7
+Angel Beats!,6
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,6
+Araburu Kisetsu no Otome-domo yo.,7
+B-gata H-kei,6
+Baccano!,9
+Bakemonogatari,7
+Black Lagoon,7
+Black Lagoon: The Second Barrage,7
+Bleach,8
+Boku dake ga Inai Machi,8
+Boku no Hero Academia,9
+Boku no Hero Academia 2nd Season,10
+Boku no Hero Academia 3rd Season,7
+Boku no Hero Academia 4th Season,9
+Bokutachi wa Benkyou ga Dekinai,3
+Chihayafuru,10
+Chihayafuru 2,10
+Chihayafuru 3,10
+Chobits,2
+Code Geass: Hangyaku no Lelouch,7
+Code Geass: Hangyaku no Lelouch R2,8
+Cowboy Bebop,10
+Dagashi Kashi,10
+Darker than Black: Kuro no Keiyakusha,8
+Darling in the FranXX,7
+Death Note,10
+Domestic na Kanojo,4
+Dr. Stone,10
+Elfen Lied,6
+Enen no Shouboutai,9
+Ergo Proxy,9
+Eromanga-sensei,-
+Fairy Tail,7
+Fate/Grand Order: Zettai Majuu Sensen Babylonia,7
+Fate/stay night: Unlimited Blade Works,7
+Fate/stay night: Unlimited Blade Works 2nd Season,7
+Fate/Zero,7
+Fate/Zero 2nd Season,8
+Fullmetal Alchemist,7
+Fullmetal Alchemist: Brotherhood,10
+Gabriel DropOut,8
+Gamers!,5
+Gatchaman Crowds,6
+Genshiken,7
+Goblin Slayer,9
+Great Teacher Onizuka,9
+Guilty Crown,5
+Gunslinger Girl,4
+Haikyuu!!,10
+Haikyuu!! Second Season,10
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
+Haikyuu!!: To the Top,10
+Hataraku Maou-sama!,10
+Higashi no Eden,7
+High School DxD,4
+Highschool of the Dead,5
+Hinamatsuri,10
+Hitoribocchi no Marumaru Seikatsu,9
+Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,9
+Hunter x Hunter (2011),8
+Hyouka,9
+Imouto sae Ireba Ii.,-
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,10
+Karakai Jouzu no Takagi-san,10
+Kill la Kill,7
+Kimetsu no Yaiba,9
+Kimi ni Todoke,7
+Kimi ni Todoke 2nd Season,7
+Kiseijuu: Sei no Kakuritsu,8
+Kobayashi-san Chi no Maid Dragon,9
+Kono Subarashii Sekai ni Shukufuku wo!,5
+Kono Subarashii Sekai ni Shukufuku wo! 2,5
+Koukyoushihen Eureka Seven,5
+Kyoukai no Kanata,6
+Little Witch Academia (TV),6
+Log Horizon,8
+Log Horizon 2nd Season,5
+Made in Abyss,9
+Magi: The Kingdom of Magic,9
+Magi: The Labyrinth of Magic,8
+Mahou Shoujo Madoka★Magica,9
+Mahoutsukai no Yome,7
+Mirai Nikki,4
+Mob Psycho 100,9
+Mob Psycho 100 II,10
+Mushishi,10
+Mushishi Zoku Shou,9
+Naruto,8
+Naruto: Shippuuden,7
+NHK ni Youkoso!,8
+Nisekoi,8
+Nisekoi:,8
+Nodame Cantabile,7
+Nodame Cantabile: Paris-hen,7
+Noragami,7
+Noragami Aragoto,7
+One Punch Man,10
+One Punch Man 2nd Season,6
+Onegai☆Teacher,1
+Ookami to Koushinryou,9
+Ookami to Koushinryou II,7
+Ouran Koukou Host Club,7
+Ping Pong the Animation,8
+Prison School,4
+Psycho-Pass,8
+Re:Zero kara Hajimeru Isekai Seikatsu,7
+Rurouni Kenshin: Meiji Kenkaku Romantan,8
+Saenai Heroine no Sodatekata,7
+Saenai Heroine no Sodatekata ♭,7
+Sakamichi no Apollon,8
+Sakura-sou no Pet na Kanojo,7
+Samurai Champloo,10
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,7
+Serial Experiments Lain,8
+Shigatsu wa Kimi no Uso,9
+Shiki,8
+Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,7
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,8
+Shingeki no Kyojin Season 3,9
+Shingeki no Kyojin Season 3 Part 2,10
+Shinsekai yori,10
+Shokugeki no Souma,8
+Shokugeki no Souma: Ni no Sara,8
+Shokugeki no Souma: San no Sara,8
+Sora yori mo Tooi Basho,10
+SSSS.Gridman,7
+Steins;Gate,10
+Sukitte Ii na yo.,7
+Suzumiya Haruhi no Yuuutsu,8
+Suzumiya Haruhi no Yuuutsu (2009),6
+Sword Art Online,7
+Sword Art Online II,8
+Sword Art Online: Alicization,6
+Sword Art Online: Alicization - War of Underworld,5
+Tamako Market,8
+Tate no Yuusha no Nariagari,8
+Tengen Toppa Gurren Lagann,10
+Tensei shitara Slime Datta Ken,9
+Toaru Kagaku no Railgun,6
+Toaru Kagaku no Railgun S,7
+Toaru Majutsu no Index,4
+Tokyo Ghoul,7
+Tokyo Ghoul √A,7
+Tonari no Kaibutsu-kun,6
+Toradora!,8
+Trigun,9
+Vinland Saga,8
+Violet Evergarden,8
+Wolf's Rain,6
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
+Yakusoku no Neverland,10
+Yuru Camp△,8
+Zankyou no Terror,7

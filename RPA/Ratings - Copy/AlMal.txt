@@ -1,0 +1,41 @@
+﻿.hack//Sign,-
+Bakemonogatari,8
+Boku dake ga Inai Machi,8
+Clannad,7
+Clannad: After Story,7
+Death Note,9
+Dragon Ball,8
+Dragon Ball Kai,9
+Dragon Ball Kai (2014),9
+Dragon Ball Super,8
+Dragon Ball Z,8
+Dumbbell Nan Kilo Moteru?,8
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,7
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,8
+Great Teacher Onizuka,8
+Highschool of the Dead,7
+Kanojo to Kanojo no Neko: Everything Flows,8
+Kill la Kill,9
+Kimetsu no Yaiba,8
+Kokoro Connect,7
+Kono Subarashii Sekai ni Shukufuku wo!,7
+Kono Subarashii Sekai ni Shukufuku wo! 2,7
+Maoyuu Maou Yuusha,7
+Monster Musume no Iru Nichijou,6
+Nande Koko ni Sensei ga!?,6
+Natsume Yuujinchou,7
+Nekopara,7
+Neon Genesis Evangelion,8
+NHK ni Youkoso!,8
+Re:Zero kara Hajimeru Isekai Seikatsu,8
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,8
+Shingeki no Kyojin Season 3,8
+Shingeki no Kyojin Season 3 Part 2,8
+Somali to Mori no Kamisama,8
+Steins;Gate,9
+Steins;Gate 0,7
+Tokyo Ghoul,8
+Wotaku ni Koi wa Muzukashii,7
+Zoku Natsume Yuujinchou,8

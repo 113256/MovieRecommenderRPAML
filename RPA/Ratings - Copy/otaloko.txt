@@ -1,0 +1,79 @@
+﻿Akame ga Kill!,7
+Angel Beats!,9
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
+Another,6
+Ansatsu Kyoushitsu,9
+Ao no Exorcist,8
+Baccano!,9
+Bakemonogatari,10
+Beastars,8
+Boku dake ga Inai Machi,9
+Boku no Hero Academia,7
+Boku no Hero Academia 2nd Season,-
+Boku no Hero Academia 3rd Season,9
+Btooom!,7
+Danshi Koukousei no Nichijou,8
+Darker than Black: Kuro no Keiyakusha,8
+Darling in the FranXX,8
+Deadman Wonderland,6
+Dororo,5
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
+Fullmetal Alchemist: Brotherhood,10
+Goblin Slayer,7
+Guilty Crown,6
+Hanamonogatari,8
+Hataraku Maou-sama!,8
+Hinamatsuri,9
+Hunter x Hunter (2011),10
+Irozuku Sekai no Ashita kara,9
+Kekkai Sensen,7
+Kekkai Sensen & Beyond,8
+Kill la Kill,9
+Kimetsu no Yaiba,10
+Kiseijuu: Sei no Kakuritsu,8
+Kiznaiver,7
+Koutetsujou no Kabaneri,8
+Made in Abyss,10
+Mahoutsukai no Yome,8
+Megalo Box,10
+Mob Psycho 100,9
+Mob Psycho 100 II,-
+Monogatari Series: Second Season,9
+Naruto,7
+Nekomonogatari: Kuro,8
+Neon Genesis Evangelion,7
+Nichijou,10
+Nisemonogatari,9
+No Game No Life,8
+Noragami,7
+Noragami Aragoto,8
+One Punch Man,9
+One Punch Man 2nd Season,-
+Ookami to Koushinryou,9
+Ookami to Koushinryou II,7
+Overlord,6
+Owarimonogatari,9
+Owarimonogatari 2nd Season,10
+Plastic Memories,7
+Prison School,8
+Re:Zero kara Hajimeru Isekai Seikatsu,8
+ReLIFE,10
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
+Shingeki no Kyojin,9
+Shingeki no Kyojin Season 2,8
+Shingeki no Kyojin Season 3,8
+Shingeki no Kyojin Season 3 Part 2,-
+Shoujo Shuumatsu Ryokou,8
+Soul Eater,8
+SSSS.Gridman,7
+Steins;Gate,9
+Steins;Gate 0,7
+Sword Art Online,7
+Sword Art Online II,6
+Tate no Yuusha no Nariagari,7
+Tengen Toppa Gurren Lagann,10
+Tensei shitara Slime Datta Ken,7
+Tokyo Ghoul,7
+Tokyo Ghoul √A,6
+Violet Evergarden,9
+Yakusoku no Neverland,9

@@ -1,0 +1,52 @@
+Aho Girl,3
+Angel Beats!,7
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,5
+Another,7
+Ao no Exorcist,7
+Ao no Exorcist: Kyoto Fujouou-hen,7
+Back Street Girls: Gokudolls,5
+Beastars,8
+Boku dake ga Inai Machi,6
+Boku no Hero Academia,9
+Boku no Hero Academia 2nd Season,9
+Boku no Hero Academia 3rd Season,9
+Boku no Tonari ni Ankoku Hakaishin ga Imasu.,5
+Charlotte,6
+Code Geass: Hangyaku no Lelouch,6
+Code Geass: Hangyaku no Lelouch R2,8
+Deadman Wonderland,8
+Death Note,9
+Death Parade,9
+Dr. Stone,10
+DRAMAtical Murder,4
+Fullmetal Alchemist: Brotherhood,9
+Gunjou no Magmell,4
+JoJo no Kimyou na Bouken (TV),10
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,7
+Kakegurui,7
+Kakegurui××,7
+Kimetsu no Yaiba,9
+Kiseijuu: Sei no Kakuritsu,9
+Koutetsujou no Kabaneri,3
+Mirai Nikki,10
+Mob Psycho 100,8
+Mob Psycho 100 II,8
+Noragami,6
+One Punch Man,8
+One Punch Man 2nd Season,5
+Pupa,3
+Re:Zero kara Hajimeru Isekai Seikatsu,5
+Satsuriku no Tenshi,6
+Shingeki no Kyojin,7
+Shingeki no Kyojin Season 2,7
+Shingeki no Kyojin Season 3,8
+Shingeki no Kyojin Season 3 Part 2,8
+Tokyo Ghoul,8
+Tokyo Ghoul √A,9
+Toradora!,9
+Violet Evergarden,5
+Yakusoku no Neverland,10
+Yosuga no Sora: In Solitude Where We Are Least Alone.,7
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),7

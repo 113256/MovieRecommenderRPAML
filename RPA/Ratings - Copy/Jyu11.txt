@@ -1,0 +1,198 @@
+91 Days,6
+Akame ga Kill!,8
+Aldnoah.Zero,8
+Aldnoah.Zero 2nd Season,7
+Angel Beats!,8
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
+Ano Natsu de Matteru,7
+Another,9
+Ao Haru Ride,8
+Ao no Exorcist,8
+Ao no Exorcist: Kyoto Fujouou-hen,9
+Arakawa Under the Bridge,7
+Arcana Famiglia,8
+Arslan Senki (TV),8
+Ayakashi: Japanese Classic Horror,9
+Baccano!,8
+Bakuman.,8
+Barakamon,9
+Black★Rock Shooter (TV),6
+Blade & Soul,7
+Bleach,10
+Blood Lad,8
+Boku dake ga Inai Machi,9
+Boku no Hero Academia,9
+Boku no Hero Academia 2nd Season,9
+Boku no Hero Academia 3rd Season,9
+Brave 10,7
+Btooom!,8
+Bungou Stray Dogs,8
+Buzzer Beater,8
+Charlotte,8
+Chihayafuru,9
+Chuunibyou demo Koi ga Shitai!,9
+Claymore,9
+Code Geass: Hangyaku no Lelouch,8
+Code Geass: Hangyaku no Lelouch R2,10
+Code:Breaker,7
+Cowboy Bebop,10
+Cuticle Tantei Inaba,8
+D.Gray-man,10
+D.Gray-man Hallow,9
+Danshi Koukousei no Nichijou,9
+Dantalian no Shoka,9
+Deadman Wonderland,8
+Death Note,9
+Death Parade,8
+Demi-chan wa Kataritai,7
+Densetsu no Yuusha no Densetsu,6
+Devil May Cry,7
+Dorohedoro,9
+Dororo,8
+Doukyonin wa Hiza Tokidoki Atama no Ue.,9
+Drifters,7
+Fairy Tail,6
+Fate/stay night: Unlimited Blade Works,7
+Fate/stay night: Unlimited Blade Works 2nd Season,7
+Fate/Zero,9
+Fate/Zero 2nd Season,9
+Fullmetal Alchemist: Brotherhood,10
+Gangsta.,8
+Gekkan Shoujo Nozaki-kun,7
+Ghost Hunt,8
+Gin no Saji,8
+Gin no Saji 2nd Season,8
+Gosick,9
+Grand Blue,8
+Guilty Crown,8
+Haikyuu!!,9
+Haikyuu!! Second Season,8
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
+Hajime no Ippo,9
+Heroman,7
+Highschool of the Dead,7
+Hinamatsuri,8
+Hisone to Maso-tan,8
+Hunter x Hunter (2011),10
+Hyouka,9
+Inari Konkon Koi Iroha.,8
+InuYasha (TV),9
+InuYasha (TV): Kanketsu-hen,9
+Inuyashiki,9
+Jibaku Shounen Hanako-kun,8
+JoJo no Kimyou na Bouken (TV),8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,7
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,10
+Jyu Oh Sei,9
+K,7
+Kakegurui,8
+Kamisama Hajimemashita,9
+Kamisama Hajimemashita◎,9
+Kamisama no Inai Nichiyoubi,7
+Kanata no Astra,8
+Kanojo to Kanojo no Neko: Everything Flows,6
+Karneval (TV),7
+Kazemakase Tsukikage Ran,7
+Kekkaishi (TV),6
+Kimetsu no Yaiba,9
+Kimi ni Todoke,10
+Kimi ni Todoke 2nd Season,8
+Kiseijuu: Sei no Kakuritsu,9
+Kobato.,9
+Kokkoku,7
+Kotoura-san,8
+Koutetsujou no Kabaneri,7
+Kuragehime,9
+Kuroko no Basket,8
+Kuroko no Basket 2nd Season,8
+Kuroko no Basket 3rd Season,9
+Kuroshitsuji,9
+Kuroshitsuji II,6
+Kuroshitsuji: Book of Circus,9
+Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari,8
+Kyoukai no Kanata,8
+Little Witch Academia (TV),7
+Lovely★Complex,9
+Made in Abyss,9
+Magi: The Kingdom of Magic,9
+Magi: The Labyrinth of Magic,9
+Mahoutsukai ni Taisetsu na Koto: Natsu no Sora,8
+Mawaru Penguindrum,8
+Mob Psycho 100,9
+Mob Psycho 100 II,8
+Monster,10
+Mushishi,10
+Mushishi Zoku Shou,9
+Mushishi Zoku Shou 2nd Season,9
+Nabari no Ou,8
+Nanatsu no Taizai,8
+Nanatsu no Taizai: Seisen no Shirushi,7
+Nijuu Mensou no Musume,8
+Nisekoi,8
+No Game No Life,9
+Noragami,8
+Noragami Aragoto,8
+Nurarihyon no Mago,9
+Nyan Koi!,8
+One Punch Man,9
+One Punch Man 2nd Season,8
+Orange,8
+Ouran Koukou Host Club,9
+Owari no Seraph,8
+Owari no Seraph: Nagoya Kessen-hen,8
+Ozma,7
+Pandora Hearts,9
+Prison School,8
+Psycho-Pass,10
+Psycho-Pass 2,8
+Pupipo!,7
+Rainbow: Nisha Rokubou no Shichinin,10
+ReLIFE,8
+Saiki Kusuo no Ψ-nan,8
+Saiki Kusuo no Ψ-nan 2,8
+Sakamichi no Apollon,9
+Samurai Champloo,9
+Sankarea,8
+Satsuriku no Tenshi,6
+Seirei no Moribito,9
+Shigatsu wa Kimi no Uso,8
+Shingeki no Bahamut: Genesis,8
+Shingeki no Kyojin,10
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,9
+Shingeki no Kyojin Season 3 Part 2,10
+Shinreigari,7
+Shokugeki no Souma,7
+Shokugeki no Souma: Ni no Sara,8
+Skip Beat!,8
+Slam Dunk,8
+Soul Eater,9
+Subete ga F ni Naru,6
+Sword Art Online,8
+Tales of Zestiria the Cross,5
+Tatakau Shisho: The Book of Bantorra,7
+Tegamibachi,9
+Tegamibachi Reverse,8
+Tiger & Bunny,9
+Tokyo ESP,8
+Tokyo Ghoul,8
+Tokyo Magnitude 8.0,8
+Tonari no Kaibutsu-kun,7
+Toshokan Sensou,9
+Tsuritama,9
+UN-GO,8
+Usagi Drop,9
+Versailles no Bara,10
+Vinland Saga,7
+Violet Evergarden,9
+Wolf's Rain,8
+xxxHOLiC,8
+xxxHOLiC Kei,8
+Yakusoku no Neverland,9
+Yami Shibai,8
+Yami Shibai 2,8
+Yami Shibai 3,7
+Zankyou no Terror,8
+Zombie-Loan,8

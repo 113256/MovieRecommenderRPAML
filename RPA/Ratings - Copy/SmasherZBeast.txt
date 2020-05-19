@@ -1,0 +1,33 @@
+﻿Bleach,9
+Boku no Hero Academia,6
+Boku no Hero Academia 2nd Season,7
+Boku no Hero Academia 3rd Season,9
+Code Geass: Hangyaku no Lelouch,10
+Code Geass: Hangyaku no Lelouch R2,10
+Darling in the FranXX,4
+Death Note,9
+Dragon Ball GT,5
+Dragon Ball Kai,9
+Dragon Ball Kai (2014),7
+Dragon Ball Super,3
+Fairy Tail,5
+Fullmetal Alchemist: Brotherhood,10
+Hunter x Hunter (2011),10
+InuYasha (TV),10
+Katekyo Hitman Reborn!,9
+Kill la Kill,8
+Magi: The Labyrinth of Magic,8
+Majin Tantei Nougami Neuro,7
+Nanatsu no Taizai,10
+Naruto,10
+Naruto: Shippuuden,8
+Rurouni Kenshin: Meiji Kenkaku Romantan,9
+Shingeki no Kyojin,10
+Sonic X,4
+Soul Eater,7
+Tengen Toppa Gurren Lagann,8
+Ueki no Housoku,8
+Yu☆Gi☆Oh! 5D's,10
+Yu☆Gi☆Oh! Duel Monsters,10
+Yu☆Gi☆Oh!: Duel Monsters GX,9
+Yuu☆Yuu☆Hakusho,10

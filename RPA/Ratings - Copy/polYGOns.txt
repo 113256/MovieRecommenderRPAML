@@ -1,0 +1,147 @@
+﻿91 Days,8
+Afro Samurai,1
+Aggressive Retsuko,7
+Ajin,2
+Akame ga Kill!,3
+Angel Beats!,2
+Another,7
+Ao no Exorcist,4
+Ao no Exorcist: Kyoto Fujouou-hen,2
+Ayakashi: Japanese Classic Horror,2
+Baby Steps,6
+Babylon,8
+Bakemonogatari,1
+Bakugan Battle Brawlers,8
+Bakuten Shoot Beyblade,9
+Bakuten Shoot Beyblade 2002,3
+Bakuten Shoot Beyblade G Revolution,9
+Ballroom e Youkoso,7
+Beastars,2
+Bem,3
+Bleach,7
+Boku no Hero Academia,7
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,8
+Boku no Hero Academia 4th Season,5
+Boogiepop wa Warawanai (2019),1
+Btooom!,3
+Bungou Stray Dogs,6
+Bungou Stray Dogs 2nd Season,8
+Bungou Stray Dogs 3rd Season,8
+Carole & Tuesday,8
+Charlotte,3
+Claymore,3
+Code Geass: Hangyaku no Lelouch,5
+Code Geass: Hangyaku no Lelouch R2,3
+Deadman Wonderland,3
+Death Note,9
+Death Parade,4
+Dororo,10
+Dororo to Hyakkimaru,6
+Dr. Stone,9
+Dragon Ball,10
+Dragon Ball GT,5
+Dragon Ball Kai,9
+Dragon Ball Kai (2014),8
+Dragon Ball Super,3
+Dragon Ball Z,9
+Eizouken ni wa Te wo Dasu na!,9
+Enen no Shouboutai,4
+Fullmetal Alchemist,8
+Fullmetal Alchemist: Brotherhood,6
+Gakkougurashi!,8
+Gintama,9
+Gintama',9
+Gintama': Enchousen,9
+Gintama.,6
+Gintama.: Porori-hen,9
+Gintama.: Shirogane no Tamashii-hen,7
+Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,3
+Gintama°,9
+Grappler Baki (TV),2
+Grappler Baki: Saidai Tournament-hen,3
+Haikyuu!!,9
+Haikyuu!! Second Season,9
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
+Haikyuu!!: To the Top,9
+Hellsing,2
+Hinomaruzumou,4
+Hokuto no Ken,5
+Hokuto no Ken 2,4
+Hokuto no Ken: Raoh Gaiden Ten no Haoh,2
+Hoshiai no Sora,5
+Houseki no Kuni (TV),-
+Hunter x Hunter (2011),9
+Inuyashiki,7
+JoJo no Kimyou na Bouken (TV),8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,7
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,7
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
+Kabukichou Sherlock,5
+Kakegurui,7
+Kakegurui××,4
+Kanata no Astra,6
+Katanagatari,9
+Kenyuu Densetsu Yaiba,8
+Kimetsu no Yaiba,10
+Kiseijuu: Sei no Kakuritsu,6
+Kuroko no Basket,7
+Kuroko no Basket 2nd Season,5
+Kuroko no Basket 3rd Season,7
+Made in Abyss,8
+Magic Kaito 1412,9
+Metal Fight Beyblade,10
+Metal Fight Beyblade 4D,9
+Metal Fight Beyblade Zero G,4
+Metal Fight Beyblade: Baku,10
+Mirai Nikki,2
+Mob Psycho 100,9
+Mob Psycho 100 II,9
+Naruto,8
+Naruto: Shippuuden,6
+No Game No Life,3
+No Guns Life,2
+One Punch Man,8
+One Punch Man 2nd Season,5
+Pet,1
+Ping Pong the Animation,9
+Pokemon,8
+Pokemon Advanced Generation,9
+Pokemon Best Wishes!,7
+Pokemon Best Wishes! Season 2,7
+Pokemon Best Wishes! Season 2: Decolora Adventure,7
+Pokemon Best Wishes! Season 2: Episode N,7
+Pokemon Diamond & Pearl,9
+Pokemon Sun & Moon,9
+Pokemon XY,4
+Pokemon XY&Z,3
+Sakamoto Desu ga?,7
+Samurai Champloo,2
+Sarazanmai,5
+Satsuriku no Tenshi,4
+Shigatsu wa Kimi no Uso,4
+Shingeki no Kyojin,9
+Shingeki no Kyojin Season 2,8
+Shingeki no Kyojin Season 3,7
+Shingeki no Kyojin Season 3 Part 2,8
+Soul Eater,9
+Soul Eater NOT!,8
+Tokyo Ghoul,5
+Tokyo Ghoul √A,3
+Tokyo Ghoul:re,2
+Tokyo Ghoul:re 2nd Season,1
+Vinland Saga,3
+Yakusoku no Neverland,9
+Youjo Senki,5
+Yu☆Gi☆Oh!,8
+Yu☆Gi☆Oh! 5D's,8
+Yu☆Gi☆Oh! Arc-V,7
+Yu☆Gi☆Oh! Duel Monsters,9
+Yu☆Gi☆Oh! VRAINS,4
+Yu☆Gi☆Oh! Zexal,9
+Yu☆Gi☆Oh! Zexal Second,9
+Yu☆Gi☆Oh!: Duel Monsters GX,10
+Yuu☆Yuu☆Hakusho,8
+Zankyou no Terror,5
+Zetsuen no Tempest,8

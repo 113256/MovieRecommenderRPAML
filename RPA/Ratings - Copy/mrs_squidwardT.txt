@@ -1,0 +1,60 @@
+﻿.hack//Sign,6
+Aikatsu!,7
+Aiura,5
+Ajin,6
+Akame ga Kill!,5
+Akatsuki no Yona,9
+Angel Beats!,9
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
+Ansatsu Kyoushitsu,7
+Boku dake ga Inai Machi,9
+Boku no Hero Academia,7
+Boku no Hero Academia 2nd Season,7
+Boku no Hero Academia 3rd Season,6
+Chuunibyou demo Koi ga Shitai!,7
+Clannad,7
+Dagashi Kashi,5
+Death Note,7
+Fullmetal Alchemist: Brotherhood,10
+Gakkougurashi!,7
+Goblin Slayer,6
+Haikyuu!!,7
+Higashi no Eden,8
+Higurashi no Naku Koro ni,7
+Hunter x Hunter (2011),9
+Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,7
+Jibaku Shounen Hanako-kun,9
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Kimetsu no Yaiba,7
+Mahou Shoujo Madoka★Magica,8
+Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,7
+Monster Musume no Iru Nichijou,6
+Nanbaka,7
+Naruto,7
+Neon Genesis Evangelion,7
+Noragami,7
+Noragami Aragoto,7
+One Punch Man,9
+One Punch Man 2nd Season,7
+Oneechan ga Kita,5
+Ookami Shoujo to Kuro Ouji,5
+Ore Monogatari!!,8
+Oshiete! Galko-chan,6
+Plastic Memories,7
+Prison School,8
+Saiki Kusuo no Ψ-nan,10
+Saiki Kusuo no Ψ-nan 2,9
+Sakamoto Desu ga?,7
+Sanzoku no Musume Ronja,6
+School Days,5
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
+Shigatsu wa Kimi no Uso,9
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,8
+Sword Art Online,7
+Sword Art Online II,5
+Tsurezure Children,9
+Violet Evergarden,7
+Watashi ga Motete Dousunda,6
+Yakusoku no Neverland,9
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),8

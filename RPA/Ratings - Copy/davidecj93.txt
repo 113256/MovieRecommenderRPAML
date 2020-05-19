@@ -1,0 +1,91 @@
+﻿Akame ga Kill!,10
+Amagi Brilliant Park,9
+Angel Beats!,10
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,10
+Another,9
+Ansatsu Kyoushitsu,9
+Ao Haru Ride,10
+Aoi Bungaku Series,4
+Araburu Kisetsu no Otome-domo yo.,8
+Bakemonogatari,7
+Bakuten Shoot Beyblade,7
+Barakamon,8
+Beastars,6
+Blood+,7
+Boku dake ga Inai Machi,9
+Boku no Hero Academia,7
+Bokura ga Ita,9
+Captain Tsubasa,9
+Chobits,4
+Clannad,2
+Claymore,9
+Danshi Koukousei no Nichijou,6
+Darling in the FranXX,6
+Deadman Wonderland,9
+Death Note,9
+Death Parade,9
+Digimon Adventure,8
+Dragon Ball,8
+Dragon Ball Z,-
+Elfen Lied,10
+Fullmetal Alchemist,8
+Fullmetal Alchemist: Brotherhood,8
+Gantz,8
+Gokukoku no Brynhildr,9
+Guilty Crown,6
+Hellsing,9
+Higashi no Eden,10
+Highschool of the Dead,9
+Higurashi no Naku Koro ni,8
+Higurashi no Naku Koro ni Kai,8
+Hyouka,8
+Initial D Fifth Stage,-
+Initial D Final Stage,7
+Initial D First Stage,9
+Initial D Fourth Stage,8
+Initial D Second Stage,8
+InuYasha (TV),9
+Just Because!,8
+Juuni Taisen,7
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Kill la Kill,6
+Kimetsu no Yaiba,10
+Kono Subarashii Sekai ni Shukufuku wo!,10
+Kore wa Zombie Desu ka?,6
+Kyoukai no Kanata,8
+Little Witch Academia (TV),8
+Mach GoGoGo,8
+Nagi no Asu kara,6
+Nanatsu no Taizai,9
+Nanatsu no Taizai: Seisen no Shirushi,8
+Nande Koko ni Sensei ga!?,7
+Naruto,9
+Naruto SD: Rock Lee no Seishun Full-Power Ninden,10
+Naruto: Shippuuden,9
+Nazo no Kanojo X,10
+Neon Genesis Evangelion,10
+Nichijou,8
+One Punch Man,9
+Pokemon,8
+Poputepipikku,7
+Prison School,7
+Ranma ½,9
+Rurouni Kenshin: Meiji Kenkaku Romantan,8
+Sankarea,10
+Shingeki no Kyojin,10
+Shingeki no Kyojin Season 2,-
+Sidonia no Kishi,6
+Sukitte Ii na yo.,7
+Suzumiya Haruhi no Yuuutsu,8
+Sword Art Online,10
+Sword Art Online II,8
+Tensei shitara Slime Datta Ken,10
+Tokyo Ghoul,10
+Tokyo Ghoul √A,9
+Tokyo Ghoul:re,7
+Tokyo Ghoul:re 2nd Season,7
+Tonari no Kaibutsu-kun,7
+Tonari no Seki-kun,7
+Yu☆Gi☆Oh!,7
+Yuru Yuri,7
+Zankyou no Terror,10

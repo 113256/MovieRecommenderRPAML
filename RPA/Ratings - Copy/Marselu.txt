@@ -1,0 +1,66 @@
+Araburu Kisetsu no Otome-domo yo.,5
+Beastars,8
+Boku no Hero Academia,7
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,7
+Boku no Hero Academia 4th Season,7
+Boogiepop wa Warawanai (2019),8
+Carole & Tuesday,6
+Chuunibyou demo Koi ga Shitai!,8
+Chuunibyou demo Koi ga Shitai! Ren,9
+Cop Craft,4
+Death Note,8
+Dorohedoro,8
+Dororo,7
+Doukyonin wa Hiza Tokidoki Atama no Ue.,7
+Dr. Stone,6
+Dumbbell Nan Kilo Moteru?,7
+Eizouken ni wa Te wo Dasu na!,9
+Enen no Shouboutai,5
+Fullmetal Alchemist: Brotherhood,10
+Given,8
+Hitoribocchi no Marumaru Seikatsu,8
+Hoshiai no Sora,7
+Id:Invaded,5
+Jibaku Shounen Hanako-kun,6
+JoJo no Kimyou na Bouken (TV),7
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,6
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,7
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
+Joshikousei no Mudazukai,7
+K-On!,8
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Kanata no Astra,8
+Kanokon,3
+Katsute Kami Datta Kemono-tachi e,5
+Kekkai Sensen,9
+Kekkai Sensen & Beyond,9
+Kill la Kill,9
+Kimetsu no Yaiba,7
+Kobayashi-san Chi no Maid Dragon,9
+Kono Subarashii Sekai ni Shukufuku wo!,6
+Mob Psycho 100,8
+Mob Psycho 100 II,10
+Nanatsu no Taizai,5
+Nanatsu no Taizai: Imashime no Fukkatsu,4
+Nazo no Kanojo X,-
+One Punch Man,9
+One Punch Man 2nd Season,5
+Ping Pong the Animation,9
+Sarazanmai,8
+Senryuu Shoujo,6
+Sewayaki Kitsune no Senko-san,6
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,10
+Shingeki no Kyojin Season 3,10
+Shingeki no Kyojin Season 3 Part 2,10
+Sword Art Online,4
+Tate no Yuusha no Nariagari,5
+Tejina-senpai,4
+Tengen Toppa Gurren Lagann,10
+Tensei shitara Slime Datta Ken,8
+Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?,2
+Vinland Saga,8
+Yakusoku no Neverland,8
+Yojouhan Shinwa Taikei,9

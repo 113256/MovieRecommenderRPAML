@@ -1,0 +1,83 @@
+﻿5-toubun no Hanayome,5
+Akame ga Kill!,7
+Angel Beats!,7
+Another,4
+Asobi Asobase,10
+Baccano!,10
+Black★Rock Shooter (TV),10
+Blood Lad,8
+Boku no Hero Academia,9
+Boku no Hero Academia 2nd Season,9
+Boku no Hero Academia 3rd Season,8
+Boku wa Tomodachi ga Sukunai,10
+Boku wa Tomodachi ga Sukunai Next,10
+Bungou Stray Dogs,7
+Busou Shoujo Machiavellianism,8
+Chuunibyou demo Koi ga Shitai!,10
+Claymore,10
+Code Geass: Hangyaku no Lelouch,10
+Code Geass: Hangyaku no Lelouch R2,10
+D-Frag!,7
+Daitoshokan no Hitsujikai,8
+Death Parade,10
+Demi-chan wa Kataritai,8
+Dragon Ball Super,10
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
+Fullmetal Alchemist: Brotherhood,10
+Gabriel DropOut,8
+Goblin Slayer,10
+Guilty Crown,6
+Hataraku Maou-sama!,7
+Hinamatsuri,10
+Houseki no Kuni (TV),10
+Ichiban Ushiro no Daimaou,7
+IS: Infinite Stratos,5
+IS: Infinite Stratos 2,5
+K,6
+K: Return of Kings,5
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Kami nomi zo Shiru Sekai,8
+Kami nomi zo Shiru Sekai II,7
+Kami nomi zo Shiru Sekai: Megami-hen,9
+Kill la Kill,10
+Kiseijuu: Sei no Kakuritsu,10
+Kobayashi-san Chi no Maid Dragon,9
+Kono Subarashii Sekai ni Shukufuku wo!,8
+Kyokou Suiri,8
+Kyoukai no Kanata,8
+Mahou Shoujo Madoka★Magica,10
+Mahouka Koukou no Rettousei,6
+Masamune-kun no Revenge,2
+Musaigen no Phantom World,6
+Nanatsu no Taizai,9
+Nejimaki Seirei Senki: Tenkyou no Alderamin,7
+Neon Genesis Evangelion,10
+Nichijou,10
+Nisekoi,7
+Nisekoi:,8
+No Game No Life,10
+One Punch Man,9
+Overlord,10
+Overlord II,10
+Overlord III,10
+Prison School,10
+Psycho-Pass,10
+Psycho-Pass 2,10
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,9
+Shingeki no Kyojin,10
+Shingeki no Kyojin Season 2,10
+Shingeki no Kyojin Season 3,10
+Shingeki no Kyojin Season 3 Part 2,9
+Shinmai Maou no Testament,8
+Shokugeki no Souma,8
+Tokyo Ghoul,7
+Tokyo Ghoul √A,8
+Tonari no Kaibutsu-kun,9
+Toradora!,10
+Uchuu Patrol Luluco,9
+Yagate Kimi ni Naru,10
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,-
+Youjo Senki,10
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),6
+Yuru Yuri,9
+Yuru Yuri♪♪,-

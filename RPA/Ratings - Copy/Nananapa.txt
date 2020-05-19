@@ -1,0 +1,162 @@
+91 Days,7
+Afro Samurai,8
+Ajin,5
+Akame ga Kill!,8
+Angel Beats!,9
+Ao Haru Ride,7
+Ao no Exorcist,8
+Ao no Exorcist: Kyoto Fujouou-hen,7
+Arakawa Under the Bridge,10
+Arcana Famiglia,7
+Asobi Asobase,10
+Assassins Pride,8
+Back Street Girls: Gokudolls,9
+Beelzebub,10
+Ben-To,7
+Black Bullet,8
+Blood Lad,-
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,8
+Boku wa Tomodachi ga Sukunai,7
+Boku wa Tomodachi ga Sukunai Next,7
+Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou,8
+C³,6
+Clannad,10
+Clannad: After Story,10
+Cop Craft,7
+Coppelion,8
+Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,9
+Date A Live,6
+Deadman Wonderland,7
+Death March kara Hajimaru Isekai Kyousoukyoku,7
+Death Parade,7
+Drifters,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,9
+Durarara!!,8
+Enen no Shouboutai,9
+Fairy Gone,8
+Fairy Gone 2nd Season,8
+Fate/stay night,8
+Fate/stay night: Unlimited Blade Works,8
+Fate/stay night: Unlimited Blade Works 2nd Season,8
+Fate/Zero,8
+Fate/Zero 2nd Season,8
+Fullmetal Alchemist: Brotherhood,10
+Gakuen Handsome,5
+Gangsta.,8
+Gate: Jieitai Kanochi nite Kaku Tatakaeri,8
+Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,8
+Gintama,10
+Girls & Panzer,7
+Goblin Slayer,9
+Gokukoku no Brynhildr,-
+Gosick,9
+Guilty Crown,8
+Gunjou no Magmell,8
+Hajime no Ippo: New Challenger,7
+Hataage! Kemono Michi,8
+Hataraku Maou-sama!,-
+Hataraku Saibou (TV),8
+High School DxD,7
+High School DxD New,7
+Highschool of the Dead,8
+Hinamatsuri,9
+Hinomaruzumou,9
+Hunter x Hunter (2011),10
+Hyouka,8
+Inu to Hasami wa Tsukaiyou,6
+IS: Infinite Stratos,7
+Isekai Maou to Shoukan Shoujo no Dorei Majutsu,9
+Itou Junji: Collection,9
+JoJo no Kimyou na Bouken (TV),10
+K,9
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,10
+Katsute Kami Datta Kemono-tachi e,8
+Kekkai Sensen,9
+Kekkai Sensen & Beyond,9
+Kill la Kill,9
+Kimetsu no Yaiba,10
+Kiseijuu: Sei no Kakuritsu,9
+Kokoro Connect,8
+Kono Subarashii Sekai ni Shukufuku wo!,10
+Kono Subarashii Sekai ni Shukufuku wo! 2,10
+Kore wa Zombie Desu ka? of the Dead,8
+Koutetsujou no Kabaneri,10
+Kuroko no Basket,10
+Kuroko no Basket 2nd Season,9
+Kuroko no Basket 3rd Season,9
+Kuroshitsuji,8
+Little Busters!,10
+Magi: Sinbad no Bouken (TV),9
+Magi: The Kingdom of Magic,8
+Maoyuu Maou Yuusha,6
+Mayonaka no Occult Koumuin,9
+Medaka Box,6
+Medaka Box Abnormal,6
+Megalo Box,10
+Mirai Nikki,8
+Mob Psycho 100,8
+Mob Psycho 100 II,9
+Muhyo to Rouji no Mahouritsu Soudan Jimusho,8
+Nanatsu no Taizai,9
+Nanatsu no Taizai: Imashime no Fukkatsu,9
+Nanatsu no Taizai: Seisen no Shirushi,7
+Nanbaka,8
+Naruto,10
+Naruto: Shippuuden,-
+No Game No Life,9
+Noragami,8
+Noragami Aragoto,8
+Ojisan to Marshmallow,7
+One Punch Man,10
+One Punch Man 2nd Season,9
+Orenchi no Furo Jijou,8
+Overlord,9
+Psycho-Pass,9
+Rokka no Yuusha,8
+Sakura-sou no Pet na Kanojo,8
+Samurai 7,9
+Samurai Champloo,9
+Saredo Tsumibito wa Ryuu to Odoru,6
+Satsuriku no Tenshi,7
+Senyuu.,10
+Senyuu. 2,9
+Shigatsu wa Kimi no Uso,8
+Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,8
+Shingeki no Kyojin,10
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,9
+Shingeki no Kyojin Season 3 Part 2,10
+Sidonia no Kishi,7
+Sirius,9
+Soul Eater,9
+Steins;Gate,10
+Suisei no Gargantia,7
+Sword Art Online,9
+Sword Art Online II,8
+Tejina-senpai,8
+Tensei shitara Slime Datta Ken,9
+Terra Formars,8
+Terra Formars: Revenge,8
+To Be Hero,8
+Toaru Hikuushi e no Koiuta,8
+Tokyo Ghoul,8
+Tokyo Ghoul √A,8
+Tokyo Ghoul:re,8
+Tokyo Ghoul:re 2nd Season,9
+Tonari no Kaibutsu-kun,7
+Toradora!,9
+Trigun,8
+Ueno-san wa Bukiyou,9
+Ushio to Tora (TV),7
+Ushio to Tora (TV) 2nd Season,7
+Vinland Saga,9
+Violet Evergarden,10
+Working!!,8
+Working!!!,8
+Working'!!,8
+WWW.Working!!,8
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
+Yakusoku no Neverland,10
+Zetsuen no Tempest,8

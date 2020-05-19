@@ -1,0 +1,41 @@
+Akame ga Kill!,9
+Another,7
+Bleach,6
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,7
+Boku no Hero Academia 3rd Season,7
+Boku no Hero Academia 4th Season,7
+Darling in the FranXX,8
+Death Note,8
+Demi-chan wa Kataritai,8
+Dragon Ball,8
+Dragon Ball GT,7
+Dragon Ball Z,8
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,7
+Freezing,4
+Freezing Vibration,4
+Hajimete no Gal,8
+High School DxD,8
+High School DxD BorN,7
+High School DxD New,7
+Ishuzoku Reviewers,7
+Kakegurui,9
+Killing Bites,9
+Kimetsu no Yaiba,8
+Kono Subarashii Sekai ni Shukufuku wo! 2,9
+Maken-Ki!,7
+Maken-Ki! Two,6
+Monster Musume no Iru Nichijou,8
+Nanatsu no Taizai,8
+Nanatsu no Taizai: Imashime no Fukkatsu,7
+One Punch Man,8
+One Punch Man 2nd Season,8
+Re:Zero kara Hajimeru Isekai Seikatsu,10
+Satsuriku no Tenshi,6
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,8
+Tokyo Ghoul,8
+Tokyo Ghoul:re 2nd Season,7
+Yakusoku no Neverland,10
+Yosuga no Sora: In Solitude Where We Are Least Alone.,5
+Yuragi-sou no Yuuna-san,7

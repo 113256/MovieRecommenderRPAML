@@ -1,0 +1,71 @@
+Angel Beats!,8
+Ao Haru Ride,7
+Ao no Exorcist,7
+Ao no Exorcist: Kyoto Fujouou-hen,7
+Barakamon,8
+Clannad,7
+Clannad: After Story,10
+Code Geass: Hangyaku no Lelouch,9
+Code Geass: Hangyaku no Lelouch R2,10
+Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,7
+Darwin's Game,7
+Death March kara Hajimaru Isekai Kyousoukyoku,3
+Devil May Cry,6
+Doukyonin wa Hiza Tokidoki Atama no Ue.,7
+Dragon Ball,8
+Dragon Ball Kai,10
+Dragon Ball Kai (2014),9
+Fullmetal Alchemist: Brotherhood,10
+Grand Blue,7
+Handa-kun,7
+Hataraku Maou-sama!,8
+High School DxD,8
+High Score Girl,8
+High Score Girl II,7
+Highschool of the Dead,5
+Hyouka,8
+Id:Invaded,7
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,10
+Kakegurui,7
+Kami nomi zo Shiru Sekai,6
+Kanata no Astra,9
+Kanon (2006),7
+Kenja no Mago,6
+Kimi ni Todoke,7
+Kuroko no Basket,8
+Majutsushi Orphen Hagure Tabi,6
+Metal Fight Beyblade,6
+Miira no Kaikata,7
+Mirai Nikki,6
+Nakanohito Genome [Jikkyouchuu],5
+Naruto,8
+Nisekoi,8
+Nisekoi:,7
+Ore no Imouto ga Konnani Kawaii Wake ga Nai,6
+Persona 4 the Animation,8
+Phantasy Star Online 2 The Animation,5
+Piano no Mori (TV),6
+Piano no Mori (TV) 2nd Season,5
+Plastic Memories,7
+Re:Zero kara Hajimeru Isekai Seikatsu,7
+ReLIFE,9
+Saiki Kusuo no Ψ-nan,9
+Sakura-sou no Pet na Kanojo,10
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,7
+Shokugeki no Souma,7
+Sonic X,6
+Steins;Gate 0,8
+Sword Art Online,9
+Sword Art Online Alternative: Gun Gale Online,7
+Sword Art Online II,5
+Sword Art Online: Alicization,8
+Sword Art Online: Alicization - War of Underworld,7
+Tate no Yuusha no Nariagari,8
+Tsuki ga Kirei,7
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,9
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,9
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),7
+Yu☆Gi☆Oh! Duel Monsters,6
+Zero no Tsukaima,6

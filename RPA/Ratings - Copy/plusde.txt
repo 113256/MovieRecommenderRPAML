@@ -1,0 +1,30 @@
+﻿Bakemonogatari,8
+Blend S,9
+Charlotte,9
+Chuunibyou demo Koi ga Shitai!,7
+Cowboy Bebop,10
+Darling in the FranXX,7
+Gabriel DropOut,6
+Goblin Slayer,10
+Initial D Fifth Stage,-
+Initial D Final Stage,-
+Initial D First Stage,10
+Initial D Fourth Stage,-
+Initial D Second Stage,-
+K-On!,9
+Kobayashi-san Chi no Maid Dragon,7
+Kono Subarashii Sekai ni Shukufuku wo! 2,8
+Made in Abyss,10
+Neon Genesis Evangelion,8
+Re:Zero kara Hajimeru Isekai Seikatsu,10
+Samurai Champloo,9
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
+Shigatsu wa Kimi no Uso,9
+SSSS.Gridman,9
+Steins;Gate,10
+Steins;Gate 0,9
+Tanaka-kun wa Itsumo Kedaruge,10
+To LOVE-Ru,-
+Wangan Midnight,-
+Yuru Camp△,10
+Zombieland Saga,8

@@ -1,0 +1,63 @@
+﻿Aho Girl,6
+Bakemonogatari,9
+Boku dake ga Inai Machi,7
+Boku no Hero Academia,9
+Boku no Hero Academia 2nd Season,9
+Boku no Hero Academia 3rd Season,9
+Boku no Hero Academia 4th Season,9
+Code Geass: Hangyaku no Lelouch,-
+Code Geass: Hangyaku no Lelouch R2,-
+Comic Girls,6
+Danna ga Nani wo Itteiru ka Wakaranai Ken,6
+Darling in the FranXX,7
+Demi-chan wa Kataritai,7
+Dr. Stone,8
+Elfen Lied,7
+Fullmetal Alchemist: Brotherhood,9
+Gabriel DropOut,6
+Hanamonogatari,8
+Hataraku Saibou (TV),7
+Id:Invaded,7
+Isekai Quartet,7
+Isekai Quartet 2,7
+Jibaku Shounen Hanako-kun,7
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Kill la Kill,8
+Kimetsu no Yaiba,9
+Kiznaiver,6
+Kobayashi-san Chi no Maid Dragon,8
+Konjiki no Gash Bell!!,8
+Kono Subarashii Sekai ni Shukufuku wo!,8
+Kono Subarashii Sekai ni Shukufuku wo! 2,8
+Kyokou Suiri,7
+Little Witch Academia (TV),7
+Love Live! School Idol Project,9
+Love Live! School Idol Project 2nd Season,9
+Made in Abyss,9
+Mairimashita! Iruma-kun,8
+Mob Psycho 100,8
+Mob Psycho 100 II,8
+Monogatari Series: Second Season,8
+Nekomonogatari: Kuro,8
+Neon Genesis Evangelion,10
+Nisemonogatari,8
+One Punch Man,7
+One Punch Man 2nd Season,7
+Overlord,7
+Overlord II,7
+Overlord III,7
+Owarimonogatari,8
+Panty & Stocking with Garterbelt,7
+Re:Zero kara Hajimeru Isekai Seikatsu,8
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,6
+Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,7
+Shingeki no Kyojin,9
+Shingeki no Kyojin Season 2,9
+Steins;Gate,10
+Sword Art Online,5
+Tate no Yuusha no Nariagari,7
+Tsukimonogatari,8
+Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,6
+Youjo Senki,6
+Zombieland Saga,7

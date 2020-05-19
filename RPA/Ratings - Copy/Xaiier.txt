@@ -1,0 +1,58 @@
+Akame ga Kill!,4
+Angel Beats!,3
+Code Geass: Hangyaku no Lelouch,10
+Code Geass: Hangyaku no Lelouch R2,10
+Darling in the FranXX,6
+Fate/stay night: Unlimited Blade Works,5
+Fate/Zero,1
+Fate/Zero 2nd Season,1
+Fullmetal Alchemist: Brotherhood,5
+Gate: Jieitai Kanochi nite Kaku Tatakaeri,7
+Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,5
+Girls & Panzer,4
+Golden Time,7
+Hataraku Maou-sama!,8
+Hinamatsuri,7
+Hitsugi no Chaika,7
+Hitsugi no Chaika: Avenging Battle,7
+Initial D Fifth Stage,8
+Initial D Final Stage,8
+Initial D First Stage,8
+Initial D Fourth Stage,8
+Initial D Second Stage,8
+Kami nomi zo Shiru Sekai,5
+Kekkai Sensen,5
+Kill la Kill,6
+Kono Subarashii Sekai ni Shukufuku wo!,7
+Kono Subarashii Sekai ni Shukufuku wo! 2,7
+Lucky☆Star,8
+Macross,8
+Macross 7,8
+Macross F,10
+Macross Δ,10
+Made in Abyss,9
+Mahou Shoujo Madoka★Magica,6
+Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,7
+Neon Genesis Evangelion,4
+No Game No Life,4
+One Punch Man,9
+Ookami to Koushinryou,9
+Ookami to Koushinryou II,9
+Overlord,7
+Overlord II,6
+Overlord III,5
+Panty & Stocking with Garterbelt,7
+Princess Principal,7
+Psycho-Pass,10
+Psycho-Pass 2,4
+Psycho-Pass 3,5
+Re:Zero kara Hajimeru Isekai Seikatsu,-
+Sidonia no Kishi,7
+Sidonia no Kishi: Daikyuu Wakusei Seneki,8
+Steins;Gate,6
+Taiho Shichau zo (TV),7
+Taiho Shichau zo Special,6
+Taiho Shichau zo: Second Season,-
+Tate no Yuusha no Nariagari,3
+Tengen Toppa Gurren Lagann,6
+Wangan Midnight,7

@@ -1,0 +1,48 @@
+﻿Accel World,7
+Akame ga Kill!,10
+Aku no Hana,8
+Angel Beats!,9
+Ao no Exorcist,7
+Asobi Asobase,8
+Bakemonogatari,10
+Black Bullet,7
+Black Lagoon,9
+Black Lagoon: The Second Barrage,7
+Boku dake ga Inai Machi,8
+Boku no Hero Academia,7
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,9
+Boku no Hero Academia 4th Season,7
+Btooom!,6
+Charlotte,7
+Darling in the FranXX,9
+Deadman Wonderland,8
+Death Parade,8
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,5
+Fullmetal Alchemist,8
+Kekkai Sensen,8
+Kimetsu no Yaiba,6
+Kiseijuu: Sei no Kakuritsu,9
+Kore wa Zombie Desu ka?,5
+Made in Abyss,9
+Mirai Nikki,9
+Mob Psycho 100,8
+Mob Psycho 100 II,9
+Monogatari Series: Second Season,10
+Nekomonogatari: Kuro,10
+Nisemonogatari,10
+No Game No Life,8
+Noragami,8
+One Punch Man,7
+Owari no Seraph,7
+Pandora Hearts,7
+Shingeki no Kyojin,10
+Shingeki no Kyojin Season 2,10
+Shingeki no Kyojin Season 3,10
+Shingeki no Kyojin Season 3 Part 2,10
+Soul Eater,7
+Sword Art Online,7
+Tengen Toppa Gurren Lagann,10
+Tokyo Ghoul,9
+Zankyou no Terror,8
+Zetsuen no Tempest,7

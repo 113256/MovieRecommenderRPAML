@@ -1,0 +1,160 @@
+11eyes,2
+91 Days,8
+Akikan!,2
+Another,7
+Ao no Exorcist,7
+Arcana Famiglia,5
+Baccano!,8
+Baka to Test to Shoukanjuu,7
+Barakamon,9
+Beastars,8
+Beelzebub,7
+Binan Koukou Chikyuu Boueibu LOVE! LOVE!,7
+Blood Lad,7
+Blood+,5
+Bobobo-bo Bo-bobo,7
+Boku dake ga Inai Machi,8
+Boku no Tonari ni Ankoku Hakaishin ga Imasu.,6
+Boogiepop wa Warawanai (2019),7
+Cardcaptor Sakura,9
+Chibi☆Devi!,6
+Chuunibyou demo Koi ga Shitai!,7
+Clannad,6
+D.N.Angel,7
+Daa! Daa! Daa!,7
+Dagashi Kashi,6
+Death Note,8
+Death Parade,7
+Demashita! Powerpuff Girls Z,6
+Denki-gai no Honya-san,6
+Dimension W,5
+Dr. Stone,9
+Dragonaut: The Resonance,6
+Elfen Lied,9
+Erementar Gerad,7
+Fairy Tail,8
+Fate/Zero,8
+Fate/Zero 2nd Season,8
+Free!,6
+Fukigen na Mononokean,7
+Fukigen na Mononokean Tsuzuki,7
+Full Moon wo Sagashite,8
+Fullmetal Alchemist,8
+Gakuen Alice,6
+Gakuen Babysitters,9
+Gekkan Shoujo Nozaki-kun,9
+Ghost Hunt,7
+Ginban Kaleidoscope,7
+Gosick,9
+H2O: Footprints in the Sand,4
+Haikyuu!!,8
+Haikyuu!! Second Season,7
+Hakata Tonkotsu Ramens,8
+Hamatora The Animation,8
+Hanbun no Tsuki ga Noboru Sora,4
+Happy☆Lesson (TV),3
+Hataraku Saibou (TV),8
+Hourou Musuko,7
+Housekishou Richard-shi no Nazo Kantei,7
+Hunter x Hunter,9
+Hunter x Hunter (2011),10
+Hyouka,8
+Inukami!,4
+InuYasha (TV),9
+Isshuukan Friends.,7
+Jibaku Shounen Hanako-kun,8
+Jigoku Shoujo,8
+K,8
+Kaitou Saint Tail,7
+Kamichama Karin,7
+Kamikaze Kaitou Jeanne,7
+Kamisama Hajimemashita,6
+Kamisama Hajimemashita◎,7
+Kamisama Kazoku,6
+Kannagi,5
+Kanokon,2
+Kanon (2006),5
+Karin,7
+Kashimashi: Girl Meets Girl,4
+Katanagatari,8
+Kaze no Stigma,7
+Kekkai Sensen,9
+Kekkai Sensen & Beyond,8
+Kill la Kill,8
+KimiKiss Pure Rouge,4
+Kiseijuu: Sei no Kakuritsu,8
+Kuuchuu Buranko,6
+Kyokou Suiri,6
+Kyoukai no Kanata,9
+Lovely★Complex,7
+Lucky☆Star,7
+Magi: The Kingdom of Magic,6
+Magi: The Labyrinth of Magic,7
+Mahou Shoujo Ore,5
+Maria†Holic,4
+Mayoi Neko Overrun!,4
+Mermaid Melody Pichi Pichi Pitch,6
+Miira no Kaikata,7
+Mob Psycho 100,10
+Mob Psycho 100 II,10
+Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,7
+Mushishi,10
+Myself; Yourself,4
+Nagasarete Airantou,3
+Nanatsu-iro★Drops,6
+Nazo no Kanojo X,6
+No Game No Life,7
+Noragami,9
+One Punch Man,8
+Onegai☆Twins,3
+Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!,2
+Ore no Imouto ga Konnani Kawaii Wake ga Nai,4
+Ore no Imouto ga Konnani Kawaii Wake ga Nai.,2
+Ore no Kanojo to Osananajimi ga Shuraba Sugiru,6
+Orenchi no Furo Jijou,7
+Ouran Koukou Host Club,9
+Pandora Hearts,7
+Pita Ten,6
+Prince of Stride: Alternative,5
+Princess Tutu,6
+Prism Ark,3
+Psycho-Pass,7
+Pucca,7
+Rec,2
+Sacred Seven,6
+Sankarea,7
+School Days,1
+Seitokai Yakuindomo*,5
+Serial Experiments Lain,7
+Servamp,7
+Seto no Hanayome,6
+Shakugan no Shana,7
+Shin Shirayuki-hime Densetsu Prétear,5
+Shingeki no Kyojin,7
+Shinrei Tantei Yakumo,7
+Sola,5
+Soul Eater,8
+Space☆Dandy,7
+Special A,8
+Spiral: Suiri no Kizuna,9
+Suisei no Gargantia,7
+Super Seisyun Brothers,7
+Suzumiya Haruhi no Yuuutsu,5
+Tasogare Otome x Amnesia,7
+Tengen Toppa Gurren Lagann,9
+Tokyo Mew Mew,9
+Tonagura!,2
+Tonari no Kaibutsu-kun,7
+Tonari no Seki-kun,8
+Toradora!,8
+Trickster: Edogawa Ranpo Shounen Tanteidan yori,5
+True Tears,4
+Tsukuyomi: Moon Phase,6
+Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,6
+World Destruction: Sekai Bokumetsu no Rokunin,6
+Yosuga no Sora: In Solitude Where We Are Least Alone.,2
+Yumekui Merry,6
+Yuri!!! on Ice,7
+Yuru Yuri♪♪,6
+Zankyou no Terror,7
+Zero no Tsukaima,5

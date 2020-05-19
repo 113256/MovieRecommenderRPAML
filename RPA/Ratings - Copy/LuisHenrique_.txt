@@ -1,0 +1,81 @@
+﻿5-toubun no Hanayome,5
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,7
+Babylon,7
+Bakemonogatari,8
+Barakamon,8
+Beastars,9
+Bleach,3
+Boku dake ga Inai Machi,7
+Boku no Hero Academia,6
+Boku no Hero Academia 2nd Season,7
+Boku no Hero Academia 3rd Season,6
+Boku no Hero Academia 4th Season,4
+Bokutachi wa Benkyou ga Dekinai,6
+Bokutachi wa Benkyou ga Dekinai!,6
+Charlotte,4
+Code Geass: Hangyaku no Lelouch,7
+Code Geass: Hangyaku no Lelouch R2,8
+Death Note,7
+Death Parade,7
+Dorohedoro,8
+Dr. Stone,6
+Dragon Ball GT,1
+Dragon Ball Super,4
+Dragon Ball Z,5
+Eizouken ni wa Te wo Dasu na!,8
+Fullmetal Alchemist,6
+Fullmetal Alchemist: Brotherhood,9
+Grand Blue,8
+Gyakkyou Burai Kaiji: Ultimate Survivor,9
+Haikyuu!!,8
+Haikyuu!! Second Season,8
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
+Haikyuu!!: To the Top,8
+Hanamonogatari,6
+Hunter x Hunter (2011),9
+Id:Invaded,7
+Jibaku Shounen Hanako-kun,5
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Kimetsu no Yaiba,7
+Koi to Uso,4
+Kokoro Connect,7
+Kuroko no Basket,8
+Kuroko no Basket 2nd Season,8
+Kuroko no Basket 3rd Season,7
+Made in Abyss,7
+Mob Psycho 100,8
+Mob Psycho 100 II,9
+Monogatari Series: Second Season,9
+Nanatsu no Taizai,4
+Nanatsu no Taizai: Imashime no Fukkatsu,4
+Naruto,7
+Naruto: Shippuuden,4
+Nekomonogatari: Kuro,5
+Neon Genesis Evangelion,10
+Nisemonogatari,6
+Noragami,5
+One Punch Man,9
+One Punch Man 2nd Season,5
+Ore wo Suki nano wa Omae dake ka yo,4
+Owarimonogatari,9
+Owarimonogatari 2nd Season,10
+Psycho-Pass,8
+Psycho-Pass 2,6
+Psycho-Pass 3,8
+Re:Zero kara Hajimeru Isekai Seikatsu,8
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,6
+Shingeki no Kyojin Season 3 Part 2,7
+Steins;Gate,10
+Sword Art Online,5
+Tate no Yuusha no Nariagari,5
+Tokyo Ghoul,7
+Tsuki ga Kirei,7
+Tsukimonogatari,7
+Vinland Saga,8
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,6
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
+Yakusoku no Neverland,8
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),6
+Zankyou no Terror,8

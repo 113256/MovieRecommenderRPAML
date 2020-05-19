@@ -1,0 +1,127 @@
+﻿Ajin,7
+Akame ga Kill!,9
+Aldnoah.Zero,8
+Angel Beats!,7
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
+Another,8
+Ao no Exorcist,8
+Ao no Exorcist: Kyoto Fujouou-hen,7
+Bakemonogatari,9
+Berserk,8
+Black Lagoon,7
+Bleach,8
+Boku no Hero Academia,7
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,9
+Btooom!,8
+Bungou Stray Dogs,8
+Bungou Stray Dogs 2nd Season,8
+Bungou Stray Dogs 3rd Season,8
+Claymore,8
+Darling in the FranXX,9
+Deadman Wonderland,7
+Digimon Adventure,8
+Dororo,9
+Dr. Stone,8
+Dragon Ball,8
+Dragon Ball Z,8
+Drifters,8
+Dumbbell Nan Kilo Moteru?,7
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,7
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,7
+Durarara!!,9
+Durarara!!x2 Ketsu,7
+Durarara!!x2 Shou,8
+Durarara!!x2 Ten,8
+Elfen Lied,8
+Enen no Shouboutai,8
+Ergo Proxy,8
+Fate/stay night: Unlimited Blade Works,8
+Fate/stay night: Unlimited Blade Works 2nd Season,8
+Fate/Zero,9
+Fate/Zero 2nd Season,8
+Fullmetal Alchemist,8
+Fullmetal Alchemist: Brotherhood,9
+God Eater,8
+Hai to Gensou no Grimgar,8
+Haikyuu!!,8
+Haikyuu!! Second Season,9
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
+Hanamonogatari,8
+Hataraku Maou-sama!,9
+Highschool of the Dead,7
+Hinamatsuri,8
+Houseki no Kuni (TV),9
+Hunter x Hunter (2011),9
+Id:Invaded,9
+Isekai Maou to Shoukan Shoujo no Dorei Majutsu,7
+JoJo no Kimyou na Bouken (TV),8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
+K,7
+K: Return of Kings,8
+Kakegurui,9
+Kakegurui××,7
+Kenpuu Denki Berserk,8
+Kill la Kill,9
+Kimetsu no Yaiba,9
+Kono Subarashii Sekai ni Shukufuku wo!,8
+Kono Subarashii Sekai ni Shukufuku wo! 2,8
+Kujira no Kora wa Sajou ni Utau,8
+Kuroko no Basket,8
+Kuroko no Basket 2nd Season,9
+Kuroko no Basket 3rd Season,8
+Little Witch Academia (TV),8
+Made in Abyss,9
+Magi: Sinbad no Bouken (TV),8
+Magi: The Kingdom of Magic,8
+Magi: The Labyrinth of Magic,8
+Megalo Box,8
+Mirai Nikki,8
+Mob Psycho 100,8
+Mob Psycho 100 II,9
+Monogatari Series: Second Season,9
+Nanatsu no Taizai,9
+Nanatsu no Taizai: Imashime no Fukkatsu,8
+Nanatsu no Taizai: Seisen no Shirushi,7
+Naruto,8
+Naruto: Shippuuden,8
+Nekomonogatari: Kuro,8
+Neon Genesis Evangelion,9
+Nisemonogatari,8
+No Game No Life,8
+Noragami,8
+Noragami Aragoto,8
+One Punch Man,8
+Owari no Seraph,8
+Owari no Seraph: Nagoya Kessen-hen,8
+Owarimonogatari,9
+Owarimonogatari 2nd Season,9
+Psycho-Pass,9
+Psycho-Pass 2,8
+Re:Zero kara Hajimeru Isekai Seikatsu,8
+Rokka no Yuusha,8
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
+Shigatsu wa Kimi no Uso,8
+Shingeki no Bahamut: Genesis,7
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,7
+Shingeki no Kyojin Season 3,8
+Sirius,8
+Soul Eater,8
+Sousei no Onmyouji,7
+Suisei no Gargantia,7
+Sword Art Online,8
+Sword Art Online II,8
+Sword Art Online: Alicization,8
+Sword Art Online: Alicization - War of Underworld,8
+Tengen Toppa Gurren Lagann,9
+Tokyo Ghoul,8
+Tokyo Ghoul √A,8
+Tokyo Ghoul:re,7
+Tsukimonogatari,8
+Vinland Saga,9
+Violet Evergarden,9
+Yakusoku no Neverland,9
+Zero no Tsukaima,7

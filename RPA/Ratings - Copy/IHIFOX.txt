@@ -1,0 +1,58 @@
+﻿Accel World,7
+Akame ga Kill!,9
+BanG Dream!,8
+Beastars,10
+Black Bullet,8
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,9
+Boku no Hero Academia 4th Season,6
+Darling in the FranXX,6
+Date A Live,6
+Domestic na Kanojo,8
+Dr. Stone,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,6
+Enen no Shouboutai,9
+Fairy Tail,9
+Flying Witch,6
+Gamers!,7
+IS: Infinite Stratos,8
+IS: Infinite Stratos 2,7
+Isekai Maou to Shoukan Shoujo no Dorei Majutsu,8
+Isekai Quartet,9
+Isekai Quartet 2,8
+JoJo no Kimyou na Bouken (TV),10
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,10
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,10
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,10
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,10
+K,8
+K: Return of Kings,9
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Karakai Jouzu no Takagi-san,8
+Kiseijuu: Sei no Kakuritsu,10
+Kono Subarashii Sekai ni Shukufuku wo!,5
+Naruto,9
+Netoge no Yome wa Onnanoko ja Nai to Omotta?,7
+Noragami Aragoto,10
+One Punch Man,10
+One Punch Man 2nd Season,8
+Ore no Kanojo to Osananajimi ga Shuraba Sugiru,8
+Overlord,8
+Overlord II,6
+Overlord III,7
+Rakudai Kishi no Cavalry,8
+Sakura-sou no Pet na Kanojo,8
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
+Shingeki! Kyojin Chuugakkou,7
+Shokugeki no Souma,8
+Shokugeki no Souma: Ni no Sara,9
+Shokugeki no Souma: San no Sara,10
+Shokugeki no Souma: Shin no Sara,10
+Sword Art Online,7
+Sword Art Online II,7
+Tate no Yuusha no Nariagari,9
+Tensei shitara Slime Datta Ken,10
+Tokyo Ghoul,9
+Trinity Seven,8

@@ -1,0 +1,63 @@
+﻿Afro Samurai,6
+Ajin,6
+Ajin 2nd Season,7
+Akame ga Kill!,7
+Aldnoah.Zero,7
+Aldnoah.Zero 2nd Season,8
+Ani ni Tsukeru Kusuri wa Nai!,9
+Ani ni Tsukeru Kusuri wa Nai! 2,9
+Ansatsu Kyoushitsu,9
+Baka to Test to Shoukanjuu,9
+Baka to Test to Shoukanjuu Ni!,9
+Bakugan Battle Brawlers,5
+Bikini Warriors,7
+Black Lagoon,9
+Black Lagoon: The Second Barrage,9
+Boku dake ga Inai Machi,8
+Boku no Hero Academia,10
+Boku no Hero Academia 2nd Season,10
+Boku no Hero Academia 3rd Season,10
+Darling in the FranXX,9
+Demi-chan wa Kataritai,7
+F-Zero: Falcon Densetsu,3
+Fate/Apocrypha,8
+Fate/stay night: Unlimited Blade Works,8
+Fate/stay night: Unlimited Blade Works 2nd Season,8
+Fate/Zero,8
+Fate/Zero 2nd Season,8
+Hataraku Maou-sama!,8
+Highschool of the Dead,6
+Hisone to Maso-tan,7
+Hoshi no Kirby,6
+JoJo no Kimyou na Bouken (TV),8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,7
+Kill la Kill,9
+Kobayashi-san Chi no Maid Dragon,9
+Kono Subarashii Sekai ni Shukufuku wo!,8
+Little Witch Academia (TV),10
+Magi: Sinbad no Bouken (TV),8
+Magi: The Labyrinth of Magic,8
+Mobile Suit Gundam: Iron-Blooded Orphans,10
+No Game No Life,9
+One Punch Man,9
+One Punch Man 2nd Season,8
+Overlord,9
+Overlord II,9
+Overlord III,10
+Pokemon,6
+Pokemon Advanced Generation,6
+Pokemon Best Wishes!,6
+Pokemon Best Wishes! Season 2,6
+Pokemon Best Wishes! Season 2: Decolora Adventure,6
+Pokemon Best Wishes! Season 2: Episode N,6
+Pokemon Diamond & Pearl,5
+Pokemon Housoukyoku,6
+Poputepipikku,8
+Shingeki no Bahamut: Genesis,9
+Shoujo Shuumatsu Ryokou,9
+Sonic X,4
+Tengen Toppa Gurren Lagann,10
+Violet Evergarden,9
+Zombieland Saga,9

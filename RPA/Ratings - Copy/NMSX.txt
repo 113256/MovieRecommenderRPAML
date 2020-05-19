@@ -1,0 +1,129 @@
+3-gatsu no Lion,8
+3-gatsu no Lion 2nd Season,9
+91 Days,7
+Aho Girl,6
+Aku no Hana,8
+Angel Beats!,8
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
+Another,7
+Ao Haru Ride,8
+Ao no Exorcist,7
+Araburu Kisetsu no Otome-domo yo.,8
+Asobi Asobase,8
+Baccano!,8
+Bakemonogatari,10
+Banana Fish,7
+Barakamon,8
+Blood+,8
+Boku dake ga Inai Machi,9
+Bungou Stray Dogs,7
+C: The Money of Soul and Possibility Control,6
+Canaan,7
+Chuunibyou demo Koi ga Shitai!,7
+Citrus,6
+Clannad,7
+Clannad: After Story,9
+Claymore,7
+Danshi Koukousei no Nichijou,7
+Darling in the FranXX,7
+Deadman Wonderland,6
+Death Note,7
+Death Parade,7
+Drifters,5
+ef: A Tale of Melodies.,8
+ef: A Tale of Memories.,8
+Ergo Proxy,8
+Fate/stay night: Unlimited Blade Works,8
+Fate/stay night: Unlimited Blade Works 2nd Season,8
+Fate/Zero,8
+Fate/Zero 2nd Season,8
+Fullmetal Alchemist: Brotherhood,9
+God Eater,5
+Gosick,7
+Hanamonogatari,8
+Hibike! Euphonium,8
+Hibike! Euphonium 2,10
+Highschool of the Dead,5
+Himouto! Umaru-chan,6
+Hinamatsuri,8
+IS: Infinite Stratos,6
+Itsudatte Bokura no Koi wa 10 cm Datta.,7
+Just Because!,7
+Juuni Taisen,6
+K-On!,8
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Karakai Jouzu no Takagi-san,7
+Katanagatari,9
+Kill la Kill,8
+Kimetsu no Yaiba,8
+Kiseijuu: Sei no Kakuritsu,8
+Koi to Uso,5
+Koi wa Ameagari no You ni,7
+Kokoro Connect,8
+Kuzu no Honkai,6
+Kyoukai no Kanata,6
+Made in Abyss,9
+Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV),7
+Mahou Shoujo Madoka★Magica,8
+Mahoutsukai no Yome,7
+Mawaru Penguindrum,8
+Megalo Box,8
+Mirai Nikki,6
+Monogatari Series: Second Season,9
+Nanatsu no Taizai,7
+Nanatsu no Taizai: Imashime no Fukkatsu,7
+Nanatsu no Taizai: Seisen no Shirushi,7
+Nekomonogatari: Kuro,8
+Neon Genesis Evangelion,9
+Netsuzou TRap,5
+NHK ni Youkoso!,8
+Nisemonogatari,8
+No Game No Life,5
+Nodame Cantabile,9
+Nodame Cantabile: Finale,8
+Nodame Cantabile: Paris-hen,8
+Ookami to Koushinryou,8
+Ookami to Koushinryou II,8
+Owarimonogatari,9
+Owarimonogatari 2nd Season,10
+Plastic Memories,8
+Rainbow: Nisha Rokubou no Shichinin,9
+Re:Zero kara Hajimeru Isekai Seikatsu,6
+ReLIFE,8
+Sakamichi no Apollon,7
+Sakura-sou no Pet na Kanojo,7
+Saraiya Goyou,7
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
+Shigatsu wa Kimi no Uso,9
+Shingeki no Kyojin,7
+Shingeki no Kyojin Season 2,7
+Shingeki no Kyojin Season 3,9
+Shingeki no Kyojin Season 3 Part 2,9
+Shinsekai yori,8
+Shoujo Shuumatsu Ryokou,8
+Shoujo☆Kageki Revue Starlight,7
+Shouwa Genroku Rakugo Shinjuu,9
+Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,9
+Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,7
+Sora yori mo Tooi Basho,8
+Soul Eater,8
+Steins;Gate,10
+Steins;Gate 0,10
+Sword Art Online,6
+Tate no Yuusha no Nariagari,6
+Tokyo Ghoul,6
+Tokyo Magnitude 8.0,8
+Tsuki ga Kirei,9
+Tsukimonogatari,9
+Tsurezure Children,8
+Uchouten Kazoku,8
+Uchouten Kazoku 2,9
+Usagi Drop,9
+Violet Evergarden,9
+White Album 2,8
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
+Yakusoku no Neverland,8
+Yosuga no Sora: In Solitude Where We Are Least Alone.,5
+Zankyou no Terror,8
+Zetsuen no Tempest,8

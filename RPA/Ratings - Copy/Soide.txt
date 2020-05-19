@@ -1,0 +1,65 @@
+009-1,6
+Another,9
+Baka to Test to Shoukanjuu,7
+Baka to Test to Shoukanjuu Ni!,7
+Banana Fish,10
+Black★Rock Shooter (TV),8
+Carole & Tuesday,9
+Clockwork Planet,7
+Cowboy Bebop,10
+Death Note,7
+Dr. Stone,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,10
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,10
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,8
+Free!,8
+Free!: Eternal Summer,8
+Gate: Jieitai Kanochi nite Kaku Tatakaeri,9
+Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,9
+Hai to Gensou no Grimgar,9
+Hanebado!,9
+Himouto! Umaru-chan,8
+JoJo no Kimyou na Bouken (TV),10
+Junjou Romantica,9
+Junjou Romantica 2,9
+Junjou Romantica 3,9
+Kämpfer,7
+Keijo!!!!!!!!,8
+Kill la Kill,7
+Kimetsu no Yaiba,9
+Kobayashi-san Chi no Maid Dragon,7
+Kore wa Zombie Desu ka?,10
+Kore wa Zombie Desu ka? of the Dead,9
+Love Stage!!,10
+Loveless,8
+Madan no Ou to Vanadis,10
+Mahou Shoujo Madoka★Magica,7
+Nanatsu no Taizai,10
+Nanatsu no Taizai: Imashime no Fukkatsu,9
+Nanatsu no Taizai: Seisen no Shirushi,9
+No Game No Life,8
+No.6,9
+One Punch Man,10
+One Punch Man 2nd Season,10
+Ookami to Koushinryou,9
+Ookami to Koushinryou II,9
+RoboMasters the Animated Series,7
+Robotics;Notes,7
+Ryuuou no Oshigoto!,7
+Sekaiichi Hatsukoi,8
+Sekaiichi Hatsukoi 2,8
+Shokugeki no Souma,9
+Shokugeki no Souma: Ni no Sara,9
+Shokugeki no Souma: San no Sara,8
+Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,10
+Shokugeki no Souma: Shin no Sara,8
+Steins;Gate,10
+Sword Art Online,9
+Sword Art Online Alternative: Gun Gale Online,8
+Sword Art Online II,9
+Sword Art Online: Alicization,10
+Sword Art Online: Alicization - War of Underworld,10
+Tales of Zestiria the Cross,9
+Tales of Zestiria the Cross 2nd Season,9
+Wotaku ni Koi wa Muzukashii,9
+Zero kara Hajimeru Mahou no Sho,9

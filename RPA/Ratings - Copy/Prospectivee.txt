@@ -1,0 +1,162 @@
+3-gatsu no Lion,9
+Ajin,6
+Akame ga Kill!,6
+Akatsuki no Yona,7
+Aldnoah.Zero,6
+Aldnoah.Zero 2nd Season,4
+Amagi Brilliant Park,7
+Angel Beats!,7
+Another,-
+Ansatsu Kyoushitsu,8
+Ansatsu Kyoushitsu 2nd Season,9
+Ao no Exorcist,7
+Asobi Asobase,7
+Bakugan Battle Brawlers,4
+Bakuman.,7
+Bakuman. 2nd Season,8
+Bakuman. 3rd Season,8
+Barakamon,8
+Beastars,-
+Black Bullet,4
+Blade & Soul,3
+Boku dake ga Inai Machi,8
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,9
+Boku no Hero Academia 3rd Season,8
+Boku no Hero Academia 4th Season,7
+Charlotte,6
+Code Geass: Hangyaku no Lelouch,9
+Code Geass: Hangyaku no Lelouch R2,10
+Cross Game,8
+D-Frag!,7
+Danna ga Nani wo Itteiru ka Wakaranai Ken,6
+Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me,6
+Danshi Koukousei no Nichijou,8
+Darling in the FranXX,5
+Digimon Savers,5
+Dorohedoro,8
+Dororo,8
+Dr. Stone,8
+Dragon Ball Super,7
+Dragon Ball Z,8
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,5
+Eyeshield 21,7
+Fairy Tail,6
+Fate/kaleid liner Prisma☆Illya,5
+Fate/stay night: Unlimited Blade Works,8
+Fate/stay night: Unlimited Blade Works 2nd Season,8
+Fullmetal Alchemist: Brotherhood,10
+Gangsta.,5
+Gekkan Shoujo Nozaki-kun,8
+Gin no Saji,8
+Gin no Saji 2nd Season,8
+Gokukoku no Brynhildr,4
+Hai to Gensou no Grimgar,5
+Haikyuu!!,8
+Haikyuu!! Second Season,10
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
+Hataraku Maou-sama!,7
+High School DxD,6
+High School DxD BorN,6
+High School DxD New,6
+Highschool of the Dead,6
+Higurashi no Naku Koro ni,7
+Hinamatsuri,8
+Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,8
+Hunter x Hunter (2011),10
+Inuyashiki,7
+JoJo no Kimyou na Bouken (TV),7
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,7
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
+K,-
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,-
+Kami nomi zo Shiru Sekai,7
+Kami nomi zo Shiru Sekai II,7
+Kami nomi zo Shiru Sekai: Megami-hen,8
+Katekyo Hitman Reborn!,8
+Kaze ga Tsuyoku Fuiteiru,8
+Kill la Kill,8
+Kimetsu no Yaiba,9
+Kimi ni Todoke,7
+Kiseijuu: Sei no Kakuritsu,8
+Kishuku Gakkou no Juliet,7
+Kiznaiver,6
+Kokoro Connect,7
+Kono Subarashii Sekai ni Shukufuku wo!,8
+Kono Subarashii Sekai ni Shukufuku wo! 2,8
+Koutetsujou no Kabaneri,6
+Kuroko no Basket,7
+Kuroko no Basket 2nd Season,8
+Kuroko no Basket 3rd Season,8
+Kuzu no Honkai,7
+Kyoukai no Kanata,6
+Log Horizon,8
+Made in Abyss,9
+Magi: The Kingdom of Magic,8
+Magi: The Labyrinth of Magic,8
+Mahou Sensou,3
+Mahou Shoujo Madoka★Magica,8
+Megalo Box,7
+Mekakucity Actors,4
+Mirai Nikki,5
+Mob Psycho 100,9
+Mob Psycho 100 II,10
+Nanatsu no Taizai,7
+Naruto,7
+Naruto: Shippuuden,6
+Neon Genesis Evangelion,7
+NHK ni Youkoso!,8
+Nisekoi,7
+Nisekoi:,6
+No Game No Life,7
+Noragami,8
+One Punch Man,9
+Ore no Imouto ga Konnani Kawaii Wake ga Nai,5
+Ore no Imouto ga Konnani Kawaii Wake ga Nai.,4
+Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,6
+Ore wo Suki nano wa Omae dake ka yo,6
+Overlord,8
+Overlord II,7
+Overlord III,7
+Prison School,6
+Psycho-Pass,9
+Pupa,1
+Re:Zero kara Hajimeru Isekai Seikatsu,8
+ReLIFE,9
+Saenai Heroine no Sodatekata,5
+Saiki Kusuo no Ψ-nan,9
+Saiki Kusuo no Ψ-nan 2,9
+Sakura-sou no Pet na Kanojo,6
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
+Shigatsu wa Kimi no Uso,9
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,5
+Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,7
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,8
+Shingeki no Kyojin Season 3,9
+Shingeki no Kyojin Season 3 Part 2,10
+Shinsekai yori,9
+Shirobako,8
+Shokugeki no Souma,9
+Soul Eater,7
+Steins;Gate,10
+Steins;Gate 0,8
+Strike the Blood,5
+Suzumiya Haruhi no Yuuutsu,7
+Suzumiya Haruhi no Yuuutsu (2009),6
+Sword Art Online,6
+Tengen Toppa Gurren Lagann,9
+Tensei shitara Slime Datta Ken,7
+Tokyo Ghoul,7
+Toradora!,8
+Trinity Seven,6
+Tsuki ga Kirei,8
+Violet Evergarden,8
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
+Yamada-kun to 7-nin no Majo (TV),-
+Youjo Senki,8
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),7
+Yowamushi Pedal,7

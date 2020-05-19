@@ -1,0 +1,45 @@
+﻿Ajin,8
+Ajin 2nd Season,8
+Akame ga Kill!,8
+Another,8
+Boku dake ga Inai Machi,8
+Cowboy Bebop,8
+Death Note,7
+Dororo,9
+Drifters,7
+Fullmetal Alchemist: Brotherhood,10
+Gamers!,5
+Gangsta.,6
+Goblin Slayer,8
+Hunter x Hunter (2011),9
+Initial D Fifth Stage,9
+Initial D Final Stage,9
+Initial D First Stage,9
+Initial D Fourth Stage,9
+Initial D Second Stage,8
+Kenpuu Denki Berserk,8
+Kimetsu no Yaiba,10
+Kiseijuu: Sei no Kakuritsu,9
+Made in Abyss,8
+Mirai Nikki,8
+Mob Psycho 100,8
+Mob Psycho 100 II,9
+Nanatsu no Taizai,7
+Nanatsu no Taizai: Seisen no Shirushi,6
+Nande Koko ni Sensei ga!?,4
+Naruto: Shippuuden,9
+One Punch Man,9
+One Punch Man 2nd Season,9
+Re:Zero kara Hajimeru Isekai Seikatsu,8
+Samurai Champloo,9
+Shigurui,7
+Shingeki no Kyojin,9
+Shingeki no Kyojin Season 2,8
+Shingeki no Kyojin Season 3,9
+Shingeki no Kyojin Season 3 Part 2,9
+Tokyo Ghoul,8
+Tokyo Ghoul √A,8
+Tokyo Ghoul:re,6
+Tokyo Ghoul:re 2nd Season,6
+Yakusoku no Neverland,9
+Yuragi-sou no Yuuna-san,6

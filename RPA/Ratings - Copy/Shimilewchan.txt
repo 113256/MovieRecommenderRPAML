@@ -1,0 +1,39 @@
+﻿Aho Girl,9
+Another,8
+Astro Boy: Tetsuwan Atom,7
+Banana Fish,8
+Blend S,7
+Conception,3
+Death Note,7
+Death Parade,8
+Dororo,10
+Fairy Tail,8
+Fairy Tail (2014),8
+Goblin Slayer,7
+Happy Sugar Life,10
+Highschool of the Dead,5
+Kimetsu no Yaiba,7
+Kiss x Sis (TV),4
+Kyoukai no Kanata,7
+Mahou Shoujo Site,7
+Mononoke,10
+Naruto,10
+One Punch Man,7
+One Punch Man 2nd Season,5
+One Room,2
+Radiant,8
+Radiant 2nd Season,9
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,5
+Sewayaki Kitsune no Senko-san,9
+Shiki,8
+Shingeki no Kyojin,9
+Shokugeki no Souma: San no Sara,8
+Somali to Mori no Kamisama,10
+Steins;Gate,6
+Sword Art Online,5
+Sword Art Online II,2
+Tonari no Kaibutsu-kun,8
+Vampire Knight,10
+Wotaku ni Koi wa Muzukashii,8
+Yakusoku no Neverland,9
+Zombieland Saga,6

@@ -1,0 +1,83 @@
+5-toubun no Hanayome,8
+Aho Girl,6
+Angel Beats!,6
+Another,6
+Ansatsu Kyoushitsu,9
+Ansatsu Kyoushitsu 2nd Season,9
+Boku no Hero Academia,10
+Boku no Hero Academia 2nd Season,10
+Boku no Hero Academia 3rd Season,10
+Boku no Hero Academia 4th Season,9
+Charlotte,7
+Citrus,4
+Danshi Koukousei no Nichijou,9
+Death Note,9
+Dr. Stone,9
+Dragon Ball,7
+Dragon Ball Super,7
+Dragon Ball Z,7
+Elfen Lied,7
+Golden Time,7
+Grand Blue,8
+High School DxD,8
+High School DxD BorN,8
+High School DxD Hero,7
+High School DxD New,7
+Highschool of the Dead,6
+Hunter x Hunter (2011),8
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
+Kaichou wa Maid-sama!,10
+Karakai Jouzu no Takagi-san,7
+Karakai Jouzu no Takagi-san 2,9
+Kimetsu no Yaiba,8
+Kodai Ouja Kyouryuu King,5
+Kokoro Connect,6
+Kono Subarashii Sekai ni Shukufuku wo!,8
+Kono Subarashii Sekai ni Shukufuku wo! 2,9
+Masamune-kun no Revenge,7
+Mob Psycho 100,8
+Mob Psycho 100 II,9
+Nande Koko ni Sensei ga!?,6
+Naruto,8
+Naruto: Shippuuden,9
+Nisekoi,9
+Nisekoi:,9
+One Punch Man,8
+One Punch Man 2nd Season,8
+Ore no Kanojo to Osananajimi ga Shuraba Sugiru,7
+Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,3
+Pokemon,7
+Prison School,8
+Re:Zero kara Hajimeru Isekai Seikatsu,9
+ReLIFE,7
+Saiki Kusuo no Ψ-nan,7
+Sakura-sou no Pet na Kanojo,8
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
+Shigatsu wa Kimi no Uso,9
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,6
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,9
+Shingeki no Kyojin Season 3 Part 2,8
+Shokugeki no Souma,8
+Shokugeki no Souma: Ni no Sara,9
+Shokugeki no Souma: San no Sara,8
+Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,8
+Shokugeki no Souma: Shin no Sara,7
+Steins;Gate,8
+Sword Art Online,7
+Sword Art Online II,6
+Sword Art Online: Alicization,7
+Tokyo Ghoul,8
+Tokyo Ghoul √A,6
+Tokyo Ghoul:re,5
+Tokyo Ghoul:re 2nd Season,5
+Tonari no Seki-kun,7
+Trinity Seven,5
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,10
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,10
+Yakusoku no Neverland,8
+Yamada-kun to 7-nin no Majo (TV),7
+Yosuga no Sora: In Solitude Where We Are Least Alone.,1
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),8
+Yuragi-sou no Yuuna-san,7

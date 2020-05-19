@@ -1,0 +1,69 @@
+﻿Afro Samurai,6
+Aku no Hana,7
+Another,4
+Aoi Bungaku Series,8
+Baccano!,8
+Bakemonogatari,8
+Bakuman. 3rd Season,7
+Black Cat,6
+Boku dake ga Inai Machi,7
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,8
+Code Geass: Hangyaku no Lelouch,8
+Code Geass: Hangyaku no Lelouch R2,9
+Cowboy Bebop,8
+Death Note,8
+Death Parade,8
+Dragon Ball Super,6
+Dragon Ball Z,7
+Fullmetal Alchemist: Brotherhood,9
+Gankutsuou,7
+Gintama°,8
+Gyakkyou Burai Kaiji: Hakairoku-hen,10
+Gyakkyou Burai Kaiji: Ultimate Survivor,10
+Hanamonogatari,8
+Hunter x Hunter (2011),9
+Hyouka,7
+JoJo no Kimyou na Bouken (TV),7
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Kakegurui,7
+Kenpuu Denki Berserk,8
+Kimetsu no Yaiba,7
+Kiznaiver,5
+Kono Subarashii Sekai ni Shukufuku wo!,8
+Kono Subarashii Sekai ni Shukufuku wo! 2,8
+Kuroshitsuji,6
+Kuroshitsuji: Book of Circus,7
+Monogatari Series: Second Season,9
+Monster,9
+Mushishi,8
+Mushishi Zoku Shou,8
+Mushishi Zoku Shou 2nd Season,9
+Nana,8
+Naruto,8
+Naruto: Shippuuden,7
+Nekomonogatari: Kuro,8
+Neon Genesis Evangelion,7
+Nisemonogatari,8
+Owarimonogatari,9
+Owarimonogatari 2nd Season,9
+Phantom: Requiem for the Phantom,7
+Prison School,7
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,7
+Serial Experiments Lain,9
+Shigatsu wa Kimi no Uso,6
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 3 Part 2,9
+Slam Dunk,-
+Steins;Gate,9
+Tokyo Ghoul,6
+Tsukimonogatari,7
+Vinland Saga,8
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,10
+Yakusoku no Neverland,7
+Yu☆Gi☆Oh! Duel Monsters,6
+Zankyou no Terror,8

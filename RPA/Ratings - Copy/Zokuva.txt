@@ -1,0 +1,121 @@
+91 Days,7
+Ajin,7
+Ajin 2nd Season,7
+Akame ga Kill!,6
+Angel Beats!,7
+Another,6
+Ansatsu Kyoushitsu,8
+Ansatsu Kyoushitsu 2nd Season,8
+Ao no Exorcist,7
+Ao no Exorcist: Kyoto Fujouou-hen,7
+Bakemonogatari,8
+Black★Rock Shooter (TV),6
+Boku dake ga Inai Machi,6
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,8
+Charlotte,6
+Choujigen Game Neptune The Animation,6
+Code Geass: Hangyaku no Lelouch,9
+Code Geass: Hangyaku no Lelouch R2,10
+Danna ga Nani wo Itteiru ka Wakaranai Ken,6
+Deadman Wonderland,6
+Death Note,8
+Death Parade,8
+Digimon Adventure,7
+Digimon Adventure 02,7
+Digimon Tamers,7
+Dororo,8
+Dr. Stone,8
+Dragon Ball,5
+Dragon Ball GT,5
+Dragon Ball Z,5
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,5
+Enen no Shouboutai,7
+Fate/kaleid liner Prisma☆Illya,7
+Fate/kaleid liner Prisma☆Illya 2wei Herz!,6
+Fate/kaleid liner Prisma☆Illya 2wei!,7
+Fate/kaleid liner Prisma☆Illya 3rei!!,8
+Fate/stay night: Unlimited Blade Works,8
+Fate/stay night: Unlimited Blade Works 2nd Season,8
+Fate/Zero 2nd Season,10
+Fullmetal Alchemist,7
+Fullmetal Alchemist: Brotherhood,9
+Gabriel DropOut,6
+Gate: Jieitai Kanochi nite Kaku Tatakaeri,7
+Goblin Slayer,7
+Guilty Crown,5
+Hanamonogatari,8
+Himouto! Umaru-chan,6
+Inuyashiki,7
+JoJo no Kimyou na Bouken (TV),7
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,7
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,7
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Kekkai Sensen,7
+Kimetsu no Yaiba,8
+Kiseijuu: Sei no Kakuritsu,8
+Kobayashi-san Chi no Maid Dragon,7
+Kono Subarashii Sekai ni Shukufuku wo!,8
+Kono Subarashii Sekai ni Shukufuku wo! 2,8
+Koutetsujou no Kabaneri,5
+Log Horizon,7
+Log Horizon 2nd Season,7
+Made in Abyss,9
+Mahou Shoujo Ikusei Keikaku,6
+Mahou Shoujo Madoka★Magica,9
+Mahouka Koukou no Rettousei,5
+Mekakucity Actors,6
+Mirai Nikki,7
+Mob Psycho 100,8
+Mob Psycho 100 II,9
+Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,6
+Monogatari Series: Second Season,9
+Nanatsu no Taizai,7
+Nanatsu no Taizai: Imashime no Fukkatsu,8
+Nanatsu no Taizai: Seisen no Shirushi,-
+Naruto,6
+Nekomonogatari: Kuro,8
+Neon Genesis Evangelion,9
+Nichijou,8
+Nisemonogatari,7
+No Game No Life,7
+One Punch Man,8
+Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,6
+Overlord,7
+Owari no Seraph,7
+Owari no Seraph: Nagoya Kessen-hen,7
+Owarimonogatari,8
+Owarimonogatari 2nd Season,8
+Poputepipikku,7
+Psycho-Pass,10
+Psycho-Pass 2,6
+Re:Zero kara Hajimeru Isekai Seikatsu,8
+Rokka no Yuusha,8
+Saenai Heroine no Sodatekata,6
+Satsuriku no Tenshi,6
+Seirei no Moribito,-
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,7
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,8
+Shingeki no Kyojin Season 3,8
+Shingeki no Kyojin Season 3 Part 2,9
+Steins;Gate,10
+Steins;Gate 0,10
+Sword Art Online,3
+Sword Art Online II,3
+Sword Art Online: Alicization,6
+Sword Art Online: Alicization - War of Underworld,6
+Tate no Yuusha no Nariagari,8
+Tengen Toppa Gurren Lagann,8
+Tokyo Ghoul,4
+Tokyo Ghoul √A,3
+Tokyo Ghoul:re,5
+Tokyo Ghoul:re 2nd Season,1
+Tsukimonogatari,8
+Vinland Saga,9
+Yakusoku no Neverland,9
+Youjo Senki,8
+Zankyou no Terror,7

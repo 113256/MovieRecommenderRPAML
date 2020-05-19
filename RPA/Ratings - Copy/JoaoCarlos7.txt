@@ -1,0 +1,40 @@
+﻿Boku no Hero Academia,6
+Boku no Hero Academia 2nd Season,7
+Boku no Hero Academia 3rd Season,6
+Boku no Hero Academia 4th Season,6
+Code Geass: Hangyaku no Lelouch,9
+Code Geass: Hangyaku no Lelouch R2,9
+Death Note,9
+Death Parade,7
+Dragon Ball,5
+Dragon Ball Super,3
+Dragon Ball Z,6
+Fate/Zero,10
+Fate/Zero 2nd Season,10
+Fullmetal Alchemist: Brotherhood,8
+Hunter x Hunter (2011),10
+Inazuma Eleven,4
+Inazuma Eleven Go,4
+Inazuma Eleven Go: Chrono Stone,3
+JoJo no Kimyou na Bouken (TV),8
+Kimetsu no Yaiba,8
+Made in Abyss,8
+Mahou Shoujo Madoka★Magica,6
+Mob Psycho 100,8
+Mob Psycho 100 II,9
+Nanatsu no Taizai,6
+Nanatsu no Taizai: Imashime no Fukkatsu,6
+Naruto,6
+No Game No Life,7
+Noragami,5
+One Punch Man,9
+One Punch Man 2nd Season,8
+Re:Zero kara Hajimeru Isekai Seikatsu,6
+Shingeki no Kyojin,7
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,10
+Shingeki no Kyojin Season 3 Part 2,10
+Steins;Gate,9
+Tokyo Ghoul,5
+Vinland Saga,9
+Youjo Senki,7

@@ -1,0 +1,48 @@
+﻿Amnesia,7
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,10
+Another,8
+Blend S,6
+Blood-C,6
+Boku dake ga Inai Machi,9
+Dance with Devils,7
+Death Note,8
+Death Parade,10
+Devils Line,7
+Elfen Lied,7
+Evil or Live,6
+Gakkougurashi!,10
+God Eater,8
+Haibane Renmei,10
+Happy Sugar Life,10
+Higashi no Eden,10
+Higurashi no Naku Koro ni,7
+Itou Junji: Collection,5
+Jigoku Shoujo,8
+Jigoku Shoujo Futakomori,8
+Jigoku Shoujo Mitsuganae,8
+Jigoku Shoujo: Yoi no Togi,8
+Jinrui wa Suitai Shimashita,9
+Mahou Shoujo Madoka★Magica,9
+Mayoiga,7
+Moetan,8
+Monster,10
+Nagato Yuki-chan no Shoushitsu,7
+No.6,8
+One Punch Man,9
+Orange,10
+Psycho-Pass,9
+Psycho-Pass 2,9
+Pupa,3
+ReLIFE,9
+School Days,4
+Senki Zesshou Symphogear,6
+Serial Experiments Lain,9
+Skip Beat!,8
+Soul Eater,9
+Sukitte Ii na yo.,9
+Suzumiya Haruhi no Yuuutsu,7
+Tokyo Ghoul,9
+Toradora!,9
+Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,10
+Yuri!!! on Ice,8
+Zankyou no Terror,9

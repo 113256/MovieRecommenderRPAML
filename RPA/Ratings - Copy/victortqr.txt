@@ -1,0 +1,148 @@
+11eyes,7
+Absolute Duo,8
+Air,6
+Akame ga Kill!,9
+Akatsuki no Yona,9
+Ano Natsu de Matteru,9
+Another,9
+Ao no Exorcist,10
+Ao no Exorcist: Kyoto Fujouou-hen,7
+Arslan Senki (TV),10
+Bakemonogatari,9
+Ben-To,8
+Black Bullet,9
+Bleach,9
+Blood Lad,8
+Boku no Hero Academia,9
+Boku no Hero Academia 2nd Season,9
+Boku no Hero Academia 3rd Season,9
+Boku wa Tomodachi ga Sukunai,8
+Btooom!,9
+ChäoS;HEAd,8
+Code:Breaker,7
+Cross Ange: Tenshi to Ryuu no Rondo,10
+Dakara Boku wa H ga Dekinai.,9
+Danna ga Nani wo Itteiru ka Wakaranai Ken,8
+Darling in the FranXX,8
+Date A Live,8
+Date A Live II,8
+Death Note,9
+Densetsu no Yuusha no Densetsu,8
+Dr. Stone,9
+Dragon Ball,9
+Dragon Ball Z,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,10
+Elfen Lied,8
+Freezing,9
+Freezing Vibration,9
+Gate: Jieitai Kanochi nite Kaku Tatakaeri,9
+Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,8
+God Eater,9
+Gokukoku no Brynhildr,10
+Grisaia no Kajitsu,7
+Grisaia no Rakuen,8
+Guilty Crown,10
+Hagure Yuusha no Aesthetica,6
+Hai to Gensou no Grimgar,9
+Hamatora The Animation,7
+Hataraku Maou-sama!,9
+High School DxD,10
+High School DxD BorN,10
+High School DxD Hero,9
+High School DxD New,10
+Highschool of the Dead,10
+Hyakka Ryouran: Samurai Bride,6
+Hyakka Ryouran: Samurai Girls,6
+Ichiban Ushiro no Daimaou,10
+Ichigo 100%,6
+Inu to Hasami wa Tsukaiyou,8
+IS: Infinite Stratos,9
+Isekai Maou to Shoukan Shoujo no Dorei Majutsu,6
+Junketsu no Maria,8
+K,9
+Kämpfer,8
+Kenja no Mago,6
+Killing Bites,9
+Kishin Houkou Demonbane (TV),6
+Kiss x Sis (TV),9
+Koutetsujou no Kabaneri,8
+Kyoukai no Kanata,8
+Kyoukaisenjou no Horizon,7
+Ladies versus Butlers!,9
+Madan no Ou to Vanadis,8
+Mahouka Koukou no Rettousei,8
+Maken-Ki!,8
+Mangaka-san to Assistant-san to The Animation,10
+Maoyuu Maou Yuusha,9
+Masou Gakuen HxH,7
+Medaka Box,8
+Medaka Box Abnormal,8
+Mirai Nikki,10
+MM!,8
+Mob Psycho 100 II,8
+Monogatari Series: Second Season,9
+Motto To LOVE-Ru,7
+Nanatsu no Taizai,8
+Nanatsu no Taizai: Imashime no Fukkatsu,9
+Naruto,10
+Naruto: Shippuuden,10
+Nekomonogatari: Kuro,8
+Nisekoi,8
+Nisemonogatari,9
+Noragami,9
+Noragami Aragoto,9
+Nyan Koi!,7
+One Punch Man,10
+One Punch Man 2nd Season,8
+Ore no Imouto ga Konnani Kawaii Wake ga Nai,7
+Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,10
+Overlord,8
+Overlord II,8
+Overlord III,9
+Owari no Seraph,8
+Owari no Seraph: Nagoya Kessen-hen,9
+Princess Lover!,8
+Prison School,10
+Rail Wars!,8
+Rakudai Kishi no Cavalry,9
+Re:Zero kara Hajimeru Isekai Seikatsu,10
+Rosario to Vampire,8
+Sankarea,7
+School Days,10
+Seiken Tsukai no World Break,7
+Seikon no Qwaser,7
+Seikon no Qwaser II,8
+Seireitsukai no Blade Dance,6
+Seitokai Yakuindomo,8
+Seitokai Yakuindomo*,8
+Shingeki no Bahamut: Genesis,8
+Shingeki no Kyojin,10
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,9
+Shingeki no Kyojin Season 3 Part 2,10
+Shinmai Maou no Testament,8
+Shokugeki no Souma,10
+Shuffle!,6
+Sora no Otoshimono,10
+Sora no Otoshimono: Forte,10
+Suisei no Gargantia,8
+Sword Art Online,9
+Sword Art Online II,7
+Sword Art Online: Alicization,-
+Tensei shitara Slime Datta Ken,8
+To LOVE-Ru,6
+Toaru Hikuushi e no Koiuta,8
+Toaru Majutsu no Index,6
+Tokyo Ghoul,9
+Tokyo Ghoul √A,7
+Tokyo Ghoul:re,7
+Triage X,8
+Trinity Seven,8
+Vinland Saga,9
+Yamada-kun to 7-nin no Majo (TV),10
+Yosuga no Sora: In Solitude Where We Are Least Alone.,8
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),8
+Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.,7
+Zero no Tsukaima,8
+Zetsuen no Tempest,9
+Zettai Karen Children: The Unlimited - Hyoubu Kyousuke,7

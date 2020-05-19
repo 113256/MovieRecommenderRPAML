@@ -1,0 +1,51 @@
+﻿Another,7
+Ansatsu Kyoushitsu,10
+Ansatsu Kyoushitsu 2nd Season,10
+Asobi Asobase,10
+Boku no Hero Academia,10
+Boku no Hero Academia 2nd Season,10
+Boku no Hero Academia 3rd Season,10
+Boku no Hero Academia 4th Season,10
+Bungou Stray Dogs,10
+Bungou Stray Dogs 2nd Season,10
+Bungou Stray Dogs 3rd Season,10
+Charlotte,9
+Dr. Stone,10
+Fairy Tail,10
+Fairy Tail (2014),10
+Fairy Tail: Final Series,10
+Free!,9
+Free!: Eternal Summer,9
+Fruits Basket 1st Season,10
+Gakuen Babysitters,10
+Given,10
+Haikyuu!!,10
+Haikyuu!! Second Season,10
+Haikyuu!!: To the Top,10
+Hataraku Saibou (TV),10
+Jibaku Shounen Hanako-kun,10
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,10
+Kaichou wa Maid-sama!,10
+Kakegurui,8
+Kimetsu no Yaiba,10
+Kyoukai no Kanata,8
+Magic-Kyun! Renaissance,10
+Mob Psycho 100,10
+Mob Psycho 100 II,10
+Nanatsu no Taizai,10
+Nanatsu no Taizai: Imashime no Fukkatsu,10
+No Game No Life,10
+Noragami,10
+Noragami Aragoto,10
+ReLIFE,10
+Saiki Kusuo no Ψ-nan,10
+Sakamoto Desu ga?,9
+Satsuriku no Tenshi,7
+Sword Art Online,9
+Sword Art Online II,9
+Tonari no Kaibutsu-kun,7
+Violet Evergarden,10
+Watashi ga Motete Dousunda,7
+Wotaku ni Koi wa Muzukashii,8
+Yakusoku no Neverland,9
+Yuri!!! on Ice,10

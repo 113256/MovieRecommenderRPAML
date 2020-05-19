@@ -1,0 +1,108 @@
+﻿3-gatsu no Lion,7
+5-toubun no Hanayome,8
+91 Days,6
+Absolute Duo,2
+Angel Beats!,5
+Ansatsu Kyoushitsu,8
+Ansatsu Kyoushitsu 2nd Season,6
+Ao no Exorcist,4
+Baby Steps,3
+Baby Steps 2nd Season,1
+Bleach,1
+Boku no Hero Academia,6
+Boku no Hero Academia 2nd Season,6
+Boku no Hero Academia 3rd Season,4
+Boku no Hero Academia 4th Season,5
+Btooom!,3
+Busou Shoujo Machiavellianism,2
+Charlotte,5
+Chrome Shelled Regios,1
+Code Geass: Hangyaku no Lelouch,8
+Code Geass: Hangyaku no Lelouch R2,9
+Death Note,7
+Domestic na Kanojo,2
+Dr. Stone,6
+Dragon Ball,7
+Dragon Ball Super,3
+Dragon Ball Z,7
+Fate/Extra: Last Encore,3
+Free!,4
+Free!: Eternal Summer,5
+Fukumenkei Noise,9
+Fuuka,1
+Gamers!,2
+Gintama,5
+Grisaia no Kajitsu,4
+Haikyuu!!,8
+Haikyuu!! Second Season,9
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
+Haikyuu!!: To the Top,3
+Highschool of the Dead,1
+Hoshiai no Sora,6
+Hunter x Hunter (2011),8
+Id:Invaded,5
+Inazuma Eleven,-
+Inazuma Eleven Go,-
+Inazuma Eleven Go: Chrono Stone,-
+Inazuma Eleven Go: Galaxy,-
+Isekai wa Smartphone to Tomo ni.,1
+Kami nomi zo Shiru Sekai,7
+Kami nomi zo Shiru Sekai II,7
+Kami nomi zo Shiru Sekai: Megami-hen,4
+Karakai Jouzu no Takagi-san,2
+Keppeki Danshi! Aoyama-kun,3
+Kuroko no Basket,5
+Kuroko no Basket 2nd Season,7
+Kuroko no Basket 3rd Season,6
+Kuzu no Honkai,4
+Masamune-kun no Revenge,4
+Mashiro-iro Symphony: The Color of Lovers,5
+Mayoi Neko Overrun!,2
+Murenase! Seton Gakuen,4
+Nanatsu no Taizai,2
+Naruto,6
+Naruto: Shippuuden,2
+Nisekoi,7
+Nisekoi:,5
+Noragami,7
+Noragami Aragoto,7
+One Punch Man,6
+One Room,1
+Owari no Seraph,7
+Owari no Seraph: Nagoya Kessen-hen,4
+Pokemon XY,5
+Pokemon XY&Z,6
+Re:Zero kara Hajimeru Isekai Seikatsu,7
+ReLIFE,6
+Rurouni Kenshin: Meiji Kenkaku Romantan,4
+Saenai Heroine no Sodatekata,3
+Saenai Heroine no Sodatekata ♭,3
+Saijaku Muhai no Bahamut,1
+Saiki Kusuo no Ψ-nan,8
+Saiki Kusuo no Ψ-nan 2,8
+Sakura-sou no Pet na Kanojo,9
+Seiren,4
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,7
+Shigatsu wa Kimi no Uso,8
+Shingeki no Kyojin,6
+Shingeki no Kyojin Season 2,7
+Shingeki no Kyojin Season 3,7
+Shingeki no Kyojin Season 3 Part 2,8
+Shokugeki no Souma,8
+Shokugeki no Souma: Ni no Sara,8
+Shokugeki no Souma: San no Sara,6
+Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,7
+Shokugeki no Souma: Shin no Sara,7
+Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,8
+Steins;Gate,8
+Sword Art Online,4
+Sword Art Online II,2
+Sword Art Online: Alicization,6
+Sword Art Online: Alicization - War of Underworld,6
+Tate no Yuusha no Nariagari,2
+Tsurezure Children,5
+White Album 2,4
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,6
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
+Yamada-kun to 7-nin no Majo (TV),8
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),8

@@ -1,0 +1,100 @@
+﻿11eyes,9
+A-Channel,7
+Absolute Duo,7
+Aho Girl,6
+Akuma no Riddle,10
+Ansatsu Kyoushitsu,10
+Ansatsu Kyoushitsu 2nd Season,10
+Asobi Asobase,9
+Baka to Test to Shoukanjuu,8
+Black Lagoon,7
+Bleach,9
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,9
+Boku no Hero Academia 3rd Season,8
+Boku no Kanojo ga Majimesugiru Sho-bitch na Ken,8
+Boku wa Tomodachi ga Sukunai,8
+Boku wa Tomodachi ga Sukunai Next,6
+Bokura wa Minna Kawai-sou,7
+Bokutachi wa Benkyou ga Dekinai,8
+Bokutachi wa Benkyou ga Dekinai!,9
+Bungou Stray Dogs,10
+Bungou Stray Dogs 2nd Season,10
+Bungou Stray Dogs 3rd Season,10
+Charlotte,9
+Citrus,8
+D.C.: Da Capo,9
+D.C.II S.S.: Da Capo II Second Season,8
+D.C.II: Da Capo II,9
+D.C.III: Da Capo III,8
+Darwin's Game,9
+Date A Live,9
+Date A Live II,9
+Date A Live III,8
+Dr. Stone,10
+Dragon Ball Super,6
+Dumbbell Nan Kilo Moteru?,10
+Fruits Basket 1st Season,7
+Fullmetal Alchemist,8
+Fullmetal Alchemist: Brotherhood,10
+Grand Blue,9
+Hajimete no Gal,8
+Hataraku Saibou (TV),6
+Hourou Musuko,10
+Hunter x Hunter (2011),10
+Inugami-san to Nekoyama-san,6
+Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,10
+Joshikousei no Mudazukai,8
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,10
+Kaichou wa Maid-sama!,9
+Kimetsu no Yaiba,9
+Kiseijuu: Sei no Kakuritsu,10
+Kishuku Gakkou no Juliet,7
+Kiss x Sis (TV),6
+Koi to Senkyo to Chocolate,8
+Koi to Uso,9
+Koisuru Asteroid,7
+Kokoro Connect,10
+Kuragehime,8
+Kuzu no Honkai,10
+Maria-sama ga Miteru,8
+Maria†Holic,7
+Mayo Chiki!,8
+Midara na Ao-chan wa Benkyou ga Dekinai,10
+Midori no Hibi,9
+Monster Musume no Iru Nichijou,6
+Murenase! Seton Gakuen,9
+Nanatsu no Taizai,10
+Nanatsu no Taizai: Imashime no Fukkatsu,9
+Naruto,7
+Naruto: Shippuuden,7
+Netsuzou TRap,8
+Noragami,10
+Noragami Aragoto,10
+Okusama ga Seitokaichou!,8
+Okusama ga Seitokaichou!+!,8
+Ore wo Suki nano wa Omae dake ka yo,7
+Sakura Trick,7
+Seitokai Yakuindomo,7
+Sengoku Night Blood,6
+Shigatsu wa Kimi no Uso,8
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,9
+Shingeki no Kyojin,9
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,10
+Shingeki no Kyojin Season 3 Part 2,10
+Sounan Desu ka?,8
+Steins;Gate,10
+Strike the Blood,9
+Sword Art Online,9
+Sword Art Online II,10
+Tokyo Ghoul,8
+Tokyo Ghoul √A,7
+Tokyo Ghoul:re,5
+Tonari no Kyuuketsuki-san,7
+Tsugumomo,8
+Valkyrie Drive: Mermaid,7
+Yagate Kimi ni Naru,9
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,9
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,9
+Yamada-kun to 7-nin no Majo (TV),10

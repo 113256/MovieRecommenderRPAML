@@ -1,0 +1,96 @@
+﻿91 Days,8
+Ajin,7
+Akame ga Kill!,8
+Ansatsu Kyoushitsu,8
+Ansatsu Kyoushitsu 2nd Season,9
+Arifureta Shokugyou de Sekai Saikyou,6
+Arslan Senki (TV),8
+Bakuman.,8
+Bakuman. 2nd Season,8
+Bakuman. 3rd Season,9
+Big Order (TV),6
+Black Lagoon,9
+Black Lagoon: The Second Barrage,9
+Bleach,8
+Boku no Hero Academia,10
+Boku no Hero Academia 2nd Season,10
+Boku no Hero Academia 3rd Season,-
+Break Blade,8
+D.Gray-man,9
+Dororo,10
+Drifters,10
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
+Eyeshield 21,9
+Fairy Tail,9
+Fairy Tail (2014),9
+Fullmetal Alchemist,8
+Fullmetal Alchemist: Brotherhood,10
+Gantz,8
+Grancrest Senki,8
+Haikyuu!!,10
+Haikyuu!! Second Season,10
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,10
+Hajime no Ippo,9
+Hajime no Ippo: New Challenger,10
+Hajime no Ippo: Rising,10
+Hellsing,7
+Higashi no Eden,7
+Hunter x Hunter (2011),9
+Initial D Fifth Stage,9
+Initial D Final Stage,9
+Initial D First Stage,10
+Initial D Fourth Stage,9
+Initial D Second Stage,9
+JoJo no Kimyou na Bouken (TV),8
+Katsute Kami Datta Kemono-tachi e,6
+Kaze ga Tsuyoku Fuiteiru,10
+Kekkai Sensen,7
+Kill la Kill,8
+Kingdom,9
+Kingdom 2nd Season,9
+Kiseijuu: Sei no Kakuritsu,10
+Koutetsujou no Kabaneri,10
+Kuroko no Basket,9
+Kuroko no Basket 2nd Season,9
+Kuroko no Basket 3rd Season,9
+Magi: Sinbad no Bouken (TV),9
+Mob Psycho 100,9
+Mob Psycho 100 II,9
+Mobile Suit Gundam,10
+Mobile Suit Gundam 00,9
+Mobile Suit Gundam 00 Second Season,9
+Mobile Suit Gundam AGE,6
+Mobile Suit Gundam SEED,8
+Mobile Suit Gundam SEED Destiny,8
+Mobile Suit Gundam Wing,8
+Mobile Suit Gundam ZZ,7
+Mobile Suit Zeta Gundam,8
+Nanatsu no Taizai,9
+Nanatsu no Taizai: Imashime no Fukkatsu,9
+Naruto,9
+Naruto: Shippuuden,9
+One Punch Man,9
+Re:Zero kara Hajimeru Isekai Seikatsu,5
+Senjou no Valkyria,9
+Shigatsu wa Kimi no Uso,9
+Shingeki no Kyojin Season 3 Part 2,10
+Shokugeki no Souma,9
+Shokugeki no Souma: Ni no Sara,9
+Shokugeki no Souma: San no Sara,9
+Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,9
+Strike the Blood,8
+Sunabouzu,7
+Sword Art Online,8
+Sword Art Online II,7
+Sword Art Online: Alicization,9
+Taboo Tattoo,6
+Tengen Toppa Gurren Lagann,8
+Tennis no Ouji-sama,8
+Tensei shitara Slime Datta Ken,8
+Toaru Majutsu no Index,7
+Trigun,8
+Turn A Gundam,7
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
+Yakusoku no Neverland,10
+Zetman,7

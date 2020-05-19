@@ -1,0 +1,130 @@
+﻿91 Days,8
+Ajin,6
+Akame ga Kill!,7
+Angel Beats!,8
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
+Another,3
+Ansatsu Kyoushitsu,8
+Ansatsu Kyoushitsu 2nd Season,9
+Ao no Exorcist,8
+Asobi Asobase,8
+Banana Fish,8
+Beastars,9
+Blend S,8
+Boku dake ga Inai Machi,7
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,7
+Boku no Hero Academia 4th Season,8
+Boogiepop wa Warawanai (2019),9
+Bungou Stray Dogs,9
+Bungou Stray Dogs 2nd Season,8
+Bungou Stray Dogs 3rd Season,9
+Carole & Tuesday,8
+Charlotte,7
+Comic Girls,7
+Cop Craft,7
+Darling in the FranXX,2
+Darwin's Game,6
+Death Note,10
+Death Parade,8
+Dororo,8
+Dr. Stone,8
+Drifters,8
+Enen no Shouboutai,8
+Fate/Apocrypha,7
+Fate/Grand Order: Zettai Majuu Sensen Babylonia,9
+Fate/stay night: Unlimited Blade Works,8
+Fate/stay night: Unlimited Blade Works 2nd Season,9
+Fate/Zero,9
+Fate/Zero 2nd Season,10
+Fruits Basket 1st Season,9
+Fullmetal Alchemist: Brotherhood,10
+Gabriel DropOut,8
+Gosick,8
+Grand Blue,8
+Hataage! Kemono Michi,7
+Hataraku Saibou (TV),8
+Hinamatsuri,8
+Hitoribocchi no Marumaru Seikatsu,7
+Houseki no Kuni (TV),8
+Hunter x Hunter (2011),10
+Id:Invaded,8
+Inuyashiki,7
+Isekai Quartet,7
+Isekai Quartet 2,7
+Ishuzoku Reviewers,8
+Jibaku Shounen Hanako-kun,7
+JoJo no Kimyou na Bouken (TV),8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
+Joshikousei no Mudazukai,8
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Kakegurui,7
+Kakegurui××,7
+Keijo!!!!!!!!,7
+Kill la Kill,8
+Kobayashi-san Chi no Maid Dragon,8
+Kono Subarashii Sekai ni Shukufuku wo!,9
+Kono Subarashii Sekai ni Shukufuku wo! 2,9
+Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note,8
+Machikado Mazoku,7
+Made in Abyss,8
+Mahou Shoujo Madoka★Magica,8
+Megalo Box,8
+Mirai Nikki,4
+Mob Psycho 100,5
+Mob Psycho 100 II,8
+Nakanohito Genome [Jikkyouchuu],7
+Nanatsu no Taizai,3
+Nanatsu no Taizai: Seisen no Shirushi,4
+Naruto,7
+Neon Genesis Evangelion,9
+No Game No Life,8
+Noragami,8
+Noragami Aragoto,9
+One Punch Man,9
+One Punch Man 2nd Season,8
+Ore wo Suki nano wa Omae dake ka yo,7
+Overlord,8
+Overlord II,7
+Overlord III,9
+Pet,7
+Prison School,7
+Psycho-Pass,9
+Psycho-Pass 2,8
+Pupa,1
+Re:Creators,9
+Re:Zero kara Hajimeru Isekai Seikatsu,9
+Saiki Kusuo no Ψ-nan,8
+Saiki Kusuo no Ψ-nan 2,9
+Saint Seiya,7
+Sakamoto Desu ga?,7
+Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,7
+Shingeki no Kyojin,9
+Shingeki no Kyojin Season 2,10
+Shingeki no Kyojin Season 3,9
+Shingeki no Kyojin Season 3 Part 2,10
+Shingeki! Kyojin Chuugakkou,7
+Shouwa Genroku Rakugo Shinjuu,9
+Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,9
+Somali to Mori no Kamisama,6
+Sora yori mo Tooi Basho,7
+Soul Eater,9
+Soul Eater NOT!,6
+Sounan Desu ka?,7
+Steins;Gate,10
+Sword Art Online,4
+Sword Art Online Alternative: Gun Gale Online,7
+Tensei shitara Slime Datta Ken,7
+Tokyo Ghoul,6
+Tokyo Ghoul √A,3
+Tokyo Ghoul:re,3
+Vinland Saga,9
+Violet Evergarden,9
+Yakusoku no Neverland,9
+Youjo Senki,8
+Zankyou no Terror,7
+Zombieland Saga,8

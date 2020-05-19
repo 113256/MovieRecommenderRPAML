@@ -1,0 +1,232 @@
+﻿07-Ghost,6
+Accel World,7
+Aldnoah.Zero,8
+Aldnoah.Zero 2nd Season,8
+Amagi Brilliant Park,7
+Angel Beats!,9
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
+Ano Natsu de Matteru,8
+Ao Haru Ride,8
+Ao no Exorcist,8
+Area no Kishi,8
+Baby Steps,8
+Baby Steps 2nd Season,9
+Baccano!,8
+Barakamon,10
+Black Bullet,7
+Bleach,9
+Boku dake ga Inai Machi,9
+Boku no Hero Academia,9
+Boku no Hero Academia 2nd Season,9
+Boku no Hero Academia 3rd Season,9
+Boku wa Tomodachi ga Sukunai,9
+Boku wa Tomodachi ga Sukunai Next,8
+Bokura wa Minna Kawai-sou,7
+Break Blade,7
+Buddy Complex,8
+Cardcaptor Sakura,8
+Charlotte,7
+Chihayafuru,9
+Chihayafuru 2,9
+Chuunibyou demo Koi ga Shitai!,9
+Chuunibyou demo Koi ga Shitai! Ren,8
+Code Geass: Hangyaku no Lelouch,10
+Code Geass: Hangyaku no Lelouch R2,10
+D-Frag!,8
+D.Gray-man,8
+D.N.Angel,9
+Deadman Wonderland,8
+Death Note,9
+Death Parade,8
+Demashita! Powerpuff Girls Z,7
+Diamond no Ace,9
+Diamond no Ace: Second Season,9
+Digimon Adventure,8
+Digimon Adventure 02,7
+Digimon Frontier,7
+Digimon Savers,7
+Digimon Tamers,7
+Dragon Ball,7
+Dragon Ball GT,8
+Dragon Ball Z,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
+Durarara!!,9
+Durarara!!x2 Shou,8
+Durarara!!x2 Ten,8
+Fairy Tail,9
+Fate/stay night: Unlimited Blade Works,8
+Fate/stay night: Unlimited Blade Works 2nd Season,8
+Fate/Zero,9
+Fate/Zero 2nd Season,9
+Free!,8
+Free!: Eternal Summer,8
+Fruits Basket,8
+Fullmetal Alchemist,9
+Fullmetal Alchemist: Brotherhood,10
+Gakkougurashi!,7
+Gakuen Alice,7
+Gakusen Toshi Asterisk,7
+Gate: Jieitai Kanochi nite Kaku Tatakaeri,7
+Gekkan Shoujo Nozaki-kun,9
+Gin no Saji,8
+Gin no Saji 2nd Season,8
+Gintama,9
+Gintama',9
+Gintama': Enchousen,9
+Gokukoku no Brynhildr,7
+Grisaia no Kajitsu,7
+Gundam Build Fighters,9
+Gundam Build Fighters Try,9
+Haikyuu!!,8
+Hataraku Maou-sama!,7
+Hentai Ouji to Warawanai Neko.,7
+Hibike! Euphonium,8
+Higashi no Eden,8
+Higurashi no Naku Koro ni,7
+Hitsugi no Chaika,8
+Hitsugi no Chaika: Avenging Battle,7
+Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,8
+Hunter x Hunter (2011),9
+Hyouka,8
+Inari Konkon Koi Iroha.,7
+Inou-Battle wa Nichijou-kei no Naka de,7
+InuYasha (TV),10
+InuYasha (TV): Kanketsu-hen,8
+IS: Infinite Stratos,7
+Isshuukan Friends.,9
+Jitsu wa Watashi wa,8
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Kakumeiki Valvrave,7
+Kami nomi zo Shiru Sekai,9
+Kami nomi zo Shiru Sekai II,8
+Kami nomi zo Shiru Sekai: Megami-hen,8
+Kamisama Hajimemashita,7
+Katekyo Hitman Reborn!,8
+Kekkai Sensen,6
+Kill la Kill,7
+Kimetsu no Yaiba,8
+Kimi ni Todoke,8
+Kimi ni Todoke 2nd Season,8
+Kingdom,8
+Kingdom 2nd Season,9
+Kiseijuu: Sei no Kakuritsu,9
+Kobayashi-san Chi no Maid Dragon,9
+Konjiki no Gash Bell!!,7
+Kono Subarashii Sekai ni Shukufuku wo!,7
+Kono Subarashii Sekai ni Shukufuku wo! 2,8
+Kotoura-san,6
+Koukyoushihen Eureka Seven,8
+Kyoukai no Kanata,7
+Log Horizon,9
+Log Horizon 2nd Season,7
+Machine-Doll wa Kizutsukanai,7
+Mahouka Koukou no Rettousei,8
+MÄR,8
+Medarot,8
+Mermaid Melody Pichi Pichi Pitch,8
+Mermaid Melody Pichi Pichi Pitch Pure,8
+Mikakunin de Shinkoukei,8
+Mob Psycho 100,9
+Mob Psycho 100 II,9
+Mobile Suit Gundam 00,9
+Mobile Suit Gundam 00 Second Season,8
+Mobile Suit Gundam AGE,7
+Mobile Suit Gundam SEED,9
+Mobile Suit Gundam SEED Destiny,8
+Mobile Suit Gundam: Iron-Blooded Orphans,8
+Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season,9
+Myself; Yourself,8
+Nanatsu no Taizai,9
+Naruto,9
+Negima!?,7
+Nisekoi,9
+No Game No Life,7
+Noragami,8
+Nurarihyon no Mago,8
+Nurarihyon no Mago: Sennen Makyou,8
+Oda Nobuna no Yabou,7
+One Punch Man,8
+Ookami Shoujo to Kuro Ouji,7
+Ore no Imouto ga Konnani Kawaii Wake ga Nai,8
+Ore no Imouto ga Konnani Kawaii Wake ga Nai.,7
+Ore no Kanojo to Osananajimi ga Shuraba Sugiru,7
+Ouran Koukou Host Club,8
+Outbreak Company,8
+Overlord,8
+Overlord II,8
+Overlord III,8
+Ping Pong the Animation,9
+Plastic Memories,8
+Pokemon,8
+Psycho-Pass,9
+Psycho-Pass 2,9
+Rakudai Kishi no Cavalry,7
+Re:Zero kara Hajimeru Isekai Seikatsu,8
+Rockman.EXE,9
+Rockman.EXE Stream,8
+Rokka no Yuusha,8
+Rokujouma no Shinryakusha!? (TV),8
+Rosario to Vampire,7
+Ryuugajou Nanana no Maizoukin (TV),7
+Saenai Heroine no Sodatekata,8
+Saiki Kusuo no Ψ-nan,8
+Saiki Kusuo no Ψ-nan 2,8
+Sakura-sou no Pet na Kanojo,9
+Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,7
+SD Gundam Force,5
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
+Servant x Service,7
+Shakugan no Shana,9
+Shakugan no Shana II (Second),9
+Shaman King,9
+Shigatsu wa Kimi no Uso,9
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,7
+Shingeki no Bahamut: Genesis,8
+Shingeki no Kyojin,8
+Shinrei Tantei Yakumo,8
+Shirobako,9
+Shugo Chara!,8
+Shugo Chara!! Doki,8
+Sidonia no Kishi,9
+Skip Beat!,9
+Soul Eater,8
+Special A,8
+Spider Riders: Oracle no Yuusha-tachi,7
+Steins;Gate,9
+Strike the Blood,7
+Suisei no Gargantia,7
+Sukitte Ii na yo.,7
+Super GALS! Kotobuki Ran,9
+Sword Art Online,8
+Sword Art Online II,8
+Tengen Toppa Gurren Lagann,10
+Tensei shitara Slime Datta Ken,8
+Tenshi na Konamaiki,8
+Toaru Kagaku no Railgun,9
+Toaru Kagaku no Railgun S,9
+Toaru Majutsu no Index,9
+Toaru Majutsu no Index II,9
+Tokyo Ghoul,7
+Tonari no Kaibutsu-kun,7
+Toradora!,9
+Tsubasa Chronicle,8
+Ushio to Tora (TV),7
+Utawarerumono,7
+Vampire Knight,8
+Vampire Knight: Guilty,8
+Witch Craft Works,6
+Working!!,9
+Working!!!,9
+Working'!!,9
+xxxHOLiC,7
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,9
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,9
+Youjo Senki,8
+Yowamushi Pedal,8
+Yowamushi Pedal: Grande Road,8
+Yu☆Gi☆Oh!,7
+Yu☆Gi☆Oh! 5D's,8
+Yu☆Gi☆Oh! Duel Monsters,7
+Yu☆Gi☆Oh!: Duel Monsters GX,7
+Zankyou no Terror,7
+Zetman,7

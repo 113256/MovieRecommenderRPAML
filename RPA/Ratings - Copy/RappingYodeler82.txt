@@ -1,0 +1,182 @@
+Air,7
+Akame ga Kill!,6
+Akaneiro ni Somaru Saka,6
+Amagami SS,8
+Amagami SS+ Plus,7
+Amagi Brilliant Park,8
+Angel Beats!,9
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
+Another,9
+Araburu Kisetsu no Otome-domo yo.,9
+Baka to Test to Shoukanjuu,8
+Baka to Test to Shoukanjuu Ni!,7
+Bakemonogatari,10
+Big Order (TV),7
+Black Lagoon,9
+Black Lagoon: The Second Barrage,10
+Boku dake ga Inai Machi,10
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,8
+Bokura wa Minna Kawai-sou,10
+Btooom!,7
+Bungou Stray Dogs,10
+Bungou Stray Dogs 2nd Season,10
+Charlotte,8
+ChäoS;Child,8
+ChäoS;HEAd,7
+Chuunibyou demo Koi ga Shitai!,6
+Citrus,8
+Cross Ange: Tenshi to Ryuu no Rondo,10
+Cross Game,10
+Danshi Koukousei no Nichijou,10
+Darwin's Game,6
+Date A Live,8
+Date A Live II,7
+Deadman Wonderland,9
+Death Note,10
+Death Parade,9
+Dies Irae,6
+Domestic na Kanojo,6
+Dr. Stone,7
+Dragon Ball,10
+Dragon Ball GT,10
+Dragon Ball Kai,10
+Dragon Ball Kai (2014),10
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,10
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,6
+ef: A Tale of Melodies.,10
+ef: A Tale of Memories.,10
+Elfen Lied,10
+Eureka Seven AO,7
+Fate/stay night,6
+Fuuka,10
+Gamers!,10
+Gate: Jieitai Kanochi nite Kaku Tatakaeri,10
+Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,8
+Golden Time,8
+Grand Blue,10
+Green Green,6
+Hajimete no Gal,7
+Hamatora The Animation,8
+Hanamonogatari,10
+Happy Sugar Life,4
+Hataraku Maou-sama!,8
+Hatsukoi Limited.,9
+Hentai Ouji to Warawanai Neko.,8
+Higashi no Eden,10
+High School DxD,10
+High School DxD BorN,10
+High School DxD Hero,10
+High School DxD New,10
+Highschool of the Dead,9
+Higurashi no Naku Koro ni,10
+Higurashi no Naku Koro ni Kai,10
+Hitsugi no Chaika,7
+Hitsugi no Chaika: Avenging Battle,7
+Hourou Musuko,8
+Ichigo 100%,7
+Imouto sae Ireba Ii.,10
+Inuyashiki,10
+Isshuukan Friends.,10
+Itsudatte Bokura no Koi wa 10 cm Datta.,10
+Just Because!,7
+Kamisama no Inai Nichiyoubi,9
+Kareshi Kanojo no Jijou,8
+Kimi no Iru Machi,7
+KimiKiss Pure Rouge,6
+Kino no Tabi: The Beautiful World,10
+Kino no Tabi: The Beautiful World - The Animated Series,10
+Kiseijuu: Sei no Kakuritsu,10
+Kiss x Sis (TV),10
+Koi to Senkyo to Chocolate,8
+Kokoro Connect,10
+Kono Subarashii Sekai ni Shukufuku wo!,10
+Kono Subarashii Sekai ni Shukufuku wo! 2,10
+Kotoura-san,10
+Koukyoushihen Eureka Seven,9
+Koutetsujou no Kabaneri,9
+Kure-nai,7
+Kuzu no Honkai,6
+Kyokou Suiri,6
+Ladies versus Butlers!,10
+Magi: The Kingdom of Magic,10
+Magi: The Labyrinth of Magic,10
+Maoyuu Maou Yuusha,10
+Masamune-kun no Revenge,10
+Mashiro-iro Symphony: The Color of Lovers,10
+Masou Gakuen HxH,10
+Mayoiga,10
+Medaka Box,6
+Medaka Box Abnormal,5
+Mirai Nikki,7
+Mob Psycho 100,10
+Mob Psycho 100 II,10
+Monogatari Series: Second Season,10
+Myself; Yourself,8
+Naruto,10
+Naruto: Shippuuden,10
+Nekomonogatari: Kuro,10
+NHK ni Youkoso!,10
+Nisekoi,10
+Nisekoi:,10
+Nisemonogatari,10
+Noragami,10
+Oda Nobuna no Yabou,7
+One Punch Man,10
+Ookami to Koushinryou,8
+Ookami to Koushinryou II,8
+Owari no Seraph,6
+Owari no Seraph: Nagoya Kessen-hen,6
+Owarimonogatari,9
+Owarimonogatari 2nd Season,10
+Phantom: Requiem for the Phantom,6
+Prison School,10
+Re:␣Hamatora,8
+Robotics;Notes,8
+Sankarea,6
+School Days,9
+Seiren,10
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
+Sekirei,10
+Sekirei: Pure Engagement,10
+Serial Experiments Lain,8
+Shingeki no Kyojin,10
+Shingeki no Kyojin Season 2,10
+Shingeki no Kyojin Season 3,9
+Shinsekai yori,10
+Shokugeki no Souma,10
+Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,9
+Sora yori mo Tooi Basho,8
+Soredemo Sekai wa Utsukushii,10
+Special A,7
+Steins;Gate,10
+Steins;Gate 0,10
+Strike the Blood,8
+Sunohara-sou no Kanrinin-san,8
+Suzuka,10
+Sword Art Online,10
+Tate no Yuusha no Nariagari,10
+To Be Hero,10
+Toaru Hikuushi e no Koiuta,8
+Tokyo Ghoul,10
+Tokyo Ghoul √A,10
+Tokyo Ghoul:re,10
+Tokyo Ghoul:re 2nd Season,7
+Tonari no Kaibutsu-kun,10
+Toradora!,10
+Triage X,7
+Trinity Seven,10
+True Tears,8
+Tsuki ga Kirei,10
+Tsukimonogatari,10
+Tsurezure Children,10
+Ushinawareta Mirai wo Motomete,9
+Violet Evergarden,10
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,10
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,10
+Yakusoku no Neverland,-
+Yosuga no Sora: In Solitude Where We Are Least Alone.,10
+Youjo Senki,10
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),8
+Zankyou no Terror,9

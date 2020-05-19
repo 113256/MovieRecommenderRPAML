@@ -1,0 +1,188 @@
+﻿Accel World,3
+Ajin,6
+Ajin 2nd Season,6
+Aku no Hana,8
+Angel Beats!,7
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
+Another,7
+Ao Haru Ride,6
+Ao no Exorcist,6
+Ao no Exorcist: Kyoto Fujouou-hen,6
+Baccano!,9
+Baka to Test to Shoukanjuu,6
+Bakuman.,7
+Bakuman. 2nd Season,6
+Bakuman. 3rd Season,8
+Barakamon,8
+Beastars,7
+Black Bullet,4
+Black Lagoon,8
+Black Lagoon: The Second Barrage,8
+Boku dake ga Inai Machi,5
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,7
+Boku wa Tomodachi ga Sukunai,6
+Boku wa Tomodachi ga Sukunai Next,5
+Bokura no,6
+Bokura wa Minna Kawai-sou,7
+Bokutachi wa Benkyou ga Dekinai,6
+Btooom!,5
+Chuunibyou demo Koi ga Shitai!,4
+Chuunibyou demo Koi ga Shitai! Ren,5
+Clannad,6
+Clannad: After Story,9
+Code Geass: Hangyaku no Lelouch,9
+Code Geass: Hangyaku no Lelouch R2,9
+D-Frag!,7
+Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,4
+Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,3
+Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,8
+Date A Live,4
+Date A Live II,2
+Deadman Wonderland,6
+Death Note,9
+Death Parade,8
+Dororo,6
+Dr. Stone,8
+Dragon Ball,8
+Dragon Ball Z,10
+Drifters,7
+Durarara!!,9
+Durarara!!x2 Ketsu,7
+Durarara!!x2 Shou,7
+Durarara!!x2 Ten,7
+Fate/stay night: Unlimited Blade Works,7
+Fate/stay night: Unlimited Blade Works 2nd Season,7
+Fate/Zero,7
+Fate/Zero 2nd Season,9
+Ga-Rei: Zero,6
+Gin no Saji,8
+Gin no Saji 2nd Season,7
+Gintama,8
+Gintama',8
+Gintama': Enchousen,8
+Gintama.,8
+Gintama.: Porori-hen,7
+Gintama.: Shirogane no Tamashii-hen,6
+Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,6
+Gintama°,8
+Gokukoku no Brynhildr,4
+Great Teacher Onizuka,7
+Guilty Crown,6
+Hai to Gensou no Grimgar,7
+Haibane Renmei,7
+Haikyuu!!,5
+Hataraku Maou-sama!,4
+Higashi no Eden,8
+High Score Girl,6
+High Score Girl II,6
+Higurashi no Naku Koro ni,7
+Higurashi no Naku Koro ni Kai,7
+Houseki no Kuni (TV),7
+Hunter x Hunter (2011),9
+Hyouka,6
+Inuyashiki,6
+JoJo no Kimyou na Bouken (TV),8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
+Jormungand,8
+Jormungand: Perfect Order,8
+Kaiba,7
+Kaichou wa Maid-sama!,7
+Kareshi Kanojo no Jijou,8
+Katanagatari,8
+Kekkai Sensen,8
+Kekkai Sensen & Beyond,7
+Kill la Kill,8
+Kimetsu no Yaiba,7
+Kimi ni Todoke,7
+Kimi ni Todoke 2nd Season,6
+Kiseijuu: Sei no Kakuritsu,8
+Kiznaiver,6
+Kokoro Connect,4
+Kotoura-san,1
+Koukaku Kidoutai: Stand Alone Complex,10
+Koukaku Kidoutai: Stand Alone Complex 2nd GIG,10
+Kuroko no Basket,6
+Kuroko no Basket 2nd Season,6
+Kuroko no Basket 3rd Season,6
+Kyousou Giga (TV),7
+Log Horizon,6
+Lovely★Complex,6
+Made in Abyss,8
+Magi: The Kingdom of Magic,6
+Magi: The Labyrinth of Magic,7
+Mahou Shoujo Madoka★Magica,8
+Mawaru Penguindrum,8
+Mayoiga,3
+Mekakucity Actors,7
+Mirai Nikki,7
+Mob Psycho 100,8
+Mob Psycho 100 II,8
+Monster,8
+Mousou Dairinin,7
+Nagi no Asu kara,8
+Naruto,9
+Neon Genesis Evangelion,10
+NHK ni Youkoso!,7
+Nisekoi,6
+Nisekoi:,6
+No Game No Life,7
+Noragami,6
+Noragami Aragoto,5
+One Punch Man,9
+One Punch Man 2nd Season,6
+Ookami to Koushinryou,9
+Ookami to Koushinryou II,9
+Orange,4
+Pandora Hearts,6
+Ping Pong the Animation,10
+Planetes,8
+Plastic Memories,5
+Prison School,9
+Psycho-Pass,9
+Psycho-Pass 2,7
+Rainbow: Nisha Rokubou no Shichinin,8
+Re:Zero kara Hajimeru Isekai Seikatsu,5
+ReLIFE,7
+Rokka no Yuusha,3
+Sakamichi no Apollon,6
+Sakura-sou no Pet na Kanojo,7
+Sarazanmai,6
+Seirei no Moribito,9
+Serial Experiments Lain,7
+Shakugan no Shana,6
+Shakugan no Shana II (Second),7
+Shakugan no Shana III (Final),6
+Shigatsu wa Kimi no Uso,8
+Shiki,4
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,6
+Shingeki no Kyojin,10
+Shingeki no Kyojin Season 2,10
+Shingeki no Kyojin Season 3,10
+Shingeki no Kyojin Season 3 Part 2,10
+Shinsekai yori,9
+Shoujo Kakumei Utena,6
+Shouwa Genroku Rakugo Shinjuu,7
+Steins;Gate,8
+Strike the Blood,4
+Suzumiya Haruhi no Yuuutsu,6
+Sword Art Online,4
+Tengen Toppa Gurren Lagann,9
+Tokyo Ghoul,7
+Tokyo Ghoul √A,4
+Tokyo Magnitude 8.0,7
+Tokyo Ravens,3
+Tonari no Kaibutsu-kun,7
+Toradora!,8
+True Tears,5
+Tsuki ga Kirei,6
+Vinland Saga,9
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,7
+Yakusoku no Neverland,8
+Yamada-kun to 7-nin no Majo (TV),6
+Yojouhan Shinwa Taikei,8
+Zankyou no Terror,7

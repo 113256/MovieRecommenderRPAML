@@ -1,0 +1,69 @@
+﻿Akame ga Kill!,10
+Angel Beats!,9
+Another,9
+Ansatsu Kyoushitsu,9
+Ansatsu Kyoushitsu 2nd Season,7
+Ao no Exorcist,8
+Baccano!,10
+Bakemonogatari,8
+Bleach,9
+Boku no Hero Academia,7
+Boku no Hero Academia 2nd Season,7
+Boku no Hero Academia 3rd Season,7
+Charlotte,9
+Code Geass: Hangyaku no Lelouch,8
+Darker than Black: Kuro no Keiyakusha,8
+Darling in the FranXX,9
+Death March kara Hajimaru Isekai Kyousoukyoku,6
+Death Note,9
+Death Parade,10
+Dr. Stone,8
+Durarara!!,10
+Elfen Lied,8
+Fairy Tail,8
+Fullmetal Alchemist: Brotherhood,10
+Goblin Slayer,6
+Hataraku Maou-sama!,9
+Highschool of the Dead,7
+Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,9
+Hunter x Hunter (2011),7
+K,9
+Kekkai Sensen,8
+Kiseijuu: Sei no Kakuritsu,9
+Kokoro Connect,10
+Kono Subarashii Sekai ni Shukufuku wo!,8
+Kono Subarashii Sekai ni Shukufuku wo! 2,9
+Kyokou Suiri,8
+Log Horizon,10
+Log Horizon 2nd Season,9
+Mahouka Koukou no Rettousei,9
+Mahoutsukai no Yome,10
+Mirai Nikki,8
+Mnemosyne: Mnemosyne no Musume-tachi,9
+Mob Psycho 100,8
+Naruto,7
+Naruto: Shippuuden,7
+Nejimaki Seirei Senki: Tenkyou no Alderamin,9
+No Game No Life,9
+Noragami,8
+One Punch Man,10
+Overlord,9
+Overlord II,9
+Overlord III,10
+Re:Zero kara Hajimeru Isekai Seikatsu,7
+Saiki Kusuo no Ψ-nan,8
+Shinsekai yori,9
+Suzumiya Haruhi no Yuuutsu,10
+Sword Art Online,9
+Sword Art Online II,7
+Tate no Yuusha no Nariagari,9
+Tensei shitara Slime Datta Ken,9
+Toaru Majutsu no Index,8
+Tokyo Ghoul,10
+Tokyo Ghoul √A,10
+Toradora!,8
+Yamada-kun to 7-nin no Majo (TV),9
+Youjo Senki,10
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),9
+Zankyou no Terror,10
+Zetsuen no Tempest,8

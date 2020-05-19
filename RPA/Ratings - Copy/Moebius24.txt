@@ -1,0 +1,95 @@
+﻿Afro Samurai,7
+Angel Beats!,6
+Ao no Exorcist,6
+Black Bullet,6
+Black Lagoon,10
+Black Lagoon: The Second Barrage,10
+Black★Rock Shooter (TV),5
+Blue Gender,5
+Casshern Sins,6
+Cowboy Bebop,10
+Deadman Wonderland,6
+Death Note,10
+Death Parade,8
+Dragon Ball,7
+Dragon Ball GT,6
+Dragon Ball Z,7
+Durarara!!,10
+Durarara!!x2 Ketsu,10
+Durarara!!x2 Shou,10
+Durarara!!x2 Ten,10
+Elfen Lied,6
+Fullmetal Alchemist,7
+Fullmetal Alchemist: Brotherhood,7
+Gangsta.,5
+Goblin Slayer,6
+Golden Kamuy,9
+Golden Kamuy 2nd Season,9
+Guilty Crown,6
+Hellsing,7
+Higashi no Eden,6
+Highschool of the Dead,7
+Itou Junji: Collection,5
+JoJo no Kimyou na Bouken (TV),8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,10
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,10
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
+Jormungand,6
+K-On!,7
+Kill la Kill,6
+Kiseijuu: Sei no Kakuritsu,9
+Kobayashi-san Chi no Maid Dragon,6
+Koukaku Kidoutai Arise: Alternative Architecture,7
+Koukaku Kidoutai: Stand Alone Complex,10
+Koukaku Kidoutai: Stand Alone Complex 2nd GIG,10
+Kuroshitsuji,6
+Kuroshitsuji II,6
+Kuroshitsuji: Book of Circus,7
+Kyoukai no Kanata,7
+Little Witch Academia (TV),7
+Made in Abyss,7
+Mahou Shoujo Madoka★Magica,7
+Megalo Box,8
+Michiko to Hatchin,8
+Mob Psycho 100,7
+Mob Psycho 100 II,7
+Nichijou,6
+No Game No Life,6
+One Punch Man,7
+One Punch Man 2nd Season,6
+Overlord,6
+Panty & Stocking with Garterbelt,7
+Pokemon,-
+Poputepipikku,5
+Prison School,8
+Psycho-Pass,7
+Psycho-Pass 2,7
+Samurai Champloo,10
+Seihou Bukyou Outlaw Star,9
+Sewayaki Kitsune no Senko-san,6
+Shigatsu wa Kimi no Uso,7
+Shingeki no Kyojin,7
+Shingeki no Kyojin Season 2,7
+Shingeki no Kyojin Season 3,7
+Shingeki no Kyojin Season 3 Part 2,6
+Sirius,5
+Space☆Dandy,6
+Space☆Dandy 2nd Season,6
+Steins;Gate,8
+Steins;Gate 0,7
+Sword Art Online,6
+Tokyo Ghoul,8
+Tokyo Ghoul √A,6
+Tokyo Ghoul:re,5
+Tokyo Ghoul:re 2nd Season,6
+Trigun,8
+Vinland Saga,7
+Violet Evergarden,10
+Yakusoku no Neverland,10
+Yami Shibai,6
+Yu☆Gi☆Oh!,6
+Yu☆Gi☆Oh! 5D's,7
+Yu☆Gi☆Oh! Duel Monsters,10
+Yu☆Gi☆Oh!: Duel Monsters GX,7
+Zankyou no Terror,5

@@ -1,0 +1,46 @@
+﻿Ajin,4
+Akame ga Kill!,5
+Angel Beats!,6
+Ansatsu Kyoushitsu,8
+Ansatsu Kyoushitsu 2nd Season,9
+Ao no Exorcist,5
+Beastars,7
+Boku no Hero Academia,6
+Death Note,7
+Death Parade,7
+Eizouken ni wa Te wo Dasu na!,7
+Elfen Lied,5
+Fate/Zero,8
+Fate/Zero 2nd Season,9
+Fullmetal Alchemist: Brotherhood,9
+Guilty Crown,5
+Gyakkyou Burai Kaiji: Hakairoku-hen,7
+Gyakkyou Burai Kaiji: Ultimate Survivor,8
+JoJo no Kimyou na Bouken (TV),8
+Kiseijuu: Sei no Kakuritsu,7
+Kyoukai no Kanata,5
+Made in Abyss,9
+Magi: The Kingdom of Magic,7
+Magi: The Labyrinth of Magic,6
+Mahou Shoujo Madoka★Magica,7
+Mousou Dairinin,7
+Nanatsu no Taizai,5
+Neon Genesis Evangelion,8
+No Game No Life,6
+Non Non Biyori,5
+Non Non Biyori Repeat,7
+Noragami,5
+Noragami Aragoto,7
+One Punch Man,7
+Re:Zero kara Hajimeru Isekai Seikatsu,6
+Shigatsu wa Kimi no Uso,8
+Shingeki no Kyojin,7
+Shingeki no Kyojin Season 2,8
+Shingeki no Kyojin Season 3,8
+Shingeki no Kyojin Season 3 Part 2,9
+Soul Eater,7
+Steins;Gate,9
+Sword Art Online,2
+Sword Art Online II,1
+Tengen Toppa Gurren Lagann,8
+Tokyo Ghoul,2

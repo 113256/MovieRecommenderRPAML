@@ -1,0 +1,130 @@
+﻿5-toubun no Hanayome,8
+Air,10
+Arakawa Under the Bridge,7
+Asobi Asobase,9
+Baccano!,9
+Ballroom e Youkoso,9
+Banana Fish,9
+Blend S,8
+Boku no Hero Academia,10
+Boku no Hero Academia 2nd Season,10
+Boku no Hero Academia 3rd Season,10
+Boku no Hero Academia 4th Season,9
+Centaur no Nayami,8
+Citrus,7
+Comic Girls,8
+Cowboy Bebop,10
+Danna ga Nani wo Itteiru ka Wakaranai Ken,9
+Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me,8
+Darling in the FranXX,8
+Death Note,9
+Dr. Stone,10
+Dragon Ball,10
+Dragon Ball Z,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,8
+Durarara!!,8
+Durarara!!x2 Ketsu,8
+Durarara!!x2 Shou,8
+Durarara!!x2 Ten,8
+Elfen Lied,10
+Fate/Zero,7
+Fullmetal Alchemist,10
+Fullmetal Alchemist: Brotherhood,10
+Fumikiri Jikan,6
+Gaikotsu Shotenin Honda-san,10
+Gakuen Babysitters,9
+Gamers!,8
+Gantz,9
+Gin no Saji,9
+Gin no Saji 2nd Season,10
+Goblin Slayer,9
+Golden Kamuy,8
+Golden Kamuy 2nd Season,9
+Gyakkyou Burai Kaiji: Ultimate Survivor,8
+Hachigatsu no Cinderella Nine (TV),8
+Haikyuu!!,10
+Haikyuu!! Second Season,10
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,10
+Hajimete no Gal,7
+Hanebado!,7
+Harukana Receive,8
+Hataraku Maou-sama!,7
+Hataraku Saibou (TV),9
+Heya Camp△,10
+High School DxD,7
+Highschool of the Dead,9
+Hinamatsuri,9
+Hitoribocchi no Marumaru Seikatsu,8
+Houseki no Kuni (TV),8
+Hunter x Hunter,9
+InuYasha (TV),8
+Inuyashiki,6
+Joshikausei,7
+Juuni Taisen,7
+Karakai Jouzu no Takagi-san,9
+Kaze ga Tsuyoku Fuiteiru,9
+Keijo!!!!!!!!,6
+Keppeki Danshi! Aoyama-kun,9
+Kill la Kill,8
+Kiseijuu: Sei no Kakuritsu,10
+Kobayashi-san Chi no Maid Dragon,10
+Koi wa Ameagari no You ni,9
+Koutetsujou no Kabaneri,8
+Last Exile,10
+Little Witch Academia (TV),9
+Love Live! School Idol Project,8
+Love Live! School Idol Project 2nd Season,9
+Love Live! Sunshine!!,8
+Love Live! Sunshine!! 2nd Season,9
+Love Stage!!,9
+Megalo Box,10
+Micchiri Neko,7
+Miira no Kaikata,8
+Mob Psycho 100,9
+Mob Psycho 100 II,10
+Mobile Suit Gundam,10
+Mobile Suit Gundam: The Origin - Advent of the Red Comet,9
+Monster Musume no Iru Nichijou,7
+Naruto,8
+Naruto: Shippuuden,7
+Natsuyuki Rendezvous,4
+Ojisan to Marshmallow,8
+One Punch Man,10
+One Punch Man 2nd Season,8
+Ore Monogatari!!,10
+Oshiete! Galko-chan,9
+Overlord,9
+Overlord II,9
+Overlord III,8
+Peach Girl,8
+Plastic Memories,9
+Poputepipikku,9
+Ramen Daisuki Koizumi-san,6
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
+Shingeki no Kyojin,10
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,8
+Shingeki no Kyojin Season 3 Part 2,9
+Sora yori mo Tooi Basho,10
+Soul Eater,7
+SSSS.Gridman,7
+Steins;Gate,9
+Sword Art Online,8
+Sword Art Online Alternative: Gun Gale Online,8
+Sword Art Online II,7
+Tate no Yuusha no Nariagari,9
+Tengen Toppa Gurren Lagann,10
+Tensei shitara Slime Datta Ken,9
+Toji no Miko,6
+Tokyo Ghoul,5
+Trigun,10
+Uma Musume: Pretty Derby (TV),8
+Yakitate!! Japan,7
+Yowamushi Pedal,9
+Yowamushi Pedal: Glory Line,9
+Yowamushi Pedal: Grande Road,9
+Yowamushi Pedal: New Generation,9
+Yuri!!! on Ice,10
+Yuru Camp△,10
+Zombieland Saga,-

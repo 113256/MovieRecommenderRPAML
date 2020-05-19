@@ -1,0 +1,47 @@
+﻿Akame ga Kill!,7
+Angel Beats!,7
+Ao no Exorcist: Kyoto Fujouou-hen,7
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,9
+Boku no Hero Academia 3rd Season,8
+Boku no Hero Academia 4th Season,10
+Code Geass: Hangyaku no Lelouch,9
+Dragon Ball Super,8
+Dragon Ball Z,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
+Enen no Shouboutai,8
+Fairy Tail,7
+Fairy Tail (2014),8
+Fairy Tail: Final Series,9
+Fate/stay night: Unlimited Blade Works,6
+Fate/stay night: Unlimited Blade Works 2nd Season,7
+Fate/Zero,10
+Fate/Zero 2nd Season,10
+Fullmetal Alchemist,7
+Fullmetal Alchemist: Brotherhood,9
+Gakusen Toshi Asterisk,5
+Guilty Crown,9
+Hunter x Hunter (2011),8
+Kaze no Stigma,6
+Kenja no Mago,7
+Koutetsujou no Kabaneri,4
+Nanatsu no Taizai,8
+Naruto,8
+Naruto: Shippuuden,9
+One Punch Man,7
+Owari no Seraph,8
+Rakudai Kishi no Cavalry,7
+Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,8
+Shingeki no Kyojin,9
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,7
+Shingeki no Kyojin Season 3 Part 2,10
+Steins;Gate,10
+Sword Art Online,5
+Sword Art Online II,3
+Sword Art Online: Alicization,7
+Sword Art Online: Alicization - War of Underworld,6
+Tokyo Ghoul,7
+Tokyo Ghoul:re,6
+Trinity Seven,6
+Zero no Tsukaima,7

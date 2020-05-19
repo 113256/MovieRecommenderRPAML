@@ -1,0 +1,124 @@
+﻿22/7,6
+3-gatsu no Lion,9
+3-gatsu no Lion 2nd Season,10
+5-toubun no Hanayome,7
+Araburu Kisetsu no Otome-domo yo.,7
+Azur Lane,4
+Bakemonogatari,10
+Beastars,8
+Boku no Hero Academia,7
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,7
+Boku no Hero Academia 4th Season,7
+Bokutachi wa Benkyou ga Dekinai,5
+Bokutachi wa Benkyou ga Dekinai!,7
+Carole & Tuesday,9
+Code Geass: Hangyaku no Lelouch,7
+Code Geass: Hangyaku no Lelouch R2,7
+Cowboy Bebop,5
+Darling in the FranXX,7
+Death Note,8
+Domestic na Kanojo,4
+Dorohedoro,4
+Dr. Stone,5
+Dumbbell Nan Kilo Moteru?,8
+Eizouken ni wa Te wo Dasu na!,6
+Enen no Shouboutai,5
+Fate/Grand Order: Zettai Majuu Sensen Babylonia,9
+Fate/stay night: Unlimited Blade Works,8
+Fate/stay night: Unlimited Blade Works 2nd Season,8
+Fate/Zero,7
+Fate/Zero 2nd Season,9
+Fruits Basket 1st Season,7
+Fullmetal Alchemist,7
+Fullmetal Alchemist: Brotherhood,9
+Girls & Panzer,6
+Goblin Slayer,5
+Grand Blue,7
+Haikyuu!!,6
+Haikyuu!! Second Season,8
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
+Haikyuu!!: To the Top,7
+Hanamonogatari,9
+Heya Camp△,-
+Hinamatsuri,6
+Hitoribocchi no Marumaru Seikatsu,8
+Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,8
+Hunter x Hunter (2011),10
+Id:Invaded,6
+Isekai Cheat Magician,4
+Isekai Quartet,-
+Isekai Quartet 2,-
+Ishuzoku Reviewers,1
+Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,7
+Jibaku Shounen Hanako-kun,5
+K-On!,8
+K-On!!,8
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
+Kaichou wa Maid-sama!,9
+Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?,6
+Keijo!!!!!!!!,8
+Kenja no Mago,4
+Kill la Kill,10
+Kimetsu no Yaiba,7
+Kiseijuu: Sei no Kakuritsu,6
+Koisuru Asteroid,5
+Kono Subarashii Sekai ni Shukufuku wo!,9
+Kono Subarashii Sekai ni Shukufuku wo! 2,9
+Kyokou Suiri,5
+Made in Abyss,9
+Mahou Shoujo Madoka★Magica,9
+Megalo Box,7
+Midara na Ao-chan wa Benkyou ga Dekinai,8
+Mob Psycho 100,7
+Mob Psycho 100 II,9
+Monogatari Series: Second Season,10
+Monster Musume no Iru Nichijou,5
+Nekomonogatari: Kuro,10
+Nekopara,5
+Neon Genesis Evangelion,6
+Nisemonogatari,9
+No Game No Life,9
+No Guns Life,5
+One Punch Man,7
+One Punch Man 2nd Season,4
+Overlord,9
+Overlord II,4
+Overlord III,5
+Owarimonogatari,10
+Owarimonogatari 2nd Season,10
+Plastic Memories,7
+Re:Creators,9
+Re:Zero kara Hajimeru Isekai Seikatsu,10
+Rifle Is Beautiful,4
+Runway de Waratte,8
+Sarazanmai,7
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
+Senryuu Shoujo,5
+Sewayaki Kitsune no Senko-san,6
+Shingeki no Kyojin,9
+Shingeki no Kyojin Season 2,10
+Shingeki no Kyojin Season 3,10
+Shingeki no Kyojin Season 3 Part 2,10
+Shinmai Maou no Testament,7
+Shinmai Maou no Testament Burst,5
+Shoumetsu Toshi,3
+Somali to Mori no Kamisama,6
+Sora yori mo Tooi Basho,10
+Sounan Desu ka?,6
+Steins;Gate,10
+Tate no Yuusha no Nariagari,7
+Tejina-senpai,6
+Tengen Toppa Gurren Lagann,7
+Tensei shitara Slime Datta Ken,8
+Toradora!,10
+Tsukimonogatari,9
+Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?,4
+Vinland Saga,8
+Violet Evergarden,10
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,9
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,10
+Yakusoku no Neverland,9
+Youjo Senki,6
+Yuragi-sou no Yuuna-san,7
+Yuru Camp△,8

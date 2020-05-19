@@ -1,0 +1,141 @@
+﻿5-toubun no Hanayome,7
+Absolute Duo,6
+Aho Girl,7
+Akame ga Kill!,10
+Amagi Brilliant Park,8
+Angel Beats!,10
+Ao no Exorcist,7
+Asobi Asobase,8
+Back Street Girls: Gokudolls,7
+Bakemonogatari,9
+Berserk,5
+Berserk 2nd Season,7
+Boku dake ga Inai Machi,9
+Boku no Hero Academia,9
+Boku no Hero Academia 2nd Season,9
+Boku no Hero Academia 3rd Season,9
+Boku no Hero Academia 4th Season,10
+Bokutachi wa Benkyou ga Dekinai,8
+Bokutachi wa Benkyou ga Dekinai!,7
+Btooom!,7
+Charlotte,9
+Citrus,7
+Code Geass: Hangyaku no Lelouch,10
+Code Geass: Hangyaku no Lelouch R2,10
+Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,7
+Darling in the FranXX,7
+Deadman Wonderland,8
+Death Note,10
+Devils Line,5
+Domestic na Kanojo,8
+Dororo,8
+Dragon Ball Super,7
+Drifters,8
+Durarara!!,8
+Eromanga-sensei,7
+Fuuka,6
+Gamers!,8
+Grand Blue,9
+Grisaia no Kajitsu,9
+Grisaia no Rakuen,9
+Haikyuu!!,8
+Haikyuu!! Second Season,8
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8
+Hajimete no Gal,6
+Hanamonogatari,8
+Hataraku Maou-sama!,8
+High Score Girl,9
+High Score Girl II,8
+Hunter x Hunter (2011),10
+Hyouka,7
+Inuyashiki,7
+Irozuku Sekai no Ashita kara,8
+Isekai Maou to Shoukan Shoujo no Dorei Majutsu,8
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Kaichou wa Maid-sama!,8
+Kakegurui,8
+Kakegurui××,8
+Kantai Collection: KanColle,4
+Kekkai Sensen,8
+Kenja no Mago,6
+Kenpuu Denki Berserk,9
+Kimetsu no Yaiba,10
+Kobayashi-san Chi no Maid Dragon,9
+Kokoro Connect,8
+Kono Subarashii Sekai ni Shukufuku wo!,9
+Kono Subarashii Sekai ni Shukufuku wo! 2,9
+Kuroko no Basket,9
+Kuroko no Basket 2nd Season,9
+Kuroko no Basket 3rd Season,10
+Kuzu no Honkai,6
+Kyoukai no Kanata,7
+Mahou Shoujo Madoka★Magica,8
+Mahouka Koukou no Rettousei,8
+Masamune-kun no Revenge,8
+Midara na Ao-chan wa Benkyou ga Dekinai,7
+Mirai Nikki,10
+Mob Psycho 100,9
+Mob Psycho 100 II,9
+Monogatari Series: Second Season,9
+Nanatsu no Taizai,7
+Nanatsu no Taizai: Imashime no Fukkatsu,8
+Naruto,8
+Naruto: Shippuuden,8
+Nekomonogatari: Kuro,8
+Neon Genesis Evangelion,9
+Netoge no Yome wa Onnanoko ja Nai to Omotta?,6
+Nisemonogatari,8
+No Game No Life,8
+Noragami,9
+Noragami Aragoto,9
+One Punch Man,10
+Orange,7
+Owari no Seraph,7
+Owarimonogatari,9
+Owarimonogatari 2nd Season,10
+Plastic Memories,10
+Re:Zero kara Hajimeru Isekai Seikatsu,9
+Rosario to Vampire,7
+Rosario to Vampire Capu2,7
+Saiki Kusuo no Ψ-nan,10
+Saiki Kusuo no Ψ-nan 2,10
+Sakamoto Desu ga?,7
+Satsuriku no Tenshi,2
+Seiren,6
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
+Shigatsu wa Kimi no Uso,10
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,8
+Shingeki no Kyojin,9
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,9
+Shingeki no Kyojin Season 3 Part 2,10
+Shinmai Maou no Testament,7
+Shinmai Maou no Testament Burst,7
+Shokugeki no Souma,9
+Shokugeki no Souma: Ni no Sara,9
+Shokugeki no Souma: San no Sara,9
+Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,9
+Steins;Gate,10
+Steins;Gate 0,10
+Strike the Blood,7
+Sword Art Online,8
+Tate no Yuusha no Nariagari,9
+Tensei shitara Slime Datta Ken,8
+Tokyo Ghoul,9
+Tokyo Ghoul √A,8
+Tokyo Ghoul:re,5
+Toradora!,9
+Tsuki ga Kirei,9
+Tsukimonogatari,8
+Tsurezure Children,8
+Violet Evergarden,10
+Yagate Kimi ni Naru,9
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
+Yakusoku no Neverland,-
+Yamada-kun to 7-nin no Majo (TV),8
+Yojouhan Shinwa Taikei,8
+Yosuga no Sora: In Solitude Where We Are Least Alone.,6
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),9
+Yuru Yuri,8
+Yuru Yuri♪♪,8

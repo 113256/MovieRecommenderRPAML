@@ -1,0 +1,115 @@
+Akame ga Kill!,8
+Angel Beats!,9
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
+Another,8
+Berserk,6
+Berserk 2nd Season,6
+Blood-C,7
+Boku dake ga Inai Machi,8
+Charlotte,8
+Chuunibyou demo Koi ga Shitai!,8
+Chuunibyou demo Koi ga Shitai! Ren,8
+Clannad,8
+Clannad: After Story,9
+Darling in the FranXX,8
+Dog Days,7
+Dog Days',7
+Dog Days'',7
+Dororo,8
+Dr. Stone,8
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,7
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,8
+Elfen Lied,7
+Enen no Shouboutai,7
+Eromanga-sensei,8
+Gabriel DropOut,8
+Goblin Slayer,8
+Grand Blue,9
+Heya Camp△,7
+High School DxD,9
+High School DxD BorN,8
+High School DxD Hero,8
+High School DxD New,8
+Higurashi no Naku Koro ni,9
+Higurashi no Naku Koro ni Kai,9
+Hitoribocchi no Marumaru Seikatsu,8
+Hunter x Hunter (2011),10
+Hyouka,8
+Isekai Maou to Shoukan Shoujo no Dorei Majutsu,7
+Isekai Quartet,8
+Isekai Quartet 2,8
+Ishuzoku Reviewers,8
+Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,7
+K-On!,8
+K-On!!,8
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
+Kanata no Astra,9
+Karakai Jouzu no Takagi-san,8
+Karakai Jouzu no Takagi-san 2,8
+Kimetsu no Yaiba,10
+Kiseijuu: Sei no Kakuritsu,9
+Kobayashi-san Chi no Maid Dragon,7
+Koisuru Asteroid,7
+Kono Subarashii Sekai ni Shukufuku wo!,9
+Kono Subarashii Sekai ni Shukufuku wo! 2,9
+Kyokou Suiri,8
+Kyoukai no Kanata,8
+Made in Abyss,10
+Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV),8
+Mahou Shoujo Madoka★Magica,9
+Mob Psycho 100,8
+Mob Psycho 100 II,8
+Motto To LOVE-Ru,8
+Nekopara,8
+No Game No Life,8
+Ore wo Suki nano wa Omae dake ka yo,7
+Overlord,8
+Overlord II,8
+Overlord III,9
+Plastic Memories,8
+Prison School,7
+Re:Zero kara Hajimeru Isekai Seikatsu,10
+Ryuugajou Nanana no Maizoukin (TV),7
+Saikin Imouto no Yousu ga Chotto Okashiinda ga.,7
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,7
+Sewayaki Kitsune no Senko-san,7
+Shichisei no Subaru,7
+Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,7
+Shingeki no Kyojin,9
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,9
+Shingeki no Kyojin Season 3 Part 2,10
+Shinsekai yori,8
+Somali to Mori no Kamisama,9
+Sora no Otoshimono,8
+Sora no Otoshimono: Forte,8
+Sora yori mo Tooi Basho,9
+Steins;Gate,9
+Steins;Gate 0,9
+Sunohara-sou no Kanrinin-san,7
+Sword Art Online,8
+Sword Art Online Alternative: Gun Gale Online,7
+Sword Art Online II,8
+Sword Art Online: Alicization,8
+Sword Art Online: Alicization - War of Underworld,9
+Tate no Yuusha no Nariagari,9
+Tejina-senpai,6
+Tensei shitara Slime Datta Ken,8
+To LOVE-Ru,7
+To LOVE-Ru Darkness,8
+To LOVE-Ru Darkness 2nd,8
+Toradora!,8
+Vinland Saga,8
+Violet Evergarden,9
+Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,7
+Yakusoku no Neverland,9
+Yosuga no Sora: In Solitude Where We Are Least Alone.,6
+Youjo Senki,6
+Yuragi-sou no Yuuna-san,7
+Yuru Camp△,8
+Zero no Tsukaima,8
+Zero no Tsukaima F,8
+Zero no Tsukaima: Futatsuki no Kishi,8
+Zero no Tsukaima: Princesses no Rondo,8
+Zombieland Saga,8

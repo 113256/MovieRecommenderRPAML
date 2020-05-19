@@ -1,0 +1,58 @@
+﻿Akame ga Kill!,7
+Angel Beats!,6
+Another,7
+Black Bullet,8
+Boku dake ga Inai Machi,6
+Boku no Hero Academia,6
+Boku no Hero Academia 2nd Season,7
+Boku no Hero Academia 3rd Season,7
+Clannad,8
+Clannad: After Story,8
+Deadman Wonderland,5
+Death Note,5
+Dororo,8
+Dr. Stone,6
+Fairy Tail,4
+Fairy Tail (2014),4
+Fullmetal Alchemist: Brotherhood,7
+Great Teacher Onizuka,9
+Initial D Final Stage,9
+Initial D First Stage,9
+Initial D Fourth Stage,9
+Initial D Second Stage,9
+Kimetsu no Yaiba,7
+Kiseijuu: Sei no Kakuritsu,5
+Kuroko no Basket,8
+Kuroko no Basket 2nd Season,8
+Kuroko no Basket 3rd Season,8
+Mahouka Koukou no Rettousei,4
+Masamune-kun no Revenge,4
+Megalo Box,10
+Mirai Nikki,7
+Mob Psycho 100,7
+Mob Psycho 100 II,7
+Nanatsu no Taizai,7
+Nanatsu no Taizai: Imashime no Fukkatsu,7
+Nisekoi,6
+No Game No Life,9
+Noragami,4
+Noragami Aragoto,4
+One Punch Man,7
+One Punch Man 2nd Season,6
+Psycho-Pass,3
+Re:Zero kara Hajimeru Isekai Seikatsu,7
+Samurai Champloo,8
+School Days,1
+Shingeki no Kyojin,3
+Shokugeki no Souma,5
+Shokugeki no Souma: Ni no Sara,5
+Shokugeki no Souma: San no Sara,5
+Strike the Blood,8
+Sword Art Online,4
+Sword Art Online II,3
+Tokyo Ghoul,7
+Tokyo Ghoul √A,6
+Tonari no Kaibutsu-kun,6
+Toradora!,5
+Vinland Saga,6
+Yamada-kun to 7-nin no Majo (TV),6

@@ -1,0 +1,133 @@
+5-toubun no Hanayome,8
+Afro Samurai,9
+Aho Girl,8
+Air,6
+Aku no Hana,8
+Aldnoah.Zero,7
+Aldnoah.Zero 2nd Season,7
+Angel Beats!,8
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
+Ano Natsu de Matteru,6
+Another,7
+Ao Haru Ride,6
+B-gata H-kei,7
+Baccano!,8
+Banana Fish,9
+Bananya,8
+Black Lagoon,8
+Black Lagoon: The Second Barrage,8
+Blend S,7
+Blood+,7
+Boku no Hero Academia,8
+Boku wa Tomodachi ga Sukunai,7
+Boku wa Tomodachi ga Sukunai Next,6
+Bokura wa Minna Kawai-sou,7
+Bokutachi wa Benkyou ga Dekinai,8
+Bokutachi wa Benkyou ga Dekinai!,7
+Chuunibyou demo Koi ga Shitai!,6
+Chuunibyou demo Koi ga Shitai! Ren,8
+Clannad,8
+Clannad: After Story,10
+Claymore,8
+Cowboy Bebop,10
+D.C.: Da Capo,6
+D.C.II S.S.: Da Capo II Second Season,6
+D.C.II: Da Capo II,6
+D.C.S.S: Da Capo Second Season,6
+Darker than Black: Kuro no Keiyakusha,7
+Darker than Black: Ryuusei no Gemini,7
+Death Note,7
+Durarara!!,8
+Durarara!!x2 Shou,7
+ef: A Tale of Melodies.,7
+ef: A Tale of Memories.,7
+Elfen Lied,7
+Ergo Proxy,7
+Full Metal Panic!,9
+Full Metal Panic! The Second Raid,7
+Full Metal Panic? Fumoffu,8
+Fullmetal Alchemist,6
+Fullmetal Alchemist: Brotherhood,8
+Girls Bravo: First Season,7
+Girls Bravo: Second Season,6
+Glasslip,5
+Grisaia no Kajitsu,3
+Guilty Crown,4
+H2O: Footprints in the Sand,6
+Hachimitsu to Clover,8
+Hachimitsu to Clover II,8
+Hagure Yuusha no Aesthetica,5
+Hajimete no Gal,5
+Hamatora The Animation,6
+Higashi no Eden,7
+Highschool of the Dead,6
+Himouto! Umaru-chan,6
+Hyouka,8
+InuYasha (TV),6
+IS: Infinite Stratos,6
+Isekai Maou to Shoukan Shoujo no Dorei Majutsu,7
+Itazura na Kiss,3
+Itou Junji: Collection,8
+Kaichou wa Maid-sama!,8
+Kanon (2006),6
+Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?,6
+Kaze no Stigma,5
+Kimi ga Nozomu Eien,7
+KimiKiss Pure Rouge,7
+Kobayashi-san Chi no Maid Dragon,7
+Mahouka Koukou no Rettousei,6
+Megalo Box,8
+Mirai Nikki,6
+Murenase! Seton Gakuen,8
+Myself; Yourself,5
+Nazo no Kanojo X,7
+NHK ni Youkoso!,-
+Nisekoi,7
+Nisekoi:,6
+No Game No Life,7
+One Punch Man,7
+Ookami to Koushinryou,7
+Ookami to Koushinryou II,5
+Ore no Imouto ga Konnani Kawaii Wake ga Nai,7
+Ore no Kanojo to Osananajimi ga Shuraba Sugiru,6
+Overlord,8
+Overlord II,7
+Overlord III,6
+Phantom: Requiem for the Phantom,8
+Plastic Memories,7
+Poputepipikku,7
+Re:␣Hamatora,5
+Rec,8
+Rosario to Vampire,4
+Saki,6
+Saki Zenkoku-hen,6
+Sakura-sou no Pet na Kanojo,8
+Samurai Champloo,8
+School Days,4
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
+Serial Experiments Lain,9
+Shakugan no Shana,6
+Shigatsu wa Kimi no Uso,8
+Sora no Otoshimono,6
+Soul Eater,8
+Sounan Desu ka?,6
+Sukitte Ii na yo.,9
+Sunabouzu,7
+Suzuka,7
+Suzumiya Haruhi no Yuuutsu,8
+Suzumiya Haruhi no Yuuutsu (2009),7
+Sword Art Online,6
+Sword Art Online II,7
+Tejina-senpai,6
+Tengen Toppa Gurren Lagann,9
+Tokimeki Memorial: Only Love,6
+Tonari no Kaibutsu-kun,8
+Toradora!,9
+Trigun,8
+True Tears,8
+Uma Musume: Pretty Derby (TV),5
+White Album 2,7
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,7
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,7
+Yosuga no Sora: In Solitude Where We Are Least Alone.,5
+Yuri!!! on Ice,8

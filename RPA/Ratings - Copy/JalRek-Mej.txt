@@ -1,0 +1,110 @@
+11eyes,4
+5-toubun no Hanayome,10
+Akame ga Kill!,7
+Another,8
+Ao no Exorcist,8
+Boku dake ga Inai Machi,10
+Boku no Hero Academia,7
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,8
+Boku no Hero Academia 4th Season,8
+Boku wa Tomodachi ga Sukunai,8
+Boku wa Tomodachi ga Sukunai Next,7
+Btooom!,9
+Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou,8
+Charlotte,9
+Code Geass: Hangyaku no Lelouch,9
+Code Geass: Hangyaku no Lelouch R2,10
+Cowboy Bebop,9
+Darling in the FranXX,8
+Darwin's Game,7
+Death March kara Hajimaru Isekai Kyousoukyoku,5
+Death Parade,9
+Domestic na Kanojo,6
+Dr. Stone,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,7
+Evil or Live,6
+Fruits Basket 1st Season,8
+Fuuka,3
+Gakusen Toshi Asterisk,2
+Gakusen Toshi Asterisk 2nd Season,1
+Gamers!,7
+Goblin Slayer,9
+Gokukoku no Brynhildr,6
+Grisaia no Kajitsu,6
+Hagure Yuusha no Aesthetica,6
+Hajimete no Gal,8
+Hidan no Aria,6
+High School DxD,8
+High School DxD BorN,7
+High School DxD New,7
+Highschool of the Dead,7
+Hoshizora e Kakaru Hashi,7
+Hundred,6
+Hyouka,10
+Ichiban Ushiro no Daimaou,7
+Isekai Maou to Shoukan Shoujo no Dorei Majutsu,6
+Isekai wa Smartphone to Tomo ni.,3
+Itsuka Tenma no Kuro Usagi,6
+Kanojo ga Flag wo Oraretara,3
+Kaze no Stigma,6
+Kenja no Mago,2
+Kimetsu no Yaiba,9
+Kono Subarashii Sekai ni Shukufuku wo!,7
+Kono Subarashii Sekai ni Shukufuku wo! 2,7
+Kuusen Madoushi Kouhosei no Kyoukan,6
+Lance N' Masques,4
+Madan no Ou to Vanadis,5
+Mahouka Koukou no Rettousei,8
+Maken-Ki!,1
+Maoyuu Maou Yuusha,3
+Mirai Nikki,7
+Monster Musume no Iru Nichijou,7
+Nisekoi,8
+Nisekoi:,7
+No Game No Life,7
+Oniichan dakedo Ai sae Areba Kankeinai yo ne!,6
+Ore ga Ojousama Gakkou ni Shomin Sample Toshite Gets♥Sareta Ken,7
+Ore wo Suki nano wa Omae dake ka yo,8
+Ousama Game The Animation,1
+Owari no Seraph,8
+Owari no Seraph: Nagoya Kessen-hen,8
+Rail Wars!,7
+Rakudai Kishi no Cavalry,7
+Re:Zero kara Hajimeru Isekai Seikatsu,7
+ReLIFE,6
+Renai Boukun,1
+Rokudenashi Majutsu Koushi to Akashic Records,5
+School Days,2
+Seiken Tsukai no World Break,6
+Seikoku no Dragonar,5
+Seikon no Qwaser,7
+Seikon no Qwaser II,7
+Seireitsukai no Blade Dance,5
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
+Seto no Hanayome,7
+Shigatsu wa Kimi no Uso,9
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,8
+Shinmai Maou no Testament,5
+Shinmai Maou no Testament Burst,5
+Shokugeki no Souma,9
+Shokugeki no Souma: Ni no Sara,8
+Shokugeki no Souma: San no Sara,8
+Shokugeki no Souma: Shin no Sara,8
+Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,7
+Sousei no Onmyouji,5
+Strike the Blood,1
+Sword Art Online,4
+Sword Art Online Alternative: Gun Gale Online,5
+Tate no Yuusha no Nariagari,10
+Tensei shitara Slime Datta Ken,8
+Tokyo Ghoul,8
+Tokyo Ghoul √A,4
+Tokyo Ghoul:re,6
+Tokyo Ghoul:re 2nd Season,7
+Toradora!,9
+Trinity Seven,6
+Walkure Romanze,5
+Yosuga no Sora: In Solitude Where We Are Least Alone.,8
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),7

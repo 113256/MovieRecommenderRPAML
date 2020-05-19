@@ -1,0 +1,48 @@
+﻿Air,8
+Amagi Brilliant Park,8
+Angel Beats!,9
+Azumanga Daioh,9
+Chuunibyou demo Koi ga Shitai!,8
+Chuunibyou demo Koi ga Shitai! Ren,7
+Clannad,9
+Clannad: After Story,10
+Gabriel DropOut,7
+Gakkougurashi!,8
+Heya Camp△,7
+Hibike! Euphonium,8
+Hibike! Euphonium 2,9
+Hidamari Sketch,7
+Hidamari Sketch x 365,7
+Hidamari Sketch x ☆☆☆,8
+Hidamari Sketch x Honeycomb,8
+Hyouka,7
+Ichigo Mashimaro,7
+K-On!,8
+K-On!!,9
+Kanon,7
+Kanon (2006),9
+Karakai Jouzu no Takagi-san,8
+Karakai Jouzu no Takagi-san 2,8
+Kill Me Baby,7
+Kobayashi-san Chi no Maid Dragon,9
+Lucky☆Star,8
+Mahou Shoujo Madoka★Magica,10
+Nagato Yuki-chan no Shoushitsu,8
+Nazo no Kanojo X,9
+New Game!,8
+New Game!!,8
+NHK ni Youkoso!,10
+Nichijou,9
+Rec,8
+Senryuu Shoujo,8
+Suzumiya Haruhi no Yuuutsu,9
+Suzumiya Haruhi no Yuuutsu (2009),7
+Tamako Market,9
+Tonari no Seki-kun,7
+Toradora!,10
+Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,8
+Yuru Camp△,8
+Yuru Yuri,8
+Yuru Yuri San☆Hai!,8
+Yuru Yuri♪♪,8
+Yuyushiki,6

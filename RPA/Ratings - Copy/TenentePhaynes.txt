@@ -1,0 +1,25 @@
+﻿Angel Beats!,6
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,7
+Death Note,9
+Dragon Ball Super,6
+Elfen Lied,7
+Fullmetal Alchemist: Brotherhood,10
+Hunter x Hunter (2011),10
+Inuyashiki,8
+JoJo no Kimyou na Bouken (TV),10
+Nanatsu no Taizai,5
+Neon Genesis Evangelion,9
+Shigatsu wa Kimi no Uso,6
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,8
+Shingeki no Kyojin Season 3 Part 2,8
+Shokugeki no Souma,7
+Sword Art Online,7
+Sword Art Online Alternative: Gun Gale Online,7
+Sword Art Online II,7
+Tokyo Ghoul,7
+Yakusoku no Neverland,8
+Zankyou no Terror,8

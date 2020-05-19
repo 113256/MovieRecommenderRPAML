@@ -1,0 +1,63 @@
+﻿Absolute Duo,2
+Ansatsu Kyoushitsu,4
+Ansatsu Kyoushitsu 2nd Season,5
+Bakuman.,4
+Bleach,2
+Boku no Hero Academia,4
+Boku no Hero Academia 2nd Season,5
+Boku no Hero Academia 3rd Season,5
+Bungou Stray Dogs,4
+Bungou Stray Dogs 2nd Season,3
+Bungou Stray Dogs 3rd Season,3
+Code Geass: Hangyaku no Lelouch,4
+Code Geass: Hangyaku no Lelouch R2,4
+Death Note,5
+Death Parade,5
+Dr. Stone,7
+Dragon Ball,5
+Dragon Ball GT,3
+Dragon Ball Super,2
+Dragon Ball Z,2
+Dumbbell Nan Kilo Moteru?,3
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,2
+Fairy Tail,2
+Fairy Tail (2014),2
+Fairy Tail: Final Series,1
+Fullmetal Alchemist: Brotherhood,8
+Hellsing,3
+Hunter x Hunter,5
+Hunter x Hunter (2011),6
+Isekai Maou to Shoukan Shoujo no Dorei Majutsu,2
+JoJo no Kimyou na Bouken (TV),5
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,4
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,3
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,6
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,5
+Kill la Kill,6
+Kimetsu no Yaiba,4
+Mirai Nikki,2
+Nanatsu no Taizai,4
+Nanatsu no Taizai: Imashime no Fukkatsu,5
+Naruto: Shippuuden,2
+Neon Genesis Evangelion,6
+No Game No Life,5
+One Punch Man,2
+Overlord,3
+Overlord II,3
+Overlord III,2
+Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,1
+Shokugeki no Souma,4
+Shokugeki no Souma: Ni no Sara,5
+Shokugeki no Souma: San no Sara,4
+Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,5
+Shokugeki no Souma: Shin no Sara,5
+Soul Eater,4
+Steins;Gate,4
+Sword Art Online,1
+Sword Art Online Alternative: Gun Gale Online,2
+Tengen Toppa Gurren Lagann,4
+Tokyo Ghoul,4
+Tokyo Ghoul √A,4
+Tokyo Ghoul:re,3
+Trinity Seven,5
+Youjo Senki,4

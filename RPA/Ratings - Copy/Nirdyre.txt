@@ -1,0 +1,65 @@
+Absolute Duo,6
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
+Another,8
+Ao no Exorcist,7
+Barakamon,9
+Black Bullet,7
+Boku dake ga Inai Machi,9
+Boku no Hero Academia,8
+Boku no Hero Academia 2nd Season,7
+Boku no Hero Academia 3rd Season,8
+Btooom!,6
+Charlotte,7
+Claymore,8
+Deadman Wonderland,7
+Death March kara Hajimaru Isekai Kyousoukyoku,7
+Fairy Gone,5
+Fate/stay night: Unlimited Blade Works,10
+Fate/stay night: Unlimited Blade Works 2nd Season,9
+Fate/Zero,8
+Fate/Zero 2nd Season,8
+Free!,7
+Free!: Eternal Summer,7
+Gate: Jieitai Kanochi nite Kaku Tatakaeri,8
+Haikyuu!!,8
+Hanasaku Iroha,8
+Houseki no Kuni (TV),9
+Isekai Quartet,8
+Kekkaishi (TV),8
+Kimetsu no Yaiba,9
+Kiznaiver,7
+Kono Subarashii Sekai ni Shukufuku wo!,8
+Kono Subarashii Sekai ni Shukufuku wo! 2,8
+Kyoukai no Kanata,8
+Log Horizon,9
+Log Horizon 2nd Season,9
+Made in Abyss,7
+Nanatsu no Taizai,8
+Nanatsu no Taizai: Imashime no Fukkatsu,8
+No Game No Life,8
+Non Non Biyori,8
+Noragami,9
+Nurarihyon no Mago,8
+Nurarihyon no Mago: Sennen Makyou,8
+One Punch Man,9
+Overlord,8
+Overlord III,8
+Rokka no Yuusha,8
+Sengoku Basara,7
+Sengoku Basara Two,7
+Sengoku Basara: Judge End,7
+Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,8
+Shingeki no Kyojin,7
+SKET Dance,8
+Steins;Gate,10
+Sword Art Online,7
+Tanaka-kun wa Itsumo Kedaruge,8
+Tate no Yuusha no Nariagari,10
+Tensei shitara Slime Datta Ken,9
+Terra Formars,7
+Tokyo Ghoul,7
+Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?,7
+Violet Evergarden,8
+Yakusoku no Neverland,8
+Youjo Senki,8
+Yuru Camp△,-

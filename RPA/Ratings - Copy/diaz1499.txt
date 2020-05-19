@@ -1,0 +1,149 @@
+﻿3-gatsu no Lion,9
+3-gatsu no Lion 2nd Season,9
+Akame ga Kill!,6
+Angel Beats!,8
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
+Another,9
+Ansatsu Kyoushitsu,8
+Ansatsu Kyoushitsu 2nd Season,8
+Ao no Exorcist,6
+Ao no Exorcist: Kyoto Fujouou-hen,5
+Araburu Kisetsu no Otome-domo yo.,6
+Baccano!,9
+Bakemonogatari,10
+Black Lagoon,9
+Bleach,8
+Blend S,6
+Blood-C,7
+Boku dake ga Inai Machi,8
+Boku no Hero Academia,7
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,8
+Boku no Hero Academia 4th Season,6
+Bokutachi wa Benkyou ga Dekinai,8
+Bokutachi wa Benkyou ga Dekinai!,7
+Bungou Stray Dogs,8
+Bungou Stray Dogs 2nd Season,7
+Bungou Stray Dogs 3rd Season,8
+Captain Tsubasa,6
+Chuunibyou demo Koi ga Shitai!,6
+Clannad,8
+Clannad: After Story,10
+Code Geass: Hangyaku no Lelouch,10
+Code Geass: Hangyaku no Lelouch R2,10
+Cowboy Bebop,9
+Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,7
+Darling in the FranXX,5
+Deadman Wonderland,6
+Death Note,9
+Densetsu no Yuusha no Densetsu,7
+Dororo,8
+Dr. Stone,7
+Dragon Ball Kai,6
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,7
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,7
+Durarara!!,8
+Durarara!!x2 Ketsu,8
+Durarara!!x2 Shou,8
+Durarara!!x2 Ten,8
+Elfen Lied,8
+Eromanga-sensei,5
+Fairy Tail,5
+Fairy Tail (2014),6
+Fairy Tail: Final Series,4
+Fate/Zero,8
+Fate/Zero 2nd Season,8
+Flip Flappers,6
+Fruits Basket 1st Season,8
+Fullmetal Alchemist,7
+Fullmetal Alchemist: Brotherhood,9
+Gabriel DropOut,7
+Gekkan Shoujo Nozaki-kun,6
+Haikyuu!! Second Season,8
+Hanamonogatari,7
+Higurashi no Naku Koro ni,8
+Higurashi no Naku Koro ni Kai,8
+Himouto! Umaru-chan,6
+Hunter x Hunter (2011),9
+Hyouka,8
+JoJo no Kimyou na Bouken (TV),7
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,6
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
+K,6
+K-On!,7
+K-On!!,6
+K: Return of Kings,7
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
+Katanagatari,9
+Katekyo Hitman Reborn!,7
+Kill la Kill,9
+Kimetsu no Yaiba,8
+Kobayashi-san Chi no Maid Dragon,7
+Kyousou Giga (TV),7
+Made in Abyss,8
+Magi: Sinbad no Bouken (TV),6
+Magi: The Kingdom of Magic,7
+Magi: The Labyrinth of Magic,7
+Mahou Shoujo Madoka★Magica,8
+Mekakucity Actors,5
+Mirai Nikki,5
+Mob Psycho 100,7
+Mob Psycho 100 II,8
+Monogatari Series: Second Season,9
+Nanatsu no Taizai,7
+Naruto,8
+Naruto: Shippuuden,7
+Nekomonogatari: Kuro,8
+Neon Genesis Evangelion,8
+Nisekoi,7
+Nisekoi:,7
+Nisemonogatari,8
+No Game No Life,7
+Noragami,7
+Noragami Aragoto,5
+One Punch Man,7
+Ookami to Koushinryou,8
+Ookami to Koushinryou II,7
+Owari no Seraph,7
+Owari no Seraph: Nagoya Kessen-hen,7
+Owarimonogatari,8
+Owarimonogatari 2nd Season,8
+Plastic Memories,8
+ReLIFE,6
+Sakura-sou no Pet na Kanojo,7
+Samurai Champloo,7
+Shigatsu wa Kimi no Uso,9
+Shiki,9
+Shingeki no Kyojin,8
+Shingeki no Kyojin Season 2,8
+Shingeki no Kyojin Season 3,9
+Shingeki no Kyojin Season 3 Part 2,9
+Shokugeki no Souma,7
+Shokugeki no Souma: Ni no Sara,8
+Shokugeki no Souma: San no Sara,7
+Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,7
+Soul Eater,7
+Space☆Dandy,7
+Steins;Gate,10
+Steins;Gate 0,6
+Sword Art Online,3
+Sword Art Online Alternative: Gun Gale Online,3
+Tengen Toppa Gurren Lagann,8
+Terra Formars,8
+Terra Formars: Revenge,8
+Toaru Kagaku no Accelerator,6
+Toaru Kagaku no Railgun,6
+Toaru Kagaku no Railgun S,7
+Toaru Majutsu no Index,7
+Toaru Majutsu no Index II,7
+Toaru Majutsu no Index III,6
+Tokyo Ghoul,6
+Tokyo Ghoul √A,5
+Toradora!,9
+Tsukimonogatari,8
+Vinland Saga,8
+Youjo Senki,8
+Zankyou no Terror,6

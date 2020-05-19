@@ -1,0 +1,122 @@
+﻿91 Days,5
+Ajin,6
+Ajin 2nd Season,6
+Akame ga Kill!,4
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,4
+Another,3
+Arslan Senki (TV),7
+Arslan Senki (TV): Fuujin Ranbu,7
+Ballroom e Youkoso,8
+Beastars,9
+Black Bullet,2
+Black Lagoon,8
+Black Lagoon: The Second Barrage,8
+Boku dake ga Inai Machi,7
+Boku no Hero Academia,7
+Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 3rd Season,8
+Boku no Hero Academia 4th Season,6
+Boogiepop wa Warawanai (2019),3
+Bungou Stray Dogs,7
+Bungou Stray Dogs 2nd Season,7
+Bungou Stray Dogs 3rd Season,6
+Claymore,6
+Cowboy Bebop,10
+Darling in the FranXX,5
+Death Note,8
+Death Parade,8
+Dorohedoro,9
+Dororo,8
+Dr. Stone,7
+Dragon Ball,8
+Dragon Ball Super,5
+Dragon Ball Z,9
+Drifters,6
+Eizouken ni wa Te wo Dasu na!,9
+Elfen Lied,2
+Enen no Shouboutai,5
+Fate/stay night: Unlimited Blade Works,5
+Fate/stay night: Unlimited Blade Works 2nd Season,5
+Fate/Zero,8
+Fate/Zero 2nd Season,8
+Fullmetal Alchemist: Brotherhood,10
+Gakkougurashi!,8
+Golden Kamuy,7
+Golden Kamuy 2nd Season,6
+Haikyuu!!,8
+Haikyuu!! Second Season,8
+Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8
+Haikyuu!!: To the Top,7
+Hakata Tonkotsu Ramens,4
+Hanebado!,7
+Hisone to Maso-tan,7
+Hunter x Hunter (2011),9
+Id:Invaded,7
+Inuyashiki,6
+Itou Junji: Collection,1
+JoJo no Kimyou na Bouken (TV),8
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,6
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
+Juuni Taisen,2
+Kaze ga Tsuyoku Fuiteiru,8
+Kill la Kill,8
+Kimetsu no Yaiba,8
+Kiseijuu: Sei no Kakuritsu,7
+Kiznaiver,4
+Kono Subarashii Sekai ni Shukufuku wo!,6
+Koutetsujou no Kabaneri,5
+Made in Abyss,9
+Mahou Shoujo Madoka★Magica,9
+Megalo Box,7
+Mob Psycho 100,8
+Mob Psycho 100 II,10
+Naruto,9
+Naruto: Shippuuden,7
+Neon Genesis Evangelion,10
+Noragami,8
+Noragami Aragoto,6
+One Punch Man,9
+One Punch Man 2nd Season,5
+Orange,3
+Ousama Game The Animation,1
+Owari no Seraph,5
+Psycho-Pass,9
+Psycho-Pass 2,5
+Radiant,6
+Rainbow: Nisha Rokubou no Shichinin,6
+Re:Zero kara Hajimeru Isekai Seikatsu,2
+ReLIFE,5
+Sakamichi no Apollon,9
+Samurai Champloo,10
+Sarazanmai,8
+Shigatsu wa Kimi no Uso,8
+Shigurui,8
+Shingeki no Bahamut: Genesis,7
+Shingeki no Bahamut: Virgin Soul,7
+Shingeki no Kyojin,7
+Shingeki no Kyojin Season 2,9
+Shingeki no Kyojin Season 3,7
+Shingeki no Kyojin Season 3 Part 2,9
+Shouwa Genroku Rakugo Shinjuu,9
+Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,10
+Sidonia no Kishi,8
+Sidonia no Kishi: Daikyuu Wakusei Seneki,7
+Sirius,5
+Somali to Mori no Kamisama,7
+Sora yori mo Tooi Basho,9
+SSSS.Gridman,9
+Steins;Gate,10
+Steins;Gate 0,4
+Sword Art Online,5
+Sword Art Online II,2
+Tengen Toppa Gurren Lagann,10
+Terra Formars,5
+Terra Formars: Revenge,3
+Tokyo Ghoul,5
+Tokyo Ghoul √A,3
+Tokyo Ghoul:re,3
+Vinland Saga,9
+Yakusoku no Neverland,5
+Zankyou no Terror,5

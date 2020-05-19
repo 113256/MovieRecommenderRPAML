@@ -1,0 +1,36 @@
+﻿Beastars,9
+Blend S,10
+Boku no Hero Academia,9
+Boku no Hero Academia 2nd Season,9
+Boku no Hero Academia 3rd Season,8
+Boku no Hero Academia 4th Season,9
+Death Note,8
+Dr. Stone,8
+Dragon Ball,9
+Dragon Ball GT,5
+Dragon Ball Super,8
+Dragon Ball Z,10
+Fullmetal Alchemist: Brotherhood,10
+Hunter x Hunter (2011),10
+JoJo no Kimyou na Bouken (TV),9
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
+JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,10
+JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,10
+JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
+Kill la Kill,10
+Kimetsu no Yaiba,9
+Mob Psycho 100,10
+Mob Psycho 100 II,10
+Nanatsu no Taizai,7
+Nanatsu no Taizai: Imashime no Fukkatsu,7
+Naruto,9
+Neon Genesis Evangelion,10
+One Punch Man,10
+One Punch Man 2nd Season,7
+Saiki Kusuo no Ψ-nan,9
+Shingeki no Kyojin,10
+Shingeki no Kyojin Season 2,10
+Shingeki no Kyojin Season 3,10
+Shingeki no Kyojin Season 3 Part 2,10
+Tengen Toppa Gurren Lagann,10
+Yakusoku no Neverland,9
