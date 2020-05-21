@@ -1,6 +1,6 @@
-﻿Beastars,7
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,10
-Kakegurui,9
-Kakegurui××,9
-Kimetsu no Yaiba,10
+﻿BEASTARS,7
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+KAKEGURUI,9
+KAKEGURUI××,9
+KIMETSU NO YAIBA,10

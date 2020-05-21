@@ -1,46 +1,45 @@
-﻿5-toubun no Hanayome,6
-Chi's Sweet Home: Atarashii Ouchi,6
-Chuunibyou demo Koi ga Shitai!,7
-Darling in the FranXX,8
-Dr. Stone,8
-Dumbbell Nan Kilo Moteru?,6
-Eizouken ni wa Te wo Dasu na!,7
-Gi(a)rlish Number,6
-Goblin Slayer,6
-Haibane Renmei,7
-Hanebado!,7
-Harukana Receive,6
-Hataage! Kemono Michi,7
-Heya Camp△,-
-High Score Girl,7
-High Score Girl II,8
-Hitoribocchi no Marumaru Seikatsu,6
-Houkago Saikoro Club,6
-K-On!,7
-K-On!!,10
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,7
-Kakegurui,7
-Keijo!!!!!!!!,7
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,7
-Mahou Shoujo Madoka★Magica,10
-Natsunagu!,6
-Neon Genesis Evangelion,10
-New Game!,8
-New Game!!,8
-Non Non Biyori,7
-Ore ga Suki nano wa Imouto dakedo Imouto ja Nai,3
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,7
-Serial Experiments Lain,10
-Sewayaki Kitsune no Senko-san,6
-Sora yori mo Tooi Basho,8
-SSSS.Gridman,8
-Steins;Gate,9
-Steins;Gate 0,6
-Tejina-senpai,5
-Toaru Kagaku no Railgun,7
-Usagi Drop,9
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,6
-Yakusoku no Neverland,8
-Yuru Camp△,9
-Zombieland Saga,7
+﻿5-TOUBUN NO HANAYOME,6
+CHI'S SWEET HOME: ATARASHII OUCHI,6
+CHUUNIBYOU DEMO KOI GA SHITAI!,7
+DARLING IN THE FRANXX,8
+DR. STONE,8
+DUMBBELL NAN KILO MOTERU?,6
+EIZOUKEN NI WA TE WO DASU NA!,7
+GI(A)RLISH NUMBER,6
+GOBLIN SLAYER,6
+HAIBANE RENMEI,7
+HANEBADO!,7
+HARUKANA RECEIVE,6
+HATAAGE! KEMONO MICHI,7
+HIGH SCORE GIRL,7
+HIGH SCORE GIRL II,8
+HITORIBOCCHI NO MARUMARU SEIKATSU,6
+HOUKAGO SAIKORO CLUB,6
+K-ON!,7
+K-ON!!,10
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,7
+KAKEGURUI,7
+KEIJO!!!!!!!!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,7
+MAHOU SHOUJO MADOKA★MAGICA,10
+NATSUNAGU!,6
+NEON GENESIS EVANGELION,10
+NEW GAME!,8
+NEW GAME!!,8
+NON NON BIYORI,7
+ORE GA SUKI NANO WA IMOUTO DAKEDO IMOUTO JA NAI,3
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,7
+SERIAL EXPERIMENTS LAIN,10
+SEWAYAKI KITSUNE NO SENKO-SAN,6
+SORA YORI MO TOOI BASHO,8
+SSSS.GRIDMAN,8
+STEINS;GATE,9
+STEINS;GATE 0,6
+TEJINA-SENPAI,5
+TOARU KAGAKU NO RAILGUN,7
+USAGI DROP,9
+WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,6
+YAKUSOKU NO NEVERLAND,8
+YURU CAMP△,9
+ZOMBIELAND SAGA,7

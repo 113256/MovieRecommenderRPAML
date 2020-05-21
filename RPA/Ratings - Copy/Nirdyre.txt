@@ -1,65 +1,65 @@
-Absolute Duo,6
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
-Another,8
-Ao no Exorcist,7
-Barakamon,9
-Black Bullet,7
-Boku dake ga Inai Machi,9
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,8
-Btooom!,6
-Charlotte,7
-Claymore,8
-Deadman Wonderland,7
-Death March kara Hajimaru Isekai Kyousoukyoku,7
-Fairy Gone,5
-Fate/stay night: Unlimited Blade Works,10
-Fate/stay night: Unlimited Blade Works 2nd Season,9
-Fate/Zero,8
-Fate/Zero 2nd Season,8
-Free!,7
-Free!: Eternal Summer,7
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,8
-Haikyuu!!,8
-Hanasaku Iroha,8
-Houseki no Kuni (TV),9
-Isekai Quartet,8
-Kekkaishi (TV),8
-Kimetsu no Yaiba,9
-Kiznaiver,7
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Kyoukai no Kanata,8
-Log Horizon,9
-Log Horizon 2nd Season,9
-Made in Abyss,7
-Nanatsu no Taizai,8
-Nanatsu no Taizai: Imashime no Fukkatsu,8
-No Game No Life,8
-Non Non Biyori,8
-Noragami,9
-Nurarihyon no Mago,8
-Nurarihyon no Mago: Sennen Makyou,8
-One Punch Man,9
-Overlord,8
-Overlord III,8
-Rokka no Yuusha,8
-Sengoku Basara,7
-Sengoku Basara Two,7
-Sengoku Basara: Judge End,7
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,8
-Shingeki no Kyojin,7
-SKET Dance,8
-Steins;Gate,10
-Sword Art Online,7
-Tanaka-kun wa Itsumo Kedaruge,8
-Tate no Yuusha no Nariagari,10
-Tensei shitara Slime Datta Ken,9
-Terra Formars,7
-Tokyo Ghoul,7
-Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?,7
-Violet Evergarden,8
-Yakusoku no Neverland,8
-Youjo Senki,8
-Yuru Camp△,-
+﻿ABSOLUTE DUO,6
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,8
+ANOTHER,8
+AO NO EXORCIST,7
+BARAKAMON,9
+BLACK BULLET,7
+BOKU DAKE GA INAI MACHI,9
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BTOOOM!,6
+CHARLOTTE,7
+CLAYMORE,8
+DEADMAN WONDERLAND,7
+DEATH MARCH KARA HAJIMARU ISEKAI KYOUSOUKYOKU,7
+FAIRY GONE,5
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,10
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,9
+FATE/ZERO,8
+FATE/ZERO 2ND SEASON,8
+FREE!,7
+FREE!: ETERNAL SUMMER,7
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,8
+HAIKYUU!!,8
+HANASAKU IROHA,8
+HOUSEKI NO KUNI (TV),9
+ISEKAI QUARTET,8
+KEKKAISHI (TV),8
+KIMETSU NO YAIBA,9
+KIZNAIVER,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+KYOUKAI NO KANATA,8
+LOG HORIZON,9
+LOG HORIZON 2ND SEASON,9
+MADE IN ABYSS,7
+NANATSU NO TAIZAI,8
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,8
+NO GAME NO LIFE,8
+NON NON BIYORI,8
+NORAGAMI,9
+NURARIHYON NO MAGO,8
+NURARIHYON NO MAGO: SENNEN MAKYOU,8
+ONE PUNCH MAN,9
+OVERLORD,8
+OVERLORD III,8
+ROKKA NO YUUSHA,8
+SENGOKU BASARA,7
+SENGOKU BASARA TWO,7
+SENGOKU BASARA: JUDGE END,7
+SHINCHOU YUUSHA: KONO YUUSHA GA ORE TSUEEE KUSE NI SHINCHOU SUGIRU,8
+SHINGEKI NO KYOJIN,7
+SKET DANCE,8
+STEINS;GATE,10
+SWORD ART ONLINE,7
+TANAKA-KUN WA ITSUMO KEDARUGE,8
+TATE NO YUUSHA NO NARIAGARI,10
+TENSEI SHITARA SLIME DATTA KEN,9
+TERRA FORMARS,7
+TOKYO GHOUL,7
+TSUUJOU KOUGEKI GA ZENTAI KOUGEKI DE NI-KAI KOUGEKI NO OKAASAN WA SUKI DESU KA?,7
+VIOLET EVERGARDEN,8
+WATASHI NI TENSHI GA MAIORITA!,8
+YAKUSOKU NO NEVERLAND,8
+YOUJO SENKI,8

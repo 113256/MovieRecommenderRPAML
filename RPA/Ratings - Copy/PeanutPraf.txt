@@ -1,80 +1,81 @@
-﻿3-gatsu no Lion,9
-5-toubun no Hanayome,7
-Aku no Hana,8
-Ani ni Tsukeru Kusuri wa Nai!,5
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
-Another,10
-Araburu Kisetsu no Otome-domo yo.,6
-Assassins Pride,7
-Bakemonogatari,10
-Blend S,6
-Darwin's Game,8
-Date A Live,8
-Date A Live II,7
-Date A Live III,8
-Death Parade,8
-Dororo,9
-Dr. Stone,8
-Enen no Shouboutai,7
-Fate/Apocrypha,8
-Fate/kaleid liner Prisma☆Illya,4
-Fate/kaleid liner Prisma☆Illya 2wei!,3
-Fate/stay night,7
-Fate/stay night: Unlimited Blade Works,6
-Fate/stay night: Unlimited Blade Works 2nd Season,7
-Fate/Zero,8
-Fate/Zero 2nd Season,9
-Fullmetal Alchemist: Brotherhood,9
-Gabriel DropOut,6
-Hanamonogatari,8
-Himouto! Umaru-chan,6
-Ichigo 100%,6
-Inu x Boku SS,7
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,7
-Jigoku Shoujo,6
-Jigoku Shoujo Futakomori,7
-Jigoku Shoujo Mitsuganae,6
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,7
-Karakai Jouzu no Takagi-san,7
-Karakai Jouzu no Takagi-san 2,7
-Kimetsu no Yaiba,8
-Kiseijuu: Sei no Kakuritsu,8
-Kobayashi-san Chi no Maid Dragon,5
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,7
-Mirai Nikki,6
-Mob Psycho 100,8
-Mob Psycho 100 II,8
-Mononoke,8
-NHK ni Youkoso!,10
-One Punch Man,8
-One Punch Man 2nd Season,7
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,7
-Ore wo Suki nano wa Omae dake ka yo,8
-Overlord,7
-Overlord II,6
-Overlord III,7
-Owarimonogatari,-
-Owarimonogatari 2nd Season,-
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Rewrite,8
-Rewrite 2nd Season,8
-Saenai Heroine no Sodatekata,8
-Saenai Heroine no Sodatekata ♭,7
-School Days,7
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Sewayaki Kitsune no Senko-san,8
-Shigatsu wa Kimi no Uso,8
-Shingeki no Kyojin,7
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,8
-Tate no Yuusha no Nariagari,7
-Tokyo Ghoul,7
-Tokyo Ghoul √A,5
-Tsukimonogatari,-
-Yakusoku no Neverland,9
+﻿3-GATSU NO LION,9
+5-TOUBUN NO HANAYOME,7
+AKU NO HANA,8
+ANI NI TSUKERU KUSURI WA NAI!,5
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,8
+ANOTHER,10
+ARABURU KISETSU NO OTOME-DOMO YO.,6
+ASSASSINS PRIDE,7
+BAKEMONOGATARI,10
+BLEND S,6
+DARWIN'S GAME,8
+DATE A LIVE,8
+DATE A LIVE II,7
+DATE A LIVE III,8
+DEATH PARADE,8
+DORORO,9
+DR. STONE,8
+ENEN NO SHOUBOUTAI,7
+FATE/APOCRYPHA,8
+FATE/EXTRA: LAST ENCORE,7
+FATE/EXTRA: LAST ENCORE - ILLUSTRIAS TENDOUSETSU,8
+FATE/KALEID LINER PRISMA☆ILLYA,4
+FATE/KALEID LINER PRISMA☆ILLYA 2WEI!,3
+FATE/STAY NIGHT,7
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,6
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,7
+FATE/ZERO,8
+FATE/ZERO 2ND SEASON,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+GABRIEL DROPOUT,6
+HANAMONOGATARI,8
+HIMOUTO! UMARU-CHAN,6
+ICHIGO 100%,6
+INU X BOKU SS,7
+ITAI NO WA IYA NANO DE BOUGYORYOKU NI KYOKUFURI SHITAI TO OMOIMASU.,7
+JIGOKU SHOUJO,6
+JIGOKU SHOUJO FUTAKOMORI,7
+JIGOKU SHOUJO MITSUGANAE,6
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,8
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,7
+KARAKAI JOUZU NO TAKAGI-SAN,7
+KARAKAI JOUZU NO TAKAGI-SAN 2,7
+KIMETSU NO YAIBA,8
+KISEIJUU: SEI NO KAKURITSU,8
+KOBAYASHI-SAN CHI NO MAID DRAGON,5
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,7
+MIRAI NIKKI,6
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,8
+MONONOKE,8
+NEKOMONOGATARI: KURO,8
+NHK NI YOUKOSO!,10
+NISEMONOGATARI,8
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,7
+ORE NO KANOJO TO OSANANAJIMI GA SHURABA SUGIRU,7
+ORE WO SUKI NANO WA OMAE DAKE KA YO,8
+OVERLORD,7
+OVERLORD II,6
+OVERLORD III,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+REWRITE,8
+REWRITE 2ND SEASON,8
+SAENAI HEROINE NO SODATEKATA,8
+SAENAI HEROINE NO SODATEKATA ♭,7
+SCHOOL DAYS,7
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SEWAYAKI KITSUNE NO SENKO-SAN,8
+SHIGATSU WA KIMI NO USO,8
+SHINGEKI NO KYOJIN,7
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,8
+TATE NO YUUSHA NO NARIAGARI,7
+TOKYO GHOUL,7
+TOKYO GHOUL √A,5
+YAKUSOKU NO NEVERLAND,9

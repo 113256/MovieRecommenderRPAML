@@ -1,15 +1,15 @@
-﻿Ashita no Joe,9
-Bakugan Battle Brawlers,2
-Cowboy Bebop,9
-Dragon Ball,7
-Dragon Ball Z,5
-Fullmetal Alchemist,6
-Hellsing,4
-Hokuto no Ken,8
-Macross,8
-Mobile Suit Gundam,7
-Neon Genesis Evangelion,9
-Seiken no Blacksmith,3
-Sword Art Online,3
-Tengen Toppa Gurren Lagann,7
-To LOVE-Ru,4
+﻿ASHITA NO JOE,9
+BAKUGAN BATTLE BRAWLERS,2
+COWBOY BEBOP,9
+DRAGON BALL,7
+DRAGON BALL Z,5
+FULLMETAL ALCHEMIST,6
+HELLSING,4
+HOKUTO NO KEN,8
+MACROSS,8
+MOBILE SUIT GUNDAM,7
+NEON GENESIS EVANGELION,9
+SEIKEN NO BLACKSMITH,3
+SWORD ART ONLINE,3
+TENGEN TOPPA GURREN LAGANN,7
+TO LOVE-RU,4

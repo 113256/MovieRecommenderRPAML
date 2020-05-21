@@ -1,65 +1,66 @@
-009-1,6
-Another,9
-Baka to Test to Shoukanjuu,7
-Baka to Test to Shoukanjuu Ni!,7
-Banana Fish,10
-Black★Rock Shooter (TV),8
-Carole & Tuesday,9
-Clockwork Planet,7
-Cowboy Bebop,10
-Death Note,7
-Dr. Stone,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,8
-Free!,8
-Free!: Eternal Summer,8
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,9
-Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,9
-Hai to Gensou no Grimgar,9
-Hanebado!,9
-Himouto! Umaru-chan,8
-JoJo no Kimyou na Bouken (TV),10
-Junjou Romantica,9
-Junjou Romantica 2,9
-Junjou Romantica 3,9
-Kämpfer,7
-Keijo!!!!!!!!,8
-Kill la Kill,7
-Kimetsu no Yaiba,9
-Kobayashi-san Chi no Maid Dragon,7
-Kore wa Zombie Desu ka?,10
-Kore wa Zombie Desu ka? of the Dead,9
-Love Stage!!,10
-Loveless,8
-Madan no Ou to Vanadis,10
-Mahou Shoujo Madoka★Magica,7
-Nanatsu no Taizai,10
-Nanatsu no Taizai: Imashime no Fukkatsu,9
-Nanatsu no Taizai: Seisen no Shirushi,9
-No Game No Life,8
-No.6,9
-One Punch Man,10
-One Punch Man 2nd Season,10
-Ookami to Koushinryou,9
-Ookami to Koushinryou II,9
-RoboMasters the Animated Series,7
-Robotics;Notes,7
-Ryuuou no Oshigoto!,7
-Sekaiichi Hatsukoi,8
-Sekaiichi Hatsukoi 2,8
-Shokugeki no Souma,9
-Shokugeki no Souma: Ni no Sara,9
-Shokugeki no Souma: San no Sara,8
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,10
-Shokugeki no Souma: Shin no Sara,8
-Steins;Gate,10
-Sword Art Online,9
-Sword Art Online Alternative: Gun Gale Online,8
-Sword Art Online II,9
-Sword Art Online: Alicization,10
-Sword Art Online: Alicization - War of Underworld,10
-Tales of Zestiria the Cross,9
-Tales of Zestiria the Cross 2nd Season,9
-Wotaku ni Koi wa Muzukashii,9
-Zero kara Hajimeru Mahou no Sho,9
+﻿009-1,6
+ANOTHER,9
+BAKA TO TEST TO SHOUKANJUU,7
+BAKA TO TEST TO SHOUKANJUU NI!,7
+BANANA FISH,10
+BLACK★ROCK SHOOTER (TV),8
+CAROLE & TUESDAY,9
+CLOCKWORK PLANET,7
+COWBOY BEBOP,10
+DEATH NOTE,7
+DR. STONE,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA GAIDEN: SWORD ORATORIA,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,8
+FREE!,8
+FREE!: ETERNAL SUMMER,8
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,9
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI 2ND SEASON,9
+HAI TO GENSOU NO GRIMGAR,9
+HANEBADO!,9
+HIMOUTO! UMARU-CHAN,8
+JOJO NO KIMYOU NA BOUKEN (TV),10
+JUNJOU ROMANTICA,9
+JUNJOU ROMANTICA 2,9
+JUNJOU ROMANTICA 3,9
+KÄMPFER,7
+KEIJO!!!!!!!!,8
+KILL LA KILL,7
+KIMETSU NO YAIBA,9
+KOBAYASHI-SAN CHI NO MAID DRAGON,7
+KORE WA ZOMBIE DESU KA?,10
+KORE WA ZOMBIE DESU KA? OF THE DEAD,9
+LOG HORIZON,8
+LOVE STAGE!!,10
+LOVELESS,8
+MADAN NO OU TO VANADIS,10
+MAHOU SHOUJO MADOKA★MAGICA,7
+NANATSU NO TAIZAI,10
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,9
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,9
+NO GAME NO LIFE,8
+NO.6,9
+ONE PUNCH MAN,10
+ONE PUNCH MAN 2ND SEASON,10
+OOKAMI TO KOUSHINRYOU,9
+OOKAMI TO KOUSHINRYOU II,9
+ROBOMASTERS THE ANIMATED SERIES,7
+ROBOTICS;NOTES,7
+RYUUOU NO OSHIGOTO!,7
+SEKAIICHI HATSUKOI,8
+SEKAIICHI HATSUKOI 2,8
+SHOKUGEKI NO SOUMA,9
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA,8
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,10
+SHOKUGEKI NO SOUMA: SHIN NO SARA,8
+STEINS;GATE,10
+SWORD ART ONLINE,9
+SWORD ART ONLINE ALTERNATIVE: GUN GALE ONLINE,8
+SWORD ART ONLINE II,9
+SWORD ART ONLINE: ALICIZATION,10
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,10
+TALES OF ZESTIRIA THE CROSS,9
+TALES OF ZESTIRIA THE CROSS 2ND SEASON,9
+WOTAKU NI KOI WA MUZUKASHII,9
+ZERO KARA HAJIMERU MAHOU NO SHO,9

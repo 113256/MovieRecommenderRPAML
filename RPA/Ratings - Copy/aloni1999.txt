@@ -1,77 +1,21 @@
-﻿Akame ga Kill!,-
-Angel Beats!,-
-Ansatsu Kyoushitsu,-
-Ansatsu Kyoushitsu 2nd Season,-
-Ao no Exorcist,-
-Arifureta Shokugyou de Sekai Saikyou,-
-Blood Lad,-
-Boku no Hero Academia,-
-Boku no Hero Academia 2nd Season,-
-Boku no Hero Academia 3rd Season,-
-Btooom!,-
-Bungou Stray Dogs,-
-Bungou Stray Dogs 2nd Season,-
-Charlotte,-
-Death Parade,-
-Dororo,-
-Dr. Stone,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,-
-Enen no Shouboutai,9
-Fairy Tail,-
-Fate/stay night: Unlimited Blade Works,-
-Fate/Zero,-
-Fate/Zero 2nd Season,-
-Fullmetal Alchemist: Brotherhood,-
-Goblin Slayer,-
-Hai to Gensou no Grimgar,-
-Hataraku Maou-sama!,-
-Hunter x Hunter (2011),-
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,-
-Jibaku Shounen Hanako-kun,10
-Kakegurui,-
-Katekyo Hitman Reborn!,-
-Kenja no Mago,-
-Kimetsu no Yaiba,10
-Kiseijuu: Sei no Kakuritsu,-
-Knight's & Magic,-
-Koutetsujou no Kabaneri,-
-Log Horizon,-
-Log Horizon 2nd Season,-
-Made in Abyss,10
-Magi: The Kingdom of Magic,-
-Magi: The Labyrinth of Magic,-
-Mahouka Koukou no Rettousei,-
-Mahoutsukai no Yome,10
-Mirai Nikki,-
-Nanatsu no Taizai,9
-Naruto,-
-No Game No Life,10
-Noragami,-
-Noragami Aragoto,-
-One Punch Man,-
-One Punch Man 2nd Season,-
-Overlord,10
-Overlord II,10
-Overlord III,10
-Owari no Seraph,4
-Owari no Seraph: Nagoya Kessen-hen,4
-Re:Zero kara Hajimeru Isekai Seikatsu,10
-Rokudenashi Majutsu Koushi to Akashic Records,-
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,-
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,9
-Shokugeki no Souma,-
-Shokugeki no Souma: Ni no Sara,-
-Shokugeki no Souma: San no Sara,-
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,-
-Soul Eater,-
-Sword Art Online,7
-Sword Art Online II,5
-Tate no Yuusha no Nariagari,-
-Tensei shitara Slime Datta Ken,-
-Toaru Majutsu no Index,-
-Tokyo Ghoul,9
-Tokyo Ghoul √A,7
-Tokyo Ghoul:re,8
-Vinland Saga,10
-Yakusoku no Neverland,-
+﻿ENEN NO SHOUBOUTAI,9
+JIBAKU SHOUNEN HANAKO-KUN,10
+KIMETSU NO YAIBA,10
+MADE IN ABYSS,10
+MAHOUTSUKAI NO YOME,10
+NANATSU NO TAIZAI,9
+NO GAME NO LIFE,10
+OVERLORD,10
+OVERLORD II,10
+OVERLORD III,10
+OWARI NO SERAPH,4
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,4
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,9
+SWORD ART ONLINE,7
+SWORD ART ONLINE II,5
+TOKYO GHOUL,9
+TOKYO GHOUL √A,7
+TOKYO GHOUL:RE,8
+VINLAND SAGA,10

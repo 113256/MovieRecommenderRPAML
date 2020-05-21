@@ -1,2896 +1,2473 @@
-﻿.hack//Roots,-
-.hack//Sign,-
-.hack//Tasogare no Udewa Densetsu,-
+﻿.HACK//ROOTS,-
+.HACK//SIGN,-
+.HACK//TASOGARE NO UDEWA DENSETSU,-
 009-1,-
-07-Ghost,-
-11eyes,-
-12-sai.: Chicchana Mune no Tokimeki,-
-12-sai.: Chicchana Mune no Tokimeki 2nd Season,-
-18if,-
+07-GHOST,-
+11EYES,-
+12-SAI.: CHICCHANA MUNE NO TOKIMEKI,-
+12-SAI.: CHICCHANA MUNE NO TOKIMEKI 2ND SEASON,-
+18IF,-
 22/7,-
-25-sai no Joshikousei,-
-30-sai no Hoken Taiiku,-
-3D Kanojo: Real Girl,-
-3D Kanojo: Real Girl 2nd Season,-
-3-gatsu no Lion,-
-3-gatsu no Lion 2nd Season,-
-3-Nen D-Gumi Glass no Kamen,-
-5-toubun no Hanayome,-
-91 Days,7
-A.I.C.O.: Incarnation,-
-Aa! Megami-sama! (TV),-
-Aa! Megami-sama!: Sorezore no Tsubasa,-
-Abarenbou Rikishi!! Matsutarou,-
-Abenobashi Mahou☆Shoutengai,-
-Absolute Duo,-
-ACCA: 13-ku Kansatsu-ka,-
-Accel World,-
-Acchi Kocchi (TV),-
+25-SAI NO JOSHIKOUSEI,-
+30-SAI NO HOKEN TAIIKU,-
+3D KANOJO: REAL GIRL,-
+3D KANOJO: REAL GIRL 2ND SEASON,-
+3-GATSU NO LION,-
+3-GATSU NO LION 2ND SEASON,-
+3-NEN D-GUMI GLASS NO KAMEN,-
+5-TOUBUN NO HANAYOME,-
+91 DAYS,7
+AA! MEGAMI-SAMA! (TV),-
+AA! MEGAMI-SAMA!: SOREZORE NO TSUBASA,-
+ABENOBASHI MAHOU☆SHOUTENGAI,-
+ABSOLUTE DUO,-
+ACCA: 13-KU KANSATSU-KA,-
+ACCEL WORLD,-
 ACCHI KOCCHI (TV),-
-Ace wo Nerae!,-
-A-Channel,-
-Action Heroine Cheer Fruits,-
-Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari,-
-Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd,-
-Actors: Songs Connection,-
-Africa no Salaryman (TV),-
-Afro Samurai,-
-After War Gundam X,-
-Aggressive Retsuko,-
-Aggressive Retsuko (ONA),-
-Aguu: Tensai Ningyou,-
-Aho Girl,-
-Ai no Kusabi (2012),-
-Ai Tenchi Muyou!,-
-Ai Yori Aoshi,-
-Ai Yori Aoshi: Enishi,-
-Aikatsu Friends!,-
-Aikatsu Friends!: Kagayaki no Jewel,-
-Aikatsu on Parade!,-
-Aikatsu Stars!,-
-Aikatsu!,-
-Air,-
-Air Gear,-
-Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky,-
-Air Master,-
-Aishen Qiaokeli-ing...,-
-Aishiteruze Baby★★,-
-Aiura,-
-Ajin,-
-Ajin 2nd Season,-
-Ajin OVA,-
-Akachan to Boku,-
-Akagami no Shirayuki-hime,-
-Akagami no Shirayuki-hime 2nd Season,-
-Akahori Gedou Hour Rabuge,-
-Akame ga Kill!,6
-AKAME GA KILL!,-
-Akaneiro ni Somaru Saka,-
-Akanesasu Shoujo,-
-Akatsuki no Yona,-
-Akatsuki no Yona OVA,-
+ACE WO NERAE!,-
+A-CHANNEL,-
+ACTIVE RAID: KIDOU KYOUSHUUSHITSU DAI HACHI GAKARI,-
+ACTIVE RAID: KIDOU KYOUSHUUSHITSU DAI HACHI GAKARI 2ND,-
+ACTORS: SONGS CONNECTION,-
+AFRICA NO SALARYMAN (TV),-
+AFRO SAMURAI,-
+AFTER WAR GUNDAM X,-
+AGGRESSIVE RETSUKO,-
+AGUU: TENSAI NINGYOU,-
+AHO GIRL,-
+AI TENCHI MUYOU!,-
+AI YORI AOSHI,-
+AI YORI AOSHI: ENISHI,-
+AIKATSU FRIENDS!,-
+AIKATSU FRIENDS!: KAGAYAKI NO JEWEL,-
+AIKATSU ON PARADE!,-
+AIKATSU STARS!,-
+AIKATSU!,-
+AIR,-
+AIR GEAR,-
+AIR MASTER,-
+AISHITERUZE BABY★★,-
+AIURA,-
+AJIN,-
+AJIN 2ND SEASON,-
+AKAGAMI NO SHIRAYUKI-HIME,-
+AKAGAMI NO SHIRAYUKI-HIME 2ND SEASON,-
+AKAME GA KILL!,6
+AKANEIRO NI SOMARU SAKA,-
+AKANESASU SHOUJO,-
+AKATSUKI NO YONA,-
 AKB0048,-
-AKB0048: Next Stage,-
-Akiba's Trip The Animation,-
-Akikan!,-
-Akkun to Kanojo,-
-Aku no Hana,-
-Akuma no Riddle,6
-Aldnoah.Zero,-
-Aldnoah.Zero 2nd Season,-
-Alexander Senki,-
-Alice or Alice,-
-Alice to Zouroku,-
-All Out!!,-
-Allison to Lillia,-
-Alps no Shoujo Heidi,-
-Amaama to Inazuma,-
-Amaenaide yo!!,-
-Amaenaide yo!! Katsu!!,-
-Amagami SS,-
-Amagami SS+ Plus,-
-Amagi Brilliant Park,-
-Amai Choubatsu: Watashi wa Kanshu Senyou Pet,-
-Amanchu!,-
-Amanchu! Advance,-
-Amatsuki,-
-Ame-iro Cocoa,-
-Ame-iro Cocoa in Hawaii,-
-Ame-iro Cocoa Series: Ame-con!!,-
-Ame-iro Cocoa: Rainy Color e Youkoso!,-
-Ame-iro Cocoa: Side G,-
-Amnesia,-
-Ange Vierge,-
-Angel Beats!,-
+AKB0048: NEXT STAGE,-
+AKIBA'S TRIP THE ANIMATION,-
+AKIKAN!,-
+AKKUN TO KANOJO,-
+AKU NO HANA,-
+AKUMA NO RIDDLE,6
+ALDNOAH.ZERO,-
+ALDNOAH.ZERO 2ND SEASON,-
+ALEXANDER SENKI,-
+ALICE OR ALICE,-
+ALICE TO ZOUROKU,-
+ALL OUT!!,-
+ALLISON TO LILLIA,-
+ALPS NO SHOUJO HEIDI,-
+AMAAMA TO INAZUMA,-
+AMAENAIDE YO!!,-
+AMAENAIDE YO!! KATSU!!,-
+AMAGAMI SS,-
+AMAGAMI SS+ PLUS,-
+AMAGI BRILLIANT PARK,-
+AMAI CHOUBATSU: WATASHI WA KANSHU SENYOU PET,-
+AMANCHU!,-
+AMANCHU! ADVANCE,-
+AMATSUKI,-
+AME-IRO COCOA,-
+AME-IRO COCOA IN HAWAII,-
+AME-IRO COCOA SERIES: AME-CON!!,-
+AME-IRO COCOA: RAINY COLOR E YOUKOSO!,-
+AME-IRO COCOA: SIDE G,-
+AMNESIA,-
+ANGE VIERGE,-
 ANGEL BEATS!,-
-Angel Heart,-
-Angolmois: Genkou Kassenki,-
-Ani ni Tsukeru Kusuri wa Nai!,-
-Ani ni Tsukeru Kusuri wa Nai! 2,-
-Ani ni Tsukeru Kusuri wa Nai! 3,-
-Anima Yell!,-
-Anime Himitsu no Hanazono,-
-Animegataris,-
-Anitore! EX,-
-Anitore! XX: Hitotsu Yane no Shita de,-
-Anne Happy♪,-
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,-
+ANGEL HEART,-
+ANGOLMOIS: GENKOU KASSENKI,-
+ANI NI TSUKERU KUSURI WA NAI!,-
+ANI NI TSUKERU KUSURI WA NAI! 2,-
+ANI NI TSUKERU KUSURI WA NAI! 3,-
+ANIMA YELL!,-
+ANIME HIMITSU NO HANAZONO,-
+ANIMEGATARIS,-
+ANITORE! EX,-
+ANITORE! XX: HITOTSU YANE NO SHITA DE,-
+ANNE HAPPY♪,-
 ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,-
-Ano Natsu de Matteru,-
-Another,-
+ANO NATSU DE MATTERU,-
 ANOTHER,-
-Ansatsu Kyoushitsu,-
 ANSATSU KYOUSHITSU,-
-Ansatsu Kyoushitsu 2nd Season,-
-Ao Haru Ride,-
-Ao Haru Ride OVA,-
-Ao no Exorcist,-
+ANSATSU KYOUSHITSU 2ND SEASON,-
+AO HARU RIDE,-
 AO NO EXORCIST,-
-Ao no Exorcist: Kyoto Fujouou-hen,-
 AO NO EXORCIST: KYOTO FUJOUOU-HEN,-
-Ao no Kanata no Four Rhythm,-
-Ao Oni The Animation,-
-Aoharu x Kikanjuu,-
-Aoi Bungaku Series,-
-Aoi Hana,-
-Aoki Densetsu Shoot!,-
-Aoki Hagane no Arpeggio: Ars Nova,-
-Aquarian Age: Sign for Evolution,-
-Aquarion Evol,-
-Aquarion Logos,-
-Araburu Kisetsu no Otome-domo yo.,-
-Arad Senki: Slap Up Party,-
-Araiya-san!: Ore to Aitsu ga Onnayu de!?,-
-Arakawa Under the Bridge,-
-Arakawa Under the Bridge x Bridge,-
-Arata Kangatari,-
-Arc the Lad,-
-Arcana Famiglia,-
-Area 88 (TV),-
-Area no Kishi,-
-Aria the Animation,-
-Aria the Natural,-
-Aria the Origination,-
-Arifureta Shokugyou de Sekai Saikyou,-
-ARP Backstage Pass,-
-Arslan Senki (TV),-
-Arslan Senki (TV): Fuujin Ranbu,-
-Asatte no Houkou.,-
-Ashita no Joe,-
-Ashita no Joe 2,-
-Ashita no Nadja,-
-Asobi Asobase,-
-Asobi Asobase Specials,-
-Asobi ni Iku yo!,-
-Assassins Pride,-
-Astarotte no Omocha!,-
-Astro Boy: Tetsuwan Atom,-
-Asu no Yoichi!,-
-Asura Cryin',-
-Asura Cryin' 2,-
-Atom: The Beginning,-
-Attack No.1,-
-Attacker You!,-
-Avenger,-
-Ayakashi,-
-Ayakashi: Japanese Classic Horror,-
-Ayashi no Ceres,-
-Azumanga Daioh,-
-Azur Lane,-
-B: The Beginning,-
-Baby Steps,-
-Baby Steps 2nd Season,-
-Babylon,-
-Baccano!,5
-Baccano! Specials,-
-Back Street Girls: Gokudolls,-
-Baka to Test to Shoukanjuu,-
-Baka to Test to Shoukanjuu Ni!,-
-Baka to Test to Shoukanjuu: Spinout! Sore ga Bokura no Nichijou,-
-Bakemonogatari,7
-Baki,-
-Baku Tech! Bakugan,-
-Baku Tech! Bakugan Gachi,-
-Bakugan Battle Brawlers,-
-Bakugan Battle Brawlers: Gundalian Invaders,-
-Bakugan Battle Brawlers: Mechtanium Surge,-
-Bakugan Battle Brawlers: New Vestroia,-
-Bakukyuu Hit! Crash B-Daman,-
-Bakukyuu Renpatsu!! Super B-Daman,-
-Bakuman.,-
-Bakuman. 2nd Season,-
-Bakuman. 3rd Season,-
-Bakumatsu,-
-Bakumatsu Rock,-
-Bakumatsu: Crisis,-
-Bakuon!!,-
-Bakuretsu Tenshi,-
-Bakusou Kyoudai Let's & Go,-
-Bakusou Kyoudai Let's & Go MAX,-
-Bakusou Kyoudai Let's & Go WGP,-
-Bakuten Shoot Beyblade,-
-Bakuten Shoot Beyblade 2002,-
-Bakuten Shoot Beyblade G Revolution,-
-Ballroom e Youkoso,-
+AO NO KANATA NO FOUR RHYTHM,-
+AO ONI THE ANIMATION,-
+AOHARU X KIKANJUU,-
+AOI BUNGAKU SERIES,-
+AOI HANA,-
+AOKI DENSETSU SHOOT!,-
+AOKI HAGANE NO ARPEGGIO: ARS NOVA,-
+AQUARIAN AGE: SIGN FOR EVOLUTION,-
+AQUARION EVOL,-
+AQUARION LOGOS,-
+ARABURU KISETSU NO OTOME-DOMO YO.,-
+ARAD SENKI: SLAP UP PARTY,-
+ARAIYA-SAN!: ORE TO AITSU GA ONNAYU DE!?,-
+ARAKAWA UNDER THE BRIDGE,-
+ARAKAWA UNDER THE BRIDGE X BRIDGE,-
+ARATA KANGATARI,-
+ARC THE LAD,-
+ARCANA FAMIGLIA,-
+AREA 88 (TV),-
+AREA NO KISHI,-
+ARIA THE ANIMATION,-
+ARIA THE NATURAL,-
+ARIA THE ORIGINATION,-
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,-
+ARP BACKSTAGE PASS,-
+ARSLAN SENKI (TV),-
+ARSLAN SENKI (TV): FUUJIN RANBU,-
+ASATTE NO HOUKOU.,-
+ASHITA NO JOE,-
+ASHITA NO JOE 2,-
+ASHITA NO NADJA,-
+ASOBI ASOBASE,-
+ASOBI NI IKU YO!,-
+ASSASSINS PRIDE,-
+ASTAROTTE NO OMOCHA!,-
+ASTRO BOY: TETSUWAN ATOM,-
+ASU NO YOICHI!,-
+ASURA CRYIN',-
+ASURA CRYIN' 2,-
+ATOM: THE BEGINNING,-
+ATTACK NO.1,-
+ATTACKER YOU!,-
+AVENGER,-
+AYAKASHI,-
+AYAKASHI: JAPANESE CLASSIC HORROR,-
+AZUMANGA DAIOH,-
+AZUR LANE,-
+BABY STEPS,-
+BABY STEPS 2ND SEASON,-
+BABYLON,-
+BACCANO!,5
+BACK STREET GIRLS: GOKUDOLLS,-
+BAKA TO TEST TO SHOUKANJUU,-
+BAKA TO TEST TO SHOUKANJUU NI!,-
+BAKEMONOGATARI,7
+BAKU TECH! BAKUGAN,-
+BAKU TECH! BAKUGAN GACHI,-
+BAKUGAN BATTLE BRAWLERS,-
+BAKUGAN BATTLE BRAWLERS: GUNDALIAN INVADERS,-
+BAKUGAN BATTLE BRAWLERS: MECHTANIUM SURGE,-
+BAKUGAN BATTLE BRAWLERS: NEW VESTROIA,-
+BAKUKYUU HIT! CRASH B-DAMAN,-
+BAKUKYUU RENPATSU!! SUPER B-DAMAN,-
+BAKUMAN.,-
+BAKUMAN. 2ND SEASON,-
+BAKUMAN. 3RD SEASON,-
+BAKUMATSU,-
+BAKUMATSU ROCK,-
+BAKUMATSU: CRISIS,-
+BAKUON!!,-
+BAKUSOU KYOUDAI LET'S & GO,-
+BAKUSOU KYOUDAI LET'S & GO MAX,-
+BAKUSOU KYOUDAI LET'S & GO WGP,-
+BAKUTEN SHOOT BEYBLADE,-
+BAKUTEN SHOOT BEYBLADE 2002,-
+BAKUTEN SHOOT BEYBLADE G REVOLUTION,-
 BALLROOM E YOUKOSO,-
-Bamboo Blade,-
-Banana Fish,-
-Bananya,-
-Bananya: Fushigi na Nakama-tachi,-
-BanG Dream!,-
-BanG Dream! 2nd Season,-
-BanG Dream! 3rd Season,-
-BanG Dream! Garupa☆Pico,-
-Barakamon,-
-Bartender,-
-Basilisk: Kouga Ninpou Chou,-
-Basilisk: Ouka Ninpouchou,-
-Basquash!,-
-Battery,-
-Battle Girl High School,-
-Battle Programmer Shirase,-
-Beastars,7
-BEASTARS,-
-Beatless,-
-Beatless Final Stage,-
-Beck,-
-Beelzebub,-
-Beelzebub-jou no Okinimesu mama.,-
-Bem,-
-Ben-To,-
-Bermuda Triangle: Colorful Pastrale,-
-Bernard-jou Iwaku.,-
-Berserk,-
-Berserk 2nd Season,-
-Beyblade Burst,-
-Beyblade Burst Chouzetsu,-
-Beyblade Burst Gachi,-
-Beyblade Burst God,-
-B-gata H-kei,-
-Big Order (TV),-
-Bikini Warriors,-
-Binan Koukou Chikyuu Boueibu Happy Kiss!,-
-Binan Koukou Chikyuu Boueibu LOVE!,-
-Binan Koukou Chikyuu Boueibu LOVE! LOVE!,-
-Binbou Shimai Monogatari,-
-Binbougami ga!,-
-Bishoujo Senshi Sailor Moon,-
-Bishoujo Senshi Sailor Moon Crystal Season III,-
-Bishoujo Senshi Sailor Moon R,-
-Bishoujo Senshi Sailor Moon S,-
-Bishoujo Senshi Sailor Moon SuperS,-
-Bishoujo Senshi Sailor Moon: Sailor Stars,-
-Bishoujo Yuugi Unit Crane Game Girls,-
-Bishoujo Yuugi Unit Crane Game Girls Galaxy,-
-Black Blood Brothers,-
-Black Bullet,-
-Black Cat,-
-Black Jack (TV),-
-Black Jack 21,-
-Black Lagoon,-
-Black Lagoon: Roberta's Blood Trail,-
-Black Lagoon: The Second Barrage,-
-Black★Rock Shooter (TV),-
+BAMBOO BLADE,-
+BANANA FISH,-
+BANANYA,-
+BANANYA: FUSHIGI NA NAKAMA-TACHI,-
+BANG DREAM!,-
+BANG DREAM! 2ND SEASON,-
+BANG DREAM! 3RD SEASON,-
+BANG DREAM! GARUPA☆PICO,-
+BARAKAMON,-
+BARTENDER,-
+BASILISK: KOUGA NINPOU CHOU,-
+BASILISK: OUKA NINPOUCHOU,-
+BATTERY,-
+BATTLE GIRL HIGH SCHOOL,-
+BATTLE PROGRAMMER SHIRASE,-
+BEASTARS,7
+BEATLESS,-
+BEATLESS FINAL STAGE,-
+BECK,-
+BEELZEBUB,-
+BEELZEBUB-JOU NO OKINIMESU MAMA.,-
+BEM,-
+BEN-TO,-
+BERMUDA TRIANGLE: COLORFUL PASTRALE,-
+BERNARD-JOU IWAKU.,-
+BERSERK,-
+BERSERK 2ND SEASON,-
+BEYBLADE BURST,-
+BEYBLADE BURST CHOUZETSU,-
+BEYBLADE BURST GOD,-
+B-GATA H-KEI,-
+BIG ORDER (TV),-
+BIKINI WARRIORS,-
+BINAN KOUKOU CHIKYUU BOUEIBU HAPPY KISS!,-
+BINAN KOUKOU CHIKYUU BOUEIBU LOVE!,-
+BINAN KOUKOU CHIKYUU BOUEIBU LOVE! LOVE!,-
+BINBOU SHIMAI MONOGATARI,-
+BINBOUGAMI GA!,-
+BISHOUJO SENSHI SAILOR MOON,-
+BISHOUJO SENSHI SAILOR MOON CRYSTAL SEASON III,-
+BISHOUJO SENSHI SAILOR MOON R,-
+BISHOUJO SENSHI SAILOR MOON S,-
+BISHOUJO SENSHI SAILOR MOON SUPERS,-
+BISHOUJO SENSHI SAILOR MOON: SAILOR STARS,-
+BISHOUJO YUUGI UNIT CRANE GAME GIRLS,-
+BISHOUJO YUUGI UNIT CRANE GAME GIRLS GALAXY,-
+BLACK BLOOD BROTHERS,-
+BLACK BULLET,-
+BLACK CAT,-
+BLACK JACK (TV),-
+BLACK LAGOON,-
+BLACK LAGOON: THE SECOND BARRAGE,-
 BLACK★ROCK SHOOTER (TV),-
-Blade,-
-Blade & Soul,-
-Blade of the Immortal,-
-Blassreiter,-
-BlazBlue: Alter Memory,-
-Bleach,-
-B-Legend! Battle B-Daman,-
-Blend S,-
-Blood Lad,-
-Blood+,-
-Blood-C,-
-Bloodivores,-
-Blue Dragon,-
-Blue Dragon: Tenkai no Shichi Ryuu,-
-Blue Drop: Tenshi-tachi no Gikyoku,-
-Blue Gender,-
-Blue Seed,-
-Bobobo-bo Bo-bobo,-
-Boku dake ga Inai Machi,-
-Boku no Hero Academia,8
-BOKU NO HERO ACADEMIA,-
-Boku no Hero Academia 2nd Season,8
-BOKU NO HERO ACADEMIA 2ND SEASON,-
-Boku no Hero Academia 3rd Season,-
+BLADE,-
+BLADE & SOUL,-
+BLADE OF THE IMMORTAL,-
+BLASSREITER,-
+BLAZBLUE: ALTER MEMORY,-
+BLEACH,-
+B-LEGEND! BATTLE B-DAMAN,-
+BLEND S,-
+BLOOD LAD,-
+BLOOD+,-
+BLOOD-C,-
+BLOODIVORES,-
+BLUE DRAGON,-
+BLUE DRAGON: TENKAI NO SHICHI RYUU,-
+BLUE DROP: TENSHI-TACHI NO GIKYOKU,-
+BLUE GENDER,-
+BLUE SEED,-
+BOBOBO-BO BO-BOBO,-
+BOKU DAKE GA INAI MACHI,-
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,8
 BOKU NO HERO ACADEMIA 3RD SEASON,-
-Boku no Hero Academia 4th Season,-
 BOKU NO HERO ACADEMIA 4TH SEASON,-
-Boku no Hero Academia the Movie: Futari no Hero Specials,-
-Boku no Imouto wa Osaka Okan,-
-Boku no Kanojo ga Majimesugiru Sho-bitch na Ken,-
-Boku no Tonari ni Ankoku Hakaishin ga Imasu.,-
-Boku wa Tomodachi ga Sukunai,-
+BOKU NO IMOUTO WA OSAKA OKAN,-
+BOKU NO KANOJO GA MAJIMESUGIRU SHO-BITCH NA KEN,-
+BOKU NO TONARI NI ANKOKU HAKAISHIN GA IMASU.,-
 BOKU WA TOMODACHI GA SUKUNAI,-
-Boku wa Tomodachi ga Sukunai Next,-
-Bokura ga Ita,-
-Bokura no,-
-Bokura wa Minna Kawai-sou,-
-Bokutachi wa Benkyou ga Dekinai,-
-Bokutachi wa Benkyou ga Dekinai!,-
-Bomberman Jetters,-
-Bonjour♪Koiaji Pâtisserie,-
-Boogiepop wa Warawanai,-
-Boogiepop wa Warawanai (2019),-
-B-Project: Kodou*Ambitious,-
-B-Project: Zecchou*Emotion,-
-Brave 10,-
-Brave Witches,-
-Break Blade,-
-Brothers Conflict,-
-Brothers Conflict OVA,-
+BOKU WA TOMODACHI GA SUKUNAI NEXT,-
+BOKURA GA ITA,-
+BOKURA NO,-
+BOKURA WA MINNA KAWAI-SOU,-
+BOKUTACHI WA BENKYOU GA DEKINAI,-
+BOKUTACHI WA BENKYOU GA DEKINAI!,-
+BOMBERMAN JETTERS,-
+BOOGIEPOP WA WARAWANAI,-
+BOOGIEPOP WA WARAWANAI (2019),-
+B-PROJECT: KODOU*AMBITIOUS,-
+B-PROJECT: ZECCHOU*EMOTION,-
+BRAVE 10,-
+BRAVE WITCHES,-
+BREAK BLADE,-
+BROTHERS CONFLICT,-
 B'T X,-
-Btooom!,-
 BTOOOM!,-
-Bubblegum Crisis,-
-Bubblegum Crisis Tokyo 2040,-
-Bubuki Buranki,-
-Bubuki Buranki: Hoshi no Kyojin,-
-Buddy Complex,-
-Buddy Go!,-
-Bungou Stray Dogs,-
+BUBBLEGUM CRISIS TOKYO 2040,-
+BUBUKI BURANKI,-
+BUBUKI BURANKI: HOSHI NO KYOJIN,-
+BUDDY COMPLEX,-
 BUNGOU STRAY DOGS,-
-Bungou Stray Dogs 2nd Season,-
 BUNGOU STRAY DOGS 2ND SEASON,-
-Bungou Stray Dogs 3rd Season,-
-Bus Gamer,-
-Busou Renkin,-
-Busou Shinki,-
-Busou Shoujo Machiavellianism,-
-Butlers: Chitose Momotose Monogatari,-
-Buzzer Beater,-
-Buzzer Beater 2nd Season,-
-Byousoku 5 Centimeter,-
-C: The Money of Soul and Possibility Control,-
+BUNGOU STRAY DOGS 3RD SEASON,-
+BUS GAMER,-
+BUSOU RENKIN,-
+BUSOU SHINKI,-
+BUSOU SHOUJO MACHIAVELLIANISM,-
+BUTLERS: CHITOSE MOMOTOSE MONOGATARI,-
+BUZZER BEATER,-
+BUZZER BEATER 2ND SEASON,-
+C: THE MONEY OF SOUL AND POSSIBILITY CONTROL,-
 C³,-
-Caligula (TV),-
-Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou,-
-Canaan,-
-Candy Candy,-
-Canvas 2: Niji-iro no Sketch,-
-Capeta,-
-Captain Earth,-
-Captain Tsubasa,-
-Captain Tsubasa (2018),-
-Captain Tsubasa J,-
-Captain Tsubasa: Road to 2002,-
-Cardcaptor Sakura,-
-Cardcaptor Sakura: Clear Card-hen,-
-Cardfight!! Vanguard,-
-Cardfight!! Vanguard (2018),-
-Cardfight!! Vanguard G,-
-Cardfight!! Vanguard G: GIRS Crisis-hen,-
-Cardfight!! Vanguard G: Next,-
-Cardfight!! Vanguard G: Stride Gate-hen,-
-Cardfight!! Vanguard G: Z,-
-Cardfight!! Vanguard: Asia Circuit-hen,-
-Cardfight!! Vanguard: Legion Mate-hen,-
-Cardfight!! Vanguard: Link Joker-hen,-
-Cardfight!! Vanguard: Shinemon-hen,-
-Cardfight!! Vanguard: Zoku Koukousei-hen,-
-Carole & Tuesday,-
+CALIGULA (TV),-
+CAMPIONE!: MATSUROWANU KAMIGAMI TO KAMIGOROSHI NO MAOU,-
+CANAAN,-
+CANDY CANDY,-
+CAPETA,-
+CAPTAIN EARTH,-
+CAPTAIN TSUBASA,-
+CAPTAIN TSUBASA (2018),-
+CAPTAIN TSUBASA J,-
+CAPTAIN TSUBASA: ROAD TO 2002,-
+CARDCAPTOR SAKURA,-
+CARDCAPTOR SAKURA: CLEAR CARD-HEN,-
+CARDFIGHT!! VANGUARD,-
+CARDFIGHT!! VANGUARD G,-
+CARDFIGHT!! VANGUARD G: GIRS CRISIS-HEN,-
+CARDFIGHT!! VANGUARD G: NEXT,-
+CARDFIGHT!! VANGUARD G: STRIDE GATE-HEN,-
+CARDFIGHT!! VANGUARD G: Z,-
+CARDFIGHT!! VANGUARD: ASIA CIRCUIT-HEN,-
+CARDFIGHT!! VANGUARD: LEGION MATE-HEN,-
+CARDFIGHT!! VANGUARD: LINK JOKER-HEN,-
 CAROLE & TUESDAY,-
-Casshern Sins,-
-Cat's Eye,-
-Centaur no Nayami,-
-Chain Chronicle: Haecceitas no Hikari,-
-Chaos Dragon: Sekiryuu Seneki,-
-ChäoS;Child,-
-ChäoS;HEAd,-
-Charlotte,-
+CASSHERN SINS,-
+CAT'S EYE,-
+CENTAUR NO NAYAMI,-
+CHAIN CHRONICLE: HAECCEITAS NO HIKARI,-
+CHAOS DRAGON: SEKIRYUU SENEKI,-
+CHÄOS;CHILD,-
+CHÄOS;HEAD,-
 CHARLOTTE,-
-Cheating Craft,-
-Cheer Danshi!!,-
-Chibi☆Devi!,-
-Chicchana Yukitsukai Sugar,-
-Chihayafuru,-
-Chihayafuru 2,-
-Chihayafuru 3,-
-Chiisana Kyojin Microman,-
-Chio-chan no Tsuugakuro,-
-Chiruran: Nibun no Ichi,-
-Chi's Sweet Home,-
-Chi's Sweet Home: Atarashii Ouchi,-
-Chitose Get You!!,-
-Chobits,-
-Choboraunyopomi Gekijou Ai Mai Mii,-
-Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe,-
-Choboraunyopomi Gekijou Dai San Maku Ai Mai Mii: Surgical Friends,-
-Chou Denji Machine Voltes V,-
-Chou Hatsumei Boy Kanipan,-
-Chou Henshin Cosprayers,-
-Chou Robot Seimeitai Transformers Micron Densetsu,-
-Choujigen Game Neptune The Animation,-
-Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!,-
-Choujuushin Gravion,-
-Choujuushin Gravion Zwei,-
-Choukadou Girl ⅙,-
-Chousoku Spinner,-
-Chrno Crusade,-
-Chrome Shelled Regios,-
-Chu-Bra!!,-
-Chuubyou Gekihatsu Boy,-
-Chuuka Ichiban!,-
-Chuukan Kanriroku Tonegawa,-
-Chuunibyou demo Koi ga Shitai!,-
-Chuunibyou demo Koi ga Shitai! Lite,-
-Chuunibyou demo Koi ga Shitai! Ren,-
-Cinderella Girls Gekijou,-
-Cinderella Girls Gekijou 2nd Season,-
-Cinderella Girls Gekijou 3rd Season,-
-Cinderella Girls Gekijou: Climax Season,-
-Cinderella Monogatari,-
-Circlet Princess,-
-Citrus,6
-City Hunter,-
-City Hunter 2,-
-City Hunter '91,-
-Clannad,-
-Clannad: After Story,-
-ClassicaLoid,-
-ClassicaLoid 2nd Season,-
-Classroom☆Crisis,-
-Claymore,-
-Clione no Akari,-
-Clockwork Planet,-
-Code Geass: Fukkatsu no Lelouch Picture Drama,-
-Code Geass: Hangyaku no Lelouch,-
-Code Geass: Hangyaku no Lelouch R2,-
-Code:Breaker,-
-Code:Realize - Sousei no Himegimi,-
-Colorful,-
-Comet Lucifer,-
-Comic Girls,-
-Conception,-
-Concrete Revolutio: Choujin Gensou,-
-Concrete Revolutio: Choujin Gensou - The Last Song,-
-Cop Craft,-
-Coppelion,-
-Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou,-
-Cossette no Shouzou,-
-Cowboy Bebop,-
-Coyote Ragtime Show,-
-Cross Ange: Tenshi to Ryuu no Rondo,-
-Cross Fight B-Daman,-
-Cross Fight B-Daman eS,-
-Cross Game,-
-Cutey Honey,-
-Cuticle Tantei Inaba,-
-Cutie Honey Universe,-
-Cyborg 009: The Cyborg Soldier,-
-Cyborg Kuro-chan,-
-D.C.: Da Capo,-
-D.C.II S.S.: Da Capo II Second Season,-
-D.C.II: Da Capo II,-
-D.C.III: Da Capo III,-
-D.C.S.S: Da Capo Second Season,-
-D.Gray-man,-
-D.Gray-man Hallow,-
+CHEATING CRAFT,-
+CHEER DANSHI!!,-
+CHIBI☆DEVI!,-
+CHICCHANA YUKITSUKAI SUGAR,-
+CHIHAYAFURU,-
+CHIHAYAFURU 2,-
+CHIHAYAFURU 3,-
+CHIISANA KYOJIN MICROMAN,-
+CHIO-CHAN NO TSUUGAKURO,-
+CHIRURAN: NIBUN NO ICHI,-
+CHI'S SWEET HOME,-
+CHI'S SWEET HOME: ATARASHII OUCHI,-
+CHITOSE GET YOU!!,-
+CHOBITS,-
+CHOBORAUNYOPOMI GEKIJOU AI MAI MII,-
+CHOBORAUNYOPOMI GEKIJOU DAI NI MAKU AI MAI MII: MOUSOU CATASTROPHE,-
+CHOBORAUNYOPOMI GEKIJOU DAI SAN MAKU AI MAI MII: SURGICAL FRIENDS,-
+CHOU DENJI MACHINE VOLTES V,-
+CHOU HATSUMEI BOY KANIPAN,-
+CHOU HENSHIN COSPRAYERS,-
+CHOU ROBOT SEIMEITAI TRANSFORMERS MICRON DENSETSU,-
+CHOUJIGEN GAME NEPTUNE THE ANIMATION,-
+CHOUJIN KOUKOUSEI-TACHI WA ISEKAI DEMO YOYUU DE IKINUKU YOU DESU!,-
+CHOUJUUSHIN GRAVION,-
+CHOUJUUSHIN GRAVION ZWEI,-
+CHOUKADOU GIRL ⅙,-
+CHOUSOKU SPINNER,-
+CHRNO CRUSADE,-
+CHROME SHELLED REGIOS,-
+CHU-BRA!!,-
+CHUUBYOU GEKIHATSU BOY,-
+CHUUKA ICHIBAN!,-
+CHUUKAN KANRIROKU TONEGAWA,-
+CHUUNIBYOU DEMO KOI GA SHITAI!,-
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,-
+CINDERELLA GIRLS GEKIJOU,-
+CINDERELLA GIRLS GEKIJOU 2ND SEASON,-
+CINDERELLA GIRLS GEKIJOU 3RD SEASON,-
+CINDERELLA GIRLS GEKIJOU: CLIMAX SEASON,-
+CINDERELLA MONOGATARI,-
+CIRCLET PRINCESS,-
+CITRUS,6
+CITY HUNTER,-
+CITY HUNTER 2,-
+CITY HUNTER '91,-
+CLANNAD,-
+CLANNAD: AFTER STORY,-
+CLASSICALOID,-
+CLASSICALOID 2ND SEASON,-
+CLASSROOM☆CRISIS,-
+CLAYMORE,-
+CLIONE NO AKARI,-
+CLOCKWORK PLANET,-
+CODE GEASS: HANGYAKU NO LELOUCH,-
+CODE GEASS: HANGYAKU NO LELOUCH R2,-
+CODE:BREAKER,-
+CODE:REALIZE - SOUSEI NO HIMEGIMI,-
+COLORFUL,-
+COMET LUCIFER,-
+COMIC GIRLS,-
+CONCEPTION,-
+CONCRETE REVOLUTIO: CHOUJIN GENSOU,-
+CONCRETE REVOLUTIO: CHOUJIN GENSOU - THE LAST SONG,-
+COP CRAFT,-
+COPPELION,-
+COWBOY BEBOP,-
+COYOTE RAGTIME SHOW,-
+CROSS ANGE: TENSHI TO RYUU NO RONDO,-
+CROSS FIGHT B-DAMAN,-
+CROSS FIGHT B-DAMAN ES,-
+CROSS GAME,-
+CUTEY HONEY,-
+CUTICLE TANTEI INABA,-
+CUTIE HONEY UNIVERSE,-
+CYBORG 009: THE CYBORG SOLDIER,-
+CYBORG KURO-CHAN,-
+D.C.: DA CAPO,-
+D.C.II S.S.: DA CAPO II SECOND SEASON,-
+D.C.II: DA CAPO II,-
+D.C.III: DA CAPO III,-
+D.C.S.S: DA CAPO SECOND SEASON,-
+D.GRAY-MAN,-
+D.GRAY-MAN HALLOW,-
 D.I.C.E.,-
-D.N.Angel,-
-D4 Princess,-
-Daa! Daa! Daa!,-
-Dagashi Kashi,-
-Dagashi Kashi 2,-
-Dai Mahou Touge,-
-Dai Mahou Touge Omake,-
-Daitoshokan no Hitsujikai,-
-Dakara Boku wa H ga Dekinai.,-
-Dakaretai Otoko 1-i ni Odosarete Imasu.,-
-Dame x Prince Anime Caravan,-
-Dance in the Vampire Bund,-
-Dance with Devils,-
-Danchigai,-
-Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,-
+D.N.ANGEL,-
+D4 PRINCESS,-
+DAA! DAA! DAA!,-
+DAGASHI KASHI,-
+DAGASHI KASHI 2,-
+DAITOSHOKAN NO HITSUJIKAI,-
+DAKARA BOKU WA H GA DEKINAI.,-
+DAKARETAI OTOKO 1-I NI ODOSARETE IMASU.,-
+DAME X PRINCE ANIME CARAVAN,-
+DANCE IN THE VAMPIRE BUND,-
+DANCE WITH DEVILS,-
+DANCHIGAI,-
 DANGANRONPA 3: THE END OF KIBOUGAMINE GAKUEN - MIRAI-HEN,-
-Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,-
 DANGANRONPA 3: THE END OF KIBOUGAMINE GAKUEN - ZETSUBOU-HEN,-
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,-
 DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,-
-Danna ga Nani wo Itteiru ka Wakaranai Ken,-
-Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me,-
-Dansai Bunri no Crime Edge,-
-Danshi Koukousei no Nichijou,-
-Danshi Koukousei no Nichijou Specials,-
-Dantalian no Shoka,-
-Darker than Black: Kuro no Keiyakusha,-
-Darker than Black: Kuro no Keiyakusha Gaiden,-
-Darker than Black: Ryuusei no Gemini,-
-Darling in the FranXX,-
+DANNA GA NANI WO ITTEIRU KA WAKARANAI KEN,-
+DANNA GA NANI WO ITTEIRU KA WAKARANAI KEN 2 SURE-ME,-
+DANSAI BUNRI NO CRIME EDGE,-
+DANSHI KOUKOUSEI NO NICHIJOU,-
+DANTALIAN NO SHOKA,-
+DARKER THAN BLACK: KURO NO KEIYAKUSHA,-
+DARKER THAN BLACK: RYUUSEI NO GEMINI,-
 DARLING IN THE FRANXX,-
-Darwin's Game,-
-Dash! Kappei,-
-Date A Live,-
-Date A Live II,-
-Date A Live III,-
-Days (TV),-
-DD Hokuto no Ken 2 Ichigo Aji+,-
-Deadman Wonderland,-
+DARWIN'S GAME,-
+DATE A LIVE,-
+DATE A LIVE II,-
+DATE A LIVE III,-
+DAYS (TV),-
+DD HOKUTO NO KEN 2 ICHIGO AJI+,-
 DEADMAN WONDERLAND,-
-Dear Boys,-
-DearS,-
-Death March kara Hajimaru Isekai Kyousoukyoku,-
-Death Note,-
+DEAR BOYS,-
+DEARS,-
+DEATH MARCH KARA HAJIMARU ISEKAI KYOUSOUKYOKU,-
 DEATH NOTE,-
-Death Parade,8
-Deltora Quest,-
-Demashita! Powerpuff Girls Z,-
-Demi-chan wa Kataritai,-
-Denki-gai no Honya-san,-
-Dennou Coil,-
-Denpa Kyoushi (TV),-
-Denpa Onna to Seishun Otoko,-
-Densetsu Kyojin Ideon,-
-Densetsu no Yuusha no Densetsu,-
-Devidol!,-
-Devil May Cry,-
-Devil Survivor 2 The Animation,-
-Devilman Lady,-
-Devilman: Crybaby,-
-Devils Line,-
-D-Frag!,-
-Di Gi Charat,-
-Di Gi Charat Nyo,-
-Diabolik Lovers,-
-Diabolik Lovers MoreBlood,-
-Diamond no Ace,-
-Diamond no Ace: Act II,-
-Diamond no Ace: Second Season,-
-Dies Irae,-
-Digimon Adventure,-
-Digimon Adventure 02,-
-Digimon Frontier,-
-Digimon Savers,-
-Digimon Tamers,-
-Digimon Universe: Appli Monsters,-
-Digimon Xros Wars,-
-Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku,-
-Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi,-
-Dimension High School,-
-Dimension W,-
-Dirty Pair,-
-Dive!!,-
-Divine Gate,-
+DEATH PARADE,8
+DELTORA QUEST,-
+DEMASHITA! POWERPUFF GIRLS Z,-
+DEMI-CHAN WA KATARITAI,-
+DENKI-GAI NO HONYA-SAN,-
+DENNOU COIL,-
+DENPA KYOUSHI (TV),-
+DENPA ONNA TO SEISHUN OTOKO,-
+DENSETSU KYOJIN IDEON,-
+DENSETSU NO YUUSHA NO DENSETSU,-
+DEVIDOL!,-
+DEVIL MAY CRY,-
+DEVIL SURVIVOR 2 THE ANIMATION,-
+DEVILMAN LADY,-
+DEVILS LINE,-
+D-FRAG!,-
+DIABOLIK LOVERS,-
+DIABOLIK LOVERS MOREBLOOD,-
+DIAMOND NO ACE,-
+DIAMOND NO ACE: ACT II,-
+DIAMOND NO ACE: SECOND SEASON,-
+DIES IRAE,-
+DIGIMON ADVENTURE,-
+DIGIMON ADVENTURE 02,-
+DIGIMON FRONTIER,-
+DIGIMON SAVERS,-
+DIGIMON TAMERS,-
+DIGIMON UNIVERSE: APPLI MONSTERS,-
+DIGIMON XROS WARS,-
+DIGIMON XROS WARS: AKU NO DEATH GENERAL TO NANATSU NO OUKOKU,-
+DIGIMON XROS WARS: TOKI WO KAKERU SHOUNEN HUNTER-TACHI,-
+DIMENSION HIGH SCHOOL,-
+DIMENSION W,-
+DIRTY PAIR,-
+DIVE!!,-
+DIVINE GATE,-
 DNA²,-
-Dog Days,-
-Dog Days',-
-Dog Days'',-
-Dogs: Bullets & Carnage,-
-Dokidoki! Precure,-
-Domestic na Kanojo,-
-Donten ni Warau,-
-Doraemon (1979),-
-Dorei-ku The Animation,-
-Dorohedoro,-
-Dororo,-
+DOG DAYS,-
+DOG DAYS',-
+DOG DAYS'',-
+DOKIDOKI! PRECURE,-
+DOMESTIC NA KANOJO,-
+DONTEN NI WARAU,-
+DORAEMON (1979),-
+DOREI-KU THE ANIMATION,-
+DOROHEDORO,-
 DORORO,-
-Dororo to Hyakkimaru,-
-Dororon Enma-kun Meeramera,-
-Double Decker! Doug & Kirill,-
-Double-J,-
-Doukyonin wa Hiza Tokidoki Atama no Ue.,-
-Dr. Rin ni Kiitemite!,-
-Dr. Slump: Arale-chan,-
-Dr. Stone,-
+DORORO TO HYAKKIMARU,-
+DORORON ENMA-KUN MEERAMERA,-
+DOUBLE DECKER! DOUG & KIRILL,-
+DOUBLE-J,-
+DOUKYONIN WA HIZA TOKIDOKI ATAMA NO UE.,-
+DR. SLUMP: ARALE-CHAN,-
 DR. STONE,-
-Dragon Ball,-
 DRAGON BALL,-
-Dragon Ball GT,-
 DRAGON BALL GT,-
-Dragon Ball Kai,-
 DRAGON BALL KAI,-
-Dragon Ball Kai (2014),-
-Dragon Ball Super,-
-Dragon Ball Z,-
+DRAGON BALL KAI (2014),-
+DRAGON BALL SUPER,-
 DRAGON BALL Z,-
-Dragon Collection,-
-Dragon Crisis!,-
-Dragon Quest: Abel Yuusha Densetsu,-
-Dragon Quest: Dai no Daibouken (TV),-
-Dragonaut: The Resonance,-
-DRAMAtical Murder,-
-Drifters,-
-Drifters (OVA),-
-Druaga no Tou: The Aegis of Uruk,-
-Druaga no Tou: The Sword of Uruk,-
-Dual! Parallel Lun-Lun Monogatari,-
-Duel Masters,-
-Duel Masters Charge,-
-Duel Masters Zero,-
-Dumbbell Nan Kilo Moteru?,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,-
+DRAGON COLLECTION,-
+DRAGON CRISIS!,-
+DRAGON QUEST: ABEL YUUSHA DENSETSU,-
+DRAGON QUEST: DAI NO DAIBOUKEN (TV),-
+DRAGONAUT: THE RESONANCE,-
+DRAMATICAL MURDER,-
+DRIFTERS,-
+DRUAGA NO TOU: THE AEGIS OF URUK,-
+DRUAGA NO TOU: THE SWORD OF URUK,-
+DUAL! PARALLEL LUN-LUN MONOGATARI,-
+DUEL MASTERS,-
+DUEL MASTERS CHARGE,-
+DUMBBELL NAN KILO MOTERU?,-
 DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,-
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA GAIDEN: SWORD ORATORIA,-
 DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,-
-Durarara!!,-
 DURARARA!!,-
-Durarara!! Specials,-
-Durarara!!x2 Ketsu,-
-Durarara!!x2 Shou,-
-Durarara!!x2 Ten,-
-Dynamic Chord,-
-Eat-Man,-
-ef: A Tale of Melodies.,-
-ef: A Tale of Memories.,-
-Egao no Daika,-
-Eikoku Koi Monogatari Emma,-
-Eikoku Koi Monogatari Emma: Molders-hen,-
-Eizouken ni wa Te wo Dasu na!,-
-El Cazador de la Bruja,-
-El Hazard: The Alternative World,-
-El Hazard: The Wanderers,-
-ēlDLIVE,-
-Elf wo Karu Mono-tachi,-
-Elf wo Karu Mono-tachi II,-
-Elfen Lied,-
+DURARARA!!X2 KETSU,-
+DURARARA!!X2 SHOU,-
+DURARARA!!X2 TEN,-
+DYNAMIC CHORD,-
+EAT-MAN,-
+EF: A TALE OF MELODIES.,-
+EF: A TALE OF MEMORIES.,-
+EGAO NO DAIKA,-
+EIKOKU KOI MONOGATARI EMMA,-
+EIKOKU KOI MONOGATARI EMMA: MOLDERS-HEN,-
+EIZOUKEN NI WA TE WO DASU NA!,-
+EL CAZADOR DE LA BRUJA,-
+EL HAZARD: THE ALTERNATIVE WORLD,-
+EL HAZARD: THE WANDERERS,-
+ĒLDLIVE,-
+ELF WO KARU MONO-TACHI,-
+ELF WO KARU MONO-TACHI II,-
 ELFEN LIED,-
-Endride,-
-Endro~!,-
-Enen no Shouboutai,-
+ENDRIDE,-
+ENDRO~!,-
 ENEN NO SHOUBOUTAI,-
-Ensemble Stars!,-
-Erementar Gerad,-
-Ergo Proxy,-
-Eroge! H mo Game mo Kaihatsu Zanmai,-
-Eromanga-sensei,-
-Eromanga-sensei OVA,-
-Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi,-
-Etotama,-
-Eureka Seven AO,-
-Evil or Live,-
-Eyeshield 21,-
-Fairy Gone,-
-Fairy Gone 2nd Season,-
-Fairy Tail,-
+ENSEMBLE STARS!,-
+EREMENTAR GERAD,-
+ERGO PROXY,-
+EROMANGA-SENSEI,-
+ESCHA & LOGY NO ATELIER: TASOGARE NO SORA NO RENKINJUTSUSHI,-
+ETOTAMA,-
+EUREKA SEVEN AO,-
+EVIL OR LIVE,-
+EYESHIELD 21,-
+FAIRY GONE,-
+FAIRY GONE 2ND SEASON,-
 FAIRY TAIL,-
-Fairy Tail (2014),-
 FAIRY TAIL (2014),-
-Fairy Tail: Final Series,-
-Fantasista Doll,-
-Fate/Apocrypha,-
-Fate/Extra: Last Encore,-
-Fate/Extra: Last Encore - Illustrias Tendousetsu,-
-Fate/Grand Order: Zettai Majuu Sensen Babylonia,-
-Fate/kaleid liner Prisma☆Illya,-
-Fate/kaleid liner Prisma☆Illya 2wei Herz!,-
-Fate/kaleid liner Prisma☆Illya 2wei!,-
-Fate/kaleid liner Prisma☆Illya 3rei!!,-
-Fate/stay night,-
-Fate/stay night: Unlimited Blade Works,7
-FATE/STAY NIGHT: UNLIMITED BLADE WORKS,-
-Fate/stay night: Unlimited Blade Works 2nd Season,7
-Fate/Zero,8
-FATE/ZERO,-
-Fate/Zero 2nd Season,8
-FATE/ZERO 2ND SEASON,-
-Fight Ippatsu! Juuden-chan!!,-
-Final Approach,-
-Final Fantasy: Unlimited,-
-Fireball,-
-Fireball Charming,-
-Fireball Humorous,-
-Flanders no Inu Boku no Patrasche,-
-FLCL,-
-Flip Flappers,8
-Flowering Heart,-
-Flying Witch,-
-Forest Fairy Five,-
-Fortune Arterial: Akai Yakusoku,-
-Fractale,-
-Frame Arms Girl,-
-Free!,-
+FAIRY TAIL: FINAL SERIES,-
+FANTASISTA DOLL,-
+FATE/APOCRYPHA,-
+FATE/EXTRA: LAST ENCORE,-
+FATE/EXTRA: LAST ENCORE - ILLUSTRIAS TENDOUSETSU,-
+FATE/GRAND ORDER: ZETTAI MAJUU SENSEN BABYLONIA,-
+FATE/KALEID LINER PRISMA☆ILLYA,-
+FATE/KALEID LINER PRISMA☆ILLYA 2WEI HERZ!,-
+FATE/KALEID LINER PRISMA☆ILLYA 2WEI!,-
+FATE/KALEID LINER PRISMA☆ILLYA 3REI!!,-
+FATE/STAY NIGHT,-
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,7
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,7
+FATE/ZERO,8
+FATE/ZERO 2ND SEASON,8
+FIGHT IPPATSU! JUUDEN-CHAN!!,-
+FINAL APPROACH,-
+FINAL FANTASY: UNLIMITED,-
+FIREBALL CHARMING,-
+FIREBALL HUMOROUS,-
+FLANDERS NO INU BOKU NO PATRASCHE,-
+FLIP FLAPPERS,8
+FLOWERING HEART,-
+FLYING WITCH,-
+FOREST FAIRY FIVE,-
+FORTUNE ARTERIAL: AKAI YAKUSOKU,-
+FRACTALE,-
+FRAME ARMS GIRL,-
 FREE!,-
-Free!: Dive to the Future,-
-Free!: Eternal Summer,-
-Free!: FrFr - Short Movie,-
-Freezing,-
-Freezing Vibration,-
-Fruits Basket,-
-Fruits Basket 1st Season,-
-Fudanshi Koukou Seikatsu,-
-Fukigen na Mononokean,-
-Fukigen na Mononokean Tsuzuki,-
-Fukumenkei Noise,-
-Full Metal Panic!,-
-Full Metal Panic! Invisible Victory,-
-Full Metal Panic! The Second Raid,-
-Full Metal Panic? Fumoffu,-
-Full Moon wo Sagashite,-
-Fullmetal Alchemist,-
+FREE!: DIVE TO THE FUTURE,-
+FREE!: ETERNAL SUMMER,-
+FREEZING,-
+FREEZING VIBRATION,-
+FRUITS BASKET,-
+FRUITS BASKET 1ST SEASON,-
+FUDANSHI KOUKOU SEIKATSU,-
+FUKIGEN NA MONONOKEAN,-
+FUKIGEN NA MONONOKEAN TSUZUKI,-
+FUKUMENKEI NOISE,-
+FULL METAL PANIC!,-
+FULL METAL PANIC! INVISIBLE VICTORY,-
+FULL METAL PANIC! THE SECOND RAID,-
+FULL METAL PANIC? FUMOFFU,-
+FULL MOON WO SAGASHITE,-
 FULLMETAL ALCHEMIST,-
-Fullmetal Alchemist: Brotherhood,8
-FULLMETAL ALCHEMIST: BROTHERHOOD,-
-Fullmetal Alchemist: Premium Collection,-
-Fumikiri Jikan,-
-Fune wo Amu,-
-Funny Pets,-
-Fushigi na Koala Blinky,-
-Fushigi na Somera-chan,-
-Fushigi no Umi no Nadia,-
-Fushigi Yuugi,-
-Fushigiboshi no☆Futagohime,-
-Fushigiboshi no☆Futagohime Gyu!,-
-Futakoi,-
-Futakoi Alternative,-
-Futari Ecchi,-
-Futari wa Milky Holmes,-
-Futari wa Precure,-
-Futari wa Precure: Max Heart,-
-Futsuu no Joshikousei ga [Locodol] Yattemita.,-
-Future Card Buddyfight,-
-Future Card Buddyfight Battsu,-
-Future Card Buddyfight Hundred,-
-Future Card Buddyfight Triple D,-
-Future Card Shin Buddyfight,-
-Future GPX Cyber Formula,-
-Fuujin Monogatari,-
-Fuuka,-
-Fuuun Ishin Dai☆Shogun,-
-Fuyu no Sonata,-
-F-Zero: Falcon Densetsu,-
-GA: Geijutsuka Art Design Class,-
-Gabriel DropOut,-
-Gad Guard,-
-Gaikotsu Shotenin Honda-san,-
-Gakkou no Kaidan,-
+FULLMETAL ALCHEMIST: BROTHERHOOD,8
+FUMIKIRI JIKAN,-
+FUNE WO AMU,-
+FUNNY PETS,-
+FUSHIGI NA SOMERA-CHAN,-
+FUSHIGI YUUGI,-
+FUSHIGIBOSHI NO☆FUTAGOHIME,-
+FUSHIGIBOSHI NO☆FUTAGOHIME GYU!,-
+FUTAKOI,-
+FUTARI WA MILKY HOLMES,-
+FUTARI WA PRECURE,-
+FUTARI WA PRECURE: MAX HEART,-
+FUTSUU NO JOSHIKOUSEI GA [LOCODOL] YATTEMITA.,-
+FUTURE CARD BUDDYFIGHT,-
+FUTURE CARD BUDDYFIGHT BATTSU,-
+FUTURE CARD BUDDYFIGHT HUNDRED,-
+FUTURE CARD BUDDYFIGHT TRIPLE D,-
+FUUJIN MONOGATARI,-
+FUUKA,-
+FUUUN ISHIN DAI☆SHOGUN,-
+FUYU NO SONATA,-
+F-ZERO: FALCON DENSETSU,-
+GA: GEIJUTSUKA ART DESIGN CLASS,-
+GABRIEL DROPOUT,-
+GAIKOTSU SHOTENIN HONDA-SAN,-
 GAKKOU NO KAIDAN,-
-Gakkougurashi!,6
-Gakuen Alice,-
-Gakuen Babysitters,-
-Gakuen Basara,-
-Gakuen Handsome,-
-Gakuen Heaven,-
-Gakuen Utopia Manabi Straight!,-
-Gakusen Toshi Asterisk,-
-Gakusen Toshi Asterisk 2nd Season,-
-Galaxy Angel,-
-Galilei Donna,-
-Gallery Fake,-
-Gamers!,-
-Ganbare! Kickers,-
-Ganbarist! Shun,-
-Gangsta.,-
-Gankutsuou,-
-Gantz,-
-Gantz 2nd Stage,-
-Ga-Rei: Zero,-
-Garo: Guren no Tsuki,-
-Garo: Honoo no Kokuin,-
-Garo: Vanishing Line,-
-Gatchaman Crowds,-
-Gatchaman Crowds Insight,-
-Gate Keepers,-
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,-
-Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,-
-Gegege no Kitarou (2018),-
-Gekitou! Crush Gear Turbo,-
-Gekkan Shoujo Nozaki-kun,-
-Gekkan Shoujo Nozaki-kun Specials,-
-Genei wo Kakeru Taiyou,-
-Genki Bakuhatsu Ganbaruger,-
-Genshiken,-
-Genshiken 2,-
-Genshiken Nidaime,-
-Genshiken OVA,-
-Gensoumaden Saiyuuki,-
-GetBackers,-
-Getsuyoubi no Tawawa,-
-Getsuyoubi no Tawawa Specials,-
-Ghost Hunt,-
-Ghost Sweeper GS Mikami,-
-Gi(a)rlish Number,-
-Giant Gorg,-
-Giant Killing,-
-Gift: Eternal Rainbow,-
-Gilgamesh,-
-Gin no Guardian,-
-Gin no Guardian II,-
-Gin no Saji,-
-Gin no Saji 2nd Season,-
-Ginban Kaleidoscope,-
-Ginga Densetsu Weed,-
-Ginga e Kickoff!!,-
-Ginga Eiyuu Densetsu,-
-Ginga Eiyuu Densetsu Gaiden,-
-Ginga Eiyuu Densetsu Gaiden (1999),-
-Ginga Eiyuu Densetsu: Die Neue These - Kaikou,-
-Ginga Eiyuu Densetsu: Die Neue These - Seiran 1,-
-Ginga Eiyuu Densetsu: Die Neue These - Seiran 2,-
-Ginga Eiyuu Densetsu: Die Neue These - Seiran 3,-
-Ginga Kikoutai Majestic Prince,-
-Ginga Nagareboshi Gin,-
-Ginga Tetsudou 999,-
-Ginga Tetsudou Monogatari,-
-Gingitsune,-
-Giniro no Olynsis: Tokito,-
-Gintama,-
-Gintama',-
-Gintama.,-
-Gintama.: Porori-hen,-
-Gintama.: Shirogane no Tamashii-hen,-
-Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,-
-Gintama': Enchousen,-
-Gintama: Yorinuki Gintama-san on Theater 2D,-
-Gintama°,-
-Gintama°: Aizome Kaori-hen,-
-Ginyuu Mokushiroku Meine Liebe,-
-Ginyuu Mokushiroku Meine Liebe Wieder,-
-Girlfriend (Kari),-
-Girls & Panzer,-
-Girls Bravo: First Season,-
+GAKKOUGURASHI!,6
+GAKUEN ALICE,-
+GAKUEN BABYSITTERS,-
+GAKUEN BASARA,-
+GAKUEN HANDSOME,-
+GAKUEN HEAVEN,-
+GAKUSEN TOSHI ASTERISK,-
+GAKUSEN TOSHI ASTERISK 2ND SEASON,-
+GALAXY ANGEL,-
+GALILEI DONNA,-
+GALLERY FAKE,-
+GAMERS!,-
+GANBARIST! SHUN,-
+GANGSTA.,-
+GANKUTSUOU,-
+GANTZ,-
+GANTZ 2ND STAGE,-
+GA-REI: ZERO,-
+GARO: GUREN NO TSUKI,-
+GARO: HONOO NO KOKUIN,-
+GARO: VANISHING LINE,-
+GATCHAMAN CROWDS,-
+GATCHAMAN CROWDS INSIGHT,-
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,-
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI 2ND SEASON,-
+GEGEGE NO KITAROU (2018),-
+GEKITOU! CRUSH GEAR TURBO,-
+GEKKAN SHOUJO NOZAKI-KUN,-
+GENEI WO KAKERU TAIYOU,-
+GENKI BAKUHATSU GANBARUGER,-
+GENSHIKEN,-
+GENSHIKEN 2,-
+GENSHIKEN NIDAIME,-
+GENSOUMADEN SAIYUUKI,-
+GETBACKERS,-
+GHOST HUNT,-
+GHOST SWEEPER GS MIKAMI,-
+GI(A)RLISH NUMBER,-
+GIANT GORG,-
+GIANT KILLING,-
+GIFT: ETERNAL RAINBOW,-
+GILGAMESH,-
+GIN NO GUARDIAN,-
+GIN NO GUARDIAN II,-
+GIN NO SAJI,-
+GIN NO SAJI 2ND SEASON,-
+GINBAN KALEIDOSCOPE,-
+GINGA DENSETSU WEED,-
+GINGA E KICKOFF!!,-
+GINGA EIYUU DENSETSU: DIE NEUE THESE - KAIKOU,-
+GINGA KIKOUTAI MAJESTIC PRINCE,-
+GINGA NAGAREBOSHI GIN,-
+GINGA TETSUDOU 999,-
+GINGA TETSUDOU MONOGATARI,-
+GINGITSUNE,-
+GINIRO NO OLYNSIS: TOKITO,-
+GINTAMA,-
+GINTAMA',-
+GINTAMA.,-
+GINTAMA.: PORORI-HEN,-
+GINTAMA.: SHIROGANE NO TAMASHII-HEN,-
+GINTAMA.: SHIROGANE NO TAMASHII-HEN - KOUHAN-SEN,-
+GINTAMA': ENCHOUSEN,-
+GINTAMA°,-
+GINYUU MOKUSHIROKU MEINE LIEBE,-
+GINYUU MOKUSHIROKU MEINE LIEBE WIEDER,-
+GIRLFRIEND (KARI),-
+GIRLS & PANZER,-
 GIRLS BRAVO: FIRST SEASON,-
-Girls Bravo: Second Season,-
-Girly Air Force,-
-Given,-
+GIRLS BRAVO: SECOND SEASON,-
+GIRLY AIR FORCE,-
 GIVEN,-
-GJ-bu,-
-Glamorous Heroes,-
-Glass no Kantai: La Legende du Vent de l'Univers,-
-Glasslip,-
-Go! Go! 575,-
-Go! Princess Precure,-
-Goblin Slayer,-
-Gochuumon wa Usagi Desu ka?,-
-Gochuumon wa Usagi Desu ka??,-
-God Eater,-
+GJ-BU,-
+GLAMOROUS HEROES,-
+GLASSLIP,-
+GO! GO! 575,-
+GO! PRINCESS PRECURE,-
+GOBLIN SLAYER,-
+GOCHUUMON WA USAGI DESU KA?,-
+GOCHUUMON WA USAGI DESU KA??,-
 GOD EATER,-
-Gokujo.: Gokurakuin Joshikou Ryou Monogatari,-
-Gokujou Seitokai,-
-Gokujou!! Mecha Mote Iinchou,-
-Gokujou!! Mecha Mote Iinchou Second Collection,-
-Gokukoku no Brynhildr,-
-Gokusen,-
-Golden Boy,-
-Golden Kamuy,-
-Golden Kamuy 2nd Season,-
-Golden Time,-
-Golgo 13 (TV),-
-Goshuushou-sama Ninomiya-kun,-
-Gosick,-
+GOKUJO.: GOKURAKUIN JOSHIKOU RYOU MONOGATARI,-
+GOKUJOU SEITOKAI,-
+GOKUJOU!! MECHA MOTE IINCHOU,-
+GOKUJOU!! MECHA MOTE IINCHOU SECOND COLLECTION,-
+GOKUKOKU NO BRYNHILDR,-
+GOKUSEN,-
+GOLDEN KAMUY,-
+GOLDEN KAMUY 2ND SEASON,-
+GOLDEN TIME,-
+GOLGO 13 (TV),-
+GOSHUUSHOU-SAMA NINOMIYA-KUN,-
 GOSICK,-
-Granbelm,-
-Granblue Fantasy The Animation,-
-Granblue Fantasy The Animation Season 2,-
-Grancrest Senki,-
-Grand Blue,-
+GRANBELM,-
+GRANBLUE FANTASY THE ANIMATION,-
+GRANBLUE FANTASY THE ANIMATION SEASON 2,-
+GRANCREST SENKI,-
 GRAND BLUE,-
-Grappler Baki (TV),-
-Grappler Baki: Saidai Tournament-hen,-
-Gravitation,-
-Great Teacher Onizuka,-
-Green Green,-
-Green Green Specials,-
-Grenadier: Hohoemi no Senshi,-
-Grimms Notes The Animation,-
-Grisaia no Kajitsu,-
-Grisaia no Kajitsu Specials,-
-Grisaia no Rakuen,-
-Groove Adventure Rave,-
-Gugure! Kokkuri-san,-
-Guilty Crown,-
-Guin Saga,-
-Gun x Sword,-
-Gundam Build Divers,-
-Gundam Build Divers Re:Rise,-
-Gundam Build Fighters,-
-Gundam Build Fighters Try,-
-Gundam Build Fighters: Battlogue,-
-Gundam: G no Reconguista,-
-Gungrave,-
-Gunjou no Magmell,-
-Gunparade March: Arata Naru Kougunka,-
-Gunslinger Girl,-
-Gunslinger Girl: Il Teatrino,-
-Gunslinger Stratos The Animation,-
-Guomin Laogong Dai Huijia,-
-Gurazeni,-
-Gurazeni Season 2,-
-Gyakkyou Burai Kaiji: Hakairoku-hen,-
-Gyakkyou Burai Kaiji: Ultimate Survivor,-
-Gyakuten Saiban: Sono Shinjitsu Igi Ari!,-
-Gyakuten Saiban: Sono Shinjitsu Igi Ari! Season 2,-
-H2O: Footprints in the Sand,-
-Hachigatsu no Cinderella Nine (TV),-
-Hachimitsu to Clover,-
-Hachimitsu to Clover II,-
-Hacka Doll The Animation,-
-Hagane Orchestra,-
-Hagure Yuusha no Aesthetica,-
-Hai to Gensou no Grimgar,-
-Haibane Renmei,-
-Haikyuu!!,-
+GRAPPLER BAKI (TV),-
+GRAPPLER BAKI: SAIDAI TOURNAMENT-HEN,-
+GRAVITATION,-
+GREAT TEACHER ONIZUKA,-
+GREEN GREEN,-
+GRIMMS NOTES THE ANIMATION,-
+GRISAIA NO KAJITSU,-
+GRISAIA NO RAKUEN,-
+GROOVE ADVENTURE RAVE,-
+GUGURE! KOKKURI-SAN,-
+GUILTY CROWN,-
+GUIN SAGA,-
+GUN X SWORD,-
+GUNDAM BUILD DIVERS,-
+GUNDAM BUILD FIGHTERS,-
+GUNDAM BUILD FIGHTERS TRY,-
+GUNDAM: G NO RECONGUISTA,-
+GUNGRAVE,-
+GUNJOU NO MAGMELL,-
+GUNSLINGER GIRL,-
+GUNSLINGER GIRL: IL TEATRINO,-
+GUNSLINGER STRATOS THE ANIMATION,-
+GURAZENI,-
+GURAZENI SEASON 2,-
+GYAKKYOU BURAI KAIJI: HAKAIROKU-HEN,-
+GYAKKYOU BURAI KAIJI: ULTIMATE SURVIVOR,-
+GYAKUTEN SAIBAN: SONO SHINJITSU IGI ARI!,-
+GYAKUTEN SAIBAN: SONO SHINJITSU IGI ARI! SEASON 2,-
+H2O: FOOTPRINTS IN THE SAND,-
+HACHIGATSU NO CINDERELLA NINE (TV),-
+HACHIMITSU TO CLOVER,-
+HACHIMITSU TO CLOVER II,-
+HACKA DOLL THE ANIMATION,-
+HAGANE ORCHESTRA,-
+HAGURE YUUSHA NO AESTHETICA,-
+HAI TO GENSOU NO GRIMGAR,-
+HAIBANE RENMEI,-
 HAIKYUU!!,-
-Haikyuu!! Second Season,-
 HAIKYUU!! SECOND SEASON,-
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,-
 HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,-
-Haikyuu!!: Riku vs. Kuu,-
-Haikyuu!!: To the Top,-
 HAIKYUU!!: TO THE TOP,-
-Haitai Nanafa,-
-Haiyore! Nyaruko-san,-
-Haiyore! Nyaruko-san W,-
-Haiyoru! Nyaruani,-
-Haiyoru! Nyaruani: Remember My Love(craft-sensei),-
-Hajime no Ippo,-
-Hajime no Ippo: New Challenger,-
-Hajime no Ippo: Rising,-
-Hajimete no Gal,-
-Hakaima Sadamitsu,-
-Hakata Mentai! Pirikarako-chan,-
-Hakata Tonkotsu Ramens,-
-Hakkenden: Touhou Hakken Ibun,-
-Hakkenden: Touhou Hakken Ibun 2nd Season,-
-Hakumei to Mikochi,-
-Hakuouki,-
-Hakuouki Hekketsuroku,-
-Hakuouki Reimeiroku,-
-Hakuouki: Otogisoushi,-
-Hakushaku to Yousei,-
-Hakyuu Houshin Engi,-
-Hamatora The Animation,-
-Hana yori Dango,-
-Hanamaru Youchien,-
-Hanamonogatari,7
-Hanasakeru Seishounen,-
-Hanasaku Iroha,-
-Hanaukyou Maid-tai,-
-Hanaukyou Maid-tai: La Verite,-
-Hanayamata,-
-Hanbun no Tsuki ga Noboru Sora,-
-Hand Maid May,-
-Hand Shakers,-
-Handa-kun,-
-Hanebado!,-
+HAITAI NANAFA,-
+HAIYORE! NYARUKO-SAN,-
+HAIYORE! NYARUKO-SAN W,-
+HAIYORU! NYARUANI: REMEMBER MY LOVE(CRAFT-SENSEI),-
+HAJIME NO IPPO,-
+HAJIME NO IPPO: NEW CHALLENGER,-
+HAJIME NO IPPO: RISING,-
+HAJIMETE NO GAL,-
+HAKAIMA SADAMITSU,-
+HAKATA MENTAI! PIRIKARAKO-CHAN,-
+HAKATA TONKOTSU RAMENS,-
+HAKKENDEN: TOUHOU HAKKEN IBUN,-
+HAKKENDEN: TOUHOU HAKKEN IBUN 2ND SEASON,-
+HAKUMEI TO MIKOCHI,-
+HAKUOUKI,-
+HAKUOUKI HEKKETSUROKU,-
+HAKUOUKI REIMEIROKU,-
+HAKUOUKI: OTOGISOUSHI,-
+HAKUSHAKU TO YOUSEI,-
+HAKYUU HOUSHIN ENGI,-
+HAMATORA THE ANIMATION,-
+HANA YORI DANGO,-
+HANAMARU YOUCHIEN,-
+HANAMONOGATARI,7
+HANASAKERU SEISHOUNEN,-
+HANASAKU IROHA,-
+HANAUKYOU MAID-TAI,-
+HANAUKYOU MAID-TAI: LA VERITE,-
+HANAYAMATA,-
+HANBUN NO TSUKI GA NOBORU SORA,-
+HAND MAID MAY,-
+HAND SHAKERS,-
+HANDA-KUN,-
 HANEBADO!,-
-Hangyakusei Million Arthur,-
-Hangyakusei Million Arthur 2nd Season,-
-Hanoka,-
-Happiness Charge Precure!,-
-Happiness!,-
-Happy Sugar Life,-
-Happy☆Lesson (TV),-
-Happy☆Lesson: Advance,-
-HaruChika: Haruta to Chika wa Seishun suru,-
-Harukana Receive,-
-Harukanaru Toki no Naka de: Hachiyou Shou,-
-Hashiri Tsuzukete Yokattatte.,-
-Hataage! Kemono Michi,-
-Hataraki Man,-
-Hataraku Maou-sama!,-
-Hataraku Onii-san!,-
-Hataraku Onii-san! no 2!,-
-Hataraku Saibou (TV),-
-Hataraku Saibou Specials,-
-Hatena☆Illusion,-
-Hatenkou Yuugi,-
-Hatsukoi Limited.,-
-Hatsukoi Monster,-
-Hatsumei Boy Kanipan,-
-Hayate no Gotoku!,-
+HANGYAKUSEI MILLION ARTHUR,-
+HANGYAKUSEI MILLION ARTHUR 2ND SEASON,-
+HANOKA,-
+HAPPINESS CHARGE PRECURE!,-
+HAPPINESS!,-
+HAPPY SUGAR LIFE,-
+HAPPY☆LESSON (TV),-
+HAPPY☆LESSON: ADVANCE,-
+HARUCHIKA: HARUTA TO CHIKA WA SEISHUN SURU,-
+HARUKANA RECEIVE,-
+HARUKANARU TOKI NO NAKA DE: HACHIYOU SHOU,-
+HASHIRI TSUZUKETE YOKATTATTE.,-
+HATAAGE! KEMONO MICHI,-
+HATARAKI MAN,-
+HATARAKU MAOU-SAMA!,-
+HATARAKU ONII-SAN!,-
+HATARAKU ONII-SAN! NO 2!,-
+HATARAKU SAIBOU (TV),-
+HATENA☆ILLUSION,-
+HATENKOU YUUGI,-
+HATSUKOI LIMITED.,-
+HATSUKOI MONSTER,-
+HATSUMEI BOY KANIPAN,-
 HAYATE NO GOTOKU!,-
-Hayate no Gotoku! Can't Take My Eyes Off You,-
-Hayate no Gotoku! Cuties,-
-Hayate no Gotoku!!,-
-Heartcatch Precure!,-
-Heavy Object,-
-Hello! Lady Lynn,-
-Hello!! Kiniro Mosaic,-
-Hellsing,-
-Hellsing Ultimate,-
-Hellsing: The Dawn,-
-HenSemi (TV),-
-Hentai Ouji to Warawanai Neko.,-
-Hentatsu (TV),-
-Heppoko Jikken Animation Excel♥Saga,-
-Heroic Age,-
-Heroman,-
-Heya Camp△,-
-Hi no Tori,-
-Hi☆sCoool! SeHa Girls,-
-Hibike! Euphonium,5
-Hibike! Euphonium 2,-
-Hidamari Sketch,-
-Hidamari Sketch x ☆☆☆,-
-Hidamari Sketch x 365,-
-Hidamari Sketch x Honeycomb,-
-Hidan no Aria,-
+HAYATE NO GOTOKU! CAN'T TAKE MY EYES OFF YOU,-
+HAYATE NO GOTOKU! CUTIES,-
+HAYATE NO GOTOKU!!,-
+HEARTCATCH PRECURE!,-
+HEAVY OBJECT,-
+HELLO! LADY LYNN,-
+HELLO!! KINIRO MOSAIC,-
+HELLSING,-
+HENSEMI (TV),-
+HENTAI OUJI TO WARAWANAI NEKO.,-
+HENTATSU (TV),-
+HEPPOKO JIKKEN ANIMATION EXCEL♥SAGA,-
+HEROIC AGE,-
+HEROMAN,-
+HEYA CAMP△,-
+HI☆SCOOOL! SEHA GIRLS,-
+HIBIKE! EUPHONIUM,5
+HIBIKE! EUPHONIUM 2,-
+HIDAMARI SKETCH,-
+HIDAMARI SKETCH X ☆☆☆,-
+HIDAMARI SKETCH X 365,-
+HIDAMARI SKETCH X HONEYCOMB,-
 HIDAN NO ARIA,-
-Hidan no Aria AA,-
-Higashi no Eden,-
-High School DxD,-
+HIDAN NO ARIA AA,-
+HIGASHI NO EDEN,-
 HIGH SCHOOL DXD,-
-High School DxD BorN,-
-High School DxD Hero,-
-High School DxD New,-
-High School Fleet,-
-High School! Kimengumi,-
-High Score,-
-High Score Girl,-
-High Score Girl II,-
-High Score Girl: Extra Stage,-
-Highschool of the Dead,-
+HIGH SCHOOL DXD BORN,-
+HIGH SCHOOL DXD HERO,-
+HIGH SCHOOL DXD NEW,-
+HIGH SCHOOL FLEET,-
+HIGH SCHOOL! KIMENGUMI,-
+HIGH SCORE,-
+HIGH SCORE GIRL,-
+HIGH SCORE GIRL II,-
 HIGHSCHOOL OF THE DEAD,-
-Higurashi no Naku Koro ni,-
-Higurashi no Naku Koro ni Kai,-
-Higurashi no Naku Koro ni Kira,-
-Higurashi no Naku Koro ni Rei,-
-Hiiro no Kakera,-
-Hiiro no Kakera Dai Ni Shou,-
-Hikaru no Go,-
-Himawari!,-
-Himawari!!,-
-Hime Chen! Otogi Chikku Idol Lilpri,-
-Hime Chen! Otogi Chikku Idol Lilpri (2011),-
-Hime-chan no Ribbon,-
-Himegoto,-
-Himote House,-
-Himouto! Umaru-chan,-
-Himouto! Umaru-chan R,-
-Hina Logi: From Luck & Logic,-
-Hinako Note,-
-Hinamatsuri,-
-Hinomaruzumou,-
+HIGURASHI NO NAKU KORO NI,-
+HIGURASHI NO NAKU KORO NI KAI,-
+HIIRO NO KAKERA,-
+HIIRO NO KAKERA DAI NI SHOU,-
+HIKARU NO GO,-
+HIMAWARI!,-
+HIMAWARI!!,-
+HIME CHEN! OTOGI CHIKKU IDOL LILPRI,-
+HIME-CHAN NO RIBBON,-
+HIMEGOTO,-
+HIMOTE HOUSE,-
+HIMOUTO! UMARU-CHAN,-
+HIMOUTO! UMARU-CHAN R,-
+HINA LOGI: FROM LUCK & LOGIC,-
+HINAKO NOTE,-
+HINAMATSURI,-
 HINOMARUZUMOU,-
-Hisone to Maso-tan,-
 HISONE TO MASO-TAN,-
-Hitohira,-
-Hitori no Shita: The Outcast,-
-Hitori no Shita: The Outcast 2nd Season,-
-Hitoribocchi no Marumaru Seikatsu,-
-Hitorijime My Hero,-
-Hitsugi no Chaika,-
-Hitsugi no Chaika: Avenging Battle,-
-Hokuto no Ken,-
-Hokuto no Ken 2,-
-Hokuto no Ken: Raoh Gaiden Ten no Haoh,-
-Honobono Log,-
-Honoo no Mirage,-
-Honoo no Toukyuuji: Dodge Danpei,-
-Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,-
-Hoozuki no Reitetsu,-
+HITOHIRA,-
+HITORI NO SHITA: THE OUTCAST,-
+HITORIBOCCHI NO MARUMARU SEIKATSU,-
+HITORIJIME MY HERO,-
+HITSUGI NO CHAIKA,-
+HITSUGI NO CHAIKA: AVENGING BATTLE,-
+HOKUTO NO KEN,-
+HOKUTO NO KEN 2,-
+HOKUTO NO KEN: RAOH GAIDEN TEN NO HAOH,-
+HONOBONO LOG,-
+HONOO NO MIRAGE,-
+HONOO NO TOUKYUUJI: DODGE DANPEI,-
+HONZUKI NO GEKOKUJOU: SHISHO NI NARU TAME NI WA SHUDAN WO ERANDEIRAREMASEN,-
 HOOZUKI NO REITETSU,-
-Hoozuki no Reitetsu 2nd Season,-
-Hoozuki no Reitetsu 2nd Season: Sono Ni,-
-Hoshi no Kirby,-
-Hoshiai no Sora,-
-Hoshizora e Kakaru Hashi,-
-Houkago no Pleiades (TV),-
-Houkago Saikoro Club,-
-Hourou Musuko,-
-Houseki no Kuni (TV),5
-Housekishou Richard-shi no Nazo Kantei,-
-Hug tto! Precure,-
-Hulaing Babies,-
-Hundred,-
-Hungry Heart: Wild Striker,-
-Hunter x Hunter,-
-Hunter x Hunter (2011),10
-HUNTER X HUNTER (2011),-
-Hyakka Ryouran: Samurai Bride,-
-Hyakka Ryouran: Samurai Girls,-
-Hyakko,-
-Hyakujuu-Ou GoLion,-
-Hyakuren no Haou to Seiyaku no Valkyria,-
-Hyouka,-
-I My Me! Strawberry Eggs,-
-Ichiban Ushiro no Daimaou,-
-Ichigo 100%,-
-Ichigo Mashimaro,-
-Id:Invaded,-
+HOOZUKI NO REITETSU 2ND SEASON,-
+HOOZUKI NO REITETSU 2ND SEASON: SONO NI,-
+HOSHI NO KIRBY,-
+HOSHIAI NO SORA,-
+HOSHIZORA E KAKARU HASHI,-
+HOUKAGO NO PLEIADES (TV),-
+HOUKAGO SAIKORO CLUB,-
+HOUROU MUSUKO,-
+HOUSEKI NO KUNI (TV),5
+HOUSEKISHOU RICHARD-SHI NO NAZO KANTEI,-
+HUG TTO! PRECURE,-
+HULAING BABIES,-
+HUNDRED,-
+HUNGRY HEART: WILD STRIKER,-
+HUNTER X HUNTER,-
+HUNTER X HUNTER (2011),10
+HYAKKA RYOURAN: SAMURAI BRIDE,-
+HYAKKA RYOURAN: SAMURAI GIRLS,-
+HYAKKO,-
+HYAKUJUU-OU GOLION,-
+HYAKUREN NO HAOU TO SEIYAKU NO VALKYRIA,-
+HYOUKA,-
+I MY ME! STRAWBERRY EGGS,-
+ICHIBAN USHIRO NO DAIMAOU,-
+ICHIGO 100%,-
+ICHIGO MASHIMARO,-
+ID:INVADED,-
 ID-0,-
-Idaten Jump,-
-Idol Jihen,-
-Idol Memories,-
-Idol Time PriPara,-
-IDOLiSH7,-
-Ie Naki Ko,-
-Ie Naki Ko Remy,-
-IGPX: Immortal Grand Prix (2005),-
-IGPX: Immortal Grand Prix (2005) 2nd Season,-
-Ikemen Sengoku: Toki wo Kakeru ga Koi wa Hajimaranai,-
-Iketeru Futari,-
-Ikkitousen,-
-Ikkitousen: Dragon Destiny,-
-Ikkitousen: Great Guardians,-
-Ikkitousen: Xtreme Xecutor,-
-Ikoku Meiro no Croisée The Animation,-
-Ima Soko ni Iru Boku,-
-Imouto sae Ireba Ii.,-
-Inari Konkon Koi Iroha.,-
-Inazma Delivery,-
-Inazma Delivery: Dougyousha Attack-hen,-
-Inazuma Eleven,-
-Inazuma Eleven Go,-
-Inazuma Eleven Go: Chrono Stone,-
-Inazuma Eleven Go: Galaxy,-
-Inazuma Eleven: Ares no Tenbin,-
-Inazuma Eleven: Orion no Kokuin,-
-Infini-T Force,-
-Infinite Dendrogram,-
-Initial D Fifth Stage,-
-Initial D Final Stage,-
-Initial D First Stage,-
-Initial D Fourth Stage,-
-Initial D Second Stage,-
-Innocent Venus,-
-Inou-Battle wa Nichijou-kei no Naka de,-
-Inu to Hasami wa Tsukaiyou,-
-Inu x Boku SS,-
+IDATEN JUMP,-
+IDOL JIHEN,-
+IDOL MEMORIES,-
+IDOL TIME PRIPARA,-
+IDOLISH7,-
+IE NAKI KO,-
+IE NAKI KO REMY,-
+IGPX: IMMORTAL GRAND PRIX (2005),-
+IGPX: IMMORTAL GRAND PRIX (2005) 2ND SEASON,-
+IKEMEN SENGOKU: TOKI WO KAKERU GA KOI WA HAJIMARANAI,-
+IKETERU FUTARI,-
+IKKITOUSEN,-
+IKKITOUSEN: DRAGON DESTINY,-
+IKKITOUSEN: GREAT GUARDIANS,-
+IKKITOUSEN: XTREME XECUTOR,-
+IKOKU MEIRO NO CROISÉE THE ANIMATION,-
+IMA SOKO NI IRU BOKU,-
+IMOUTO SAE IREBA II.,-
+INARI KONKON KOI IROHA.,-
+INAZMA DELIVERY,-
+INAZMA DELIVERY: DOUGYOUSHA ATTACK-HEN,-
+INAZUMA ELEVEN,-
+INAZUMA ELEVEN GO,-
+INAZUMA ELEVEN GO: CHRONO STONE,-
+INAZUMA ELEVEN GO: GALAXY,-
+INAZUMA ELEVEN: ARES NO TENBIN,-
+INAZUMA ELEVEN: ORION NO KOKUIN,-
+INFINI-T FORCE,-
+INFINITE DENDROGRAM,-
+INITIAL D FIFTH STAGE,-
+INITIAL D FINAL STAGE,-
+INITIAL D FIRST STAGE,-
+INITIAL D FOURTH STAGE,-
+INITIAL D SECOND STAGE,-
+INNOCENT VENUS,-
+INOU-BATTLE WA NICHIJOU-KEI NO NAKA DE,-
+INU TO HASAMI WA TSUKAIYOU,-
 INU X BOKU SS,-
-Inugami-san to Nekoyama-san,-
-Inukami!,-
-InuYasha (TV),-
-InuYasha (TV): Kanketsu-hen,-
-Inuyashiki,-
-Iron Kid,-
-Iron Man,-
-Irozuku Sekai no Ashita kara,-
-IS: Infinite Stratos,-
+INUGAMI-SAN TO NEKOYAMA-SAN,-
+INUKAMI!,-
+INUYASHA (TV),-
+INUYASHA (TV): KANKETSU-HEN,-
+INUYASHIKI,-
+IRON KID,-
+IRON MAN,-
+IROZUKU SEKAI NO ASHITA KARA,-
 IS: INFINITE STRATOS,-
-IS: Infinite Stratos 2,-
-Isekai Cheat Magician,-
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,-
-Isekai no Seikishi Monogatari,-
-Isekai Quartet,-
-Isekai Quartet 2,-
-Isekai Shokudou,-
-Isekai wa Smartphone to Tomo ni.,-
-Ishida to Asakura,-
-Ishuzoku Reviewers,-
-Island,-
-Isshuukan Friends.,-
-Isuca,-
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,-
-Itazura na Kiss,-
-Itoshi no Muco,-
-Itou Junji: Collection,-
+IS: INFINITE STRATOS 2,-
+ISEKAI CHEAT MAGICIAN,-
+ISEKAI MAOU TO SHOUKAN SHOUJO NO DOREI MAJUTSU,-
+ISEKAI QUARTET,-
+ISEKAI QUARTET 2,-
+ISEKAI SHOKUDOU,-
+ISEKAI WA SMARTPHONE TO TOMO NI.,-
+ISHIDA TO ASAKURA,-
+ISHUZOKU REVIEWERS,-
+ISLAND,-
+ISSHUUKAN FRIENDS.,-
+ISUCA,-
+ITAI NO WA IYA NANO DE BOUGYORYOKU NI KYOKUFURI SHITAI TO OMOIMASU.,-
+ITAZURA NA KISS,-
+ITOSHI NO MUCO,-
 ITOU JUNJI: COLLECTION,-
-Itsudatte Bokura no Koi wa 10 cm Datta.,-
-Itsuka Tenma no Kuro Usagi,-
-Ixion Saga DT,-
-Jashin-chan Dropkick,-
-Jewelpet,-
-Jewelpet Kira☆Deco!,-
-Jewelpet Magical Change,-
-Jewelpet Twinkle☆,-
-Jibaku Shounen Hanako-kun,-
+ITSUDATTE BOKURA NO KOI WA 10 CM DATTA.,-
+ITSUKA TENMA NO KURO USAGI,-
+IXION SAGA DT,-
+JASHIN-CHAN DROPKICK,-
+JEWELPET,-
+JEWELPET MAGICAL CHANGE,-
+JEWELPET TWINKLE☆,-
 JIBAKU SHOUNEN HANAKO-KUN,-
-Jibaku-kun,-
-Jigoku Sensei Nube,-
-Jigoku Shoujo,-
-Jigoku Shoujo Futakomori,-
-Jigoku Shoujo Mitsuganae,-
-Jigoku Shoujo: Yoi no Togi,-
-Jikan no Shihaisha,-
-Jingai-san no Yome,-
-Jinki:Extend,-
-Jinrui wa Suitai Shimashita,-
-Jinsei,-
-Jinzou Ningen Kikaider The Animation,-
-Jitsu wa Watashi wa,-
-JK Meshi!,-
-JoJo no Kimyou na Bouken (TV),6
-JOJO NO KIMYOU NA BOUKEN (TV),-
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,6
-JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,-
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,6
-JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,-
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,-
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,7
-JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,-
-Joker Game,-
-Joou Heika no Petite Angie,-
-Jormungand,-
-Jormungand: Perfect Order,-
-Joshikausei,-
-Joshikousei no Mudazukai,-
-Joshikousei: Girl's High,-
-Joshiochi!: 2-kai kara Onnanoko ga... Futtekita!?,-
-Joshiraku,-
-Joukamachi no Dandelion,-
-Jungle Taitei,-
-Jungle Taitei (1989),-
-Jungle wa Itsumo Hare nochi Guu,-
-Junjou Romantica,-
-Junjou Romantica 2,-
-Junjou Romantica 3,-
-Junjou Romantica OVA,-
-Junketsu no Maria,-
-Just Because!,-
-Juubee-chan: Lovely Gantai no Himitsu,-
-Juuni Kokuki,-
-Juuni Taisen,-
-Juuou Mujin no Fafnir,-
-Juushin Enbu: Hero Tales,-
-Juushinki Pandora,-
-Jyu Oh Sei,-
+JIGOKU SENSEI NUBE,-
+JIGOKU SHOUJO,-
+JIGOKU SHOUJO FUTAKOMORI,-
+JIGOKU SHOUJO MITSUGANAE,-
+JIGOKU SHOUJO: YOI NO TOGI,-
+JIKAN NO SHIHAISHA,-
+JINGAI-SAN NO YOME,-
+JINKI:EXTEND,-
+JINRUI WA SUITAI SHIMASHITA,-
+JINSEI,-
+JINZOU NINGEN KIKAIDER THE ANIMATION,-
+JITSU WA WATASHI WA,-
+JK MESHI!,-
+JOJO NO KIMYOU NA BOUKEN (TV),6
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,6
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,6
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,7
+JOKER GAME,-
+JOOU HEIKA NO PETITE ANGIE,-
+JORMUNGAND,-
+JORMUNGAND: PERFECT ORDER,-
+JOSHIKAUSEI,-
+JOSHIKOUSEI NO MUDAZUKAI,-
+JOSHIKOUSEI: GIRL'S HIGH,-
+JOSHIOCHI!: 2-KAI KARA ONNANOKO GA... FUTTEKITA!?,-
+JOSHIRAKU,-
+JOUKAMACHI NO DANDELION,-
+JUNGLE TAITEI,-
+JUNGLE TAITEI (1989),-
+JUNGLE WA ITSUMO HARE NOCHI GUU,-
+JUNJOU ROMANTICA,-
+JUNJOU ROMANTICA 2,-
+JUNJOU ROMANTICA 3,-
+JUNKETSU NO MARIA,-
+JUST BECAUSE!,-
+JUUBEE-CHAN: LOVELY GANTAI NO HIMITSU,-
+JUUNI KOKUKI,-
+JUUNI TAISEN,-
+JUUOU MUJIN NO FAFNIR,-
+JUUSHIN ENBU: HERO TALES,-
+JUUSHINKI PANDORA,-
+JYU OH SEI,-
 K,-
-K: Return of Kings,-
-Kabuki-bu!,-
-Kabukichou Sherlock,-
-Kachou Ouji,-
-Kagaku Ninja-tai Gatchaman,-
-Kagaku Ninja-tai Gatchaman F,-
-Kagaku Ninja-tai Gatchaman II,-
-Kage kara Mamoru!,-
-Kagewani,-
-Kagewani: Shou,-
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,-
+K: RETURN OF KINGS,-
+KABUKI-BU!,-
+KABUKICHOU SHERLOCK,-
+KAGAKU NINJA-TAI GATCHAMAN,-
+KAGAKU NINJA-TAI GATCHAMAN F,-
+KAGAKU NINJA-TAI GATCHAMAN II,-
+KAGE KARA MAMORU!,-
+KAGEWANI,-
+KAGEWANI: SHOU,-
 KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,-
-Kaiba,-
-Kaibutsu Oujo,-
-Kaichou wa Maid-sama!,-
+KAIBA,-
+KAIBUTSU OUJO,-
 KAICHOU WA MAID-SAMA!,-
-Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2nd Season,-
-Kaito x Ansa,-
-Kaitou Joker,-
-Kaitou Joker 2nd Season,-
-Kaitou Reinya,-
-Kaitou Saint Tail,-
-Kakegurui,-
+KAITO X ANSA,-
+KAITOU JOKER,-
+KAITOU REINYA,-
+KAITOU SAINT TAIL,-
 KAKEGURUI,-
-Kakegurui××,-
-Kakumeiki Valvrave,-
-Kakumeiki Valvrave 2nd Season,-
-Kakuriyo no Yadomeshi,-
-Kakutou Ryouri Densetsu Bistro Recipe,-
-Kakyuusei 2: Hitomi no Naka no Shoujo-tachi,-
-Kaleido Star,-
-Kamen no Maid Guy,-
-Kami nomi zo Shiru Sekai,-
+KAKEGURUI××,-
+KAKUMEIKI VALVRAVE,-
+KAKUMEIKI VALVRAVE 2ND SEASON,-
+KAKURIYO NO YADOMESHI,-
+KAKUTOU RYOURI DENSETSU BISTRO RECIPE,-
+KALEIDO STAR,-
+KAMEN NO MAID GUY,-
 KAMI NOMI ZO SHIRU SEKAI,-
-Kami nomi zo Shiru Sekai II,-
 KAMI NOMI ZO SHIRU SEKAI II,-
-Kami nomi zo Shiru Sekai: Megami-hen,-
-Kami nomi zo Shiru Sekai: Tenri-hen,-
-Kamichama Karin,-
-Kamichu!,-
-Kamigami no Asobi,-
-Kamigami no Ki,-
-Kamikaze Kaitou Jeanne,-
-Kamisama Dolls,-
-Kamisama Hajimemashita,-
-Kamisama Hajimemashita OVA,-
-Kamisama Hajimemashita: Kako-hen,-
-Kamisama Hajimemashita◎,-
-Kamisama Kazoku,-
-Kamisama no Inai Nichiyoubi,-
-Kamisama no Memochou,-
-Kämpfer,-
-Kanamemo,-
-Kanata no Astra,-
-Kandagawa Jet Girls,-
-Kannagi,-
-Kannazuki no Miko,4
-Kanojo ga Flag wo Oraretara,-
-Kanojo to Kanojo no Neko: Everything Flows,-
-Kanokon,-
-Kanon,-
-Kanon (2006),-
-Kantai Collection: KanColle,-
-Karakai Jouzu no Takagi-san,-
-Karakai Jouzu no Takagi-san 2,-
-Karakuri Circus (TV),-
-Karakurizoushi Ayatsuri Sakon,-
-Karas,-
-Kareshi Kanojo no Jijou,-
-Karin,-
-Karneval (TV),-
-Kashimashi: Girl Meets Girl,-
-Katanagatari,-
-Katekyo Hitman Reborn!,-
+KAMI NOMI ZO SHIRU SEKAI: MEGAMI-HEN,-
+KAMICHAMA KARIN,-
+KAMICHU!,-
+KAMIGAMI NO ASOBI,-
+KAMIGAMI NO KI,-
+KAMIKAZE KAITOU JEANNE,-
+KAMISAMA DOLLS,-
+KAMISAMA HAJIMEMASHITA,-
+KAMISAMA HAJIMEMASHITA◎,-
+KAMISAMA KAZOKU,-
+KAMISAMA NO INAI NICHIYOUBI,-
+KAMISAMA NO MEMOCHOU,-
+KÄMPFER,-
+KANAMEMO,-
+KANATA NO ASTRA,-
+KANDAGAWA JET GIRLS,-
+KANNAGI,-
+KANNAZUKI NO MIKO,4
+KANOJO GA FLAG WO ORARETARA,-
+KANOJO TO KANOJO NO NEKO: EVERYTHING FLOWS,-
+KANOKON,-
+KANON,-
+KANON (2006),-
+KANTAI COLLECTION: KANCOLLE,-
+KARAKAI JOUZU NO TAKAGI-SAN,-
+KARAKAI JOUZU NO TAKAGI-SAN 2,-
+KARAKURI CIRCUS (TV),-
+KARAKURIZOUSHI AYATSURI SAKON,-
+KARESHI KANOJO NO JIJOU,-
+KARIN,-
+KARNEVAL (TV),-
+KASHIMASHI: GIRL MEETS GIRL,-
+KATANAGATARI,-
 KATEKYO HITMAN REBORN!,-
-Katsugeki/Touken Ranbu,-
-Katsute Kami Datta Kemono-tachi e,-
-Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?,-
-Kaze ga Tsuyoku Fuiteiru,-
-Kaze no Stigma,-
-Kaze no Youjinbou,-
-Kazemakase Tsukikage Ran,-
-Keijo!!!!!!!!,-
-Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana,-
-Kekkai Sensen,-
-Kekkai Sensen & Beyond,-
-Kekkaishi (TV),-
-Kemeko Deluxe!,-
-Kemono Friends,-
-Kemono Friends 2,-
-Kemono no Souja Erin,-
-Kemonozume,-
-Kemurikusa (TV),-
-Ken En Ken: Aoki Kagayaki,-
-Kengan Ashura,-
-Kenja no Mago,-
-Kenka Banchou Otome: Girl Beats Boys,-
-Kenkou Zenrakei Suieibu Umishou,-
-Kenpuu Denki Berserk,-
+KATSUGEKI/TOUKEN RANBU,-
+KATSUTE KAMI DATTA KEMONO-TACHI E,-
+KAWAIKEREBA HENTAI DEMO SUKI NI NATTE KUREMASU KA?,-
+KAZE GA TSUYOKU FUITEIRU,-
+KAZE NO STIGMA,-
+KAZE NO YOUJINBOU,-
+KAZEMAKASE TSUKIKAGE RAN,-
+KEIJO!!!!!!!!,-
+KEISHICHOU TOKUMUBU TOKUSHU KYOUAKUHAN TAISAKUSHITSU DAINANAKA: TOKUNANA,-
+KEKKAI SENSEN,-
+KEKKAI SENSEN & BEYOND,-
+KEKKAISHI (TV),-
+KEMEKO DELUXE!,-
+KEMONO FRIENDS,-
+KEMONO FRIENDS 2,-
+KEMONO NO SOUJA ERIN,-
+KEMONOZUME,-
+KEMURIKUSA (TV),-
+KEN EN KEN: AOKI KAGAYAKI,-
+KENJA NO MAGO,-
+KENKA BANCHOU OTOME: GIRL BEATS BOYS,-
+KENKOU ZENRAKEI SUIEIBU UMISHOU,-
 KENPUU DENKI BERSERK,-
-Kenran Butou Sai: The Mars Daybreak,-
-Kenyuu Densetsu Yaiba,-
-Kenzen Robo Daimidaler,-
-Keppeki Danshi! Aoyama-kun,-
-Keroro,-
-Keroro Gunsou,-
-Ketsuekigata-kun!,-
-Kiba,-
-Kiddy GiRL-AND,-
-Kiddy Grade,-
-Kidou Keisatsu Patlabor: On Television,-
-Kidou Senkan Nadesico,-
-Kidou Tenshi Angelic Layer,-
-Kiitarou Shounen no Youkai Enikki,-
-Kikoushi Enma,-
-Kill la Kill,8
-KILL LA KILL,-
-Kill Me Baby,-
-Killing Bites,-
-Kimagure Orange☆Road,-
-Kimagure Robot,-
-Kimetsu no Yaiba,7
-KIMETSU NO YAIBA,-
-Kimi ga Aruji de Shitsuji ga Ore de,-
-Kimi ga Nozomu Eien,-
-Kimi ni Todoke,-
+KENRAN BUTOU SAI: THE MARS DAYBREAK,-
+KENYUU DENSETSU YAIBA,-
+KENZEN ROBO DAIMIDALER,-
+KEPPEKI DANSHI! AOYAMA-KUN,-
+KERORO GUNSOU,-
+KETSUEKIGATA-KUN!,-
+KIBA,-
+KIDDY GIRL-AND,-
+KIDDY GRADE,-
+KIDOU KEISATSU PATLABOR: ON TELEVISION,-
+KIDOU SENKAN NADESICO,-
+KIDOU TENSHI ANGELIC LAYER,-
+KIITAROU SHOUNEN NO YOUKAI ENIKKI,-
+KILL LA KILL,8
+KILL ME BABY,-
+KILLING BITES,-
+KIMAGURE ORANGE☆ROAD,-
+KIMAGURE ROBOT,-
+KIMETSU NO YAIBA,7
+KIMI GA ARUJI DE SHITSUJI GA ORE DE,-
+KIMI GA NOZOMU EIEN,-
 KIMI NI TODOKE,-
-Kimi ni Todoke 2nd Season,-
 KIMI NI TODOKE 2ND SEASON,-
-Kimi no Iru Machi,-
-Kimi no Iru Machi OVA,-
-Kimi no Iru Machi: Tasogare Kousaten,-
-Kimi to Boku.,-
-Kimi to Boku. 2,-
-KimiKiss Pure Rouge,-
-Kindaichi Shounen no Jikenbo Returns,-
-Kindaichi Shounen no Jikenbo Returns 2nd Season,-
-King of Prism: Shiny Seven Stars,-
-Kingdom,-
-Kingdom 2nd Season,-
-Kiniro Mosaic,-
-Kiniro no Corda: Blue♪Sky,-
-Kiniro no Corda: Primo Passo,-
-Kinnikuman,-
-Kinnikuman II Sei,-
-Kinnikuman II Sei: Ultimate Muscle,-
-Kinnikuman II Sei: Ultimate Muscle 2,-
-Kino no Tabi: The Beautiful World,-
-Kino no Tabi: The Beautiful World - The Animated Series,-
-Kirakira☆Precure A La Mode,-
-Kirarin☆Revolution,-
-Kiratto Pri☆chan,-
-Kiratto Pri☆chan Season 2,-
-Kiseijuu: Sei no Kakuritsu,-
+KIMI NO IRU MACHI,-
+KIMI TO BOKU.,-
+KIMI TO BOKU. 2,-
+KIMIKISS PURE ROUGE,-
+KINDAICHI SHOUNEN NO JIKENBO RETURNS,-
+KING OF PRISM: SHINY SEVEN STARS,-
+KINGDOM,-
+KINGDOM 2ND SEASON,-
+KINIRO MOSAIC,-
+KINIRO NO CORDA: BLUE♪SKY,-
+KINIRO NO CORDA: PRIMO PASSO,-
+KINNIKUMAN,-
+KINNIKUMAN II SEI,-
+KINNIKUMAN II SEI: ULTIMATE MUSCLE,-
+KINNIKUMAN II SEI: ULTIMATE MUSCLE 2,-
+KINO NO TABI: THE BEAUTIFUL WORLD,-
+KINO NO TABI: THE BEAUTIFUL WORLD - THE ANIMATED SERIES,-
+KIRAKIRA☆PRECURE A LA MODE,-
+KIRARIN☆REVOLUTION,-
+KIRATTO PRI☆CHAN,-
 KISEIJUU: SEI NO KAKURITSU,-
-Kishin Douji Zenki,-
-Kishin Houkou Demonbane (TV),-
-Kishuku Gakkou no Juliet,-
-Kiss Dum: Engage Planet,-
-Kiss x Sis,-
-Kiss x Sis (TV),-
+KISHIN DOUJI ZENKI,-
+KISHIN HOUKOU DEMONBANE (TV),-
+KISHUKU GAKKOU NO JULIET,-
 KISS X SIS (TV),-
-Kita e.: Diamond Dust Drops,-
-Kitakubu Katsudou Kiroku,-
-Kitsune no Koe,-
-Kiznaiver,-
-Knight's & Magic,-
-Koala Boy Kokki,-
-Kobato.,-
-Kobayashi ga Kawai sugite Tsurai!!,-
-Kobayashi-san Chi no Maid Dragon,8
-KOBAYASHI-SAN CHI NO MAID DRAGON,-
-KochinPa!,-
-KochinPa! Dainiki,-
-Kochouki: Wakaki Nobunaga,-
-Kodai Ouja Kyouryuu King,-
-Kodai Ouja Kyouryuu King: Yokuryuu Densetsu,-
-Kodomo no Jikan (TV),-
-Kodomo no Omocha (TV),-
-Kogepan,-
-Koharu Biyori,-
-Koi Kaze,-
-Koi Koi 7,-
-Koi to Senkyo to Chocolate,-
-Koi to Uso,-
-Koi wa Ameagari no You ni,-
-Koihime†Musou,-
-Koisuru Asteroid,-
-Koisuru Boukun,-
-Koisuru Tenshi Angelique: Kagayaki no Ashita,-
-Koisuru Tenshi Angelique: Kokoro no Mezameru Toki,-
-Kokkoku,-
-Kokoro Connect,-
-Kokoro Connect: Michi Random,-
-Komori-san wa Kotowarenai!,-
-K-On!,7
-K-ON!,-
-K-On!!,8
-Konbini Kareshi,-
-Konjiki no Gash Bell!!,-
+KITA E.: DIAMOND DUST DROPS,-
+KITAKUBU KATSUDOU KIROKU,-
+KITSUNE NO KOE,-
+KIZNAIVER,-
+KNIGHT'S & MAGIC,-
+KOBATO.,-
+KOBAYASHI-SAN CHI NO MAID DRAGON,8
+KOCHINPA!,-
+KOCHINPA! DAINIKI,-
+KOCHOUKI: WAKAKI NOBUNAGA,-
+KODAI OUJA KYOURYUU KING,-
+KODAI OUJA KYOURYUU KING: YOKURYUU DENSETSU,-
+KODOMO NO JIKAN (TV),-
+KODOMO NO OMOCHA (TV),-
+KOGEPAN,-
+KOI KAZE,-
+KOI KOI 7,-
+KOI TO SENKYO TO CHOCOLATE,-
+KOI TO USO,-
+KOI WA AMEAGARI NO YOU NI,-
+KOIHIME†MUSOU,-
+KOISURU ASTEROID,-
+KOISURU TENSHI ANGELIQUE: KOKORO NO MEZAMERU TOKI,-
+KOKKOKU,-
+KOKORO CONNECT,-
+KOMORI-SAN WA KOTOWARENAI!,-
+K-ON!,7
+K-ON!!,8
+KONBINI KARESHI,-
 KONJIKI NO GASH BELL!!,-
-Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e,-
-Kono Bijutsubu ni wa Mondai ga Aru!,-
-Kono Danshi Mahou ga Oshigoto Desu.,-
-Kono Minikuku mo Utsukushii Sekai,-
-Kono Naka ni Hitori Imouto ga Iru!,-
-Kono Oto Tomare!,-
-Kono Oto Tomare! 2nd Season,-
-Kono Subarashii Sekai ni Shukufuku wo!,-
+KONO BIJUTSUBU NI WA MONDAI GA ARU!,-
+KONO DANSHI MAHOU GA OSHIGOTO DESU.,-
+KONO MINIKUKU MO UTSUKUSHII SEKAI,-
+KONO NAKA NI HITORI IMOUTO GA IRU!,-
+KONO OTO TOMARE!,-
+KONO OTO TOMARE! 2ND SEASON,-
 KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,-
-Kono Subarashii Sekai ni Shukufuku wo! 2,-
 KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,-
-Kono Yo no Hate de Koi wo Utau Shoujo YU-NO,-
-Konohana Kitan,-
-Kore ga Watashi no Goshujinsama,-
-Kore wa Zombie Desu ka?,-
-Kore wa Zombie Desu ka? of the Dead,-
-Kore wa Zombie Desu ka? OVA,-
-Koroshiya-san: The Hired Gun,-
-Kotoura-san,-
-Koufuku Graffiti,-
-Koukaku Kidoutai Arise: Alternative Architecture,-
-Koukaku Kidoutai: Stand Alone Complex,-
-Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi,-
-Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi (TV),-
-Koukaku Kidoutai: Stand Alone Complex 2nd GIG,-
-Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Tachikoma na Hibi,-
-Koukaku no Pandora,-
-Koukyoushihen Eureka Seven,-
-Koutetsu Sangokushi,-
-Koutetsu Tenshi Kurumi,-
-Koutetsujou no Kabaneri,-
-Kouya no Kotobuki Hikoutai,-
-Kowabon,-
-Koyomimonogatari,-
-Kujibiki Unbalance,-
-Kujibiki♥Unbalance,-
-Kujira no Kora wa Sajou ni Utau,-
-Kuma Miko,-
-Kuragehime,-
-Kuragehime: Eiyuu Retsuden☆,-
-Kuragehime: Soreike! Amars Tankentai,-
-Kurayami Santa,-
-Kure-nai,-
-Kurogane no Linebarrels,-
-Kurokami The Animation,-
-Kuroko no Basket,-
+KONO YO NO HATE DE KOI WO UTAU SHOUJO YU-NO,-
+KONOHANA KITAN,-
+KORE GA WATASHI NO GOSHUJINSAMA,-
+KORE WA ZOMBIE DESU KA?,-
+KORE WA ZOMBIE DESU KA? OF THE DEAD,-
+KOROSHIYA-SAN: THE HIRED GUN,-
+KOTOURA-SAN,-
+KOUFUKU GRAFFITI,-
+KOUKAKU KIDOUTAI ARISE: ALTERNATIVE ARCHITECTURE,-
+KOUKAKU KIDOUTAI: STAND ALONE COMPLEX,-
+KOUKAKU KIDOUTAI: STAND ALONE COMPLEX - TACHIKOMA NA HIBI (TV),-
+KOUKAKU KIDOUTAI: STAND ALONE COMPLEX 2ND GIG,-
+KOUKAKU NO PANDORA,-
+KOUKYOUSHIHEN EUREKA SEVEN,-
+KOUTETSU SANGOKUSHI,-
+KOUTETSU TENSHI KURUMI,-
+KOUTETSUJOU NO KABANERI,-
+KOUYA NO KOTOBUKI HIKOUTAI,-
+KOWABON,-
+KUJIBIKI♥UNBALANCE,-
+KUJIRA NO KORA WA SAJOU NI UTAU,-
+KUMA MIKO,-
+KURAGEHIME,-
+KURAYAMI SANTA,-
+KURE-NAI,-
+KUROGANE NO LINEBARRELS,-
+KUROKAMI THE ANIMATION,-
 KUROKO NO BASKET,-
-Kuroko no Basket 2nd Season,-
 KUROKO NO BASKET 2ND SEASON,-
-Kuroko no Basket 3rd Season,-
-Kuromajo-san ga Tooru!!,-
-Kuromukuro,-
-Kuroshitsuji,-
+KUROKO NO BASKET 3RD SEASON,-
+KUROMUKURO,-
 KUROSHITSUJI,-
-Kuroshitsuji II,-
-Kuroshitsuji II Specials,-
-Kuroshitsuji: Book of Circus,-
-Kuroshitsuji: Book of Murder,-
-Kurozuka,-
-Kuuchuu Buranko,-
-Kuusen Madoushi Kouhosei no Kyoukan,-
-Kuzu no Honkai,6
-Kyattou Ninden Teyandee,-
-Kyokou Suiri,-
-Kyoto Teramachi Sanjou no Holmes,-
-Kyou kara Maou!,-
-Kyou no 5 no 2 (TV),-
-Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari,-
-Kyoukai no Kanata,-
-Kyoukai no Rinne (TV),-
-Kyoukai no Rinne (TV) 2nd Season,-
-Kyoukai no Rinne (TV) 3rd Season,-
-Kyoukaisenjou no Horizon,-
-Kyoukaisenjou no Horizon II,-
-Kyouran Kazoku Nikki,-
-Kyoushirou to Towa no Sora,-
-Kyoushoku Soukou Guyver (2005),-
-Kyousou Giga (TV),-
-Kyuuketsuhime Miyu (TV),-
-Ladies versus Butlers!,-
-Lady Georgie,-
-Lady Jewelpet,-
-Lady Lady!!,-
-Ladyspo,-
-Lamune,-
-Lance N' Masques,-
-Last Exile,-
-Last Exile: Ginyoku no Fam,-
-Last Period: Owarinaki Rasen no Monogatari,-
-Layton Mystery Tanteisha: Katri no Nazotoki File,-
-Le Chevalier D'Eon,-
-Legend of Duo,-
-Les Misérables: Shoujo Cosette,-
-Level E,-
-Lime-iro Senkitan,-
-Ling Qi 2,-
-Litchi DE Hikari Club,-
-Little Busters!,-
-Little Busters!: EX,-
-Little Busters!: Refrain,-
-Little Witch Academia (TV),7
-Lodoss-tou Senki: Eiyuu Kishi Den,-
-Log Horizon,-
-Log Horizon 2nd Season,-
-Long Riders!,-
-Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note,-
-Lord of Vermilion: Guren no Ou,-
-Lost Song,-
-Lostorage Conflated WIXOSS,-
-Lostorage Incited WIXOSS,-
-Love Hina,-
-Love Hina Again,-
-Love Kome: We Love Rice,-
-Love Kome: We Love Rice 2nd Season,-
-Love Lab,-
-Love Live! School Idol Project,-
+KUROSHITSUJI II,-
+KUROSHITSUJI: BOOK OF CIRCUS,-
+KUROZUKA,-
+KUUCHUU BURANKO,-
+KUUSEN MADOUSHI KOUHOSEI NO KYOUKAN,-
+KUZU NO HONKAI,6
+KYATTOU NINDEN TEYANDEE,-
+KYOKOU SUIRI,-
+KYOTO TERAMACHI SANJOU NO HOLMES,-
+KYOU NO 5 NO 2 (TV),-
+KYOUGOKU NATSUHIKO: KOUSETSU HYAKU MONOGATARI,-
+KYOUKAI NO KANATA,-
+KYOUKAI NO RINNE (TV),-
+KYOUKAI NO RINNE (TV) 2ND SEASON,-
+KYOUKAI NO RINNE (TV) 3RD SEASON,-
+KYOUKAISENJOU NO HORIZON,-
+KYOUKAISENJOU NO HORIZON II,-
+KYOURAN KAZOKU NIKKI,-
+KYOUSHIROU TO TOWA NO SORA,-
+KYOUSHOKU SOUKOU GUYVER (2005),-
+KYOUSOU GIGA (TV),-
+KYUUKETSUHIME MIYU (TV),-
+LADIES VERSUS BUTLERS!,-
+LADY GEORGIE,-
+LADY JEWELPET,-
+LADY LADY!!,-
+LADYSPO,-
+LAMUNE,-
+LANCE N' MASQUES,-
+LAST EXILE,-
+LAST EXILE: GINYOKU NO FAM,-
+LAST PERIOD: OWARINAKI RASEN NO MONOGATARI,-
+LE CHEVALIER D'EON,-
+LEGEND OF DUO,-
+LEVEL E,-
+LING QI 2,-
+LITCHI DE HIKARI CLUB,-
+LITTLE BUSTERS!,-
+LITTLE BUSTERS!: REFRAIN,-
+LITTLE WITCH ACADEMIA (TV),7
+LOG HORIZON,-
+LOG HORIZON 2ND SEASON,-
+LONG RIDERS!,-
+LORD EL-MELLOI II SEI NO JIKENBO: RAIL ZEPPELIN GRACE NOTE,-
+LORD OF VERMILION: GUREN NO OU,-
+LOST SONG,-
+LOSTORAGE CONFLATED WIXOSS,-
+LOSTORAGE INCITED WIXOSS,-
+LOVE HINA,-
+LOVE KOME: WE LOVE RICE,-
+LOVE KOME: WE LOVE RICE 2ND SEASON,-
+LOVE LAB,-
 LOVE LIVE! SCHOOL IDOL PROJECT,-
-Love Live! School Idol Project 2nd Season,-
 LOVE LIVE! SCHOOL IDOL PROJECT 2ND SEASON,-
-Love Live! Sunshine!!,-
-Love Live! Sunshine!! 2nd Season,-
-Love Stage!!,-
+LOVE LIVE! SUNSHINE!!,-
+LOVE LIVE! SUNSHINE!! 2ND SEASON,-
 LOVE STAGE!!,-
-Love♥Love?,-
-Lovedol: Lovely Idol,-
-Loveless,-
-Lovely★Complex,-
-Luck & Logic,-
-Lucky☆Star,-
-Lupin III,-
-Lupin III (2015),-
-Lupin III: Part 5,-
-Lupin III: Part II,-
-Lupin III: Part III,-
-Lupin the Third: Mine Fujiko to Iu Onna,-
-M3: Sono Kuroki Hagane,-
-Maburaho,-
-Macademi Wasshoi!,-
-Mach GoGoGo,-
-Mach GoGoGo (1997),-
-Machikado Mazoku,-
-Machine-Doll wa Kizutsukanai,-
+LOVE♥LOVE?,-
+LOVEDOL: LOVELY IDOL,-
+LOVELESS,-
+LOVELY★COMPLEX,-
+LUCK & LOGIC,-
+LUCKY☆STAR,-
+LUPIN III,-
+LUPIN III (2015),-
+LUPIN III: PART 5,-
+LUPIN III: PART II,-
+LUPIN III: PART III,-
+LUPIN THE THIRD: MINE FUJIKO TO IU ONNA,-
+M3: SONO KUROKI HAGANE,-
+MABURAHO,-
+MACADEMI WASSHOI!,-
+MACH GOGOGO,-
+MACH GOGOGO (1997),-
+MACHIKADO MAZOKU,-
 MACHINE-DOLL WA KIZUTSUKANAI,-
-Machine-Doll wa Kizutsukanai Specials,-
-Macross,-
-Macross 7,-
-Macross F,-
-Macross Δ,-
-Madan no Ou to Vanadis,-
-Made in Abyss,9
-MADE IN ABYSS,-
-Magi: Sinbad no Bouken (TV),-
-Magi: The Kingdom of Magic,-
-Magi: The Labyrinth of Magic,-
-Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV),7
-Magic Kaito 1412,-
-Magic Knight Rayearth,-
-Magical Canan,-
-Magic-Kyun! Renaissance,-
-Magikano,-
-Mahoraba: Heartful days,-
-Mahoromatic: Automatic Maiden,-
-Mahoromatic: Motto Utsukushii Mono,-
-Mahou Sensei Negima!,-
-Mahou Senshi Louie,-
-Mahou Sensou,-
-Mahou Shoujo Ikusei Keikaku,7
-Mahou Shoujo Lyrical Nanoha,-
-Mahou Shoujo Lyrical Nanoha A's,-
-Mahou Shoujo Lyrical Nanoha StrikerS,-
-Mahou Shoujo Lyrical Nanoha ViVid,-
-Mahou Shoujo Madoka★Magica,8
-MAHOU SHOUJO MADOKA★MAGICA,-
-Mahou Shoujo Nante Mou Ii Desukara.,-
-Mahou Shoujo Nante Mou Ii Desukara. Second Season,-
-Mahou Shoujo Ore,-
-Mahou Shoujo Site,-
-Mahou Shoujo Taisen,-
-Mahou Shoujo Tokushusen Asuka,-
-Mahou Shoujo? Naria☆Girls,-
-Mahou Shoujo-tai Arusu,-
-Mahoujin Guruguru (2017),-
-Mahouka Koukou no Rettousei,-
-Mahoutsukai ni Taisetsu na Koto,-
-Mahoutsukai ni Taisetsu na Koto: Natsu no Sora,-
-Mahoutsukai no Yome,-
-Mahoutsukai no Yome: Hoshi Matsu Hito,-
-Mahoutsukai Precure!,-
-Mai-HiME,-
-Mai-Otome,-
-Mairimashita! Iruma-kun,-
-Maison Ikkoku,-
-Maji de Watashi ni Koi Shinasai!,-
-Majimoji Rurumo,-
-Majin Bone,-
-Majin Tantei Nougami Neuro,-
-Major 2nd (TV),-
-Major S1,-
-Major S2,-
-Major S3,-
-Major S4,-
-Major S5,-
-Major S6,-
-Majutsushi Orphen,-
-Majutsushi Orphen Hagure Tabi,-
-Majutsushi Orphen: Revenge,-
-Makai Ouji: Devils and Realist,-
-Makai Senki Disgaea,-
+MACROSS,-
+MACROSS 7,-
+MACROSS F,-
+MACROSS Δ,-
+MADAN NO OU TO VANADIS,-
+MADE IN ABYSS,9
+MAGI: SINBAD NO BOUKEN (TV),-
+MAGI: THE KINGDOM OF MAGIC,-
+MAGI: THE LABYRINTH OF MAGIC,-
+MAGIA RECORD: MAHOU SHOUJO MADOKA☆MAGICA GAIDEN (TV),7
+MAGIC KAITO 1412,-
+MAGIC KNIGHT RAYEARTH,-
+MAGICAL CANAN,-
+MAGIC-KYUN! RENAISSANCE,-
+MAGIKANO,-
+MAHORABA: HEARTFUL DAYS,-
+MAHOROMATIC: AUTOMATIC MAIDEN,-
+MAHOROMATIC: MOTTO UTSUKUSHII MONO,-
+MAHOU SENSEI NEGIMA!,-
+MAHOU SENSHI LOUIE,-
+MAHOU SENSOU,-
+MAHOU SHOUJO IKUSEI KEIKAKU,7
+MAHOU SHOUJO LYRICAL NANOHA,-
+MAHOU SHOUJO LYRICAL NANOHA A'S,-
+MAHOU SHOUJO LYRICAL NANOHA STRIKERS,-
+MAHOU SHOUJO LYRICAL NANOHA VIVID,-
+MAHOU SHOUJO MADOKA★MAGICA,8
+MAHOU SHOUJO NANTE MOU II DESUKARA.,-
+MAHOU SHOUJO NANTE MOU II DESUKARA. SECOND SEASON,-
+MAHOU SHOUJO ORE,-
+MAHOU SHOUJO SITE,-
+MAHOU SHOUJO TOKUSHUSEN ASUKA,-
+MAHOU SHOUJO? NARIA☆GIRLS,-
+MAHOU SHOUJO-TAI ARUSU,-
+MAHOUJIN GURUGURU (2017),-
+MAHOUKA KOUKOU NO RETTOUSEI,-
+MAHOUTSUKAI NI TAISETSU NA KOTO,-
+MAHOUTSUKAI NI TAISETSU NA KOTO: NATSU NO SORA,-
+MAHOUTSUKAI NO YOME,-
+MAHOUTSUKAI PRECURE!,-
+MAI-HIME,-
+MAI-OTOME,-
+MAIRIMASHITA! IRUMA-KUN,-
+MAISON IKKOKU,-
+MAJI DE WATASHI NI KOI SHINASAI!,-
+MAJIMOJI RURUMO,-
+MAJIN TANTEI NOUGAMI NEURO,-
+MAJOR 2ND (TV),-
+MAJOR S1,-
+MAJOR S2,-
+MAJOR S3,-
+MAJOR S4,-
+MAJOR S5,-
+MAJOR S6,-
+MAJUTSUSHI ORPHEN,-
+MAJUTSUSHI ORPHEN HAGURE TABI,-
+MAJUTSUSHI ORPHEN: REVENGE,-
+MAKAI OUJI: DEVILS AND REALIST,-
 MAKAI SENKI DISGAEA,-
-Maken-Ki!,-
-Maken-Ki! Two,-
-Makeruna!! Aku no Gundan!,-
-Makura no Danshi,-
-Mamoru-kun ni Megami no Shukufuku wo!,-
-Mamotte! Lollipop,-
-Manaria Friends,-
-Mangaka-san to Assistant-san to The Animation,-
-Mangirl!,-
-Manyuu Hikenchou,-
-Maou Dante,-
-Maou-sama Retry!,-
-Maoyuu Maou Yuusha,-
-MapleStory,-
+MAKEN-KI!,-
+MAKEN-KI! TWO,-
+MAKERUNA!! AKU NO GUNDAN!,-
+MAKURA NO DANSHI,-
+MAMORU-KUN NI MEGAMI NO SHUKUFUKU WO!,-
+MAMOTTE! LOLLIPOP,-
+MANARIA FRIENDS,-
+MANGAKA-SAN TO ASSISTANT-SAN TO THE ANIMATION,-
+MANGIRL!,-
+MANYUU HIKENCHOU,-
+MAOU DANTE,-
+MAOU-SAMA RETRY!,-
+MAOYUU MAOU YUUSHA,-
+MAPLESTORY,-
 MÄR,-
-Märchen Mädchen,-
-Marginal Prince: Gekkeiju no Ouji-tachi,-
-Marginal#4: Kiss kara Tsukuru Big Bang,-
-Maria†Holic,-
-Maria†Holic Alive,-
-Maria-sama ga Miteru,-
-Marmalade Boy,-
-Marvel Disk Wars: The Avengers,-
-Masamune-kun no Revenge,-
-Mashiro-iro Symphony: The Color of Lovers,-
-Masou Gakuen HxH,-
-Massugu ni Ikou.,-
-Master Keaton,-
-Master Keaton OVA,-
-Master Mosquiton '99,-
-Matantei Loki Ragnarok,-
-Mawaru Penguindrum,-
-Mayo Chiki!,-
-Mayoi Neko Overrun!,-
-Mayoiga,-
-Mayonaka no Occult Koumuin,-
-Medaka Box,-
-Medaka Box Abnormal,-
-Medarot,-
-Medarot Damashii,-
-Megalo Box,-
-Meganebu!,-
-Meiji Tokyo Renka,-
-Meitantei Holmes,-
-Mekakucity Actors,-
-Merc Storia: Mukiryoku no Shounen to Bin no Naka no Shoujo,-
-Mermaid Melody Pichi Pichi Pitch,-
-Mermaid Melody Pichi Pichi Pitch Pure,-
-Metal Fight Beyblade,8
-Metal Fight Beyblade 4D,-
-Metal Fight Beyblade Zero G,-
-Metal Fight Beyblade: Baku,8
-Mi Yu Xing Zhe,-
-Micchiri Neko,-
-Michiko to Hatchin,-
-Midara na Ao-chan wa Benkyou ga Dekinai,-
-Midori no Hibi,-
-Miira no Kaikata,-
-Mikagura Gakuen Kumikyoku (TV),-
-Mikakunin de Shinkoukei,-
+MÄRCHEN MÄDCHEN,-
+MARGINAL PRINCE: GEKKEIJU NO OUJI-TACHI,-
+MARGINAL#4: KISS KARA TSUKURU BIG BANG,-
+MARIA†HOLIC,-
+MARIA†HOLIC ALIVE,-
+MARIA-SAMA GA MITERU,-
+MARMALADE BOY,-
+MASAMUNE-KUN NO REVENGE,-
+MASHIRO-IRO SYMPHONY: THE COLOR OF LOVERS,-
+MASOU GAKUEN HXH,-
+MASSUGU NI IKOU.,-
+MASTER KEATON,-
+MASTER MOSQUITON '99,-
+MATANTEI LOKI RAGNAROK,-
+MAWARU PENGUINDRUM,-
+MAYO CHIKI!,-
+MAYOI NEKO OVERRUN!,-
+MAYOIGA,-
+MAYONAKA NO OCCULT KOUMUIN,-
+MEDAKA BOX,-
+MEDAKA BOX ABNORMAL,-
+MEDAROT,-
+MEDAROT DAMASHII,-
+MEGALO BOX,-
+MEGANEBU!,-
+MEIJI TOKYO RENKA,-
+MEITANTEI HOLMES,-
+MEKAKUCITY ACTORS,-
+MERC STORIA: MUKIRYOKU NO SHOUNEN TO BIN NO NAKA NO SHOUJO,-
+MERMAID MELODY PICHI PICHI PITCH,-
+MERMAID MELODY PICHI PICHI PITCH PURE,-
+METAL FIGHT BEYBLADE,8
+METAL FIGHT BEYBLADE 4D,-
+METAL FIGHT BEYBLADE ZERO G,-
+METAL FIGHT BEYBLADE: BAKU,8
+MICCHIRI NEKO,-
+MICHIKO TO HATCHIN,-
+MIDARA NA AO-CHAN WA BENKYOU GA DEKINAI,-
+MIDORI NO HIBI,-
+MIIRA NO KAIKATA,-
+MIKAGURA GAKUEN KUMIKYOKU (TV),-
 MIKAKUNIN DE SHINKOUKEI,-
-Military!,-
-Million Doll,-
-Minami Kamakura Koukou Joshi Jitenshabu,-
-Minami-ke,-
-Minami-ke Okaeri,-
-Minami-ke Okawari,-
-Minami-ke Tadaima,-
-Mini Hama: Minimum Hamatora,-
-Mini Toji,-
-Mini Van,-
-Minna Atsumare! Falcom Gakuen,-
-Minna Atsumare! Falcom Gakuen SC,-
-Mirai Nikki,-
+MILITARY!,-
+MILLION DOLL,-
+MINAMI KAMAKURA KOUKOU JOSHI JITENSHABU,-
+MINAMI-KE,-
+MINAMI-KE OKAERI,-
+MINAMI-KE OKAWARI,-
+MINAMI-KE TADAIMA,-
+MINI HAMA: MINIMUM HAMATORA,-
+MINI TOJI,-
+MINI VAN,-
+MINNA ATSUMARE! FALCOM GAKUEN,-
 MIRAI NIKKI,-
-Mirai Nikki (TV): Ura Mirai Nikki,-
-Mirai Shounen Conan,-
-Miss Monochrome The Animation,-
-Miss Monochrome The Animation 2,-
-Miss Monochrome The Animation 3,-
-Mitsubachi Maya no Bouken,-
-Mitsuboshi Colors,-
-Mitsudomoe,-
-Mitsudomoe Zouryouchuu!,-
-Mix,-
-Mizuiro Jidai,-
+MIRAI SHOUNEN CONAN,-
+MISS MONOCHROME THE ANIMATION,-
+MISS MONOCHROME THE ANIMATION 2,-
+MISS MONOCHROME THE ANIMATION 3,-
+MITSUBOSHI COLORS,-
+MITSUDOMOE,-
+MITSUDOMOE ZOURYOUCHUU!,-
+MIX,-
+MIZUIRO JIDAI,-
 MM!,-
-Mnemosyne: Mnemosyne no Musume-tachi,-
-Mo Dao Zu Shi,-
-Mob Psycho 100,8
-MOB PSYCHO 100,-
-Mob Psycho 100 II,8
-MOB PSYCHO 100 II,-
-Mobile Fighter G Gundam,-
-Mobile Suit Gundam,-
-Mobile Suit Gundam 00,-
-Mobile Suit Gundam 00 Second Season,-
-Mobile Suit Gundam AGE,-
-Mobile Suit Gundam SEED,-
-Mobile Suit Gundam SEED Destiny,-
-Mobile Suit Gundam Unicorn,-
-Mobile Suit Gundam Unicorn RE:0096,-
-Mobile Suit Gundam Wing,-
-Mobile Suit Gundam ZZ,-
-Mobile Suit Gundam: Iron-Blooded Orphans,-
-Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season,-
-Mobile Suit Gundam: The 08th MS Team,-
-Mobile Suit Gundam: The Origin,-
-Mobile Suit Gundam: The Origin - Advent of the Red Comet,-
-Mobile Suit Gundam-san,-
-Mobile Suit Victory Gundam,-
-Mobile Suit Zeta Gundam,-
-Moero! Top Striker,-
-Moetan,-
-Mokke,-
-Momo Kyun Sword,-
-Momokuri,-
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,-
-Monochrome Factor,-
-Monogatari Series: Second Season,7
-Mononoke,-
-Monster,10
-Monster Farm: Enbanseki no Himitsu,-
-Monster Musume no Iru Nichijou,-
-Monster Musume no Iru Nichijou OVA,-
-Mori no Youki na Kobito-tachi: Belfy to Lillibit,-
-Morita-san wa Mukuchi.,-
-Morita-san wa Mukuchi. 2,-
-Moshidora,-
-Motto To LOVE-Ru,-
-Mouretsu Pirates,-
-Mouryou no Hako,-
-Mouse,-
-Mousou Dairinin,8
-Moyashimon,-
-Moyashimon Returns,-
-Mugen no Juunin: Immortal,-
-Mugen no Ryvius,-
-Muhyo to Rouji no Mahouritsu Soudan Jimusho,-
-Mujin Wakusei Survive,-
-Murenase! Seton Gakuen,-
-Musaigen no Phantom World,-
-Musekinin Galaxy☆Tylor,-
-Musekinin Kanchou Tylor,-
-Mushibugyou,-
-Mushishi,-
-Mushishi Zoku Shou,-
-Mushishi Zoku Shou 2nd Season,-
-Mushrambo,-
-Muteki Kanban Musume,-
-Mutsu Enmei Ryuu Gaiden: Shura no Toki,-
-Muv-Luv Alternative: Total Eclipse,-
-Myself; Yourself,-
-Nabari no Ou,-
-Nagasarete Airantou,-
-Nagato Yuki-chan no Shoushitsu,-
-Nagi no Asu kara,-
-Nakanohito Genome [Jikkyouchuu],-
-Nameless,-
-Namiuchigiwa no Muromi-san,-
-Namu Amida Butsu!: Rendai Utena,-
-Nana,-
-Nana Maru San Batsu,-
-Nanaka 6/17,-
-Nanatsu no Bitoku,-
-Nanatsu no Taizai,-
+MNEMOSYNE: MNEMOSYNE NO MUSUME-TACHI,-
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,8
+MOBILE FIGHTER G GUNDAM,-
+MOBILE SUIT GUNDAM,-
+MOBILE SUIT GUNDAM 00,-
+MOBILE SUIT GUNDAM 00 SECOND SEASON,-
+MOBILE SUIT GUNDAM AGE,-
+MOBILE SUIT GUNDAM SEED,-
+MOBILE SUIT GUNDAM SEED DESTINY,-
+MOBILE SUIT GUNDAM UNICORN RE:0096,-
+MOBILE SUIT GUNDAM WING,-
+MOBILE SUIT GUNDAM ZZ,-
+MOBILE SUIT GUNDAM: IRON-BLOODED ORPHANS,-
+MOBILE SUIT GUNDAM: IRON-BLOODED ORPHANS 2ND SEASON,-
+MOBILE SUIT GUNDAM: THE ORIGIN - ADVENT OF THE RED COMET,-
+MOBILE SUIT VICTORY GUNDAM,-
+MOBILE SUIT ZETA GUNDAM,-
+MOERO! TOP STRIKER,-
+MOETAN,-
+MOMO KYUN SWORD,-
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,-
+MONOCHROME FACTOR,-
+MONOGATARI SERIES: SECOND SEASON,7
+MONONOKE,-
+MONSTER,10
+MONSTER FARM: ENBANSEKI NO HIMITSU,-
+MONSTER MUSUME NO IRU NICHIJOU,-
+MOSHIDORA,-
+MOTTO TO LOVE-RU,-
+MOURETSU PIRATES,-
+MOURYOU NO HAKO,-
+MOUSE,-
+MOUSOU DAIRININ,8
+MOYASHIMON,-
+MOYASHIMON RETURNS,-
+MUGEN NO RYVIUS,-
+MUHYO TO ROUJI NO MAHOURITSU SOUDAN JIMUSHO,-
+MURENASE! SETON GAKUEN,-
+MUSAIGEN NO PHANTOM WORLD,-
+MUSEKININ GALAXY☆TYLOR,-
+MUSEKININ KANCHOU TYLOR,-
+MUSHIBUGYOU,-
+MUSHISHI,-
+MUSHISHI ZOKU SHOU,-
+MUSHISHI ZOKU SHOU 2ND SEASON,-
+MUTEKI KANBAN MUSUME,-
+MUTSU ENMEI RYUU GAIDEN: SHURA NO TOKI,-
+MUV-LUV ALTERNATIVE: TOTAL ECLIPSE,-
+MYSELF; YOURSELF,-
+NABARI NO OU,-
+NAGASARETE AIRANTOU,-
+NAGATO YUKI-CHAN NO SHOUSHITSU,-
+NAGI NO ASU KARA,-
+NAKANOHITO GENOME [JIKKYOUCHUU],-
+NAMIUCHIGIWA NO MUROMI-SAN,-
+NAMU AMIDA BUTSU!: RENDAI UTENA,-
+NANA,-
+NANA MARU SAN BATSU,-
+NANAKA 6/17,-
+NANATSU NO BITOKU,-
 NANATSU NO TAIZAI,-
-Nanatsu no Taizai OVA,-
-Nanatsu no Taizai: Imashime no Fukkatsu,-
-Nanatsu no Taizai: Kamigami no Gekirin,-
-Nanatsu no Taizai: Seisen no Shirushi,-
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,-
+NANATSU NO TAIZAI: KAMIGAMI NO GEKIRIN,-
 NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,-
-Nanatsu no Umi no Tico,-
-Nanatsu-iro★Drops,-
-Nanbaka,-
+NANATSU NO UMI NO TICO,-
+NANATSU-IRO★DROPS,-
 NANBAKA,-
-Nande Koko ni Sensei ga!?,-
-Narue no Sekai,-
-Narutaru: Mukuro Naru Hoshi Tama Taru Ko,-
-Naruto,-
+NANDE KOKO NI SENSEI GA!?,-
+NARUTARU: MUKURO NARU HOSHI TAMA TARU KO,-
 NARUTO,-
-Naruto SD: Rock Lee no Seishun Full-Power Ninden,-
-Naruto: Shippuuden,-
-Natsu no Arashi!,-
-Natsu no Arashi! Akinaichuu,-
-Natsu-iro Kiseki,-
-Natsume Yuujinchou,-
-Natsume Yuujinchou Go,-
-Natsume Yuujinchou Roku,-
-Natsume Yuujinchou Roku Specials,-
-Natsume Yuujinchou San,-
-Natsume Yuujinchou Shi,-
-Natsunagu!,-
-Natsuyuki Rendezvous,-
-Nazo no Kanojo X,-
-Nazotokine,-
-Needless,-
-Negima!?,-
-Nejimaki Seirei Senki: Tenkyou no Alderamin,-
-Neko nanka Yondemo Konai.,-
-Nekogami Yaoyorozu,-
-Nekomonogatari: Kuro,6
-NEKOMONOGATARI: KURO,-
-Nekopara,-
-Neo Angelique Abyss,-
-Neo Angelique Abyss: Second Age,-
-Neon Genesis Evangelion,5
-Net-juu no Susume,-
-Netoge no Yome wa Onnanoko ja Nai to Omotta?,-
+NARUTO SD: ROCK LEE NO SEISHUN FULL-POWER NINDEN,-
+NARUTO: SHIPPUUDEN,-
+NATSU NO ARASHI!,-
+NATSU NO ARASHI! AKINAICHUU,-
+NATSU-IRO KISEKI,-
+NATSUME YUUJINCHOU,-
+NATSUME YUUJINCHOU GO,-
+NATSUME YUUJINCHOU ROKU,-
+NATSUME YUUJINCHOU SAN,-
+NATSUME YUUJINCHOU SHI,-
+NATSUNAGU!,-
+NATSUYUKI RENDEZVOUS,-
+NAZO NO KANOJO X,-
+NAZOTOKINE,-
+NEEDLESS,-
+NEGIMA!?,-
+NEJIMAKI SEIREI SENKI: TENKYOU NO ALDERAMIN,-
+NEKO NANKA YONDEMO KONAI.,-
+NEKOMONOGATARI: KURO,6
+NEKOPARA,-
+NEO ANGELIQUE ABYSS,-
+NEO ANGELIQUE ABYSS: SECOND AGE,-
+NEON GENESIS EVANGELION,5
 NETOGE NO YOME WA ONNANOKO JA NAI TO OMOTTA?,-
-Netsuzou TRap,-
-New Game!,-
-New Game!!,-
-NHK ni Youkoso!,-
-Nichijou,-
-Night Head Genesis,-
-Night Walker: Mayonaka no Tantei,-
-Night Wizard,-
-Nijiiro Days,-
-Nijuu Mensou no Musume,-
-Nil Admirari no Tenbin,-
-Ninja Senshi Tobikage,-
-Nisekoi,-
-Nisekoi OVA,-
-Nisekoi:,-
-Nisekoi: OVA,-
-Nisemonogatari,7
-No Game No Life,-
-No Game No Life Specials,-
-No Guns Life,-
-No.6,-
-Nobunaga Concerto,-
-Nobunaga no Shinobi,-
-Nobunaga no Shinobi: Anegawa Ishiyama-hen,-
-Nobunaga no Shinobi: Ise Kanegasaki-hen,-
-Nobunaga the Fool,-
-Nobunaga-sensei no Osanazuma,-
-Nobunagun,-
-Nodame Cantabile,-
-Nodame Cantabile: Finale,-
-Nodame Cantabile: Paris-hen,-
-Noein: Mou Hitori no Kimi e,-
-Nogizaka Haruka no Himitsu,-
-Nogizaka Haruka no Himitsu: Purezza,-
-Non Non Biyori,-
-Non Non Biyori Repeat,-
-Nora to Oujo to Noraneko Heart,-
-Noragami,-
-Noragami Aragoto,-
-Noragami Aragoto OVA,-
-Noragami OVA,-
-Norn9: Norn+Nonet,-
-Nourin,-
-Nozo x Kimi,-
-number24,-
-Nurarihyon no Mago,-
-Nurarihyon no Mago: Sennen Makyou,-
-Nurse Witch Komugi-chan R,-
-Nyan Koi!,-
-Nyanbo!,-
-Nyanko Days,-
-Nyanpire The Animation,-
-Oban Star-Racers,-
-Occultic;Nine,-
-Oda Cinnamon Nobunaga,-
-Oda Nobuna no Yabou,-
-Offside (TV),-
-Oh! Edo Rocket,-
-Ojamajo Doremi,-
-Ojamajo Doremi Sharp,-
-Ojisan to Marshmallow,-
-Okane ga Nai,-
-Okoshiyasu Chitose-chan,-
-Okusama ga Seitokaichou!,-
-Okusama ga Seitokaichou!+!,-
-Okusama wa Joshikousei (TV),-
-Okusama wa Mahou Shoujo,-
-Omae wa Mada Gunma wo Shiranai,-
-Omamori Himari,-
-Omiai Aite wa Oshiego Tsuyoki na Mondaiji.,-
-Onara Gorou,-
-One Outs,-
-One Punch Man,8
-ONE PUNCH MAN,-
-One Punch Man 2nd Season,-
+NETSUZOU TRAP,-
+NEW GAME!,-
+NEW GAME!!,-
+NHK NI YOUKOSO!,-
+NICHIJOU,-
+NIGHT HEAD GENESIS,-
+NIGHT WALKER: MAYONAKA NO TANTEI,-
+NIGHT WIZARD,-
+NIJIIRO DAYS,-
+NIJUU MENSOU NO MUSUME,-
+NIL ADMIRARI NO TENBIN,-
+NINJA SENSHI TOBIKAGE,-
+NISEKOI,-
+NISEKOI:,-
+NISEMONOGATARI,7
+NO GAME NO LIFE,-
+NO GUNS LIFE,-
+NO.6,-
+NOBUNAGA CONCERTO,-
+NOBUNAGA NO SHINOBI,-
+NOBUNAGA NO SHINOBI: ANEGAWA ISHIYAMA-HEN,-
+NOBUNAGA NO SHINOBI: ISE KANEGASAKI-HEN,-
+NOBUNAGA THE FOOL,-
+NOBUNAGA-SENSEI NO OSANAZUMA,-
+NOBUNAGUN,-
+NODAME CANTABILE,-
+NODAME CANTABILE: FINALE,-
+NODAME CANTABILE: PARIS-HEN,-
+NOGIZAKA HARUKA NO HIMITSU,-
+NOGIZAKA HARUKA NO HIMITSU: PUREZZA,-
+NON NON BIYORI,-
+NON NON BIYORI REPEAT,-
+NORA TO OUJO TO NORANEKO HEART,-
+NORAGAMI,-
+NORAGAMI ARAGOTO,-
+NORN9: NORN+NONET,-
+NOURIN,-
+NUMBER24,-
+NURARIHYON NO MAGO,-
+NURARIHYON NO MAGO: SENNEN MAKYOU,-
+NURSE WITCH KOMUGI-CHAN R,-
+NYAN KOI!,-
+NYANBO!,-
+NYANKO DAYS,-
+NYANPIRE THE ANIMATION,-
+OBAN STAR-RACERS,-
+OCCULTIC;NINE,-
+ODA CINNAMON NOBUNAGA,-
+ODA NOBUNA NO YABOU,-
+OFFSIDE (TV),-
+OH! EDO ROCKET,-
+OJAMAJO DOREMI,-
+OJAMAJO DOREMI SHARP,-
+OJISAN TO MARSHMALLOW,-
+OKOSHIYASU CHITOSE-CHAN,-
+OKUSAMA GA SEITOKAICHOU!,-
+OKUSAMA GA SEITOKAICHOU!+!,-
+OKUSAMA WA MAHOU SHOUJO,-
+OMAE WA MADA GUNMA WO SHIRANAI,-
+OMAMORI HIMARI,-
+OMIAI AITE WA OSHIEGO TSUYOKI NA MONDAIJI.,-
+ONARA GOROU,-
+ONE OUTS,-
+ONE PUNCH MAN,8
 ONE PUNCH MAN 2ND SEASON,-
-One Punch Man Specials,-
-One Room,-
-One Room Second Season,-
-Oneechan ga Kita,-
+ONE ROOM,-
+ONE ROOM SECOND SEASON,-
 ONEECHAN GA KITA,-
-Onegai☆Teacher,-
-Onegai☆Twins,-
-Ongaku Shoujo (TV),-
-Onigiri,-
-Onihei,-
-Oniichan dakedo Ai sae Areba Kankeinai yo ne!,-
-Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!,-
-Oniisama e...,-
-Onsen Yousei Hakone-chan,-
-Ookami Shoujo to Kuro Ouji,-
-Ookami to Koushinryou,-
-Ookami to Koushinryou II,-
-Ookamikakushi,-
-Ookami-san to Shichinin no Nakama-tachi,-
-Ookiku Furikabutte,-
-Ookiku Furikabutte: Natsu no Taikai-hen,-
-Ooyasan wa Shishunki!,-
-Orange,-
-Ore ga Ojousama Gakkou ni Shomin Sample Toshite Gets♥Sareta Ken,-
-Ore ga Suki nano wa Imouto dakedo Imouto ja Nai,-
-Ore Monogatari!!,-
-Ore no Imouto ga Konnani Kawaii Wake ga Nai,-
+ONEGAI☆TEACHER,-
+ONEGAI☆TWINS,-
+ONGAKU SHOUJO (TV),-
+ONIGIRI,-
+ONIHEI,-
+ONIICHAN DAKEDO AI SAE AREBA KANKEINAI YO NE!,-
+ONIICHAN NO KOTO NANKA ZENZEN SUKI JA NAI N DA KARA NE!!,-
+ONSEN YOUSEI HAKONE-CHAN,-
+OOKAMI SHOUJO TO KURO OUJI,-
+OOKAMI TO KOUSHINRYOU,-
+OOKAMI TO KOUSHINRYOU II,-
+OOKAMIKAKUSHI,-
+OOKAMI-SAN TO SHICHININ NO NAKAMA-TACHI,-
+OOKIKU FURIKABUTTE,-
+OOKIKU FURIKABUTTE: NATSU NO TAIKAI-HEN,-
+OOYASAN WA SHISHUNKI!,-
+ORANGE,-
+ORE GA OJOUSAMA GAKKOU NI SHOMIN SAMPLE TOSHITE GETS♥SARETA KEN,-
+ORE GA SUKI NANO WA IMOUTO DAKEDO IMOUTO JA NAI,-
+ORE MONOGATARI!!,-
 ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI,-
-Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials,-
-Ore no Imouto ga Konnani Kawaii Wake ga Nai.,-
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,-
-Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,-
-Ore Twintail ni Narimasu.,-
-Ore wo Suki nano wa Omae dake ka yo,-
-Orenchi no Furo Jijou,-
-Oretachi ni Tsubasa wa Nai: Under the Innocent Sky.,-
-Oruchuban Ebichu,-
-Osake wa Fuufu ni Natte kara,-
-Oshi ga Budoukan Ittekuretara Shinu,-
-Oshiete! Galko-chan,-
-Osomatsu-kun,-
-Osomatsu-kun (1988),-
-Osomatsu-san,-
-Osomatsu-san 2nd Season,-
-Otaku no Video,-
-Otogi Story Tenshi no Shippo,-
-Otogizoushi,-
-Otome wa Boku ni Koishiteru,-
-Otome Youkai Zakuro,-
-Ou Dorobou Jing,-
-Ouran Koukou Host Club,-
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI.,-
+ORE NO KANOJO TO OSANANAJIMI GA SHURABA SUGIRU,-
+ORE NO NOUNAI SENTAKUSHI GA GAKUEN LOVE COMEDY WO ZENRYOKU DE JAMA SHITEIRU,-
+ORE TWINTAIL NI NARIMASU.,-
+ORE WO SUKI NANO WA OMAE DAKE KA YO,-
+ORENCHI NO FURO JIJOU,-
+ORETACHI NI TSUBASA WA NAI: UNDER THE INNOCENT SKY.,-
+ORUCHUBAN EBICHU,-
+OSAKE WA FUUFU NI NATTE KARA,-
+OSHI GA BUDOUKAN ITTEKURETARA SHINU,-
+OSHIETE! GALKO-CHAN,-
+OSOMATSU-KUN,-
+OSOMATSU-KUN (1988),-
+OSOMATSU-SAN,-
+OSOMATSU-SAN 2ND SEASON,-
+OTOGI STORY TENSHI NO SHIPPO,-
+OTOGIZOUSHI,-
+OTOME WA BOKU NI KOISHITERU,-
+OTOME YOUKAI ZAKURO,-
+OU DOROBOU JING,-
 OURAN KOUKOU HOST CLUB,-
-Ousama Game The Animation,-
-Oushitsu Kyoushi Heine,-
-Outbreak Company,-
-Over Drive,-
-Overflow,-
-Overlord,-
-Overlord II,-
-Overlord III,-
-Overman King Gainer,-
-Owari no Seraph,-
-Owari no Seraph: Nagoya Kessen-hen,-
-Owarimonogatari,-
-Owarimonogatari 2nd Season,-
-Ozma,-
-Ozmafia!!,-
-Pac-World,-
-Pan de Peace!,-
-Panda-Z: The Robonimation,-
-Pandora Hearts,-
-Pandora Hearts Omake,-
-Paniponi Dash!,-
-Panty & Stocking with Garterbelt,-
-Papa datte Shitai,-
-Papa no Iukoto wo Kikinasai!,-
-Papa to Kiss in the Dark,-
-Papillon Rose,-
-Paradise Kiss,-
-Pastel Life,-
-Pastel Memories,-
-Peace Maker Kurogane,-
-Peach Girl,-
-Peeping Life,-
-Peeping Life TV: Season 1??,-
-Persona 4 the Animation,-
-Persona 4 the Golden Animation,-
-Persona 5 the Animation,-
-Persona 5 the Animation TV Specials,-
-Persona: Trinity Soul,-
-Pet,-
-Petshop of Horrors,-
-Phantasy Star Online 2 The Animation,-
-Phantasy Star Online 2: Episode Oracle,-
-Phantom in the Twilight,-
-Phantom: Requiem for the Phantom,-
-Phi Brain: Kami no Puzzle,-
-Phi Brain: Kami no Puzzle - Orpheus Order-hen,-
-Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen,-
-Photokano,-
-Piace: Watashi no Italian,-
-Piano no Mori (TV),-
-Piano no Mori (TV) 2nd Season,-
-Pikotarou no Lullaby Lullaby (TV),-
-Ping Pong the Animation,-
-Pingu in the City,-
-Pingu in the City (2018),-
-Pita Ten,-
-Planet With,-
-Planetarian: Chiisana Hoshi no Yume,-
-Planetes,-
-Plastic Memories,-
-Pokemon,-
-Pokemon Advanced Generation,-
-Pokemon Best Wishes!,-
-Pokemon Best Wishes! Season 2,-
-Pokemon Best Wishes! Season 2: Decolora Adventure,-
-Pokemon Best Wishes! Season 2: Episode N,-
-Pokemon Diamond & Pearl,-
-Pokemon Generations,-
-Pokemon Housoukyoku,-
-Pokemon Sun & Moon,-
-Pokemon XY,-
-Pokemon XY&Z,-
-Popee the Performer,-
-Popotan,-
-Poputepipikku,6
-Poputepipikku TV Special,-
-Potemayo,-
-Poyopoyo Kansatsu Nikki,-
-Pretty Rhythm: All Star Selection,-
-Pretty Rhythm: Aurora Dream,-
-Pretty Rhythm: Dear My Future,-
-Pretty Rhythm: Rainbow Live,-
-Prince of Stride: Alternative,-
-Princess Lover!,-
-Princess Nine: Kisaragi Joshikou Yakyuubu,-
-Princess Princess,-
-Princess Principal,8
-Princess Principal Picture Drama,-
-Princess Sara,-
-Princess Tutu,-
-PriPara,-
-Prism Ark,-
-Prison School,-
+OUSAMA GAME THE ANIMATION,-
+OUSHITSU KYOUSHI HEINE,-
+OUTBREAK COMPANY,-
+OVER DRIVE,-
+OVERFLOW,-
+OVERLORD,-
+OVERLORD II,-
+OVERLORD III,-
+OVERMAN KING GAINER,-
+OWARI NO SERAPH,-
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,-
+OWARIMONOGATARI,-
+OWARIMONOGATARI 2ND SEASON,-
+OZMA,-
+OZMAFIA!!,-
+PAC-WORLD,-
+PAN DE PEACE!,-
+PANDA-Z: THE ROBONIMATION,-
+PANDORA HEARTS,-
+PANIPONI DASH!,-
+PANTY & STOCKING WITH GARTERBELT,-
+PAPA DATTE SHITAI,-
+PAPA NO IUKOTO WO KIKINASAI!,-
+PAPILLON ROSE,-
+PARADISE KISS,-
+PASTEL LIFE,-
+PASTEL MEMORIES,-
+PEACE MAKER KUROGANE,-
+PEACH GIRL,-
+PERSONA 4 THE ANIMATION,-
+PERSONA 4 THE GOLDEN ANIMATION,-
+PERSONA 5 THE ANIMATION,-
+PERSONA: TRINITY SOUL,-
+PET,-
+PETSHOP OF HORRORS,-
+PHANTASY STAR ONLINE 2 THE ANIMATION,-
+PHANTASY STAR ONLINE 2: EPISODE ORACLE,-
+PHANTOM IN THE TWILIGHT,-
+PHANTOM: REQUIEM FOR THE PHANTOM,-
+PHI BRAIN: KAMI NO PUZZLE,-
+PHI BRAIN: KAMI NO PUZZLE - ORPHEUS ORDER-HEN,-
+PHI BRAIN: KAMI NO PUZZLE - SHUKUTEKI! RÄTSEL-HEN,-
+PHOTOKANO,-
+PIACE: WATASHI NO ITALIAN,-
+PIANO NO MORI (TV),-
+PIANO NO MORI (TV) 2ND SEASON,-
+PIKOTAROU NO LULLABY LULLABY (TV),-
+PING PONG THE ANIMATION,-
+PINGU IN THE CITY,-
+PINGU IN THE CITY (2018),-
+PITA TEN,-
+PLANET WITH,-
+PLANETES,-
+PLASTIC MEMORIES,-
+POKEMON,-
+POKEMON ADVANCED GENERATION,-
+POKEMON BEST WISHES!,-
+POKEMON BEST WISHES! SEASON 2,-
+POKEMON BEST WISHES! SEASON 2: DECOLORA ADVENTURE,-
+POKEMON BEST WISHES! SEASON 2: EPISODE N,-
+POKEMON DIAMOND & PEARL,-
+POKEMON HOUSOUKYOKU,-
+POKEMON SUN & MOON,-
+POKEMON XY,-
+POKEMON XY&Z,-
+POPEE THE PERFORMER,-
+POPOTAN,-
+POPUTEPIPIKKU,6
+POYOPOYO KANSATSU NIKKI,-
+PRETTY RHYTHM: AURORA DREAM,-
+PRETTY RHYTHM: DEAR MY FUTURE,-
+PRETTY RHYTHM: RAINBOW LIVE,-
+PRINCE OF STRIDE: ALTERNATIVE,-
+PRINCESS LOVER!,-
+PRINCESS NINE: KISARAGI JOSHIKOU YAKYUUBU,-
+PRINCESS PRINCESS,-
+PRINCESS PRINCIPAL,8
+PRINCESS SARA,-
+PRINCESS TUTU,-
+PRIPARA,-
+PRISM ARK,-
 PRISON SCHOOL,-
-Project ARMS,-
-Psychic Academy,-
-Psycho-Pass,8
-Psycho-Pass 2,-
-Psycho-Pass 3,-
-Pucca,-
-Pucca 2,-
-Puchi Pri*Yucie,-
-Pumpkin Scissors,-
-Punch Line,-
-Pupa,-
-Pupipo!,-
-Qualidea Code,-
-Quanzhi Gaoshou,-
-Quanzhi Gaoshou Specials,-
-Queen's Blade: Gyokuza wo Tsugu Mono,-
-Queen's Blade: Rebellion,-
-Queen's Blade: Rurou no Senshi,-
-R.O.D: The TV,-
+PSYCHIC ACADEMY,-
+PSYCHO-PASS,8
+PSYCHO-PASS 2,-
+PSYCHO-PASS 3,-
+PUCCA,-
+PUMPKIN SCISSORS,-
+PUNCH LINE,-
+PUPA,-
+PUPIPO!,-
+QUALIDEA CODE,-
+QUEEN'S BLADE: GYOKUZA WO TSUGU MONO,-
+QUEEN'S BLADE: REBELLION,-
+QUEEN'S BLADE: RUROU NO SENSHI,-
+R.O.D: THE TV,-
 R-15,-
-Radiant,-
-Radiant 2nd Season,-
-Ragnarök The Animation,-
-Ragnastrike Angels,-
-RahXephon,-
-Rail Wars!,-
-Rainbow: Nisha Rokubou no Shichinin,-
-Rakudai Kishi no Cavalry,-
-Ramen Daisuki Koizumi-san,-
-Ranma ½,-
-Ranpo Kitan: Game of Laplace,-
-RDG: Red Data Girl,-
-Re:␣Hamatora,-
-Re:Creators,-
-Re:Petit kara Hajimeru Isekai Seikatsu,-
-Re:Stage! Dream Days♪,-
-Re:Zero kara Hajimeru Isekai Seikatsu,7
-Rec,-
-Recorder to Randoseru Do♪,-
-Recorder to Randoseru Mi☆,-
-Recorder to Randoseru Re♪,-
-Red Garden,-
-Regalia: The Three Sacred Stars,-
-Reikenzan: Eichi e no Shikaku,-
-Reikenzan: Hoshikuzu-tachi no Utage,-
-Re-Kan!,-
-Rekka no Honoo,-
-Release the Spyce,-
-ReLIFE,-
-ReLIFE: Kanketsu-hen,-
-ReLIFE: Kanketsu-hen Specials,-
-Renai Boukun,-
-Renkin San-kyuu Magical? Pokaan,-
-Rental Magica,-
-RErideD: Tokigoe no Derrida,-
-Revisions,-
-Rewrite,-
-Rewrite 2nd Season,-
-RideBack,-
-Rifle Is Beautiful,-
-Rikei ga Koi ni Ochita no de Shoumei shitemita.,-
-Rilu Rilu Fairilu: Yousei no Door,-
-Rinne no Lagrange,-
-Rinne no Lagrange Season 2,-
-Rinshi!! Ekoda-chan,-
-Ristorante Paradiso,-
-Rizelmine,-
-RobiHachi,-
-RoboMasters the Animated Series,-
-Robotics;Notes,-
-Rockman.EXE,-
-Rockman.EXE Axess,-
-Rockman.EXE Beast,-
-Rockman.EXE Beast+,-
-Rockman.EXE Stream,-
-Rokka no Yuusha,-
+RADIANT,-
+RADIANT 2ND SEASON,-
+RAGNARÖK THE ANIMATION,-
+RAGNASTRIKE ANGELS,-
+RAHXEPHON,-
+RAIL WARS!,-
+RAINBOW: NISHA ROKUBOU NO SHICHININ,-
+RAKUDAI KISHI NO CAVALRY,-
+RAMEN DAISUKI KOIZUMI-SAN,-
+RANMA ½,-
+RANPO KITAN: GAME OF LAPLACE,-
+RDG: RED DATA GIRL,-
+RE:␣HAMATORA,-
+RE:CREATORS,-
+RE:STAGE! DREAM DAYS♪,-
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,7
+REC,-
+RECORDER TO RANDOSERU DO♪,-
+RECORDER TO RANDOSERU MI☆,-
+RECORDER TO RANDOSERU RE♪,-
+RED GARDEN,-
+REGALIA: THE THREE SACRED STARS,-
+REIKENZAN: EICHI E NO SHIKAKU,-
+REIKENZAN: HOSHIKUZU-TACHI NO UTAGE,-
+RE-KAN!,-
+REKKA NO HONOO,-
+RELEASE THE SPYCE,-
+RELIFE,-
+RENAI BOUKUN,-
+RENKIN SAN-KYUU MAGICAL? POKAAN,-
+RENTAL MAGICA,-
+RERIDED: TOKIGOE NO DERRIDA,-
+REWRITE,-
+REWRITE 2ND SEASON,-
+RIDEBACK,-
+RIFLE IS BEAUTIFUL,-
+RILU RILU FAIRILU: YOUSEI NO DOOR,-
+RINNE NO LAGRANGE,-
+RINNE NO LAGRANGE SEASON 2,-
+RINSHI!! EKODA-CHAN,-
+RISTORANTE PARADISO,-
+RIZELMINE,-
+ROBIHACHI,-
+ROBOMASTERS THE ANIMATED SERIES,-
+ROBOTICS;NOTES,-
+ROCKMAN.EXE,-
+ROCKMAN.EXE AXESS,-
+ROCKMAN.EXE BEAST,-
+ROCKMAN.EXE BEAST+,-
+ROCKMAN.EXE STREAM,-
 ROKKA NO YUUSHA,-
-Rokudenashi Majutsu Koushi to Akashic Records,-
 ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,-
-Rokuhoudou Yotsuiro Biyori,-
-Rokujouma no Shinryakusha!? (TV),-
-Ro-Kyu-Bu!,-
-Ro-Kyu-Bu! SS,-
-Rolling☆Girls,-
-Romeo no Aoi Sora,-
-Romeo x Juliet,-
-Room Mate,-
-Rosario to Vampire,-
-Rosario to Vampire Capu2,-
-Rozen Maiden,-
-Rozen Maiden (2013),-
-Rozen Maiden: Träumend,-
-Runway de Waratte,-
-Rurouni Kenshin: Meiji Kenkaku Romantan,-
-Ryuu no Haisha,-
-Ryuugajou Nanana no Maizoukin (TV),-
-Ryuuou no Oshigoto!,-
-Ryuusei no Rockman,-
-s.CRY.ed,-
-Sabage-bu!,-
-Saber Marionette J,-
-Sacred Seven,-
-Saenai Heroine no Sodatekata,-
-Saenai Heroine no Sodatekata ♭,-
-Saijaku Muhai no Bahamut,-
-Saiki Kusuo no Ψ-nan,-
+ROKUHOUDOU YOTSUIRO BIYORI,-
+ROKUJOUMA NO SHINRYAKUSHA!? (TV),-
+RO-KYU-BU!,-
+RO-KYU-BU! SS,-
+ROLLING☆GIRLS,-
+ROMEO NO AOI SORA,-
+ROMEO X JULIET,-
+ROOM MATE,-
+ROSARIO TO VAMPIRE,-
+ROSARIO TO VAMPIRE CAPU2,-
+ROZEN MAIDEN,-
+ROZEN MAIDEN (2013),-
+ROZEN MAIDEN: TRÄUMEND,-
+RUNWAY DE WARATTE,-
+RUROUNI KENSHIN: MEIJI KENKAKU ROMANTAN,-
+RYUUGAJOU NANANA NO MAIZOUKIN (TV),-
+RYUUOU NO OSHIGOTO!,-
+S.CRY.ED,-
+SABAGE-BU!,-
+SABER MARIONETTE J,-
+SACRED SEVEN,-
+SAENAI HEROINE NO SODATEKATA,-
+SAENAI HEROINE NO SODATEKATA ♭,-
+SAIJAKU MUHAI NO BAHAMUT,-
 SAIKI KUSUO NO Ψ-NAN,-
-Saiki Kusuo no Ψ-nan 2,-
 SAIKI KUSUO NO Ψ-NAN 2,-
-Saikin Imouto no Yousu ga Chotto Okashiinda ga.,-
-Saiko Robot Kombock,-
-Saint Beast: Kouin Jojishi Tenshi Tan,-
-Saint Beast: Seijuu Kourin-hen,-
-Saint Seiya,-
-Saint Seiya Omega,-
-Saint☆Oniisan,-
-Saishuu Heiki Kanojo,-
-Saiunkoku Monogatari,-
-Saiunkoku Monogatari 2nd Season,-
-Saiyuuki Reload,-
-Saiyuuki Reload Blast,-
-Sakamichi no Apollon,-
-Sakamoto Desu ga?,-
-Saki,-
-Saki Achiga-hen: Episode of Side-A,-
-Saki Zenkoku-hen,-
-Sakigake!! Cromartie Koukou,-
-Sakura Quest,-
-Sakura Trick,7
-Sakurada Reset,-
-Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,-
-Sakura-sou no Pet na Kanojo,-
-Salaryman Kintarou,-
-Samurai 7,-
-Samurai Champloo,-
-Samurai Deeper Kyou,-
-Samurai Flamenco,-
-Sankarea,-
-Sankarea OVA,-
-Sanrio Danshi,-
-Sansha Sanyou,-
-Sanzoku no Musume Ronja,-
-Saraiya Goyou,-
-Sarazanmai,-
-Saredo Tsumibito wa Ryuu to Odoru,-
-Sasameki Koto,-
-Sasami-san@Ganbaranai,-
-Satsuriku no Tenshi,-
-Sayonara Zetsubou Sensei,-
-Scared Rider Xechs,-
-School Days,-
-School Rumble,-
-School Rumble Ni Gakki,-
-School Rumble San Gakki,-
-School Rumble: Ichi Gakki Hoshuu,-
-Schwarzesmarken,-
-Scrapped Princess,-
-SD Gundam Force,-
-Seihou Bukyou Outlaw Star,-
-Seikai no Monshou,-
-Seikai no Senki,-
-Seikai no Senki II,-
-Seikaisuru Kado,-
-Seiken no Blacksmith,-
-Seiken Tsukai no World Break,-
-Seikimatsu Occult Gakuin,-
-Seikoku no Dragonar,-
-Seikon no Qwaser,-
-Seikon no Qwaser II,-
-Seirei no Moribito,-
-Seireitsukai no Blade Dance,-
-Seiren,-
-Seisen Cerberus: Ryuukoku no Fatalités,-
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,-
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Picture Drama,-
-Seitokai no Ichizon,-
-Seitokai Yakuindomo,-
-Seitokai Yakuindomo*,-
-Seitokaichou ni Chuukoku,-
-Seiyou Kottou Yougashiten: Antique,-
-Sekai de Ichiban Tsuyoku Naritai!,-
-Sekai no Yami Zukan,-
-Sekai Seifuku: Bouryaku no Zvezda,-
+SAIKIN IMOUTO NO YOUSU GA CHOTTO OKASHIINDA GA.,-
+SAIKO ROBOT KOMBOCK,-
+SAINT BEAST: KOUIN JOJISHI TENSHI TAN,-
+SAINT BEAST: SEIJUU KOURIN-HEN,-
+SAINT SEIYA,-
+SAINT SEIYA OMEGA,-
+SAISHUU HEIKI KANOJO,-
+SAIUNKOKU MONOGATARI,-
+SAIYUUKI RELOAD,-
+SAIYUUKI RELOAD BLAST,-
+SAKAMICHI NO APOLLON,-
+SAKAMOTO DESU GA?,-
+SAKI,-
+SAKI ACHIGA-HEN: EPISODE OF SIDE-A,-
+SAKI ZENKOKU-HEN,-
+SAKIGAKE!! CROMARTIE KOUKOU,-
+SAKURA QUEST,-
+SAKURA TRICK,7
+SAKURADA RESET,-
+SAKURAKO-SAN NO ASHIMOTO NI WA SHITAI GA UMATTEIRU,-
+SAKURA-SOU NO PET NA KANOJO,-
+SALARYMAN KINTAROU,-
+SAMURAI 7,-
+SAMURAI CHAMPLOO,-
+SAMURAI DEEPER KYOU,-
+SAMURAI FLAMENCO,-
+SANKAREA,-
+SANRIO DANSHI,-
+SANSHA SANYOU,-
+SANZOKU NO MUSUME RONJA,-
+SARAIYA GOYOU,-
+SARAZANMAI,-
+SAREDO TSUMIBITO WA RYUU TO ODORU,-
+SASAMEKI KOTO,-
+SASAMI-SAN@GANBARANAI,-
+SATSURIKU NO TENSHI,-
+SAYONARA ZETSUBOU SENSEI,-
+SCARED RIDER XECHS,-
+SCHOOL DAYS,-
+SCHOOL RUMBLE,-
+SCHOOL RUMBLE NI GAKKI,-
+SCHWARZESMARKEN,-
+SCRAPPED PRINCESS,-
+SD GUNDAM FORCE,-
+SEIHOU BUKYOU OUTLAW STAR,-
+SEIKAI NO MONSHOU,-
+SEIKAI NO SENKI,-
+SEIKAI NO SENKI II,-
+SEIKAISURU KADO,-
+SEIKEN NO BLACKSMITH,-
+SEIKEN TSUKAI NO WORLD BREAK,-
+SEIKIMATSU OCCULT GAKUIN,-
+SEIKOKU NO DRAGONAR,-
+SEIKON NO QWASER,-
+SEIKON NO QWASER II,-
+SEIREI NO MORIBITO,-
+SEIREITSUKAI NO BLADE DANCE,-
+SEIREN,-
+SEISEN CERBERUS: RYUUKOKU NO FATALITÉS,-
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,-
+SEITOKAI NO ICHIZON,-
+SEITOKAI YAKUINDOMO,-
+SEITOKAI YAKUINDOMO*,-
+SEIYOU KOTTOU YOUGASHITEN: ANTIQUE,-
+SEKAI DE ICHIBAN TSUYOKU NARITAI!,-
+SEKAI NO YAMI ZUKAN,-
 SEKAI SEIFUKU: BOURYAKU NO ZVEZDA,-
-Sekaiichi Hatsukoi,-
-Sekaiichi Hatsukoi 2,-
-Sekirei,-
-Sekirei: Pure Engagement,-
-Sekkou Boys,-
-Selector Infected WIXOSS,-
-Selector Spread WIXOSS,-
-Sengoku Basara,-
-Sengoku Basara Two,-
-Sengoku Basara: Judge End,-
-Sengoku Choujuu Giga: Kou,-
-Sengoku Choujuu Giga: Otsu,-
-Sengoku Collection,-
-Sengoku Musou,-
-Sengoku Night Blood,-
-Sengoku Otome: Momoiro Paradox,-
-Senjou no Valkyria,-
-Senjuushi,-
-Senkaiden Houshin Engi,-
-Senki Zesshou Symphogear,-
-Senki Zesshou Symphogear AXZ,-
-Senki Zesshou Symphogear G,-
-Senki Zesshou Symphogear GX,-
-Senki Zesshou Symphogear XV,-
-Senkou no Night Raid,-
-Senran Kagura,-
-Senran Kagura Shinovi Master: Tokyo Youma-hen,-
-Senryuu Shoujo,-
-Senyuu.,-
-Senyuu. 2,-
-Senyuu. Specials,-
-Serial Experiments Lain,-
-Servamp,-
-Servant x Service,-
-Seto no Hanayome,-
-Seton Doubutsuki: Kuma no Ko Jacky,-
-Sewayaki Kitsune no Senko-san,-
-Shakugan no Shana,-
-Shakugan no Shana II (Second),-
-Shakugan no Shana III (Final),-
-Shakunetsu no Takkyuu Musume,-
-Shaman King,-
-Shangri-La,-
-Shichinin no Nana,-
-Shichisei no Subaru,-
-Shigatsu wa Kimi no Uso,-
-Shigofumi,-
-Shigurui,-
-Shijou Saikyou no Deshi Kenichi,-
-Shijou Saikyou no Deshi Kenichi OVA,-
-Shijou Saikyou no Deshi Kenichi Specials,-
-Shikabane Hime: Aka,-
-Shikabane Hime: Kuro,-
-Shiki,6
-Shikioriori,-
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,-
-Shin Atashin'chi,-
-Shin Chuuka Ichiban!,-
-Shin Koihime†Musou,-
-Shin Koihime†Musou: Otome Tairan,-
-Shin Shirayuki-hime Densetsu Prétear,-
-Shin Strange+,-
-Shin Tenchi Muyou!,-
-Shin Tennis no Ouji-sama,-
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,-
-Shingeki no Bahamut: Genesis,-
-Shingeki no Bahamut: Virgin Soul,-
-Shingeki no Kyojin,8
-SHINGEKI NO KYOJIN,-
-Shingeki no Kyojin OVA,-
-Shingeki no Kyojin Season 2,9
-SHINGEKI NO KYOJIN SEASON 2,-
-Shingeki no Kyojin Season 3,8
-SHINGEKI NO KYOJIN SEASON 3,-
-Shingeki no Kyojin Season 3 Part 2,9
-SHINGEKI NO KYOJIN SEASON 3 PART 2,-
-Shingeki no Kyojin: Kuinaki Sentaku,-
-Shingeki! Kyojin Chuugakkou,-
-Shingetsutan Tsukihime,-
-Shinigami no Ballad.,-
-Shining Hearts: Shiawase no Pan,-
-Shining Star,-
-Shining Tears X Wind,-
-Shinkyoku Soukai Polyphonica,-
-Shinkyoku Soukai Polyphonica Crimson S,-
-Shinmai Maou no Testament,-
-Shinmai Maou no Testament Burst,-
-Shinrei Tantei Yakumo,-
-Shinreigari,-
-Shinryaku! Ika Musume,-
-Shinryaku!? Ika Musume,-
-Shinsekai yori,-
-Shinya! Tensai Bakabon,-
-Shion no Ou,-
-Shirayuki Hime no Densetsu,-
-Shirobako,-
-Shirogane no Ishi: Argevollen,-
-Shirokuma Cafe,-
-Shokugeki no Souma,-
+SEKAIICHI HATSUKOI,-
+SEKAIICHI HATSUKOI 2,-
+SEKIREI,-
+SEKIREI: PURE ENGAGEMENT,-
+SEKKOU BOYS,-
+SELECTOR INFECTED WIXOSS,-
+SELECTOR SPREAD WIXOSS,-
+SENGOKU BASARA,-
+SENGOKU BASARA TWO,-
+SENGOKU BASARA: JUDGE END,-
+SENGOKU CHOUJUU GIGA: KOU,-
+SENGOKU CHOUJUU GIGA: OTSU,-
+SENGOKU COLLECTION,-
+SENGOKU NIGHT BLOOD,-
+SENGOKU OTOME: MOMOIRO PARADOX,-
+SENJOU NO VALKYRIA,-
+SENJUUSHI,-
+SENKAIDEN HOUSHIN ENGI,-
+SENKI ZESSHOU SYMPHOGEAR,-
+SENKI ZESSHOU SYMPHOGEAR AXZ,-
+SENKI ZESSHOU SYMPHOGEAR G,-
+SENKI ZESSHOU SYMPHOGEAR GX,-
+SENKI ZESSHOU SYMPHOGEAR XV,-
+SENKOU NO NIGHT RAID,-
+SENRAN KAGURA,-
+SENRAN KAGURA SHINOVI MASTER: TOKYO YOUMA-HEN,-
+SENRYUU SHOUJO,-
+SENYUU.,-
+SENYUU. 2,-
+SERIAL EXPERIMENTS LAIN,-
+SERVAMP,-
+SERVANT X SERVICE,-
+SETO NO HANAYOME,-
+SETON DOUBUTSUKI: KUMA NO KO JACKY,-
+SEWAYAKI KITSUNE NO SENKO-SAN,-
+SHAKUGAN NO SHANA,-
+SHAKUGAN NO SHANA II (SECOND),-
+SHAKUGAN NO SHANA III (FINAL),-
+SHAKUNETSU NO TAKKYUU MUSUME,-
+SHAMAN KING,-
+SHANGRI-LA,-
+SHICHININ NO NANA,-
+SHICHISEI NO SUBARU,-
+SHIGATSU WA KIMI NO USO,-
+SHIGOFUMI,-
+SHIGURUI,-
+SHIJOU SAIKYOU NO DESHI KENICHI,-
+SHIKABANE HIME: AKA,-
+SHIKABANE HIME: KURO,-
+SHIKI,6
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,-
+SHIN ATASHIN'CHI,-
+SHIN CHUUKA ICHIBAN!,-
+SHIN KOIHIME†MUSOU,-
+SHIN KOIHIME†MUSOU: OTOME TAIRAN,-
+SHIN SHIRAYUKI-HIME DENSETSU PRÉTEAR,-
+SHIN STRANGE+,-
+SHIN TENCHI MUYOU!,-
+SHIN TENNIS NO OUJI-SAMA,-
+SHINCHOU YUUSHA: KONO YUUSHA GA ORE TSUEEE KUSE NI SHINCHOU SUGIRU,-
+SHINGEKI NO BAHAMUT: GENESIS,-
+SHINGEKI NO BAHAMUT: VIRGIN SOUL,-
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SHINGEKI! KYOJIN CHUUGAKKOU,-
+SHINGETSUTAN TSUKIHIME,-
+SHINIGAMI NO BALLAD.,-
+SHINING HEARTS: SHIAWASE NO PAN,-
+SHINING STAR,-
+SHINING TEARS X WIND,-
+SHINKYOKU SOUKAI POLYPHONICA,-
+SHINKYOKU SOUKAI POLYPHONICA CRIMSON S,-
+SHINMAI MAOU NO TESTAMENT,-
+SHINMAI MAOU NO TESTAMENT BURST,-
+SHINREI TANTEI YAKUMO,-
+SHINREIGARI,-
+SHINRYAKU! IKA MUSUME,-
+SHINRYAKU!? IKA MUSUME,-
+SHINSEKAI YORI,-
+SHINYA! TENSAI BAKABON,-
+SHION NO OU,-
+SHIRAYUKI HIME NO DENSETSU,-
+SHIROBAKO,-
+SHIROGANE NO ISHI: ARGEVOLLEN,-
+SHIROKUMA CAFE,-
 SHOKUGEKI NO SOUMA,-
-Shokugeki no Souma OVA,-
-Shokugeki no Souma: Ni no Sara,-
 SHOKUGEKI NO SOUMA: NI NO SARA,-
-Shokugeki no Souma: Ni no Sara OVA,-
-Shokugeki no Souma: San no Sara,-
 SHOKUGEKI NO SOUMA: SAN NO SARA,-
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,-
 SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,-
-Shokugeki no Souma: Shin no Sara,-
 SHOKUGEKI NO SOUMA: SHIN NO SARA,-
-Shoubushi Densetsu Tetsuya,-
-Shoujo Kakumei Utena,-
-Shoujo Shuumatsu Ryokou,8
-Shoujo☆Kageki Revue Starlight,-
-Shoujo-tachi wa Kouya wo Mezasu,-
-Shoukoku no Altair,-
-Shoukoushi Cedie,-
-Shoumetsu Toshi,-
-Shounen Hollywood: Holly Stage for 49,-
-Shounen Hollywood: Holly Stage for 50,-
-Shounen Maid,-
-Shounen Onmyouji,-
-Shouwa Genroku Rakugo Shinjuu,-
-Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,-
-Show By Rock!!,-
-Show By Rock!! #,-
-Show By Rock!! Mashumairesh!!,-
-Show By Rock!! Short!!,-
-Shuffle!,-
-Shuffle! Memories,-
-Shugo Chara!,-
-Shugo Chara! Party!,-
-Shugo Chara!! Doki,-
-Shukufuku no Campanella,-
-Shuudengo Capsule Hotel de Joushi ni Binetsu Tsutawaru Yoru.,-
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,-
-Shuumatsu no Izetta,8
-Sidonia no Kishi,-
-Sidonia no Kishi: Daikyuu Wakusei Seneki,-
-Simoun,-
-Sin: Nanatsu no Taizai,-
-Sirius,-
-Sister Princess,-
-Sister Princess: Re Pure,-
-SKET Dance,-
-Skip Beat!,-
-Skirt no Naka wa Kedamono Deshita.,-
-Skull Man,-
-Sky Girls,-
-Slam Dunk,-
-Slayers,-
-Slayers Evolution-R,-
-Slayers Next,-
-Slayers Revolution,-
-Slayers Try,-
-Slow Start,-
-So Ra No Wo To,-
-Softenni,-
-Sola,-
-Solty Rei,-
-Somali to Mori no Kamisama,-
+SHOUBUSHI DENSETSU TETSUYA,-
+SHOUJO KAKUMEI UTENA,-
+SHOUJO SHUUMATSU RYOKOU,8
+SHOUJO☆KAGEKI REVUE STARLIGHT,-
+SHOUJO-TACHI WA KOUYA WO MEZASU,-
+SHOUKOKU NO ALTAIR,-
+SHOUKOUSHI CEDIE,-
+SHOUMETSU TOSHI,-
+SHOUNEN HOLLYWOOD: HOLLY STAGE FOR 49,-
+SHOUNEN HOLLYWOOD: HOLLY STAGE FOR 50,-
+SHOUNEN MAID,-
+SHOUNEN ONMYOUJI,-
+SHOUWA GENROKU RAKUGO SHINJUU,-
+SHOUWA GENROKU RAKUGO SHINJUU: SUKEROKU FUTATABI-HEN,-
+SHOW BY ROCK!!,-
+SHOW BY ROCK!! #,-
+SHOW BY ROCK!! MASHUMAIRESH!!,-
+SHOW BY ROCK!! SHORT!!,-
+SHUFFLE!,-
+SHUFFLE! MEMORIES,-
+SHUGO CHARA!,-
+SHUGO CHARA! PARTY!,-
+SHUGO CHARA!! DOKI,-
+SHUKUFUKU NO CAMPANELLA,-
+SHUUDENGO CAPSULE HOTEL DE JOUSHI NI BINETSU TSUTAWARU YORU.,-
+SHUUMATSU NANI SHITEMASU KA? ISOGASHII DESU KA? SUKUTTE MORATTE II DESU KA?,-
+SHUUMATSU NO IZETTA,8
+SIDONIA NO KISHI,-
+SIDONIA NO KISHI: DAIKYUU WAKUSEI SENEKI,-
+SIMOUN,-
+SIN: NANATSU NO TAIZAI,-
+SIRIUS,-
+SISTER PRINCESS,-
+SISTER PRINCESS: RE PURE,-
+SKET DANCE,-
+SKIP BEAT!,-
+SKIRT NO NAKA WA KEDAMONO DESHITA.,-
+SKULL MAN,-
+SKY GIRLS,-
+SLAM DUNK,-
+SLAYERS,-
+SLAYERS EVOLUTION-R,-
+SLAYERS NEXT,-
+SLAYERS REVOLUTION,-
+SLAYERS TRY,-
+SLOW START,-
+SO RA NO WO TO,-
+SOFTENNI,-
+SOLA,-
+SOLTY REI,-
 SOMALI TO MORI NO KAMISAMA,-
-SoniAni: Super Sonico The Animation,-
-Sonic X,-
-Sono Toki Kanojo wa.,-
-Sora no Manimani,-
-Sora no Method,-
-Sora no Otoshimono,-
-Sora no Otoshimono: Forte,-
-Sora to Umi no Aida,-
-Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai,-
-Sora yori mo Tooi Basho,-
-Sore ga Seiyuu!,-
-Soredemo Machi wa Mawatteiru,-
-Soredemo Sekai wa Utsukushii,-
-Soukou no Strain,-
-Soukyuu no Fafner: Dead Aggressor,-
-Soukyuu no Fafner: Dead Aggressor - Exodus,-
-Soukyuu no Fafner: Dead Aggressor - Exodus 2nd Season,-
-Soul Buster,-
-Soul Eater,-
+SONIANI: SUPER SONICO THE ANIMATION,-
+SONIC X,-
+SONO TOKI KANOJO WA.,-
+SORA NO MANIMANI,-
+SORA NO METHOD,-
+SORA NO OTOSHIMONO,-
+SORA NO OTOSHIMONO: FORTE,-
+SORA TO UMI NO AIDA,-
+SORA WO MIAGERU SHOUJO NO HITOMI NI UTSURU SEKAI,-
+SORA YORI MO TOOI BASHO,-
+SORE GA SEIYUU!,-
+SOREDEMO MACHI WA MAWATTEIRU,-
+SOREDEMO SEKAI WA UTSUKUSHII,-
+SOUKOU NO STRAIN,-
+SOUKYUU NO FAFNER: DEAD AGGRESSOR,-
+SOUKYUU NO FAFNER: DEAD AGGRESSOR - EXODUS,-
+SOUKYUU NO FAFNER: DEAD AGGRESSOR - EXODUS 2ND SEASON,-
+SOUL BUSTER,-
 SOUL EATER,-
-Soul Eater NOT!,-
-Soul Link,-
-Sounan Desu ka?,-
-Souryo to Majiwaru Shikiyoku no Yoru ni...,-
-Sousei no Aquarion,-
-Sousei no Onmyouji,-
-Soushin Shoujo Matoi,-
-Souten no Ken,-
-Space Cobra,-
-Space☆Dandy,-
-Space☆Dandy 2nd Season,-
-Sparrow's Hotel,-
-Special A,-
-Speed Grapher,-
-Spider Riders: Oracle no Yuusha-tachi,-
-Spider Riders: Yomigaeru Taiyou,-
-Spiral: Suiri no Kizuna,-
-SSSS.Gridman,-
-Stand My Heroes: Piece of Truth,-
-Star Driver: Kagayaki no Takuto,-
-Star☆Twinkle Precure,-
-Starmyu,-
-Starmyu 2nd Season,-
-Starmyu 3rd Season,-
-Starmyu OVA,-
-Steins;Gate,7
-Steins;Gate 0,-
-Steins;Gate: Soumei Eichi no Cognitive Computing,-
-Stella Jogakuin Koutou-ka C³-bu,-
-Stella no Mahou,-
-Stitch!,-
-Strange Dawn,-
-Strange+,-
-Stratos 4,-
-Strawberry Panic,7
-Street Fighter II V,-
-Strike the Blood,-
-Strike the Blood II,-
-Strike the Blood III,-
-Strike Witches,-
-Strike Witches 2,-
-Strike Witches: 501 Butai Hasshin Shimasu!,-
-Subete ga F ni Naru,-
-Sugar Sugar Rune,-
-Suhoyojeong Michel,-
-Suisei no Gargantia,-
-Suite Precure♪,-
-Suki na Mono wa Suki Dakara Shou ga Nai!!,-
-Sukitte Ii na yo.,-
+SOUL EATER NOT!,-
+SOUL LINK,-
+SOUNAN DESU KA?,-
+SOURYO TO MAJIWARU SHIKIYOKU NO YORU NI...,-
+SOUSEI NO AQUARION,-
+SOUSEI NO ONMYOUJI,-
+SOUSHIN SHOUJO MATOI,-
+SOUTEN NO KEN,-
+SPACE COBRA,-
+SPACE☆DANDY,-
+SPACE☆DANDY 2ND SEASON,-
+SPARROW'S HOTEL,-
+SPECIAL A,-
+SPEED GRAPHER,-
+SPIDER RIDERS: ORACLE NO YUUSHA-TACHI,-
+SPIDER RIDERS: YOMIGAERU TAIYOU,-
+SPIRAL: SUIRI NO KIZUNA,-
+SSSS.GRIDMAN,-
+STAND MY HEROES: PIECE OF TRUTH,-
+STAR DRIVER: KAGAYAKI NO TAKUTO,-
+STAR☆TWINKLE PRECURE,-
+STARMYU,-
+STARMYU 2ND SEASON,-
+STARMYU 3RD SEASON,-
+STEINS;GATE,7
+STEINS;GATE 0,-
+STELLA JOGAKUIN KOUTOU-KA C³-BU,-
+STELLA NO MAHOU,-
+STITCH!,-
+STRANGE DAWN,-
+STRANGE+,-
+STRATOS 4,-
+STRAWBERRY PANIC,7
+STRIKE THE BLOOD,-
+STRIKE WITCHES,-
+STRIKE WITCHES 2,-
+STRIKE WITCHES: 501 BUTAI HASSHIN SHIMASU!,-
+SUBETE GA F NI NARU,-
+SUGAR SUGAR RUNE,-
+SUHOYOJEONG MICHEL,-
+SUISEI NO GARGANTIA,-
+SUITE PRECURE♪,-
+SUKI NA MONO WA SUKI DAKARA SHOU GA NAI!!,-
 SUKITTE II NA YO.,-
-Sukitte Ii na yo.: Mei and Marshmallow,-
-Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoida,-
-Sumomomo Momomo: Chijou Saikyou no Yome,-
-Sunabouzu,-
-Sunohara-sou no Kanrinin-san,-
-Super GALS! Kotobuki Ran,-
-Super Lovers,-
-Super Lovers 2,-
-Super Lovers OVA,-
-Super Robot Taisen OG: The Inspector,-
-Super Seisyun Brothers,-
-Sushi Police,-
-Suteki Tantei Labyrinth,-
-Suzuka,-
-Suzumiya Haruhi no Yuuutsu,7
-SUZUMIYA HARUHI NO YUUUTSU,-
-Suzumiya Haruhi no Yuuutsu (2009),7
-SUZUMIYA HARUHI NO YUUUTSU (2009),-
-Sword Art Online,-
+SUMEBA MIYAKO NO COSMOS-SOU SUTTOKO TAISEN DOKKOIDA,-
+SUMOMOMO MOMOMO: CHIJOU SAIKYOU NO YOME,-
+SUNABOUZU,-
+SUNOHARA-SOU NO KANRININ-SAN,-
+SUPER GALS! KOTOBUKI RAN,-
+SUPER LOVERS,-
+SUPER LOVERS 2,-
+SUPER SEISYUN BROTHERS,-
+SUSHI POLICE,-
+SUTEKI TANTEI LABYRINTH,-
+SUZUKA,-
+SUZUMIYA HARUHI NO YUUUTSU,7
+SUZUMIYA HARUHI NO YUUUTSU (2009),7
 SWORD ART ONLINE,-
-Sword Art Online Alternative: Gun Gale Online,-
-Sword Art Online II,-
-Sword Art Online: Alicization,-
-Sword Art Online: Alicization - War of Underworld,-
-Sword Gai The Animation,-
-Sword Gai The Animation Part II,-
-Tabi Machi Late Show,-
-Taboo Tattoo,-
-Tachibanakan Triangle,-
-Tactics,-
-Tada-kun wa Koi wo Shinai,-
-Taichi Senjimon,-
-Taiho Shichau zo (TV),-
-Taiho Shichau zo Special,-
-Taiho Shichau zo: Second Season,-
-Taimadou Gakuen 35 Shiken Shoutai,-
-Taishou Mebiusline: Chicchai-san,-
-Taishou Yakyuu Musume.,-
-Takamiya Nasuno Desu!: Teekyuu Spin-off,-
-Takarajima,-
-Takunomi.,-
-Tales of Eternia The Animation,-
-Tales of the Abyss,-
-Tales of Zestiria the Cross,-
-Tales of Zestiria the Cross 2nd Season,-
-Tamako Market,-
-Tamayura: Hitotose,-
-Tamayura: More Aggressive,-
-Tanaka-kun wa Itsumo Kedaruge,-
-Tanaka-kun wa Itsumo Kedaruge Specials,-
-Tanoshii Muumin Ikka,-
-Tanoshii Muumin Ikka Bouken Nikki,-
-Tantei Gakuen Q,-
-Tantei Kageki Milky Holmes TD,-
-Tantei Opera Milky Holmes,-
-Tantei Team KZ Jiken Note,-
-Tari Tari,-
-Tasogare Otome x Amnesia,-
-Tatakau Shisho: The Book of Bantorra,-
-Tate no Yuusha no Nariagari,-
+SWORD ART ONLINE ALTERNATIVE: GUN GALE ONLINE,-
+SWORD ART ONLINE II,-
+SWORD ART ONLINE: ALICIZATION,-
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,-
+TABI MACHI LATE SHOW,-
+TABOO TATTOO,-
+TACHIBANAKAN TRIANGLE,-
+TACTICS,-
+TADA-KUN WA KOI WO SHINAI,-
+TAICHI SENJIMON,-
+TAIHO SHICHAU ZO (TV),-
+TAIHO SHICHAU ZO SPECIAL,-
+TAIMADOU GAKUEN 35 SHIKEN SHOUTAI,-
+TAISHOU MEBIUSLINE: CHICCHAI-SAN,-
+TAISHOU YAKYUU MUSUME.,-
+TAKAMIYA NASUNO DESU!: TEEKYUU SPIN-OFF,-
+TAKARAJIMA,-
+TAKUNOMI.,-
+TALES OF ETERNIA THE ANIMATION,-
+TALES OF THE ABYSS,-
+TALES OF ZESTIRIA THE CROSS,-
+TALES OF ZESTIRIA THE CROSS 2ND SEASON,-
+TAMAKO MARKET,-
+TAMAYURA: HITOTOSE,-
+TAMAYURA: MORE AGGRESSIVE,-
+TANAKA-KUN WA ITSUMO KEDARUGE,-
+TANOSHII MUUMIN IKKA,-
+TANOSHII MUUMIN IKKA BOUKEN NIKKI,-
+TANTEI GAKUEN Q,-
+TANTEI KAGEKI MILKY HOLMES TD,-
+TANTEI OPERA MILKY HOLMES,-
+TARI TARI,-
+TASOGARE OTOME X AMNESIA,-
+TATAKAU SHISHO: THE BOOK OF BANTORRA,-
 TATE NO YUUSHA NO NARIAGARI,-
-Tayutama: Kiss on My Deity,-
-Tears to Tiara,-
-Teekyuu,-
-Teekyuu 2,-
-Teekyuu 3,-
-Teekyuu 4,-
-Teekyuu 5,-
-Teekyuu 6,-
-Teekyuu 7,-
-Teekyuu 8,-
-Teekyuu 9,-
-Tegamibachi,-
-Tegamibachi Reverse,-
-Tejina-senpai,-
-Tenchi Muyou!,-
-Tenchi Muyou! GXP,-
-Tenchi Muyou! Ryououki,-
-Tengen Toppa Gurren Lagann,7
-TENGEN TOPPA GURREN LAGANN,-
-Tenjou Tenge,-
-Tenka Hyakken: Meiji-kan e Youkoso!,-
-Tenkuu no Escaflowne,-
-Tennis no Ouji-sama,-
-Tenpou Ibun: Ayakashi Ayashi,-
-Tensei shitara Slime Datta Ken,-
+TAYUTAMA: KISS ON MY DEITY,-
+TEARS TO TIARA,-
+TEEKYUU,-
+TEEKYUU 2,-
+TEEKYUU 3,-
+TEEKYUU 4,-
+TEEKYUU 5,-
+TEEKYUU 6,-
+TEEKYUU 7,-
+TEEKYUU 8,-
+TEEKYUU 9,-
+TEGAMIBACHI,-
+TEGAMIBACHI REVERSE,-
+TEJINA-SENPAI,-
+TENCHI MUYOU!,-
+TENCHI MUYOU! GXP,-
+TENGEN TOPPA GURREN LAGANN,7
+TENJOU TENGE,-
+TENKA HYAKKEN: MEIJI-KAN E YOUKOSO!,-
+TENKUU NO ESCAFLOWNE,-
+TENNIS NO OUJI-SAMA,-
+TENPOU IBUN: AYAKASHI AYASHI,-
 TENSEI SHITARA SLIME DATTA KEN,-
-Tenshi na Konamaiki,-
-Tenshi no 3P!,-
-Tentai Senshi Sunred,-
-Terra e... (TV),-
-Terra Formars,-
-Terra Formars: Revenge,-
-Tetsujin 28-gou (2004),-
-Tetsuwan Birdy Decode,-
-Tetsuwan Birdy Decode:02,-
-Texhnolyze,7
-The Big O,-
-The iDOLM@STER,-
-The iDOLM@STER Cinderella Girls,-
-The iDOLM@STER Cinderella Girls 2nd Season,-
-The iDOLM@STER SideM,-
-The iDOLM@STER SideM: Wake Atte Mini!,-
-The Kabocha Wine,-
-The Reflection,-
-The Third: Aoi Hitomi no Shoujo,-
-The☆Ultraman,-
-Thermae Romae,-
-Tide-Line Blue,-
-Tiger & Bunny,-
-Tiger Mask W,-
-Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi,-
-To Be Hero,-
-To Heart,-
-To Heart 2,-
-To LOVE-Ru,-
-To LOVE-Ru Darkness,-
-To LOVE-Ru Darkness 2nd,-
-Toaru Hikuushi e no Koiuta,-
-Toaru Kagaku no Accelerator,-
-Toaru Kagaku no Railgun,-
-Toaru Kagaku no Railgun S,-
-Toaru Majutsu no Index,-
-Toaru Majutsu no Index II,-
-Toaru Majutsu no Index III,-
-Togainu no Chi,-
-Toji no Miko,-
-Tokimeki Memorial: Only Love,-
-Tokkou,-
-Tokyo ESP,-
-Tokyo Ghoul,-
+TENSHI NA KONAMAIKI,-
+TENSHI NO 3P!,-
+TENTAI SENSHI SUNRED,-
+TERRA E... (TV),-
+TERRA FORMARS,-
+TERRA FORMARS: REVENGE,-
+TETSUWAN BIRDY DECODE,-
+TETSUWAN BIRDY DECODE:02,-
+TEXHNOLYZE,7
+THE BIG O,-
+THE IDOLM@STER,-
+THE IDOLM@STER CINDERELLA GIRLS,-
+THE IDOLM@STER CINDERELLA GIRLS 2ND SEASON,-
+THE IDOLM@STER SIDEM,-
+THE IDOLM@STER SIDEM: WAKE ATTE MINI!,-
+THE REFLECTION,-
+THE THIRD: AOI HITOMI NO SHOUJO,-
+THE☆ULTRAMAN,-
+THERMAE ROMAE,-
+TIDE-LINE BLUE,-
+TIGER & BUNNY,-
+TIGER MASK W,-
+TIME TRAVEL SHOUJO: MARI WAKA TO 8-NIN NO KAGAKUSHA-TACHI,-
+TO BE HERO,-
+TO HEART,-
+TO HEART 2,-
+TO LOVE-RU,-
+TO LOVE-RU DARKNESS,-
+TO LOVE-RU DARKNESS 2ND,-
+TOARU HIKUUSHI E NO KOIUTA,-
+TOARU KAGAKU NO ACCELERATOR,-
+TOARU KAGAKU NO RAILGUN,-
+TOARU KAGAKU NO RAILGUN S,-
+TOARU MAJUTSU NO INDEX,-
+TOARU MAJUTSU NO INDEX II,-
+TOARU MAJUTSU NO INDEX III,-
+TOGAINU NO CHI,-
+TOJI NO MIKO,-
+TOKIMEKI MEMORIAL: ONLY LOVE,-
+TOKKOU,-
+TOKYO ESP,-
 TOKYO GHOUL,-
-Tokyo Ghoul √A,-
 TOKYO GHOUL √A,-
-Tokyo Ghoul:re,-
 TOKYO GHOUL:RE,-
-Tokyo Ghoul:re 2nd Season,-
 TOKYO GHOUL:RE 2ND SEASON,-
-Tokyo Magnitude 8.0,-
-Tokyo Majin Gakuen Kenpucho: Tou,-
-Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku,-
-Tokyo Mew Mew,-
-Tokyo Ravens,-
-Tokyo Underground,-
-Tonagura!,-
-Tonari no Kaibutsu-kun,-
+TOKYO MAGNITUDE 8.0,-
+TOKYO MAJIN GAKUEN KENPUCHO: TOU,-
+TOKYO MAJIN GAKUEN KENPUCHO: TOU DAI NI MAKU,-
+TOKYO MEW MEW,-
+TOKYO RAVENS,-
+TOKYO UNDERGROUND,-
+TONAGURA!,-
 TONARI NO KAIBUTSU-KUN,-
-Tonari no Kyuuketsuki-san,-
-Tonari no Seki-kun,-
-Tonkatsu DJ Agetarou,-
-Top Secret: The Revelation,-
-Top wo Nerae! Gunbuster,-
-Toradora!,-
+TONARI NO KYUUKETSUKI-SAN,-
+TONARI NO SEKI-KUN,-
+TONKATSU DJ AGETAROU,-
+TOP SECRET: THE REVELATION,-
 TORADORA!,-
-Toriko,-
-Toshokan Sensou,-
-Tottoko Hamtarou,-
-Tottoko Hamtarou Hai!,-
-Touch,-
-Touhai Densetsu Akagi: Yami ni Maiorita Tensai,-
-Touken Ranbu: Hanamaru,-
-Toushou Daimos,-
-Transformers Galaxy Force,-
-Transformers Superlink,-
-Transformers: Car Robots,-
-Transformers: The☆Headmasters,-
-Triage X,-
-Trickster: Edogawa Ranpo Shounen Tanteidan yori,-
-Trigun,-
-Trinity Blood,-
-Trinity Seven,-
-True Tears,-
-Try Knights,-
-Tsubasa Chronicle,-
-Tsubasa Chronicle 2nd Season,-
-Tsugumomo,-
-Tsuki ga Kirei,-
-Tsukimonogatari,5
-Tsukipro The Animation,-
-Tsukiuta. The Animation,-
-Tsukumogami Kashimasu,-
-Tsukuyomi: Moon Phase,-
-Tsurezure Children,-
+TORIKO,-
+TOSHOKAN SENSOU,-
+TOTTOKO HAMTAROU,-
+TOTTOKO HAMTAROU HAI!,-
+TOUCH,-
+TOUHAI DENSETSU AKAGI: YAMI NI MAIORITA TENSAI,-
+TOUKEN RANBU: HANAMARU,-
+TOUSHOU DAIMOS,-
+TRANSFORMERS GALAXY FORCE,-
+TRANSFORMERS SUPERLINK,-
+TRANSFORMERS: CAR ROBOTS,-
+TRANSFORMERS: THE☆HEADMASTERS,-
+TRIAGE X,-
+TRICKSTER: EDOGAWA RANPO SHOUNEN TANTEIDAN YORI,-
+TRIGUN,-
+TRINITY BLOOD,-
+TRINITY SEVEN,-
+TRUE TEARS,-
+TRY KNIGHTS,-
+TSUBASA CHRONICLE,-
+TSUBASA CHRONICLE 2ND SEASON,-
+TSUGUMOMO,-
+TSUKI GA KIREI,-
+TSUKIMONOGATARI,5
+TSUKIPRO THE ANIMATION,-
+TSUKIUTA. THE ANIMATION,-
+TSUKUMOGAMI KASHIMASU,-
+TSUKUYOMI: MOON PHASE,-
 TSUREZURE CHILDREN,-
-Tsuritama,-
-Tsurune: Kazemai Koukou Kyuudoubu,-
+TSURITAMA,-
 TSURUNE: KAZEMAI KOUKOU KYUUDOUBU,-
-Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?,-
-Turn A Gundam,-
-TV Yarou Nanaana: Wakuwaku Doukutsu Land,-
-Twin Angel Break,-
-Two Car,-
-Uchi no Ko no Tame naraba Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.,-
-Uchi no Maid ga Uzasugiru!,-
-Uchi Tama?! Uchi no Tama Shirimasen ka?,-
-Uchouten Kazoku,-
-Uchouten Kazoku 2,-
-Uchurei!,-
-Uchuu Kaizoku Captain Herlock,-
-Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden,-
-Uchuu Kyoudai,-
-Uchuu no Kishi Tekkaman Blade,-
-Uchuu no Stellvia,-
-Uchuu Patrol Luluco,-
-Uchuu Senkan Tiramisù,-
-Uchuu Senkan Tiramisù II,-
-Uchuu Senkan Tiramisù Specials,-
-Uchuu Senkan Yamato,-
-Uchuu Senkan Yamato 2,-
-Uchuu Senkan Yamato 2199,-
-Uchuu Senkan Yamato III,-
-Udon no Kuni no Kiniro Kemari,-
-Ueki no Housoku,-
-Ueno-san wa Bukiyou,-
-UFO Princess Valkyrie,-
-UFO Princess Valkyrie 2: Juunigatsu no Yasoukyoku,-
-Ultra Maniac,-
-Ulysses: Jehanne Darc to Renkin no Kishi,-
-Uma Musume: Pretty Derby (TV),-
-Umi Monogatari: Anata ga Ite Kureta Koto,-
-Umineko no Naku Koro ni,-
+TSUUJOU KOUGEKI GA ZENTAI KOUGEKI DE NI-KAI KOUGEKI NO OKAASAN WA SUKI DESU KA?,-
+TURN A GUNDAM,-
+TV YAROU NANAANA: WAKUWAKU DOUKUTSU LAND,-
+TWIN ANGEL BREAK,-
+TWO CAR,-
+UCHI NO KO NO TAME NARABA ORE WA MOSHIKASHITARA MAOU MO TAOSERU KAMO SHIRENAI.,-
+UCHI NO MAID GA UZASUGIRU!,-
+UCHI TAMA?! UCHI NO TAMA SHIRIMASEN KA?,-
+UCHOUTEN KAZOKU,-
+UCHOUTEN KAZOKU 2,-
+UCHUREI!,-
+UCHUU KAIZOKU CAPTAIN HERLOCK,-
+UCHUU KOUKYOUSHI MAETEL: GINGA TETSUDOU 999 GAIDEN,-
+UCHUU KYOUDAI,-
+UCHUU NO KISHI TEKKAMAN BLADE,-
+UCHUU NO STELLVIA,-
+UCHUU PATROL LULUCO,-
+UCHUU SENKAN TIRAMISÙ,-
+UCHUU SENKAN TIRAMISÙ II,-
+UCHUU SENKAN YAMATO,-
+UCHUU SENKAN YAMATO 2,-
+UCHUU SENKAN YAMATO III,-
+UDON NO KUNI NO KINIRO KEMARI,-
+UEKI NO HOUSOKU,-
+UENO-SAN WA BUKIYOU,-
+UFO PRINCESS VALKYRIE,-
+UFO PRINCESS VALKYRIE 2: JUUNIGATSU NO YASOUKYOKU,-
+ULTRA MANIAC,-
+ULYSSES: JEHANNE DARC TO RENKIN NO KISHI,-
+UMA MUSUME: PRETTY DERBY (TV),-
+UMI MONOGATARI: ANATA GA ITE KURETA KOTO,-
+UMINEKO NO NAKU KORO NI,-
 UN-GO,-
-UQ Holder!: Mahou Sensei Negima! 2,-
-Uragiri wa Boku no Namae wo Shitteiru,-
-Urahara,-
-Urara Meirochou,-
-Urashimasakatasen no Nichijou,-
-Urawa no Usagi-chan,-
-Usagi Drop,-
-Usagi Drop Specials,-
-Usakame,-
-Usavich,-
-Usavich Zero,-
-Ushinawareta Mirai wo Motomete,-
-Ushio to Tora (TV),-
-Ushio to Tora (TV) 2nd Season,-
-Uta no☆Prince-sama♪ Maji Love 1000%,-
-Uta no☆Prince-sama♪ Maji Love 2000%,-
-Uta no☆Prince-sama♪ Maji Love Legend Star,-
-Uta no☆Prince-sama♪ Maji Love Revolutions,-
-Utawarerumono,-
-Utawarerumono: Itsuwari no Kamen,-
-Val x Love,-
-Valkyrie Drive: Mermaid,-
-Vampire Holmes,-
-Vampire Knight,-
-Vampire Knight: Guilty,-
-Vandread,-
-Vandread: The Second Stage,-
-Vatican Kiseki Chousakan,-
-Venus Versus Virus,-
-Versailles no Bara,-
-Viewtiful Joe,-
+UQ HOLDER!: MAHOU SENSEI NEGIMA! 2,-
+URAGIRI WA BOKU NO NAMAE WO SHITTEIRU,-
+URAHARA,-
+URARA MEIROCHOU,-
+URASHIMASAKATASEN NO NICHIJOU,-
+URAWA NO USAGI-CHAN,-
+USAGI DROP,-
+USAKAME,-
+USAVICH,-
+USAVICH ZERO,-
+USHINAWARETA MIRAI WO MOTOMETE,-
+USHIO TO TORA (TV),-
+USHIO TO TORA (TV) 2ND SEASON,-
+UTA NO☆PRINCE-SAMA♪ MAJI LOVE 1000%,-
+UTA NO☆PRINCE-SAMA♪ MAJI LOVE 2000%,-
+UTA NO☆PRINCE-SAMA♪ MAJI LOVE LEGEND STAR,-
+UTA NO☆PRINCE-SAMA♪ MAJI LOVE REVOLUTIONS,-
+UTAWARERUMONO,-
+UTAWARERUMONO: ITSUWARI NO KAMEN,-
+VAL X LOVE,-
+VALKYRIE DRIVE: MERMAID,-
+VAMPIRE HOLMES,-
+VAMPIRE KNIGHT,-
+VAMPIRE KNIGHT: GUILTY,-
+VANDREAD,-
+VANDREAD: THE SECOND STAGE,-
+VATICAN KISEKI CHOUSAKAN,-
+VENUS VERSUS VIRUS,-
+VERSAILLES NO BARA,-
 VIEWTIFUL JOE,-
-Vinland Saga,-
 VINLAND SAGA,-
-Violet Evergarden,8
-VIOLET EVERGARDEN,-
-Virtua Fighter,-
-ViVid Strike!,-
-Vividred Operation,-
-W: Wish,-
-Waga Seishun no Arcadia: Mugen Kidou SSX,-
-Wagamama High Spec,-
-Wagamama☆Fairy Mirumo de Pon!,-
-Wagaya no Oinari-sama.,-
-Wakaba*Girl,-
-Wakako-zake,-
-Wakakusa Monogatari: Nan to Jo-sensei,-
-Wakaokami wa Shougakusei!,-
-Wake Up Girls!,-
-Walkure Romanze,-
-Wangan Midnight,-
-Warau Salesman,-
-Warau Salesman New,-
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,-
+VIOLET EVERGARDEN,8
+VIRTUA FIGHTER,-
+VIVID STRIKE!,-
+VIVIDRED OPERATION,-
+W: WISH,-
+WAGA SEISHUN NO ARCADIA: MUGEN KIDOU SSX,-
+WAGAMAMA HIGH SPEC,-
+WAGAMAMA☆FAIRY MIRUMO DE PON!,-
+WAGAYA NO OINARI-SAMA.,-
+WAKABA*GIRL,-
+WAKAKO-ZAKE,-
+WAKE UP GIRLS!,-
+WALKURE ROMANZE,-
+WANGAN MIDNIGHT,-
+WARAU SALESMAN,-
+WARAU SALESMAN NEW,-
 WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,-
-Watashi ga Motete Dousunda,-
 WATASHI GA MOTETE DOUSUNDA,-
-Watashi ni Tenshi ga Maiorita!,-
-Watashi no Ashinaga Ojisan,-
-Watashi Nouryoku wa Heikinchi de tte Itta yo ne!,-
-Weiß Survive,-
-Weiß Survive R,-
-Wellber no Monogatari: Sisters of Wellber,-
-Wellber no Monogatari: Sisters of Wellber Zwei,-
-Whistle!,-
-White Album,-
-White Album 2,-
-White Album 2nd Season,-
-Witch Craft Works,-
-Witch Hunter Robin,-
-Witchblade,-
-Wizard Barristers: Benmashi Cecil,-
-Wolf's Rain,-
-Wolverine,-
-Wooser no Sono Higurashi,-
-Wooser no Sono Higurashi: Kakusei-hen,-
-Wooser no Sono Higurashi: Mugen-hen,-
-Working!!,-
-Working'!!,-
-Working!!!,-
-World Destruction: Sekai Bokumetsu no Rokunin,-
-World Trigger,-
-Wotaku ni Koi wa Muzukashii,-
+WATASHI NI TENSHI GA MAIORITA!,-
+WATASHI NO ASHINAGA OJISAN,-
+WATASHI NOURYOKU WA HEIKINCHI DE TTE ITTA YO NE!,-
+WEIß SURVIVE,-
+WEIß SURVIVE R,-
+WHISTLE!,-
+WHITE ALBUM,-
+WHITE ALBUM 2,-
+WHITE ALBUM 2ND SEASON,-
+WITCH CRAFT WORKS,-
+WITCH HUNTER ROBIN,-
+WITCHBLADE,-
+WIZARD BARRISTERS: BENMASHI CECIL,-
+WOLF'S RAIN,-
+WOLVERINE,-
+WOOSER NO SONO HIGURASHI,-
+WOOSER NO SONO HIGURASHI: KAKUSEI-HEN,-
+WOOSER NO SONO HIGURASHI: MUGEN-HEN,-
+WORKING!!,-
+WORKING'!!,-
+WORKING!!!,-
+WORLD DESTRUCTION: SEKAI BOKUMETSU NO ROKUNIN,-
+WORLD TRIGGER,-
 WOTAKU NI KOI WA MUZUKASHII,-
-WWW.Working!!,-
-W'z,-
+WWW.WORKING!!,-
+W'Z,-
 X,-
-Xenosaga The Animation,-
-XL Joushi.,-
-X-Men,-
-xxxHOLiC,-
-xxxHOLiC Kei,-
-xxxHOLiC Rou,-
-xxxHOLiC Shunmuki,-
-Yagate Kimi ni Naru,-
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,-
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,-
-Yakitate!! Japan,-
-Yakusoku no Neverland,7
-YAKUSOKU NO NEVERLAND,-
-Yama no Susume,-
-Yama no Susume: Second Season,-
-Yama no Susume: Third Season,-
-Yamada-kun to 7-nin no Majo (TV),-
+XENOSAGA THE ANIMATION,-
+XL JOUSHI.,-
+X-MEN,-
+XXXHOLIC,-
+XXXHOLIC KEI,-
+YAGATE KIMI NI NARU,-
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,-
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,-
+YAKITATE!! JAPAN,-
+YAKUSOKU NO NEVERLAND,7
+YAMA NO SUSUME,-
+YAMA NO SUSUME: SECOND SEASON,-
+YAMA NO SUSUME: THIRD SEASON,-
 YAMADA-KUN TO 7-NIN NO MAJO (TV),-
-Yamato Nadeshiko Shichihenge♥,-
-Yami no Matsuei,-
-Yami Shibai,-
-Yami Shibai 2,-
-Yami Shibai 3,-
-Yami Shibai 4,-
-Yami Shibai 5,-
-Yami Shibai 6,-
-Yami Shibai 7,-
-Yatogame-chan Kansatsu Nikki,-
-Yatogame-chan Kansatsu Nikki Nisatsume,-
-Yes! Precure 5,-
-Yes! Precure 5 GoGo!,-
-Yoake Mae yori Ruriiro na: Crescent Love,-
-Yojouhan Shinwa Taikei,-
-Yoku Wakaru Gendai Mahou,-
-Yondemasu yo Azazel-san. (TV),-
-Yondemasu yo Azazel-san. Z,-
-Yoru no Yatterman,-
-Yosuga no Sora: In Solitude Where We Are Least Alone.,-
-Youjo Senki,-
-Youkai Apartment no Yuuga na Nichijou,-
-Youkai Watch,-
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),-
+YAMATO NADESHIKO SHICHIHENGE♥,-
+YAMI NO MATSUEI,-
+YAMI SHIBAI,-
+YAMI SHIBAI 2,-
+YAMI SHIBAI 3,-
+YAMI SHIBAI 4,-
+YAMI SHIBAI 5,-
+YAMI SHIBAI 6,-
+YAMI SHIBAI 7,-
+YATOGAME-CHAN KANSATSU NIKKI,-
+YATOGAME-CHAN KANSATSU NIKKI NISATSUME,-
+YES! PRECURE 5,-
+YES! PRECURE 5 GOGO!,-
+YOAKE MAE YORI RURIIRO NA: CRESCENT LOVE,-
+YOJOUHAN SHINWA TAIKEI,-
+YOKU WAKARU GENDAI MAHOU,-
+YONDEMASU YO AZAZEL-SAN. (TV),-
+YONDEMASU YO AZAZEL-SAN. Z,-
+YORU NO YATTERMAN,-
+YOSUGA NO SORA: IN SOLITUDE WHERE WE ARE LEAST ALONE.,-
+YOUJO SENKI,-
+YOUKAI APARTMENT NO YUUGA NA NICHIJOU,-
 YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),-
-Youkoso! Sukebe Elf no Mori e,-
-Young Black Jack,-
-Yowamushi Pedal,-
-Yowamushi Pedal: Glory Line,-
-Yowamushi Pedal: Grande Road,-
-Yowamushi Pedal: New Generation,-
-Yozakura Quartet,-
-Yozakura Quartet: Hana no Uta,-
-Yu☆Gi☆Oh!,-
-Yu☆Gi☆Oh! 5D's,-
-Yu☆Gi☆Oh! Arc-V,-
-Yu☆Gi☆Oh! Duel Monsters,-
-Yu☆Gi☆Oh! VRAINS,-
-Yu☆Gi☆Oh! Zexal,-
-Yu☆Gi☆Oh! Zexal Second,-
-Yu☆Gi☆Oh!: Duel Monsters GX,-
-Yubisaki kara no Honki no Netsujou: Osananajimi wa Shouboushi,-
-Yume Oukoku to Nemureru 100-nin no Ouji-sama,-
-Yume-iro Pâtissière,-
-Yume-iro Pâtissière SP Professional,-
-Yumekui Merry,-
-Yumeria,-
-Yuragi-sou no Yuuna-san,-
-Yuragi-sou no Yuuna-san OVA,-
-Yuri Kuma Arashi,6
-Yuri!!! on Ice,7
-YURI!!! ON ICE,-
-Yuru Camp△,-
-Yuru Camp△ Specials,-
-Yuru Yuri,-
-Yuru Yuri San☆Hai!,-
-Yuru Yuri♪♪,-
-Yuu☆Yuu☆Hakusho,-
-Yuugo: Koushounin,-
-Yuuki Yuuna wa Yuusha de Aru,7
-Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou,-
-Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou,-
-Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.,-
-Yuusha-Ou GaoGaiGar,-
-Yuyushiki,-
-Z/X: Code Reunion,-
-Z/X: Ignition,-
-Zan Sayonara Zetsubou Sensei,-
-Zankyou no Terror,-
-Zegapain,-
-Zero Duel Masters,-
-Zero kara Hajimeru Mahou no Sho,-
-Zero no Tsukaima,-
+YOUNG BLACK JACK,-
+YOWAMUSHI PEDAL,-
+YOWAMUSHI PEDAL: GLORY LINE,-
+YOWAMUSHI PEDAL: GRANDE ROAD,-
+YOWAMUSHI PEDAL: NEW GENERATION,-
+YOZAKURA QUARTET,-
+YOZAKURA QUARTET: HANA NO UTA,-
+YU☆GI☆OH!,-
+YU☆GI☆OH! 5D'S,-
+YU☆GI☆OH! ARC-V,-
+YU☆GI☆OH! DUEL MONSTERS,-
+YU☆GI☆OH! VRAINS,-
+YU☆GI☆OH! ZEXAL,-
+YU☆GI☆OH! ZEXAL SECOND,-
+YU☆GI☆OH!: DUEL MONSTERS GX,-
+YUBISAKI KARA NO HONKI NO NETSUJOU: OSANANAJIMI WA SHOUBOUSHI,-
+YUME OUKOKU TO NEMURERU 100-NIN NO OUJI-SAMA,-
+YUME-IRO PÂTISSIÈRE,-
+YUME-IRO PÂTISSIÈRE SP PROFESSIONAL,-
+YUMEKUI MERRY,-
+YUMERIA,-
+YURAGI-SOU NO YUUNA-SAN,-
+YURI KUMA ARASHI,6
+YURI!!! ON ICE,7
+YURU CAMP△,-
+YURU YURI,-
+YURU YURI SAN☆HAI!,-
+YURU YURI♪♪,-
+YUU☆YUU☆HAKUSHO,-
+YUUGO: KOUSHOUNIN,-
+YUUKI YUUNA WA YUUSHA DE ARU,7
+YUUKI YUUNA WA YUUSHA DE ARU: WASHIO SUMI NO SHOU,-
+YUUKI YUUNA WA YUUSHA DE ARU: YUUSHA NO SHOU,-
+YUUSHA NI NARENAKATTA ORE WA SHIBUSHIBU SHUUSHOKU WO KETSUI SHIMASHITA.,-
+YUUSHA-OU GAOGAIGAR,-
+YUYUSHIKI,-
+Z/X: CODE REUNION,-
+Z/X: IGNITION,-
+ZAN SAYONARA ZETSUBOU SENSEI,-
+ZANKYOU NO TERROR,-
+ZEGAPAIN,-
+ZERO DUEL MASTERS,-
+ZERO KARA HAJIMERU MAHOU NO SHO,-
 ZERO NO TSUKAIMA,-
-Zero no Tsukaima F,-
 ZERO NO TSUKAIMA F,-
-Zero no Tsukaima: Futatsuki no Kishi,-
 ZERO NO TSUKAIMA: FUTATSUKI NO KISHI,-
-Zero no Tsukaima: Princesses no Rondo,-
 ZERO NO TSUKAIMA: PRINCESSES NO RONDO,-
-Zetman,-
-Zetsuen no Tempest,-
-Zettai Bouei Leviathan,-
-Zettai Karen Children,-
-Zettai Karen Children: The Unlimited - Hyoubu Kyousuke,-
-Zipang,-
-Zoids,-
-Zoids Fuzors,-
-Zoids Genesis,-
-Zoids Shinseiki/Zero,-
-Zoku Attacker You! Kin Medal e no Michi,-
-Zoku Natsume Yuujinchou,-
-Zoku Owarimonogatari,-
-Zoku Sayonara Zetsubou Sensei,-
-Zoku Touken Ranbu: Hanamaru,-
-Zombieland Saga,-
-Zombie-Loan,-
-Zone of the Enders: Dolores I,-
+ZETMAN,-
+ZETSUEN NO TEMPEST,-
+ZETTAI BOUEI LEVIATHAN,-
+ZETTAI KAREN CHILDREN,-
+ZETTAI KAREN CHILDREN: THE UNLIMITED - HYOUBU KYOUSUKE,-
+ZOIDS,-
+ZOIDS SHINSEIKI/ZERO,-
+ZOKU ATTACKER YOU! KIN MEDAL E NO MICHI,-
+ZOKU NATSUME YUUJINCHOU,-
+ZOKU SAYONARA ZETSUBOU SENSEI,-
+ZOKU TOUKEN RANBU: HANAMARU,-
+ZOMBIELAND SAGA,-
+ZOMBIE-LOAN,-

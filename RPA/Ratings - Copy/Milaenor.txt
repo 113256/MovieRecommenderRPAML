@@ -1,91 +1,18 @@
-﻿Accel World,9
-Ajin,-
-Ajin 2nd Season,-
-Angel Beats!,10
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Asobi Asobase,-
-Baka to Test to Shoukanjuu,8
-Baka to Test to Shoukanjuu Ni!,8
-Ballroom e Youkoso,-
-Black★Rock Shooter (TV),-
-Boku no Hero Academia,-
-Boku no Hero Academia 2nd Season,-
-Boku no Hero Academia 3rd Season,-
-Boku no Hero Academia 4th Season,-
-Bungou Stray Dogs,-
-Bungou Stray Dogs 2nd Season,-
-Bungou Stray Dogs 3rd Season,-
-C: The Money of Soul and Possibility Control,9
-Chuunibyou demo Koi ga Shitai!,9
-Code:Breaker,7
-Darling in the FranXX,-
-Death Note,10
-Dr. Stone,-
-Fairy Tail,-
-Fate/stay night,-
-Fullmetal Alchemist,-
-Fullmetal Alchemist: Brotherhood,-
-Gabriel DropOut,-
-Gakkougurashi!,-
-Goblin Slayer,-
-Hataraku Saibou (TV),-
-Hellsing,9
-Hunter x Hunter (2011),-
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,-
-JoJo no Kimyou na Bouken (TV),-
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,-
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,-
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,-
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,-
-Karakai Jouzu no Takagi-san,-
-Kill la Kill,-
-Kimetsu no Yaiba,-
-Kiseijuu: Sei no Kakuritsu,-
-Kobayashi-san Chi no Maid Dragon,-
-Kono Subarashii Sekai ni Shukufuku wo!,-
-Kono Subarashii Sekai ni Shukufuku wo! 2,-
-Little Witch Academia (TV),-
-Log Horizon,-
-Log Horizon 2nd Season,-
-Mahou Shoujo Site,-
-Mirai Nikki,10
-Mob Psycho 100,-
-Mob Psycho 100 II,-
-One Punch Man,-
-One Punch Man 2nd Season,-
-Ookami to Koushinryou,-
-Ookami to Koushinryou II,-
-Overlord,-
-Overlord II,-
-Overlord III,-
-Psycho-Pass,-
-Psycho-Pass 2,-
-Saiki Kusuo no Ψ-nan,-
-Saiki Kusuo no Ψ-nan 2,-
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,-
-Shingeki no Kyojin,-
-Shingeki no Kyojin Season 2,-
-Shingeki no Kyojin Season 3,-
-Shingeki no Kyojin Season 3 Part 2,-
-Shokugeki no Souma,-
-Shokugeki no Souma: Ni no Sara,-
-Shokugeki no Souma: San no Sara,-
-Soul Eater,-
-Steins;Gate,10
-Steins;Gate 0,-
-Sword Art Online,7
-Tate no Yuusha no Nariagari,-
-Tegamibachi,7
-Tegamibachi Reverse,8
-Tensei shitara Slime Datta Ken,-
-Terra Formars,-
-Toaru Kagaku no Railgun,9
-Toaru Kagaku no Railgun S,-
-Toaru Majutsu no Index,9
-Toaru Majutsu no Index II,7
-Tokyo Ghoul,-
-Tokyo Ghoul √A,-
-Tokyo Ghoul:re,-
-Tokyo Ghoul:re 2nd Season,-
-Uchuu Patrol Luluco,-
-Zombieland Saga,-
+﻿ACCEL WORLD,9
+ANGEL BEATS!,10
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+BAKA TO TEST TO SHOUKANJUU,8
+BAKA TO TEST TO SHOUKANJUU NI!,8
+C: THE MONEY OF SOUL AND POSSIBILITY CONTROL,9
+CHUUNIBYOU DEMO KOI GA SHITAI!,9
+CODE:BREAKER,7
+DEATH NOTE,10
+HELLSING,9
+MIRAI NIKKI,10
+STEINS;GATE,10
+SWORD ART ONLINE,7
+TEGAMIBACHI,7
+TEGAMIBACHI REVERSE,8
+TOARU KAGAKU NO RAILGUN,9
+TOARU MAJUTSU NO INDEX,9
+TOARU MAJUTSU NO INDEX II,7

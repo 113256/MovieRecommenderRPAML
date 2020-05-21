@@ -1,44 +1,44 @@
-﻿Aho Girl,7
-Angel Beats!,10
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Clannad,10
-Clannad: After Story,10
-Danshi Koukousei no Nichijou,9
-Domestic na Kanojo,9
-Dororo,8
-Dragon Ball,7
-Dragon Ball Super,7
-Dragon Ball Z,8
-High School DxD,8
-High School DxD BorN,8
-High School DxD Hero,7
-High School DxD New,8
-Higurashi no Naku Koro ni Kai,8
-Hundred,7
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kimetsu no Yaiba,10
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Masamune-kun no Revenge,7
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,9
-Nanatsu no Taizai: Seisen no Shirushi,8
-Neon Genesis Evangelion,10
-No Game No Life,8
-Ookami to Koushinryou,9
-Ookami to Koushinryou II,10
-Ousama Game The Animation,1
-Owari no Seraph,8
-Owari no Seraph: Nagoya Kessen-hen,8
-Plastic Memories,9
-Rakudai Kishi no Cavalry,10
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
-Shigatsu wa Kimi no Uso,10
-Sora yori mo Tooi Basho,9
-SSSS.Gridman,8
-Strike the Blood,8
-Tate no Yuusha no Nariagari,9
-Trinity Seven,7
-Vinland Saga,9
+﻿AHO GIRL,7
+ANGEL BEATS!,10
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+CLANNAD,10
+CLANNAD: AFTER STORY,10
+DANSHI KOUKOUSEI NO NICHIJOU,9
+DOMESTIC NA KANOJO,9
+DORORO,8
+DRAGON BALL,7
+DRAGON BALL SUPER,7
+DRAGON BALL Z,8
+HIGH SCHOOL DXD,8
+HIGH SCHOOL DXD BORN,8
+HIGH SCHOOL DXD HERO,7
+HIGH SCHOOL DXD NEW,8
+HIGURASHI NO NAKU KORO NI KAI,8
+HUNDRED,7
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KIMETSU NO YAIBA,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+MASAMUNE-KUN NO REVENGE,7
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,9
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,8
+NEON GENESIS EVANGELION,10
+NO GAME NO LIFE,8
+OOKAMI TO KOUSHINRYOU,9
+OOKAMI TO KOUSHINRYOU II,10
+OUSAMA GAME THE ANIMATION,1
+OWARI NO SERAPH,8
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,8
+PLASTIC MEMORIES,9
+RAKUDAI KISHI NO CAVALRY,10
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,10
+SHIGATSU WA KIMI NO USO,10
+SORA YORI MO TOOI BASHO,9
+SSSS.GRIDMAN,8
+STRIKE THE BLOOD,8
+TATE NO YUUSHA NO NARIAGARI,9
+TRINITY SEVEN,7
+VINLAND SAGA,9

@@ -1,72 +1,54 @@
-Accel World,10
-Akagami no Shirayuki-hime,-
-Amagi Brilliant Park,10
-Angel Beats!,7
-Date A Live,-
-Death Note,8
-Diamond no Ace,-
-Diamond no Ace: Second Season,-
-Eyeshield 21,-
-Fairy Tail,9
-Fairy Tail (2014),10
-Fate/Zero,-
-Fate/Zero 2nd Season,-
-Fullmetal Alchemist,-
-Gamers!,8
-High School DxD,10
-High School DxD BorN,10
-High School DxD Hero,6
-High School DxD New,-
-High School Fleet,-
-Initial D Fifth Stage,10
-Initial D Final Stage,8
-Initial D First Stage,8
-Initial D Fourth Stage,7
-Initial D Second Stage,8
-Inou-Battle wa Nichijou-kei no Naka de,10
-InuYasha (TV): Kanketsu-hen,-
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,-
-Juuou Mujin no Fafnir,10
-K-On!,-
-K-On!!,-
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,10
-Kaichou wa Maid-sama!,10
-Katekyo Hitman Reborn!,10
-Kuroko no Basket,-
-Long Riders!,-
-Lucky☆Star,-
-Magi: The Kingdom of Magic,-
-Magi: The Labyrinth of Magic,-
-Masamune-kun no Revenge,10
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,9
-Nanatsu no Taizai: Kamigami no Gekirin,4
-No Game No Life,-
-Ore no Imouto ga Konnani Kawaii Wake ga Nai,10
-Ore no Imouto ga Konnani Kawaii Wake ga Nai.,10
-Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,-
-Ore wo Suki nano wa Omae dake ka yo,10
-Psycho-Pass,-
-Re:Zero kara Hajimeru Isekai Seikatsu,-
-School Days,-
-Seireitsukai no Blade Dance,-
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
-Shin Tennis no Ouji-sama,10
-Shokugeki no Souma,10
-Shokugeki no Souma: Ni no Sara,10
-Shokugeki no Souma: San no Sara,10
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,10
-Shokugeki no Souma: Shin no Sara,9
-Steins;Gate,-
-Sword Art Online,10
-Sword Art Online II,-
-Tennis no Ouji-sama,10
-Toradora!,-
-Trinity Seven,9
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,10
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,10
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),10
-Yu☆Gi☆Oh!,-
-Yu☆Gi☆Oh! 5D's,-
-Yu☆Gi☆Oh! Duel Monsters,-
-Yu☆Gi☆Oh!: Duel Monsters GX,-
+﻿ACCEL WORLD,10
+AKAME GA KILL!,10
+AMAGI BRILLIANT PARK,10
+ANGEL BEATS!,7
+DATE A LIVE,6
+DEATH NOTE,8
+FAIRY TAIL,9
+FAIRY TAIL (2014),9
+GAMERS!,8
+HIGH SCHOOL DXD,10
+HIGH SCHOOL DXD BORN,10
+HIGH SCHOOL DXD HERO,6
+HIGH SCHOOL DXD NEW,10
+INITIAL D FIFTH STAGE,9
+INITIAL D FINAL STAGE,8
+INITIAL D FIRST STAGE,8
+INITIAL D FOURTH STAGE,7
+INITIAL D SECOND STAGE,8
+INOU-BATTLE WA NICHIJOU-KEI NO NAKA DE,10
+JUUOU MUJIN NO FAFNIR,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,10
+KAICHOU WA MAID-SAMA!,10
+KATEKYO HITMAN REBORN!,10
+LUCKY☆STAR,7
+MASAMUNE-KUN NO REVENGE,10
+NANATSU NO TAIZAI,10
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,9
+NANATSU NO TAIZAI: KAMIGAMI NO GEKIRIN,5
+NARUTO,8
+NO GAME NO LIFE,9
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI,8
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI.,8
+ORE WO SUKI NANO WA OMAE DAKE KA YO,10
+PSYCHO-PASS,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+SCHOOL DAYS,6
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,10
+SHIN TENNIS NO OUJI-SAMA,10
+SHOKUGEKI NO SOUMA,10
+SHOKUGEKI NO SOUMA: NI NO SARA,10
+SHOKUGEKI NO SOUMA: SAN NO SARA,10
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,10
+SHOKUGEKI NO SOUMA: SHIN NO SARA,9
+SWORD ART ONLINE,10
+SWORD ART ONLINE II,8
+TENNIS NO OUJI-SAMA,10
+TRINITY SEVEN,9
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,10
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,10
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),10
+YU☆GI☆OH!,8
+YU☆GI☆OH! 5D'S,8
+YU☆GI☆OH! DUEL MONSTERS,9
+YU☆GI☆OH!: DUEL MONSTERS GX,10

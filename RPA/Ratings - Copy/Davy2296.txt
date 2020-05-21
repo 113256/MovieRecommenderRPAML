@@ -1,21 +1,21 @@
-﻿Akame ga Kill!,10
-Domestic na Kanojo,9
-Grisaia no Kajitsu,10
-High School DxD,9
-High School DxD BorN,10
-High School DxD Hero,9
-High School DxD New,9
-Overlord,10
-Overlord II,10
-Overlord III,10
-Owari no Seraph,10
-Owari no Seraph: Nagoya Kessen-hen,9
-Rakudai Kishi no Cavalry,9
-Rokka no Yuusha,8
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,9
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,10
-Sora no Otoshimono,10
-Sora no Otoshimono: Forte,10
+﻿AKAME GA KILL!,10
+DOMESTIC NA KANOJO,9
+GRISAIA NO KAJITSU,10
+HIGH SCHOOL DXD,9
+HIGH SCHOOL DXD BORN,10
+HIGH SCHOOL DXD HERO,9
+HIGH SCHOOL DXD NEW,9
+OVERLORD,10
+OVERLORD II,10
+OVERLORD III,10
+OWARI NO SERAPH,10
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,9
+RAKUDAI KISHI NO CAVALRY,9
+ROKKA NO YUUSHA,8
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SHUUMATSU NANI SHITEMASU KA? ISOGASHII DESU KA? SUKUTTE MORATTE II DESU KA?,10
+SORA NO OTOSHIMONO,10
+SORA NO OTOSHIMONO: FORTE,10

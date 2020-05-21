@@ -1,66 +1,65 @@
-Araburu Kisetsu no Otome-domo yo.,5
-Beastars,8
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,7
-Boku no Hero Academia 4th Season,7
-Boogiepop wa Warawanai (2019),8
-Carole & Tuesday,6
-Chuunibyou demo Koi ga Shitai!,8
-Chuunibyou demo Koi ga Shitai! Ren,9
-Cop Craft,4
-Death Note,8
-Dorohedoro,8
-Dororo,7
-Doukyonin wa Hiza Tokidoki Atama no Ue.,7
-Dr. Stone,6
-Dumbbell Nan Kilo Moteru?,7
-Eizouken ni wa Te wo Dasu na!,9
-Enen no Shouboutai,5
-Fullmetal Alchemist: Brotherhood,10
-Given,8
-Hitoribocchi no Marumaru Seikatsu,8
-Hoshiai no Sora,7
-Id:Invaded,5
-Jibaku Shounen Hanako-kun,6
-JoJo no Kimyou na Bouken (TV),7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,6
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,7
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
-Joshikousei no Mudazukai,7
-K-On!,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kanata no Astra,8
-Kanokon,3
-Katsute Kami Datta Kemono-tachi e,5
-Kekkai Sensen,9
-Kekkai Sensen & Beyond,9
-Kill la Kill,9
-Kimetsu no Yaiba,7
-Kobayashi-san Chi no Maid Dragon,9
-Kono Subarashii Sekai ni Shukufuku wo!,6
-Mob Psycho 100,8
-Mob Psycho 100 II,10
-Nanatsu no Taizai,5
-Nanatsu no Taizai: Imashime no Fukkatsu,4
-Nazo no Kanojo X,-
-One Punch Man,9
-One Punch Man 2nd Season,5
-Ping Pong the Animation,9
-Sarazanmai,8
-Senryuu Shoujo,6
-Sewayaki Kitsune no Senko-san,6
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,10
-Shingeki no Kyojin Season 3,10
-Shingeki no Kyojin Season 3 Part 2,10
-Sword Art Online,4
-Tate no Yuusha no Nariagari,5
-Tejina-senpai,4
-Tengen Toppa Gurren Lagann,10
-Tensei shitara Slime Datta Ken,8
-Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?,2
-Vinland Saga,8
-Yakusoku no Neverland,8
-Yojouhan Shinwa Taikei,9
+﻿ARABURU KISETSU NO OTOME-DOMO YO.,5
+BEASTARS,8
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+BOKU NO HERO ACADEMIA 4TH SEASON,7
+BOOGIEPOP WA WARAWANAI (2019),8
+CAROLE & TUESDAY,6
+CHUUNIBYOU DEMO KOI GA SHITAI!,8
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,9
+COP CRAFT,4
+DEATH NOTE,8
+DOROHEDORO,8
+DORORO,7
+DOUKYONIN WA HIZA TOKIDOKI ATAMA NO UE.,7
+DR. STONE,6
+DUMBBELL NAN KILO MOTERU?,7
+EIZOUKEN NI WA TE WO DASU NA!,9
+ENEN NO SHOUBOUTAI,5
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GIVEN,8
+HITORIBOCCHI NO MARUMARU SEIKATSU,8
+HOSHIAI NO SORA,7
+ID:INVADED,5
+JIBAKU SHOUNEN HANAKO-KUN,6
+JOJO NO KIMYOU NA BOUKEN (TV),7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,6
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,7
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,8
+JOSHIKOUSEI NO MUDAZUKAI,7
+K-ON!,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KANATA NO ASTRA,8
+KANOKON,3
+KATSUTE KAMI DATTA KEMONO-TACHI E,5
+KEKKAI SENSEN,9
+KEKKAI SENSEN & BEYOND,9
+KILL LA KILL,9
+KIMETSU NO YAIBA,7
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,6
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,10
+NANATSU NO TAIZAI,5
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,4
+ONE PUNCH MAN,9
+ONE PUNCH MAN 2ND SEASON,5
+PING PONG THE ANIMATION,9
+SARAZANMAI,8
+SENRYUU SHOUJO,6
+SEWAYAKI KITSUNE NO SENKO-SAN,6
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,10
+SHINGEKI NO KYOJIN SEASON 3,10
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SWORD ART ONLINE,4
+TATE NO YUUSHA NO NARIAGARI,5
+TEJINA-SENPAI,4
+TENGEN TOPPA GURREN LAGANN,10
+TENSEI SHITARA SLIME DATTA KEN,8
+TSUUJOU KOUGEKI GA ZENTAI KOUGEKI DE NI-KAI KOUGEKI NO OKAASAN WA SUKI DESU KA?,2
+VINLAND SAGA,8
+YAKUSOKU NO NEVERLAND,8
+YOJOUHAN SHINWA TAIKEI,9

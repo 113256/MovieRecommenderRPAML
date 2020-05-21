@@ -1,113 +1,113 @@
-5-toubun no Hanayome,8
-Akkun to Kanojo,8
-Ansatsu Kyoushitsu,10
-Ansatsu Kyoushitsu 2nd Season,10
-Ao no Exorcist,8
-Ao no Exorcist: Kyoto Fujouou-hen,7
-Arifureta Shokugyou de Sekai Saikyou,8
-Barakamon,9
-Blood Lad,8
-Boku dake ga Inai Machi,10
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,10
-Btooom!,9
-Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!,8
-Clannad,10
-Clannad: After Story,10
-Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,9
-Danshi Koukousei no Nichijou,9
-Darling in the FranXX,10
-Death Note,8
-Death Parade,9
-Digimon Frontier,10
-Dororo,10
-Dr. Stone,10
-Dumbbell Nan Kilo Moteru?,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,8
-Eizouken ni wa Te wo Dasu na!,10
-Enen no Shouboutai,9
-Fullmetal Alchemist,9
-Fullmetal Alchemist: Brotherhood,10
-Gabriel DropOut,9
-Gekkan Shoujo Nozaki-kun,9
-Goblin Slayer,9
-Handa-kun,8
-High School DxD,8
-Hitoribocchi no Marumaru Seikatsu,9
-Isekai Quartet,8
-Isekai Quartet 2,8
-Jibaku Shounen Hanako-kun,8
-JoJo no Kimyou na Bouken (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
-Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?,9
-Kill la Kill,8
-Kimetsu no Yaiba,10
-Kiss x Sis (TV),7
-Kobayashi-san Chi no Maid Dragon,9
-Kono Bijutsubu ni wa Mondai ga Aru!,8
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Love Lab,9
-Lucky☆Star,9
-Machikado Mazoku,7
-Made in Abyss,9
-Maou-sama Retry!,9
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,8
-Monster Musume no Iru Nichijou,8
-Nanatsu no Taizai,8
-Nanatsu no Taizai: Imashime no Fukkatsu,8
-Nanatsu no Taizai: Seisen no Shirushi,8
-Nande Koko ni Sensei ga!?,7
-Nichijou,8
-No Guns Life,9
-Noragami,9
-Noragami Aragoto,10
-Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,8
-Ore wo Suki nano wa Omae dake ka yo,9
-Oshiete! Galko-chan,8
-Overlord,8
-Overlord II,8
-Overlord III,7
-Prison School,8
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Rosario to Vampire,7
-Sakamoto Desu ga?,8
-Sakura-sou no Pet na Kanojo,9
-School Days,5
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,8
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,9
-Shingeki no Kyojin,7
-Shingeki no Kyojin Season 2,7
-Shokugeki no Souma,8
-Shokugeki no Souma: Ni no Sara,9
-Shokugeki no Souma: San no Sara,9
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,9
-Shokugeki no Souma: Shin no Sara,8
-Somali to Mori no Kamisama,10
-Sword Art Online,7
-Tachibanakan Triangle,7
-Tamako Market,8
-Tate no Yuusha no Nariagari,9
-Tejina-senpai,8
-Tensei shitara Slime Datta Ken,10
-To LOVE-Ru,7
-To LOVE-Ru Darkness,7
-Tokyo Ghoul,7
-Tokyo Ghoul:re,9
-Tsurezure Children,10
-Ueki no Housoku,9
-Watashi ni Tenshi ga Maiorita!,8
-Wotaku ni Koi wa Muzukashii,9
-Yama no Susume,8
-Yosuga no Sora: In Solitude Where We Are Least Alone.,6
-Youjo Senki,9
-Yuri!!! on Ice,9
-Zero no Tsukaima,8
+﻿5-TOUBUN NO HANAYOME,8
+AKKUN TO KANOJO,8
+ANSATSU KYOUSHITSU,10
+ANSATSU KYOUSHITSU 2ND SEASON,10
+AO NO EXORCIST,8
+AO NO EXORCIST: KYOTO FUJOUOU-HEN,7
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,8
+BARAKAMON,9
+BLOOD LAD,8
+BOKU DAKE GA INAI MACHI,10
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,10
+BTOOOM!,9
+CHOUJIN KOUKOUSEI-TACHI WA ISEKAI DEMO YOYUU DE IKINUKU YOU DESU!,8
+CLANNAD,10
+CLANNAD: AFTER STORY,10
+CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,9
+DANSHI KOUKOUSEI NO NICHIJOU,9
+DARLING IN THE FRANXX,10
+DEATH NOTE,8
+DEATH PARADE,9
+DIGIMON FRONTIER,10
+DORORO,10
+DR. STONE,10
+DUMBBELL NAN KILO MOTERU?,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA GAIDEN: SWORD ORATORIA,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,8
+EIZOUKEN NI WA TE WO DASU NA!,10
+ENEN NO SHOUBOUTAI,9
+FULLMETAL ALCHEMIST,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GABRIEL DROPOUT,9
+GEKKAN SHOUJO NOZAKI-KUN,9
+GOBLIN SLAYER,9
+HANDA-KUN,8
+HIGH SCHOOL DXD,8
+HITORIBOCCHI NO MARUMARU SEIKATSU,9
+ISEKAI QUARTET,8
+ISEKAI QUARTET 2,8
+JIBAKU SHOUNEN HANAKO-KUN,8
+JOJO NO KIMYOU NA BOUKEN (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,9
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,9
+KAWAIKEREBA HENTAI DEMO SUKI NI NATTE KUREMASU KA?,9
+KILL LA KILL,8
+KIMETSU NO YAIBA,10
+KISS X SIS (TV),7
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+KONO BIJUTSUBU NI WA MONDAI GA ARU!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+LOVE LAB,9
+LUCKY☆STAR,9
+MACHIKADO MAZOKU,7
+MADE IN ABYSS,9
+MAOU-SAMA RETRY!,9
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,8
+MONSTER MUSUME NO IRU NICHIJOU,8
+NANATSU NO TAIZAI,8
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,8
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,8
+NANDE KOKO NI SENSEI GA!?,7
+NICHIJOU,8
+NO GUNS LIFE,9
+NORAGAMI,9
+NORAGAMI ARAGOTO,10
+ORE NO NOUNAI SENTAKUSHI GA GAKUEN LOVE COMEDY WO ZENRYOKU DE JAMA SHITEIRU,8
+ORE WO SUKI NANO WA OMAE DAKE KA YO,9
+OSHIETE! GALKO-CHAN,8
+OVERLORD,8
+OVERLORD II,8
+OVERLORD III,7
+PRISON SCHOOL,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+ROSARIO TO VAMPIRE,7
+SAKAMOTO DESU GA?,8
+SAKURA-SOU NO PET NA KANOJO,9
+SCHOOL DAYS,5
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,8
+SHINCHOU YUUSHA: KONO YUUSHA GA ORE TSUEEE KUSE NI SHINCHOU SUGIRU,9
+SHINGEKI NO KYOJIN,7
+SHINGEKI NO KYOJIN SEASON 2,7
+SHOKUGEKI NO SOUMA,8
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,9
+SHOKUGEKI NO SOUMA: SHIN NO SARA,8
+SOMALI TO MORI NO KAMISAMA,10
+SWORD ART ONLINE,7
+TACHIBANAKAN TRIANGLE,7
+TAMAKO MARKET,8
+TATE NO YUUSHA NO NARIAGARI,9
+TEJINA-SENPAI,8
+TENSEI SHITARA SLIME DATTA KEN,10
+TO LOVE-RU,7
+TO LOVE-RU DARKNESS,7
+TOKYO GHOUL,7
+TOKYO GHOUL:RE,9
+TSUREZURE CHILDREN,10
+UEKI NO HOUSOKU,9
+WATASHI NI TENSHI GA MAIORITA!,8
+WOTAKU NI KOI WA MUZUKASHII,9
+YAMA NO SUSUME,8
+YOSUGA NO SORA: IN SOLITUDE WHERE WE ARE LEAST ALONE.,6
+YOUJO SENKI,9
+YURI!!! ON ICE,9
+ZERO NO TSUKAIMA,8

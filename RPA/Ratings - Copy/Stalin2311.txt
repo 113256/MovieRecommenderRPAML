@@ -1,88 +1,88 @@
-91 Days,8
-Ajin,7
-Ansatsu Kyoushitsu,8
-Ansatsu Kyoushitsu 2nd Season,9
-Arifureta Shokugyou de Sekai Saikyou,2
-Baccano!,8
-Bakemonogatari,8
-Beastars,8
-Black Bullet,6
-Black Lagoon,7
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,9
-Code Geass: Hangyaku no Lelouch,8
-Code Geass: Hangyaku no Lelouch R2,9
-Danshi Koukousei no Nichijou,9
-Date A Live,5
-Deadman Wonderland,7
-Dies Irae,5
-Digimon Adventure,6
-Digimon Savers,7
-Digimon Tamers,7
-Dr. Stone,8
-Dragon Ball,6
-Drifters,8
-Durarara!!,7
-Enen no Shouboutai,8
-Fate/Apocrypha,7
-Fate/stay night: Unlimited Blade Works,7
-Fate/Zero,8
-Fate/Zero 2nd Season,9
-Fullmetal Alchemist,7
-Fullmetal Alchemist: Brotherhood,10
-Gangsta.,7
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,1
-Goblin Slayer,6
-Gunjou no Magmell,6
-Hataraku Maou-sama!,8
-Hunter x Hunter (2011),10
-JoJo no Kimyou na Bouken (TV),7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kakegurui,7
-Katsute Kami Datta Kemono-tachi e,6
-Kekkai Sensen,8
-Kill la Kill,9
-Kimetsu no Yaiba,9
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Koutetsujou no Kabaneri,6
-Kuroshitsuji,8
-Kuroshitsuji II,7
-Kuroshitsuji: Book of Circus,7
-Kyokou Suiri,7
-Little Witch Academia (TV),8
-Mob Psycho 100,9
-Mob Psycho 100 II,10
-Nanatsu no Taizai,8
-Nanatsu no Taizai: Imashime no Fukkatsu,8
-Nanatsu no Taizai: Kamigami no Gekirin,6
-Nanatsu no Taizai: Seisen no Shirushi,8
-No Game No Life,8
-No Guns Life,7
-Noragami,7
-Noragami Aragoto,7
-One Punch Man,9
-One Punch Man 2nd Season,7
-Overlord,9
-Overlord II,7
-Overlord III,7
-Owari no Seraph,7
-Owari no Seraph: Nagoya Kessen-hen,8
-Poputepipikku,9
-Shingeki no Kyojin,6
-Shingeki no Kyojin Season 2,7
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,10
-Tate no Yuusha no Nariagari,6
-Tensei shitara Slime Datta Ken,7
-To LOVE-Ru,8
-Vinland Saga,9
-Yakusoku no Neverland,8
-Youjo Senki,8
-Zombieland Saga,8
+﻿91 DAYS,8
+AJIN,7
+ANSATSU KYOUSHITSU,8
+ANSATSU KYOUSHITSU 2ND SEASON,9
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,2
+BACCANO!,8
+BAKEMONOGATARI,8
+BEASTARS,8
+BLACK BULLET,6
+BLACK LAGOON,7
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,9
+CODE GEASS: HANGYAKU NO LELOUCH,8
+CODE GEASS: HANGYAKU NO LELOUCH R2,9
+DANSHI KOUKOUSEI NO NICHIJOU,9
+DATE A LIVE,5
+DEADMAN WONDERLAND,7
+DIES IRAE,5
+DIGIMON ADVENTURE,6
+DIGIMON SAVERS,7
+DIGIMON TAMERS,7
+DR. STONE,8
+DRAGON BALL,6
+DRIFTERS,8
+DURARARA!!,7
+ENEN NO SHOUBOUTAI,8
+FATE/APOCRYPHA,7
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,7
+FATE/ZERO,8
+FATE/ZERO 2ND SEASON,9
+FULLMETAL ALCHEMIST,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GANGSTA.,7
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,1
+GOBLIN SLAYER,6
+GUNJOU NO MAGMELL,6
+HATARAKU MAOU-SAMA!,8
+HUNTER X HUNTER (2011),10
+JOJO NO KIMYOU NA BOUKEN (TV),7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,9
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KAKEGURUI,7
+KATSUTE KAMI DATTA KEMONO-TACHI E,6
+KEKKAI SENSEN,8
+KILL LA KILL,9
+KIMETSU NO YAIBA,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+KOUTETSUJOU NO KABANERI,6
+KUROSHITSUJI,8
+KUROSHITSUJI II,7
+KUROSHITSUJI: BOOK OF CIRCUS,7
+KYOKOU SUIRI,7
+LITTLE WITCH ACADEMIA (TV),8
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,10
+NANATSU NO TAIZAI,8
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,8
+NANATSU NO TAIZAI: KAMIGAMI NO GEKIRIN,6
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,8
+NO GAME NO LIFE,8
+NO GUNS LIFE,7
+NORAGAMI,7
+NORAGAMI ARAGOTO,7
+ONE PUNCH MAN,9
+ONE PUNCH MAN 2ND SEASON,7
+OVERLORD,9
+OVERLORD II,7
+OVERLORD III,7
+OWARI NO SERAPH,7
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,8
+POPUTEPIPIKKU,9
+SHINGEKI NO KYOJIN,6
+SHINGEKI NO KYOJIN SEASON 2,7
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+TATE NO YUUSHA NO NARIAGARI,6
+TENSEI SHITARA SLIME DATTA KEN,7
+TO LOVE-RU,8
+VINLAND SAGA,9
+YAKUSOKU NO NEVERLAND,8
+YOUJO SENKI,8
+ZOMBIELAND SAGA,8

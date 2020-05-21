@@ -1,11 +1,4 @@
-﻿Another,6
-Baka to Test to Shoukanjuu,-
-Charlotte,-
-Chuunibyou demo Koi ga Shitai!,-
-Chuunibyou demo Koi ga Shitai! Ren,-
-Masamune-kun no Revenge,-
-Sword Art Online,-
-Sword Art Online II,-
-Toaru Kagaku no Railgun,-
-Toaru Kagaku no Railgun S,-
-Toaru Majutsu no Index,-
+﻿ANOTHER,4
+TOARU KAGAKU NO RAILGUN,7
+TOARU KAGAKU NO RAILGUN S,8
+TOARU MAJUTSU NO INDEX,7

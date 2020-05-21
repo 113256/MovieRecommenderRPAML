@@ -1,58 +1,58 @@
-﻿Ao no Exorcist,6
-Baccano!,10
-Beastars,8
-Boku no Hero Academia,6
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 4th Season,9
-Code Geass: Hangyaku no Lelouch,7
-Darling in the FranXX,1
-Dumbbell Nan Kilo Moteru?,9
-Eizouken ni wa Te wo Dasu na!,9
-Fullmetal Alchemist: Brotherhood,9
-Gakkougurashi!,10
-Haikyuu!!,9
-Haikyuu!! Second Season,10
-High School DxD,1
-High School DxD Hero,2
-High School DxD New,2
-Inazuma Eleven,9
-Inazuma Eleven: Ares no Tenbin,7
-Isekai Quartet,8
-Ishuzoku Reviewers,7
-JoJo no Kimyou na Bouken (TV),6
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,7
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
-Joshikausei,7
-Kanata no Astra,8
-Kimetsu no Yaiba,8
-Kono Oto Tomare!,10
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Made in Abyss,8
-Mob Psycho 100,9
-Mob Psycho 100 II,10
-Nanatsu no Taizai,2
-Nanatsu no Taizai: Imashime no Fukkatsu,2
-Naruto,7
-Naruto: Shippuuden,5
-Neon Genesis Evangelion,10
-No Game No Life,8
-Noragami,9
-Noragami Aragoto,8
-One Punch Man,7
-One Punch Man 2nd Season,7
-Overlord,8
-Overlord II,7
-Overlord III,6
-Princess Principal,8
-Soul Eater,9
-Steins;Gate,10
-Steins;Gate 0,10
-Tengen Toppa Gurren Lagann,9
-Tokyo Ghoul,2
-Tokyo Ghoul √A,2
-Tokyo Ghoul:re 2nd Season,4
-Violet Evergarden,10
-Yojouhan Shinwa Taikei,9
+﻿AO NO EXORCIST,6
+BACCANO!,10
+BEASTARS,8
+BOKU NO HERO ACADEMIA,6
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 4TH SEASON,9
+CODE GEASS: HANGYAKU NO LELOUCH,7
+DARLING IN THE FRANXX,1
+DUMBBELL NAN KILO MOTERU?,9
+EIZOUKEN NI WA TE WO DASU NA!,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+GAKKOUGURASHI!,10
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,10
+HIGH SCHOOL DXD,1
+HIGH SCHOOL DXD HERO,2
+HIGH SCHOOL DXD NEW,2
+INAZUMA ELEVEN,9
+INAZUMA ELEVEN: ARES NO TENBIN,7
+ISEKAI QUARTET,8
+ISHUZOKU REVIEWERS,7
+JOJO NO KIMYOU NA BOUKEN (TV),6
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,7
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,9
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,8
+JOSHIKAUSEI,7
+KANATA NO ASTRA,8
+KIMETSU NO YAIBA,8
+KONO OTO TOMARE!,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+MADE IN ABYSS,8
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,10
+NANATSU NO TAIZAI,2
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,2
+NARUTO,7
+NARUTO: SHIPPUUDEN,5
+NEON GENESIS EVANGELION,10
+NO GAME NO LIFE,8
+NORAGAMI,9
+NORAGAMI ARAGOTO,8
+ONE PUNCH MAN,7
+ONE PUNCH MAN 2ND SEASON,7
+OVERLORD,8
+OVERLORD II,7
+OVERLORD III,6
+PRINCESS PRINCIPAL,8
+SOUL EATER,9
+STEINS;GATE,10
+STEINS;GATE 0,10
+TENGEN TOPPA GURREN LAGANN,9
+TOKYO GHOUL,2
+TOKYO GHOUL √A,2
+TOKYO GHOUL:RE 2ND SEASON,4
+VIOLET EVERGARDEN,10
+YOJOUHAN SHINWA TAIKEI,9

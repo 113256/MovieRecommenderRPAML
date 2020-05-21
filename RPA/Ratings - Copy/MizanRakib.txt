@@ -1,5 +1,5 @@
-﻿Dragon Ball Super,10
-Dragon Ball Z,10
-Nanatsu no Taizai,10
-Nanatsu no Taizai: Imashime no Fukkatsu,10
-Yakusoku no Neverland,8
+﻿DRAGON BALL SUPER,10
+DRAGON BALL Z,10
+NANATSU NO TAIZAI,10
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,10
+YAKUSOKU NO NEVERLAND,8

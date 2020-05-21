@@ -1,21 +1,21 @@
-﻿Ajin,6
-Angel Beats!,7
-Beastars,10
-Death Parade,10
-Dorohedoro,6
-Dragon Ball Super,6
-Gangsta.,7
-Gankutsuou,9
-Gun x Sword,8
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Mahouka Koukou no Rettousei,5
-Noragami,7
-One Punch Man,8
-Rakudai Kishi no Cavalry,5
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Soul Eater,7
-Sunabouzu,6
-Trigun,8
-Yakusoku no Neverland,7
+﻿AJIN,6
+ANGEL BEATS!,7
+BEASTARS,10
+DEATH PARADE,10
+DOROHEDORO,6
+DRAGON BALL SUPER,6
+GANGSTA.,7
+GANKUTSUOU,9
+GUN X SWORD,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+MAHOUKA KOUKOU NO RETTOUSEI,5
+NORAGAMI,7
+ONE PUNCH MAN,8
+RAKUDAI KISHI NO CAVALRY,5
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SOUL EATER,7
+SUNABOUZU,6
+TRIGUN,8
+YAKUSOKU NO NEVERLAND,7

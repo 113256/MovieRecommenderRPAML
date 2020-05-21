@@ -1,48 +1,51 @@
-﻿Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,10
-Bakemonogatari,9
-Boku dake ga Inai Machi,9
-Boku no Hero Academia,7
-Charlotte,7
-Clannad,8
-Darling in the FranXX,7
-Gakkougurashi!,8
-Hanamonogatari,8
-Hyouka,8
-Ichiban Ushiro no Daimaou,5
-K-On!,8
-K-On!!,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kimetsu no Yaiba,8
-Kiseijuu: Sei no Kakuritsu,7
-Kobayashi-san Chi no Maid Dragon,8
-Koisuru Asteroid,5
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,9
-Kuroko no Basket,7
-Lucky☆Star,9
-Mirai Nikki,7
-Monogatari Series: Second Season,10
-Nagato Yuki-chan no Shoushitsu,8
-Nekomonogatari: Kuro,8
-Neon Genesis Evangelion,8
-New Game!,8
-New Game!!,9
-Nisemonogatari,7
-No Game No Life,7
-One Punch Man,7
-Owarimonogatari,8
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-School Days,4
-Shigatsu wa Kimi no Uso,8
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,9
-Shinryaku! Ika Musume,7
-Steins;Gate,10
-Suzumiya Haruhi no Yuuutsu,10
-Suzumiya Haruhi no Yuuutsu (2009),8
-Sword Art Online,7
-Sword Art Online II,6
-Toradora!,10
-Tsukimonogatari,8
+﻿ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,10
+ANOTHER,7
+BAKEMONOGATARI,9
+BOKU DAKE GA INAI MACHI,9
+BOKU NO HERO ACADEMIA,7
+CHARLOTTE,7
+CLANNAD,8
+DARLING IN THE FRANXX,7
+GAKKOUGURASHI!,8
+HAIKYUU!!,8
+HANAMONOGATARI,8
+HYOUKA,8
+ICHIBAN USHIRO NO DAIMAOU,5
+K-ON!,8
+K-ON!!,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KIMETSU NO YAIBA,8
+KISEIJUU: SEI NO KAKURITSU,7
+KOBAYASHI-SAN CHI NO MAID DRAGON,8
+KOISURU ASTEROID,5
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,9
+KUROKO NO BASKET,7
+LUCKY☆STAR,9
+MIRAI NIKKI,7
+MONOGATARI SERIES: SECOND SEASON,10
+NAGATO YUKI-CHAN NO SHOUSHITSU,8
+NEKOMONOGATARI: KURO,8
+NEON GENESIS EVANGELION,8
+NEW GAME!,8
+NEW GAME!!,9
+NISEMONOGATARI,7
+NO GAME NO LIFE,7
+ONE PUNCH MAN,7
+ONE ROOM,5
+OWARIMONOGATARI,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+SCHOOL DAYS,4
+SHIGATSU WA KIMI NO USO,8
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SHINRYAKU! IKA MUSUME,7
+STEINS;GATE,10
+SUZUMIYA HARUHI NO YUUUTSU,10
+SUZUMIYA HARUHI NO YUUUTSU (2009),8
+SWORD ART ONLINE,7
+SWORD ART ONLINE II,6
+TORADORA!,10
+TSUKIMONOGATARI,8

@@ -1,45 +1,45 @@
-Akagami no Shirayuki-hime,7
-Akagami no Shirayuki-hime 2nd Season,9
-Akatsuki no Yona,8
-Amnesia,6
-Ao Haru Ride,7
-Arcana Famiglia,2
-Bishoujo Senshi Sailor Moon,7
-Bishoujo Senshi Sailor Moon R,7
-Bishoujo Senshi Sailor Moon S,7
-Bishoujo Senshi Sailor Moon SuperS,8
-Boku no Hero Academia,6
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,7
-Bungou Stray Dogs,8
-Chihayafuru,9
-Chihayafuru 2,9
-Chihayafuru 3,9
-Dance with Devils,5
-Diabolik Lovers,2
-Diabolik Lovers MoreBlood,2
-Fruits Basket 1st Season,7
-Fukumenkei Noise,6
-Gakuen Alice,9
-InuYasha (TV): Kanketsu-hen,9
-Jibaku Shounen Hanako-kun,8
-Kaichou wa Maid-sama!,8
-Kakegurui,7
-Kakegurui××,7
-Kamisama Hajimemashita,8
-Kamisama Hajimemashita◎,8
-Masamune-kun no Revenge,5
-Meiji Tokyo Renka,6
-Mirai Nikki,7
-Naruto,7
-Orange,8
-Ouran Koukou Host Club,9
-Peach Girl,7
-Ping Pong the Animation,9
-Pucca,9
-Soredemo Sekai wa Utsukushii,7
-Special A,6
-Watashi ga Motete Dousunda,8
-Yakusoku no Neverland,9
-Yume-iro Pâtissière,9
-Yume-iro Pâtissière SP Professional,7
+﻿AKAGAMI NO SHIRAYUKI-HIME,7
+AKAGAMI NO SHIRAYUKI-HIME 2ND SEASON,8
+AKATSUKI NO YONA,8
+AMNESIA,4
+AO HARU RIDE,7
+ARCANA FAMIGLIA,2
+BISHOUJO SENSHI SAILOR MOON,7
+BISHOUJO SENSHI SAILOR MOON R,7
+BISHOUJO SENSHI SAILOR MOON S,7
+BISHOUJO SENSHI SAILOR MOON SUPERS,8
+BOKU NO HERO ACADEMIA,6
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+BUNGOU STRAY DOGS,8
+CHIHAYAFURU,9
+CHIHAYAFURU 2,9
+CHIHAYAFURU 3,10
+DANCE WITH DEVILS,5
+DIABOLIK LOVERS,2
+DIABOLIK LOVERS MOREBLOOD,2
+FRUITS BASKET 1ST SEASON,7
+FUKUMENKEI NOISE,6
+GAKUEN ALICE,9
+INUYASHA (TV): KANKETSU-HEN,9
+JIBAKU SHOUNEN HANAKO-KUN,8
+KAICHOU WA MAID-SAMA!,8
+KAKEGURUI,7
+KAKEGURUI××,7
+KAMISAMA HAJIMEMASHITA,8
+KAMISAMA HAJIMEMASHITA◎,8
+MASAMUNE-KUN NO REVENGE,5
+MEIJI TOKYO RENKA,6
+MIRAI NIKKI,7
+NARUTO,6
+ORANGE,8
+OURAN KOUKOU HOST CLUB,9
+PEACH GIRL,7
+PING PONG THE ANIMATION,9
+PUCCA,9
+SOREDEMO SEKAI WA UTSUKUSHII,7
+SPECIAL A,6
+WATASHI GA MOTETE DOUSUNDA,8
+YAKUSOKU NO NEVERLAND,9
+YUME-IRO PÂTISSIÈRE,8
+YUME-IRO PÂTISSIÈRE SP PROFESSIONAL,7

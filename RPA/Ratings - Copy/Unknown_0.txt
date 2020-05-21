@@ -1,186 +1,124 @@
-91 Days,7
-Absolute Duo,8
-Accel World,-
-Afro Samurai,8
-Ajin,8
-Ajin 2nd Season,8
-Akagami no Shirayuki-hime,-
-Akagami no Shirayuki-hime 2nd Season,-
-Akame ga Kill!,-
-Angel Beats!,-
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,10
-Another,-
-Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,9
-Ao no Exorcist,9
-Ao no Exorcist: Kyoto Fujouou-hen,-
-Arifureta Shokugyou de Sekai Saikyou,-
-B-gata H-kei,8
-Boku dake ga Inai Machi,-
-Boku no Hero Academia,10
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,-
-Boku no Hero Academia 4th Season,-
-Cheer Danshi!!,5
-Chuunibyou demo Koi ga Shitai!,-
-Clannad,-
-Clannad: After Story,-
-Claymore,-
-Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,9
-Dakara Boku wa H ga Dekinai.,8
-Date A Live,8
-Date A Live II,9
-Deadman Wonderland,9
-Death Note,9
-Death Parade,9
-Demi-chan wa Kataritai,-
-Domestic na Kanojo,-
-Dr. Stone,-
-Dragon Ball,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,-
-Durarara!!,-
-Durarara!!x2 Ketsu,-
-Durarara!!x2 Shou,-
-Durarara!!x2 Ten,-
-Elfen Lied,5
-Enen no Shouboutai,-
-Freezing,8
-Fukigen na Mononokean,8
-Fullmetal Alchemist: Brotherhood,10
-Gakusen Toshi Asterisk,9
-Gakusen Toshi Asterisk 2nd Season,9
-Gangsta.,8
-God Eater,9
-Golden Time,9
-Grisaia no Kajitsu,9
-Grisaia no Rakuen,9
-Hagure Yuusha no Aesthetica,8
-Haikyuu!!,10
-Haikyuu!! Second Season,10
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,10
-Haikyuu!!: To the Top,-
-Hanamonogatari,7
-Hataraku Maou-sama!,-
-Hentai Ouji to Warawanai Neko.,8
-Hidan no Aria,8
-High School DxD,9
-High School DxD BorN,9
-High School DxD Hero,10
-High School DxD New,9
-Highschool of the Dead,8
-Hundred,8
-Hunter x Hunter,9
-Hyakka Ryouran: Samurai Bride,9
-Hyakka Ryouran: Samurai Girls,8
-IS: Infinite Stratos,8
-IS: Infinite Stratos 2,8
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,-
-Jitsu wa Watashi wa,8
-JoJo no Kimyou na Bouken (TV),-
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,-
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,-
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,-
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,10
-K,-
-Kaichou wa Maid-sama!,10
-Kakegurui,-
-Kakegurui××,-
-Kamisama Hajimemashita,10
-Kamisama Hajimemashita◎,10
-Kämpfer,8
-Kimetsu no Yaiba,-
-Kiseijuu: Sei no Kakuritsu,9
-Kiss x Sis (TV),10
-Kono Subarashii Sekai ni Shukufuku wo!,-
-Kono Subarashii Sekai ni Shukufuku wo! 2,-
-Kore wa Zombie Desu ka?,7
-Kore wa Zombie Desu ka? of the Dead,8
-Kuroko no Basket,-
-Kuroko no Basket 2nd Season,-
-Kuroko no Basket 3rd Season,-
-Kuusen Madoushi Kouhosei no Kyoukan,8
-Love Live! Sunshine!!,6
-Luck & Logic,1
-Madan no Ou to Vanadis,-
-Made in Abyss,-
-Mahouka Koukou no Rettousei,10
-Mahoutsukai no Yome,-
-Masamune-kun no Revenge,9
-Mirai Nikki,-
-Mob Psycho 100,10
-Mob Psycho 100 II,-
-Monster Musume no Iru Nichijou,9
-Nanatsu no Taizai,10
-Nanatsu no Taizai: Imashime no Fukkatsu,10
-Nanatsu no Taizai: Seisen no Shirushi,10
-Naruto,10
-Naruto: Shippuuden,10
-Nijiiro Days,7
-No Game No Life,9
-Noragami,9
-Noragami Aragoto,9
-Okusama ga Seitokaichou!,9
-Okusama ga Seitokaichou!+!,9
-One Punch Man,10
-One Punch Man 2nd Season,10
-Ookami Shoujo to Kuro Ouji,8
-Ookami to Koushinryou,10
-Ookami to Koushinryou II,9
-Overlord,9
-Overlord II,8
-Overlord III,9
-Prison School,8
-Psycho-Pass,10
+﻿91 DAYS,7
+ABSOLUTE DUO,8
+AFRO SAMURAI,8
+AJIN,8
+AJIN 2ND SEASON,8
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,10
+ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,9
+AO NO EXORCIST,9
+B-GATA H-KEI,8
+BOKU NO HERO ACADEMIA,10
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+CHEER DANSHI!!,5
+CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,9
+DAKARA BOKU WA H GA DEKINAI.,8
+DATE A LIVE,8
+DATE A LIVE II,9
+DEADMAN WONDERLAND,9
+DEATH NOTE,9
+DEATH PARADE,9
+DRAGON BALL,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA GAIDEN: SWORD ORATORIA,8
+ELFEN LIED,5
+FREEZING,8
+FUKIGEN NA MONONOKEAN,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GAKUSEN TOSHI ASTERISK,9
+GAKUSEN TOSHI ASTERISK 2ND SEASON,9
+GANGSTA.,8
+GOD EATER,9
+GOLDEN TIME,9
+GRISAIA NO KAJITSU,9
+GRISAIA NO RAKUEN,9
+HAGURE YUUSHA NO AESTHETICA,8
+HAIKYUU!!,10
+HAIKYUU!! SECOND SEASON,10
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,10
+HANAMONOGATARI,7
+HENTAI OUJI TO WARAWANAI NEKO.,8
+HIDAN NO ARIA,8
+HIGH SCHOOL DXD,9
+HIGH SCHOOL DXD BORN,9
+HIGH SCHOOL DXD HERO,10
+HIGH SCHOOL DXD NEW,9
+HIGHSCHOOL OF THE DEAD,8
+HUNDRED,8
+HUNTER X HUNTER,9
+HYAKKA RYOURAN: SAMURAI BRIDE,9
+HYAKKA RYOURAN: SAMURAI GIRLS,8
+IS: INFINITE STRATOS,8
+IS: INFINITE STRATOS 2,8
+JITSU WA WATASHI WA,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,10
+KAICHOU WA MAID-SAMA!,10
+KAMISAMA HAJIMEMASHITA,10
+KAMISAMA HAJIMEMASHITA◎,10
+KÄMPFER,8
+KISEIJUU: SEI NO KAKURITSU,9
+KISS X SIS (TV),10
+KORE WA ZOMBIE DESU KA?,7
+KORE WA ZOMBIE DESU KA? OF THE DEAD,8
+KUUSEN MADOUSHI KOUHOSEI NO KYOUKAN,8
+LOVE LIVE! SUNSHINE!!,6
+LUCK & LOGIC,1
+MAHOUKA KOUKOU NO RETTOUSEI,10
+MASAMUNE-KUN NO REVENGE,9
+MOB PSYCHO 100,10
+MONSTER MUSUME NO IRU NICHIJOU,9
+NANATSU NO TAIZAI,10
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,10
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,10
+NARUTO,10
+NARUTO: SHIPPUUDEN,10
+NIJIIRO DAYS,7
+NO GAME NO LIFE,9
+NORAGAMI,9
+NORAGAMI ARAGOTO,9
+OKUSAMA GA SEITOKAICHOU!,9
+OKUSAMA GA SEITOKAICHOU!+!,9
+ONE PUNCH MAN,10
+ONE PUNCH MAN 2ND SEASON,10
+OOKAMI SHOUJO TO KURO OUJI,8
+OOKAMI TO KOUSHINRYOU,10
+OOKAMI TO KOUSHINRYOU II,9
+OVERLORD,9
+OVERLORD II,8
+OVERLORD III,9
+PRISON SCHOOL,8
+PSYCHO-PASS,10
 R-15,6
-Rail Wars!,7
-Rakudai Kishi no Cavalry,10
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Rosario to Vampire,8
-Rosario to Vampire Capu2,9
-Saiki Kusuo no Ψ-nan,-
-Saiki Kusuo no Ψ-nan 2,-
-Sakamoto Desu ga?,-
-Seikon no Qwaser,8
-Seikon no Qwaser II,9
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,-
-Sekirei,6
-Sekirei: Pure Engagement,6
-Shigatsu wa Kimi no Uso,-
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,6
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,10
-Shingeki no Kyojin Season 3,-
-Shingeki no Kyojin Season 3 Part 2,-
-Shinmai Maou no Testament,9
-Shinmai Maou no Testament Burst,9
-Shokugeki no Souma,10
-Shokugeki no Souma: Ni no Sara,10
-Shokugeki no Souma: San no Sara,10
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,10
-Shokugeki no Souma: Shin no Sara,-
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,-
-Sora no Otoshimono,8
-Soul Eater,-
-Steins;Gate,10
-Steins;Gate 0,-
-Sword Art Online,10
-Sword Art Online II,8
-Sword Art Online: Alicization,-
-Tate no Yuusha no Nariagari,-
-Tensei shitara Slime Datta Ken,-
-To LOVE-Ru,9
-To LOVE-Ru Darkness,9
-To LOVE-Ru Darkness 2nd,9
-Tokyo Ghoul,9
-Tokyo Ghoul √A,8
-Toradora!,-
-Trinity Seven,10
-Ushio to Tora (TV),8
-Ushio to Tora (TV) 2nd Season,8
-Yakusoku no Neverland,-
-Yamada-kun to 7-nin no Majo (TV),9
-Yosuga no Sora: In Solitude Where We Are Least Alone.,1
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),-
+RAIL WARS!,7
+RAKUDAI KISHI NO CAVALRY,10
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+ROSARIO TO VAMPIRE,8
+ROSARIO TO VAMPIRE CAPU2,9
+SEIKON NO QWASER,8
+SEIKON NO QWASER II,9
+SEKIREI,6
+SEKIREI: PURE ENGAGEMENT,6
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,6
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,10
+SHINMAI MAOU NO TESTAMENT,9
+SHINMAI MAOU NO TESTAMENT BURST,9
+SHOKUGEKI NO SOUMA,10
+SHOKUGEKI NO SOUMA: NI NO SARA,10
+SHOKUGEKI NO SOUMA: SAN NO SARA,10
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,10
+SORA NO OTOSHIMONO,8
+STEINS;GATE,10
+SWORD ART ONLINE,10
+SWORD ART ONLINE II,8
+TO LOVE-RU,9
+TO LOVE-RU DARKNESS,9
+TO LOVE-RU DARKNESS 2ND,9
+TOKYO GHOUL,9
+TOKYO GHOUL √A,8
+TRINITY SEVEN,10
+USHIO TO TORA (TV),8
+USHIO TO TORA (TV) 2ND SEASON,8
+YAMADA-KUN TO 7-NIN NO MAJO (TV),9
+YOSUGA NO SORA: IN SOLITUDE WHERE WE ARE LEAST ALONE.,1

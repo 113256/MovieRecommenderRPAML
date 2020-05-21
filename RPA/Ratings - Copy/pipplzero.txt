@@ -1,74 +1,64 @@
-﻿.hack//Sign,-
-Afro Samurai,-
-Aldnoah.Zero,8
-Aldnoah.Zero 2nd Season,8
-Alexander Senki,8
-Bakuten Shoot Beyblade,5
-Blood+,8
-Blue Gender,7
-Boku no Hero Academia,10
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,9
-Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,8
-Cowboy Bebop,10
-Cyborg 009: The Cyborg Soldier,7
-Darker than Black: Kuro no Keiyakusha,6
-Darling in the FranXX,9
-Death Note,9
-Dragon Ball Kai,-
-Dragon Ball Super,8
-Dragon Ball Z,8
-Fullmetal Alchemist,8
-Goblin Slayer,9
-Hataraku Saibou (TV),-
-Hellsing,9
-Highschool of the Dead,9
-Jinzou Ningen Kikaider The Animation,6
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,-
-Keijo!!!!!!!!,7
-Kimetsu no Yaiba,9
-Koukaku Kidoutai: Stand Alone Complex,10
-Koukaku Kidoutai: Stand Alone Complex 2nd GIG,9
-Koukyoushihen Eureka Seven,9
-Lupin III,7
-Made in Abyss,10
-Mahoutsukai no Yome,8
-Megalo Box,9
-Mob Psycho 100,-
-Mobile Fighter G Gundam,7
-Mobile Suit Gundam 00,8
-Mobile Suit Gundam 00 Second Season,9
-Mobile Suit Gundam SEED,7
-Mobile Suit Gundam Wing,9
-Mobile Suit Gundam: Iron-Blooded Orphans,9
-Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season,10
-Mobile Suit Zeta Gundam,8
-Monster,8
-Mousou Dairinin,8
-Mushishi,10
-Mushishi Zoku Shou,8
-Mushishi Zoku Shou 2nd Season,8
-Neon Genesis Evangelion,10
-One Punch Man,10
-Psycho-Pass,8
-Psycho-Pass 2,7
-Rurouni Kenshin: Meiji Kenkaku Romantan,6
-s.CRY.ed,7
-Samurai Champloo,10
-Seihou Bukyou Outlaw Star,9
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,-
-Shingeki no Kyojin Season 3 Part 2,-
-Sidonia no Kishi,-
-Sidonia no Kishi: Daikyuu Wakusei Seneki,6
-Space☆Dandy,10
-Space☆Dandy 2nd Season,9
-Tenchi Muyou!,7
-Tenkuu no Escaflowne,8
-The Big O,8
-Tokyo Ghoul,8
-Trigun,-
-Vinland Saga,8
-Yuu☆Yuu☆Hakusho,10
+﻿ALDNOAH.ZERO,8
+ALDNOAH.ZERO 2ND SEASON,8
+ALEXANDER SENKI,8
+BAKUTEN SHOOT BEYBLADE,5
+BLOOD+,8
+BLUE GENDER,7
+BOKU NO HERO ACADEMIA,10
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,8
+COWBOY BEBOP,10
+CYBORG 009: THE CYBORG SOLDIER,7
+DARKER THAN BLACK: KURO NO KEIYAKUSHA,6
+DARLING IN THE FRANXX,9
+DEATH NOTE,9
+DRAGON BALL SUPER,8
+DRAGON BALL Z,8
+FULLMETAL ALCHEMIST,8
+GOBLIN SLAYER,9
+HELLSING,9
+HIGHSCHOOL OF THE DEAD,9
+JINZOU NINGEN KIKAIDER THE ANIMATION,6
+KEIJO!!!!!!!!,7
+KIMETSU NO YAIBA,9
+KOUKAKU KIDOUTAI: STAND ALONE COMPLEX,10
+KOUKAKU KIDOUTAI: STAND ALONE COMPLEX 2ND GIG,9
+KOUKYOUSHIHEN EUREKA SEVEN,9
+LUPIN III,7
+MADE IN ABYSS,10
+MAHOUTSUKAI NO YOME,8
+MEGALO BOX,9
+MOBILE FIGHTER G GUNDAM,7
+MOBILE SUIT GUNDAM 00,8
+MOBILE SUIT GUNDAM 00 SECOND SEASON,9
+MOBILE SUIT GUNDAM SEED,7
+MOBILE SUIT GUNDAM WING,9
+MOBILE SUIT GUNDAM: IRON-BLOODED ORPHANS,9
+MOBILE SUIT GUNDAM: IRON-BLOODED ORPHANS 2ND SEASON,10
+MOBILE SUIT ZETA GUNDAM,8
+MONSTER,8
+MOUSOU DAIRININ,8
+MUSHISHI,10
+MUSHISHI ZOKU SHOU,8
+MUSHISHI ZOKU SHOU 2ND SEASON,8
+NEON GENESIS EVANGELION,10
+ONE PUNCH MAN,10
+PSYCHO-PASS,8
+PSYCHO-PASS 2,7
+RUROUNI KENSHIN: MEIJI KENKAKU ROMANTAN,6
+S.CRY.ED,7
+SAMURAI CHAMPLOO,10
+SEIHOU BUKYOU OUTLAW STAR,9
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,8
+SIDONIA NO KISHI: DAIKYUU WAKUSEI SENEKI,6
+SPACE☆DANDY,10
+SPACE☆DANDY 2ND SEASON,9
+TENCHI MUYOU!,7
+TENKUU NO ESCAFLOWNE,8
+THE BIG O,8
+TOKYO GHOUL,8
+VINLAND SAGA,8
+YUU☆YUU☆HAKUSHO,10

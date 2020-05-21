@@ -1,66 +1,66 @@
-Akame ga Kill!,9
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Charlotte,9
-Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!,7
-Chuunibyou demo Koi ga Shitai!,8
-Darker than Black: Kuro no Keiyakusha,8
-Darker than Black: Ryuusei no Gemini,8
-Darling in the FranXX,8
-Dr. Stone,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
-Fate/stay night: Unlimited Blade Works,9
-Fate/stay night: Unlimited Blade Works 2nd Season,9
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,7
-Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,7
-Gin no Guardian,4
-Gin no Guardian II,6
-Goblin Slayer,8
-Grand Blue,9
-Gunjou no Magmell,8
-Hagure Yuusha no Aesthetica,6
-Ichiban Ushiro no Daimaou,7
-Isekai Quartet,6
-Isekai Quartet 2,9
-JoJo no Kimyou na Bouken (TV),8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
+﻿AKAME GA KILL!,9
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+CHARLOTTE,9
+CHOUJIN KOUKOUSEI-TACHI WA ISEKAI DEMO YOYUU DE IKINUKU YOU DESU!,7
+CHUUNIBYOU DEMO KOI GA SHITAI!,8
+DARKER THAN BLACK: KURO NO KEIYAKUSHA,8
+DARKER THAN BLACK: RYUUSEI NO GEMINI,8
+DARLING IN THE FRANXX,8
+DR. STONE,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,7
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,9
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,9
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,7
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI 2ND SEASON,7
+GIN NO GUARDIAN,4
+GIN NO GUARDIAN II,6
+GOBLIN SLAYER,8
+GRAND BLUE,9
+GUNJOU NO MAGMELL,8
+HAGURE YUUSHA NO AESTHETICA,6
+ICHIBAN USHIRO NO DAIMAOU,7
+ISEKAI QUARTET,6
+ISEKAI QUARTET 2,9
+JOJO NO KIMYOU NA BOUKEN (TV),8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,9
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,9
 K,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kimetsu no Yaiba,10
-Kono Subarashii Sekai ni Shukufuku wo!,10
-Kono Subarashii Sekai ni Shukufuku wo! 2,10
-Love Live! School Idol Project,6
-Maou-sama Retry!,5
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,9
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Imashime no Fukkatsu,8
-No Game No Life,9
-Noragami,7
-One Punch Man,8
-Persona 5 the Animation,5
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Rokka no Yuusha,8
-Rokudenashi Majutsu Koushi to Akashic Records,9
-Shigatsu wa Kimi no Uso,8
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,10
-Steins;Gate,10
-Sword Art Online,7
-Sword Art Online II,7
-Sword Art Online: Alicization,7
-Tate no Yuusha no Nariagari,9
-Tensei shitara Slime Datta Ken,9
-Toaru Kagaku no Railgun,8
-Toaru Kagaku no Railgun S,9
-Toaru Majutsu no Index,8
-Tokyo Ghoul,8
-Trinity Seven,9
-Vinland Saga,9
-Yakusoku no Neverland,9
-Youjo Senki,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KIMETSU NO YAIBA,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,10
+LOVE LIVE! SCHOOL IDOL PROJECT,6
+MAOU-SAMA RETRY!,5
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,9
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,8
+NO GAME NO LIFE,9
+NORAGAMI,7
+ONE PUNCH MAN,8
+PERSONA 5 THE ANIMATION,5
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+ROKKA NO YUUSHA,8
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,9
+SHIGATSU WA KIMI NO USO,8
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+STEINS;GATE,10
+SWORD ART ONLINE,7
+SWORD ART ONLINE II,7
+SWORD ART ONLINE: ALICIZATION,7
+TATE NO YUUSHA NO NARIAGARI,9
+TENSEI SHITARA SLIME DATTA KEN,9
+TOARU KAGAKU NO RAILGUN,8
+TOARU KAGAKU NO RAILGUN S,9
+TOARU MAJUTSU NO INDEX,8
+TOKYO GHOUL,8
+TRINITY SEVEN,9
+VINLAND SAGA,9
+YAKUSOKU NO NEVERLAND,9
+YOUJO SENKI,8

@@ -1,9 +1,7 @@
-﻿Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,9
-Darling in the FranXX,8
-Death Note,10
-Fullmetal Alchemist: Brotherhood,9
-Kakegurui,-
-Kakegurui××,-
-Sword Art Online,10
-Sword Art Online II,7
+﻿CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,9
+DARLING IN THE FRANXX,8
+DEATH NOTE,10
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+SWORD ART ONLINE,10
+SWORD ART ONLINE II,7

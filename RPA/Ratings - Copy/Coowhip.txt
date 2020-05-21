@@ -1,57 +1,54 @@
-﻿Akame ga Kill!,7
-Ansatsu Kyoushitsu,7
-Boku dake ga Inai Machi,9
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,9
-Bungou Stray Dogs,9
-Bungou Stray Dogs 2nd Season,9
-Charlotte,8
-ChäoS;Child,6
-Citrus,10
-Cowboy Bebop,10
-Death Parade,7
-Dorohedoro,-
-Dr. Stone,-
-Elfen Lied,7
-Fairy Tail,6
-Fullmetal Alchemist: Brotherhood,10
-High School DxD,7
-High School DxD BorN,7
-High School DxD Hero,7
-High School DxD New,7
-Ishuzoku Reviewers,-
-JoJo no Kimyou na Bouken (TV),8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,10
-Kill la Kill,7
-Kiseijuu: Sei no Kakuritsu,8
-Kobayashi-san Chi no Maid Dragon,8
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Little Witch Academia (TV),7
-Made in Abyss,9
-Mirai Nikki,8
-Mob Psycho 100,7
-Mob Psycho 100 II,9
-Musaigen no Phantom World,7
-Nanatsu no Taizai,8
-Naruto,7
-Naruto: Shippuuden,8
-No Game No Life,9
-Noragami,9
-One Punch Man,8
-Psycho-Pass,7
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Soul Eater,9
-Steins;Gate,10
-Steins;Gate 0,10
-Sword Art Online,6
-Sword Art Online II,5
-Tensei shitara Slime Datta Ken,8
-Tokyo Ghoul,8
-Tokyo Ghoul √A,8
-Tokyo Ghoul:re,7
-World Trigger,5
+﻿AKAME GA KILL!,7
+ANSATSU KYOUSHITSU,7
+BOKU DAKE GA INAI MACHI,9
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,9
+BUNGOU STRAY DOGS,9
+BUNGOU STRAY DOGS 2ND SEASON,9
+CHARLOTTE,8
+CHÄOS;CHILD,6
+CITRUS,10
+COWBOY BEBOP,10
+DEATH PARADE,7
+ELFEN LIED,7
+FAIRY TAIL,6
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+HIGH SCHOOL DXD,7
+HIGH SCHOOL DXD BORN,7
+HIGH SCHOOL DXD HERO,7
+HIGH SCHOOL DXD NEW,7
+JOJO NO KIMYOU NA BOUKEN (TV),8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,9
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,10
+KILL LA KILL,7
+KISEIJUU: SEI NO KAKURITSU,8
+KOBAYASHI-SAN CHI NO MAID DRAGON,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+LITTLE WITCH ACADEMIA (TV),7
+MADE IN ABYSS,9
+MIRAI NIKKI,8
+MOB PSYCHO 100,7
+MOB PSYCHO 100 II,9
+MUSAIGEN NO PHANTOM WORLD,7
+NANATSU NO TAIZAI,8
+NARUTO,7
+NARUTO: SHIPPUUDEN,8
+NO GAME NO LIFE,9
+NORAGAMI,9
+ONE PUNCH MAN,8
+PSYCHO-PASS,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+SOUL EATER,9
+STEINS;GATE,10
+STEINS;GATE 0,10
+SWORD ART ONLINE,6
+SWORD ART ONLINE II,5
+TENSEI SHITARA SLIME DATTA KEN,8
+TOKYO GHOUL,8
+TOKYO GHOUL √A,8
+TOKYO GHOUL:RE,7
+WORLD TRIGGER,5

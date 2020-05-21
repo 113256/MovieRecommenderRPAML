@@ -1,89 +1,88 @@
-5-toubun no Hanayome,6
-Another,7
-Ansatsu Kyoushitsu,10
-Ansatsu Kyoushitsu 2nd Season,10
-Ao Haru Ride,9
-Ao no Exorcist,8
-Ao no Exorcist: Kyoto Fujouou-hen,7
-Assassins Pride,7
-Black Bullet,9
-Blood Lad,8
-Brothers Conflict,8
-Bungou Stray Dogs,9
-Bungou Stray Dogs 2nd Season,9
-Charlotte,10
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,9
-Darling in the FranXX,10
-Darwin's Game,10
-Death Note,7
-Death Parade,9
-Devils Line,10
-Diabolik Lovers,7
-Diabolik Lovers MoreBlood,7
-Domestic na Kanojo,9
-Enen no Shouboutai,7
-Free!,10
-Free!: Dive to the Future,10
-Free!: Eternal Summer,10
-Fruits Basket 1st Season,9
-Grisaia no Kajitsu,10
-Haikyuu!!,9
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8
-Hakushaku to Yousei,6
-Hataraku Maou-sama!,5
-Hyouka,10
-IS: Infinite Stratos,7
-Itsudatte Bokura no Koi wa 10 cm Datta.,8
-K: Return of Kings,8
-Kaichou wa Maid-sama!,9
-Kakegurui,9
-Kakegurui××,9
-Kamisama Hajimemashita,8
-Kamisama Hajimemashita◎,9
-Kenja no Mago,9
-Keppeki Danshi! Aoyama-kun,7
-Kimetsu no Yaiba,9
-Kiseijuu: Sei no Kakuritsu,8
-Kujira no Kora wa Sajou ni Utau,6
-Kuzu no Honkai,10
-Kyokou Suiri,9
-Kyoukai no Kanata,10
-Love Live! Sunshine!!,7
-Mahou Shoujo Site,10
-Mahouka Koukou no Rettousei,9
-Mahoutsukai no Yome,10
-Nijiiro Days,8
-Ookami Shoujo to Kuro Ouji,7
-Orange,10
-Psycho-Pass,10
-Psycho-Pass 2,9
-Sakura-sou no Pet na Kanojo,8
-Satsuriku no Tenshi,9
-Servamp,9
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,10
-Shingeki no Kyojin Season 3,10
-Shingeki no Kyojin Season 3 Part 2,10
-Shinryaku! Ika Musume,7
-Shokugeki no Souma,8
-Shugo Chara!,8
-Strike the Blood,9
-Sukitte Ii na yo.,5
-Taimadou Gakuen 35 Shiken Shoutai,10
-Tokyo Ghoul,10
-Tokyo Ghoul √A,10
-Tokyo Ghoul:re,10
-Tokyo Ghoul:re 2nd Season,10
-Tonari no Kaibutsu-kun,9
-Trinity Seven,8
+﻿5-TOUBUN NO HANAYOME,6
+ANOTHER,7
+ANSATSU KYOUSHITSU,10
+ANSATSU KYOUSHITSU 2ND SEASON,10
+AO HARU RIDE,9
+AO NO EXORCIST,8
+AO NO EXORCIST: KYOTO FUJOUOU-HEN,7
+ASSASSINS PRIDE,7
+BLACK BULLET,9
+BLOOD LAD,8
+BROTHERS CONFLICT,8
+BUNGOU STRAY DOGS,9
+BUNGOU STRAY DOGS 2ND SEASON,9
+CHARLOTTE,10
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,9
+DARLING IN THE FRANXX,10
+DARWIN'S GAME,10
+DEATH NOTE,7
+DEATH PARADE,9
+DEVILS LINE,10
+DIABOLIK LOVERS,7
+DIABOLIK LOVERS MOREBLOOD,7
+DOMESTIC NA KANOJO,9
+ENEN NO SHOUBOUTAI,7
+FREE!,10
+FREE!: DIVE TO THE FUTURE,10
+FREE!: ETERNAL SUMMER,10
+FRUITS BASKET 1ST SEASON,9
+GRISAIA NO KAJITSU,10
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,8
+HAKUSHAKU TO YOUSEI,6
+HATARAKU MAOU-SAMA!,5
+HYOUKA,10
+IS: INFINITE STRATOS,7
+ITSUDATTE BOKURA NO KOI WA 10 CM DATTA.,8
+K: RETURN OF KINGS,8
+KAICHOU WA MAID-SAMA!,9
+KAKEGURUI,9
+KAKEGURUI××,9
+KAMISAMA HAJIMEMASHITA,8
+KAMISAMA HAJIMEMASHITA◎,9
+KENJA NO MAGO,9
+KEPPEKI DANSHI! AOYAMA-KUN,7
+KIMETSU NO YAIBA,9
+KISEIJUU: SEI NO KAKURITSU,8
+KUJIRA NO KORA WA SAJOU NI UTAU,6
+KUZU NO HONKAI,10
+KYOKOU SUIRI,9
+KYOUKAI NO KANATA,10
+LOVE LIVE! SUNSHINE!!,7
+MAHOU SHOUJO SITE,10
+MAHOUKA KOUKOU NO RETTOUSEI,9
+MAHOUTSUKAI NO YOME,10
+NIJIIRO DAYS,8
+OOKAMI SHOUJO TO KURO OUJI,7
+ORANGE,10
+PSYCHO-PASS,10
+PSYCHO-PASS 2,9
+SAKURA-SOU NO PET NA KANOJO,8
+SATSURIKU NO TENSHI,9
+SERVAMP,9
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,10
+SHINGEKI NO KYOJIN SEASON 3,10
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SHINRYAKU! IKA MUSUME,7
+SHOKUGEKI NO SOUMA,8
+SHUGO CHARA!,8
+STRIKE THE BLOOD,9
+SUKITTE II NA YO.,5
+TAIMADOU GAKUEN 35 SHIKEN SHOUTAI,10
+TOKYO GHOUL,10
+TOKYO GHOUL √A,10
+TOKYO GHOUL:RE,10
+TOKYO GHOUL:RE 2ND SEASON,10
+TONARI NO KAIBUTSU-KUN,9
+TRINITY SEVEN,8
 UN-GO,7
-Vampire Knight,7
-Violet Evergarden,10
-Yakusoku no Neverland,10
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),10
-Yume-iro Pâtissière,10
-Yume-iro Pâtissière SP Professional,-
-Yuri!!! on Ice,7
-Zankyou no Terror,10
-Zero no Tsukaima,7
+VAMPIRE KNIGHT,7
+VIOLET EVERGARDEN,10
+YAKUSOKU NO NEVERLAND,10
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),10
+YUME-IRO PÂTISSIÈRE,10
+YURI!!! ON ICE,7
+ZANKYOU NO TERROR,10
+ZERO NO TSUKAIMA,7

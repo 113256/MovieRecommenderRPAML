@@ -1,87 +1,87 @@
-Acchi Kocchi (TV),9
-Amagi Brilliant Park,10
-Barakamon,10
-Binbougami ga!,8
-Black Bullet,8
-Blend S,7
-Bokura wa Minna Kawai-sou,9
-Btooom!,8
-Bungou Stray Dogs,9
-Bungou Stray Dogs 2nd Season,10
-Charlotte,7
-Chuunibyou demo Koi ga Shitai!,8
-D-Frag!,9
-Dakara Boku wa H ga Dekinai.,7
-Danchigai,9
-Demi-chan wa Kataritai,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
-Flying Witch,10
-Gakusen Toshi Asterisk,9
-Gakusen Toshi Asterisk 2nd Season,9
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,8
-Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,8
-Gekkan Shoujo Nozaki-kun,10
-Gochuumon wa Usagi Desu ka?,9
-Grisaia no Kajitsu,8
-Hagure Yuusha no Aesthetica,8
-Hataraku Maou-sama!,8
-High School DxD,9
-High School DxD BorN,9
-High School DxD New,9
-Inugami-san to Nekoyama-san,8
-Isekai Shokudou,8
-Isekai wa Smartphone to Tomo ni.,8
-Kaichou wa Maid-sama!,10
-Kanojo ga Flag wo Oraretara,10
-Karakai Jouzu no Takagi-san,10
-Kekkai Sensen,10
-Kekkai Sensen & Beyond,10
-Kiznaiver,8
-Kobayashi-san Chi no Maid Dragon,10
-Kono Bijutsubu ni wa Mondai ga Aru!,9
-Kono Subarashii Sekai ni Shukufuku wo!,10
-Kono Subarashii Sekai ni Shukufuku wo! 2,10
-Kotoura-san,8
-Koutetsujou no Kabaneri,8
-Kyoukai no Kanata,10
-Log Horizon,8
-Log Horizon 2nd Season,8
-Mahouka Koukou no Rettousei,9
-Mangaka-san to Assistant-san to The Animation,9
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,9
-Monster Musume no Iru Nichijou,10
-Musaigen no Phantom World,10
-Nanatsu no Bitoku,7
-Nijiiro Days,8
-No Game No Life,10
-Okusama ga Seitokaichou!,8
-Okusama ga Seitokaichou!+!,9
-One Punch Man,9
-Ore ga Ojousama Gakkou ni Shomin Sample Toshite Gets♥Sareta Ken,7
-Oshiete! Galko-chan,9
-Outbreak Company,8
-Overlord,10
-Overlord II,9
-Princess Lover!,9
-Re:Creators,10
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Rokka no Yuusha,8
-Rokudenashi Majutsu Koushi to Akashic Records,9
-Saenai Heroine no Sodatekata,8
-Sakura Trick,9
-Seitokai Yakuindomo,9
-Seitokai Yakuindomo*,9
-Shigatsu wa Kimi no Uso,9
-Shokugeki no Souma,9
-Shokugeki no Souma: Ni no Sara,9
-Sin: Nanatsu no Taizai,7
-Slow Start,9
-Sword Art Online,7
-Sword Art Online II,8
-Tamako Market,9
-Tanaka-kun wa Itsumo Kedaruge,10
-Tasogare Otome x Amnesia,9
-Tsurezure Children,9
-Usagi Drop,10
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),10
-Yuyushiki,9
+﻿ACCHI KOCCHI (TV),9
+AMAGI BRILLIANT PARK,10
+BARAKAMON,10
+BINBOUGAMI GA!,8
+BLACK BULLET,8
+BLEND S,7
+BOKURA WA MINNA KAWAI-SOU,9
+BTOOOM!,8
+BUNGOU STRAY DOGS,9
+BUNGOU STRAY DOGS 2ND SEASON,10
+CHARLOTTE,7
+CHUUNIBYOU DEMO KOI GA SHITAI!,8
+D-FRAG!,9
+DAKARA BOKU WA H GA DEKINAI.,7
+DANCHIGAI,9
+DEMI-CHAN WA KATARITAI,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,8
+FLYING WITCH,10
+GAKUSEN TOSHI ASTERISK,9
+GAKUSEN TOSHI ASTERISK 2ND SEASON,9
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,8
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI 2ND SEASON,8
+GEKKAN SHOUJO NOZAKI-KUN,10
+GOCHUUMON WA USAGI DESU KA?,9
+GRISAIA NO KAJITSU,8
+HAGURE YUUSHA NO AESTHETICA,8
+HATARAKU MAOU-SAMA!,8
+HIGH SCHOOL DXD,9
+HIGH SCHOOL DXD BORN,9
+HIGH SCHOOL DXD NEW,9
+INUGAMI-SAN TO NEKOYAMA-SAN,8
+ISEKAI SHOKUDOU,8
+ISEKAI WA SMARTPHONE TO TOMO NI.,8
+KAICHOU WA MAID-SAMA!,10
+KANOJO GA FLAG WO ORARETARA,10
+KARAKAI JOUZU NO TAKAGI-SAN,10
+KEKKAI SENSEN,10
+KEKKAI SENSEN & BEYOND,10
+KIZNAIVER,8
+KOBAYASHI-SAN CHI NO MAID DRAGON,10
+KONO BIJUTSUBU NI WA MONDAI GA ARU!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,10
+KOTOURA-SAN,8
+KOUTETSUJOU NO KABANERI,8
+KYOUKAI NO KANATA,10
+LOG HORIZON,8
+LOG HORIZON 2ND SEASON,8
+MAHOUKA KOUKOU NO RETTOUSEI,9
+MANGAKA-SAN TO ASSISTANT-SAN TO THE ANIMATION,9
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,9
+MONSTER MUSUME NO IRU NICHIJOU,10
+MUSAIGEN NO PHANTOM WORLD,10
+NANATSU NO BITOKU,7
+NIJIIRO DAYS,8
+NO GAME NO LIFE,10
+OKUSAMA GA SEITOKAICHOU!,8
+OKUSAMA GA SEITOKAICHOU!+!,9
+ONE PUNCH MAN,9
+ORE GA OJOUSAMA GAKKOU NI SHOMIN SAMPLE TOSHITE GETS♥SARETA KEN,7
+OSHIETE! GALKO-CHAN,9
+OUTBREAK COMPANY,8
+OVERLORD,10
+OVERLORD II,9
+PRINCESS LOVER!,9
+RE:CREATORS,10
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+ROKKA NO YUUSHA,8
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,9
+SAENAI HEROINE NO SODATEKATA,8
+SAKURA TRICK,9
+SEITOKAI YAKUINDOMO,9
+SEITOKAI YAKUINDOMO*,9
+SHIGATSU WA KIMI NO USO,9
+SHOKUGEKI NO SOUMA,9
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SIN: NANATSU NO TAIZAI,7
+SLOW START,9
+SWORD ART ONLINE,7
+SWORD ART ONLINE II,8
+TAMAKO MARKET,9
+TANAKA-KUN WA ITSUMO KEDARUGE,10
+TASOGARE OTOME X AMNESIA,9
+TSUREZURE CHILDREN,9
+USAGI DROP,10
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),10
+YUYUSHIKI,9

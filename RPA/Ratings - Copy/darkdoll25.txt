@@ -1,107 +1,53 @@
-﻿Aldnoah.Zero,-
-Amagi Brilliant Park,10
-Angel Beats!,-
-Another,-
-Ansatsu Kyoushitsu,10
-Bakuman.,-
-Bleach,2
-Boku dake ga Inai Machi,-
-Brave 10,10
-Bungou Stray Dogs,-
-Bungou Stray Dogs 2nd Season,10
-C: The Money of Soul and Possibility Control,-
-Cardcaptor Sakura,10
-Cardfight!! Vanguard,10
-Cardfight!! Vanguard: Asia Circuit-hen,10
-Charlotte,10
-Chrome Shelled Regios,-
-Chuunibyou demo Koi ga Shitai!,-
-Chuunibyou demo Koi ga Shitai! Ren,-
-Code Geass: Hangyaku no Lelouch,10
-Code:Breaker,-
-D.Gray-man,10
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,8
-Dantalian no Shoka,10
-Darker than Black: Kuro no Keiyakusha,10
-Darker than Black: Ryuusei no Gemini,10
-Death Note,-
-Death Parade,10
-Free!,10
-Free!: Eternal Summer,-
-Full Moon wo Sagashite,-
-Gekkan Shoujo Nozaki-kun,-
-Ghost Hunt,10
-Golden Time,-
-Guilty Crown,10
-Hibike! Euphonium,-
-Hikaru no Go,-
-Hyouka,10
-InuYasha (TV),10
-Jibaku Shounen Hanako-kun,10
-Jormungand,10
-Jormungand: Perfect Order,-
-K,-
-K: Return of Kings,10
-Kami nomi zo Shiru Sekai,10
-Kamichama Karin,10
-Kamisama no Memochou,10
-Katekyo Hitman Reborn!,10
-Kimetsu no Yaiba,10
-Kuroshitsuji,10
-Kuroshitsuji II,5
-Kyoukai no Kanata,-
-Magi: The Kingdom of Magic,10
-Magi: The Labyrinth of Magic,-
-Mahou Shoujo Lyrical Nanoha,-
-Mahou Shoujo Lyrical Nanoha A's,-
-Mahou Shoujo Lyrical Nanoha StrikerS,-
-Maji de Watashi ni Koi Shinasai!,-
-Mermaid Melody Pichi Pichi Pitch,-
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,10
-Myself; Yourself,10
-Neo Angelique Abyss,-
-Neo Angelique Abyss: Second Age,-
-Night Wizard,-
-No.6,-
-Noragami,10
-Nurarihyon no Mago,-
-Nurarihyon no Mago: Sennen Makyou,-
-Otome Youkai Zakuro,-
-Ouran Koukou Host Club,10
-Pandora Hearts,-
-Pokemon,-
-Pokemon Advanced Generation,-
-Pokemon Diamond & Pearl,-
-Pokemon Housoukyoku,-
-Princess Tutu,10
-Psycho-Pass,-
-Psycho-Pass 2,-
-Rozen Maiden,-
-Rozen Maiden: Träumend,-
-Sakura-sou no Pet na Kanojo,10
-Sankarea,-
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
-Shin Tennis no Ouji-sama,10
-Shinrei Tantei Yakumo,10
-Shugo Chara!,7
-Shugo Chara! Party!,6
-Shugo Chara!! Doki,-
-SKET Dance,10
-Skip Beat!,-
-Special A,-
-Steins;Gate,10
-Sword Art Online,10
-Sword Art Online II,-
-Tennis no Ouji-sama,-
-Tokyo Ghoul,-
-Tokyo Mew Mew,-
-Tokyo Ravens,8
+﻿AMAGI BRILLIANT PARK,10
+ANSATSU KYOUSHITSU,10
+BLEACH,2
+BRAVE 10,10
+BUNGOU STRAY DOGS 2ND SEASON,10
+CARDCAPTOR SAKURA,10
+CARDFIGHT!! VANGUARD,10
+CARDFIGHT!! VANGUARD: ASIA CIRCUIT-HEN,10
+CHARLOTTE,10
+CODE GEASS: HANGYAKU NO LELOUCH,10
+D.GRAY-MAN,10
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,8
+DANTALIAN NO SHOKA,10
+DARKER THAN BLACK: KURO NO KEIYAKUSHA,10
+DARKER THAN BLACK: RYUUSEI NO GEMINI,10
+DEATH PARADE,10
+FREE!,10
+GHOST HUNT,10
+GUILTY CROWN,10
+HYOUKA,10
+INUYASHA (TV),10
+JIBAKU SHOUNEN HANAKO-KUN,10
+JORMUNGAND,10
+K: RETURN OF KINGS,10
+KAMI NOMI ZO SHIRU SEKAI,10
+KAMICHAMA KARIN,10
+KAMISAMA NO MEMOCHOU,10
+KATEKYO HITMAN REBORN!,10
+KIMETSU NO YAIBA,10
+KUROSHITSUJI,10
+KUROSHITSUJI II,5
+MAGI: THE KINGDOM OF MAGIC,10
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,10
+MYSELF; YOURSELF,10
+NORAGAMI,10
+OURAN KOUKOU HOST CLUB,10
+PRINCESS TUTU,10
+SAKURA-SOU NO PET NA KANOJO,10
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,10
+SHIN TENNIS NO OUJI-SAMA,10
+SHINREI TANTEI YAKUMO,10
+SHUGO CHARA!,7
+SHUGO CHARA! PARTY!,6
+SKET DANCE,10
+STEINS;GATE,10
+SWORD ART ONLINE,10
+TOKYO RAVENS,8
 UN-GO,10
-Wotaku ni Koi wa Muzukashii,-
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,10
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,10
-Yu☆Gi☆Oh! Duel Monsters,-
-Yu☆Gi☆Oh!: Duel Monsters GX,10
-Yume-iro Pâtissière,5
-Yume-iro Pâtissière SP Professional,-
-Zombie-Loan,10
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,10
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,10
+YU☆GI☆OH!: DUEL MONSTERS GX,10
+YUME-IRO PÂTISSIÈRE,5
+ZOMBIE-LOAN,10

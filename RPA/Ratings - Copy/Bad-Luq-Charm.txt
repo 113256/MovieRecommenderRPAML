@@ -1,79 +1,79 @@
-﻿5-toubun no Hanayome,7
-Afro Samurai,7
-Akagami no Shirayuki-hime,8
-Akagami no Shirayuki-hime 2nd Season,8
-Angel Beats!,7
-Arifureta Shokugyou de Sekai Saikyou,5
-Boku no Hero Academia,7
-Cop Craft,8
-Darwin's Game,7
-Demi-chan wa Kataritai,8
-Dr. Stone,9
-Druaga no Tou: The Aegis of Uruk,6
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
-Enen no Shouboutai,7
-Fate/stay night: Unlimited Blade Works,10
-Fate/stay night: Unlimited Blade Works 2nd Season,10
-Fate/Zero,10
-Fate/Zero 2nd Season,10
-Full Metal Panic!,8
-Full Metal Panic? Fumoffu,8
-Fullmetal Alchemist: Brotherhood,10
-Goblin Slayer,9
-Grancrest Senki,8
-Hataraku Saibou (TV),8
-Infinite Dendrogram,8
-Isekai Quartet,8
-Isekai Quartet 2,7
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,6
-JoJo no Kimyou na Bouken (TV),8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kanata no Astra,9
-Katsute Kami Datta Kemono-tachi e,7
-Kenja no Mago,6
-Kill la Kill,7
-Kimetsu no Yaiba,10
-Kino no Tabi: The Beautiful World - The Animated Series,8
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,9
-Kyokou Suiri,9
-Kyoto Teramachi Sanjou no Holmes,5
-Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note,8
-Madan no Ou to Vanadis,7
-Maoyuu Maou Yuusha,9
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Imashime no Fukkatsu,7
-Nanatsu no Taizai: Seisen no Shirushi,7
-No Game No Life,7
-No Guns Life,8
-One Punch Man,10
-One Punch Man 2nd Season,7
-Ookami to Koushinryou,10
-Ookami to Koushinryou II,10
-Osake wa Fuufu ni Natte kara,8
-Outbreak Company,8
-Overlord,7
-Overlord II,6
-Pokemon Advanced Generation,7
-Pokemon Best Wishes!,1
-Pokemon Best Wishes! Season 2,3
-Pokemon Diamond & Pearl,7
-Rakudai Kishi no Cavalry,7
-Re:Creators,9
-Seitokai no Ichizon,7
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,8
-Somali to Mori no Kamisama,10
-Soredemo Sekai wa Utsukushii,8
-SSSS.Gridman,6
-Steins;Gate,10
-Steins;Gate 0,8
-Suisei no Gargantia,9
-Sword Art Online,3
-Tales of Zestiria the Cross,8
-Tales of Zestiria the Cross 2nd Season,7
-Tasogare Otome x Amnesia,8
-Tate no Yuusha no Nariagari,9
-Tensei shitara Slime Datta Ken,7
-Tsurezure Children,8
-Watashi Nouryoku wa Heikinchi de tte Itta yo ne!,6
-Zero no Tsukaima,6
+﻿5-TOUBUN NO HANAYOME,7
+AFRO SAMURAI,7
+AKAGAMI NO SHIRAYUKI-HIME,8
+AKAGAMI NO SHIRAYUKI-HIME 2ND SEASON,8
+ANGEL BEATS!,7
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,5
+BOKU NO HERO ACADEMIA,7
+COP CRAFT,8
+DARWIN'S GAME,7
+DEMI-CHAN WA KATARITAI,8
+DR. STONE,9
+DRUAGA NO TOU: THE AEGIS OF URUK,6
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,7
+ENEN NO SHOUBOUTAI,7
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,10
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,10
+FATE/ZERO,10
+FATE/ZERO 2ND SEASON,10
+FULL METAL PANIC!,8
+FULL METAL PANIC? FUMOFFU,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GOBLIN SLAYER,9
+GRANCREST SENKI,8
+HATARAKU SAIBOU (TV),8
+INFINITE DENDROGRAM,8
+ISEKAI QUARTET,8
+ISEKAI QUARTET 2,7
+ITAI NO WA IYA NANO DE BOUGYORYOKU NI KYOKUFURI SHITAI TO OMOIMASU.,6
+JOJO NO KIMYOU NA BOUKEN (TV),8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KANATA NO ASTRA,9
+KATSUTE KAMI DATTA KEMONO-TACHI E,7
+KENJA NO MAGO,6
+KILL LA KILL,7
+KIMETSU NO YAIBA,10
+KINO NO TABI: THE BEAUTIFUL WORLD - THE ANIMATED SERIES,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,9
+KYOKOU SUIRI,9
+KYOTO TERAMACHI SANJOU NO HOLMES,5
+LORD EL-MELLOI II SEI NO JIKENBO: RAIL ZEPPELIN GRACE NOTE,8
+MADAN NO OU TO VANADIS,7
+MAOYUU MAOU YUUSHA,9
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,7
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,7
+NO GAME NO LIFE,7
+NO GUNS LIFE,8
+ONE PUNCH MAN,10
+ONE PUNCH MAN 2ND SEASON,7
+OOKAMI TO KOUSHINRYOU,10
+OOKAMI TO KOUSHINRYOU II,10
+OSAKE WA FUUFU NI NATTE KARA,8
+OUTBREAK COMPANY,8
+OVERLORD,7
+OVERLORD II,6
+POKEMON ADVANCED GENERATION,7
+POKEMON BEST WISHES!,1
+POKEMON BEST WISHES! SEASON 2,3
+POKEMON DIAMOND & PEARL,7
+RAKUDAI KISHI NO CAVALRY,7
+RE:CREATORS,9
+SEITOKAI NO ICHIZON,7
+SHINCHOU YUUSHA: KONO YUUSHA GA ORE TSUEEE KUSE NI SHINCHOU SUGIRU,8
+SOMALI TO MORI NO KAMISAMA,10
+SOREDEMO SEKAI WA UTSUKUSHII,8
+SSSS.GRIDMAN,6
+STEINS;GATE,10
+STEINS;GATE 0,8
+SUISEI NO GARGANTIA,9
+SWORD ART ONLINE,3
+TALES OF ZESTIRIA THE CROSS,8
+TALES OF ZESTIRIA THE CROSS 2ND SEASON,7
+TASOGARE OTOME X AMNESIA,8
+TATE NO YUUSHA NO NARIAGARI,9
+TENSEI SHITARA SLIME DATTA KEN,7
+TSUREZURE CHILDREN,8
+WATASHI NOURYOKU WA HEIKINCHI DE TTE ITTA YO NE!,6
+ZERO NO TSUKAIMA,6

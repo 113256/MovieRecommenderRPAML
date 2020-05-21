@@ -1,101 +1,108 @@
-﻿5-toubun no Hanayome,10
-Absolute Duo,10
-Accel World,10
-Akatsuki no Yona,10
-Angel Beats!,10
-Ao no Exorcist,10
-Arifureta Shokugyou de Sekai Saikyou,10
-Arslan Senki (TV),10
-Arslan Senki (TV): Fuujin Ranbu,10
-Assassins Pride,10
-Astarotte no Omocha!,7
-Big Order (TV),10
-Busou Shoujo Machiavellianism,10
-Charlotte,10
-Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!,10
-Dance in the Vampire Bund,10
-Darling in the FranXX,10
-Death March kara Hajimaru Isekai Kyousoukyoku,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,10
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,10
-Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,10
-Gin no Guardian,10
-Gin no Guardian II,10
-Granblue Fantasy The Animation,10
-Granblue Fantasy The Animation Season 2,10
-Guilty Crown,10
-Hagure Yuusha no Aesthetica,10
-Hai to Gensou no Grimgar,10
-High School DxD,10
-High School DxD BorN,10
-High School DxD Hero,10
-High School DxD New,10
-Hyakuren no Haou to Seiyaku no Valkyria,10
-Ichiban Ushiro no Daimaou,10
-Isekai Cheat Magician,10
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,10
-Isekai wa Smartphone to Tomo ni.,10
-Junketsu no Maria,10
-Karin,10
-Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?,10
-Kaze no Stigma,10
-Kekkai Sensen,10
-Kekkai Sensen & Beyond,10
-Kenja no Mago,10
-Kimetsu no Yaiba,10
-Kobayashi-san Chi no Maid Dragon,10
-Kono Subarashii Sekai ni Shukufuku wo!,10
-Kono Subarashii Sekai ni Shukufuku wo! 2,10
-Machine-Doll wa Kizutsukanai,10
-Madan no Ou to Vanadis,10
-Magi: Sinbad no Bouken (TV),10
-Maou-sama Retry!,10
-Maoyuu Maou Yuusha,10
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,10
-Monster Musume no Iru Nichijou,10
-Nanatsu no Taizai,10
-Nanatsu no Taizai: Imashime no Fukkatsu,10
-Nanatsu no Taizai: Seisen no Shirushi,10
-Nejimaki Seirei Senki: Tenkyou no Alderamin,10
-Nobunaga the Fool,10
-Noragami Aragoto,10
-Oda Nobuna no Yabou,10
-Overlord,10
-Overlord II,10
-Overlord III,10
-Owari no Seraph,10
-Papa no Iukoto wo Kikinasai!,10
-Prison School,8
-Rakudai Kishi no Cavalry,10
-Re:Zero kara Hajimeru Isekai Seikatsu,10
-Renai Boukun,10
-Rokudenashi Majutsu Koushi to Akashic Records,10
-Saijaku Muhai no Bahamut,10
-Sankarea,10
-Seiken no Blacksmith,10
-Seiken Tsukai no World Break,10
-Seireitsukai no Blade Dance,10
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
-Sewayaki Kitsune no Senko-san,10
-Shakugan no Shana,10
-Shakugan no Shana II (Second),10
-Shakugan no Shana III (Final),10
-Shichisei no Subaru,10
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,10
-Shinmai Maou no Testament,10
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,10
-Sword Art Online,10
-Sword Art Online II,10
-Sword Art Online: Alicization,10
-Sword Art Online: Alicization - War of Underworld,10
-Tate no Yuusha no Nariagari,10
-Tensei shitara Slime Datta Ken,10
-Trinity Seven,10
-Tsukuyomi: Moon Phase,10
-Violet Evergarden,10
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),10
-Zero no Tsukaima,10
-Zero no Tsukaima F,10
-Zero no Tsukaima: Futatsuki no Kishi,10
-Zero no Tsukaima: Princesses no Rondo,10
+﻿5-TOUBUN NO HANAYOME,10
+ABSOLUTE DUO,10
+ACCEL WORLD,10
+AKATSUKI NO YONA,10
+ANGEL BEATS!,10
+AO NO EXORCIST,10
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,10
+ARSLAN SENKI (TV),10
+ARSLAN SENKI (TV): FUUJIN RANBU,10
+ASSASSINS PRIDE,10
+ASTAROTTE NO OMOCHA!,7
+BIG ORDER (TV),10
+BUSOU SHOUJO MACHIAVELLIANISM,10
+CHARLOTTE,10
+CHOUJIN KOUKOUSEI-TACHI WA ISEKAI DEMO YOYUU DE IKINUKU YOU DESU!,10
+DANCE IN THE VAMPIRE BUND,10
+DARLING IN THE FRANXX,10
+DEATH MARCH KARA HAJIMARU ISEKAI KYOUSOUKYOKU,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,10
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,10
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI 2ND SEASON,10
+GIN NO GUARDIAN,10
+GIN NO GUARDIAN II,10
+GRANBLUE FANTASY THE ANIMATION,10
+GRANBLUE FANTASY THE ANIMATION SEASON 2,10
+GUILTY CROWN,10
+HAGURE YUUSHA NO AESTHETICA,10
+HAI TO GENSOU NO GRIMGAR,10
+HAJIMETE NO GAL,10
+HATAAGE! KEMONO MICHI,10
+HIGH SCHOOL DXD,10
+HIGH SCHOOL DXD BORN,10
+HIGH SCHOOL DXD HERO,10
+HIGH SCHOOL DXD NEW,10
+HIGHSCHOOL OF THE DEAD,10
+HYAKUREN NO HAOU TO SEIYAKU NO VALKYRIA,10
+ICHIBAN USHIRO NO DAIMAOU,10
+ISEKAI CHEAT MAGICIAN,10
+ISEKAI MAOU TO SHOUKAN SHOUJO NO DOREI MAJUTSU,10
+ISEKAI WA SMARTPHONE TO TOMO NI.,10
+JUNKETSU NO MARIA,10
+KARIN,10
+KAWAIKEREBA HENTAI DEMO SUKI NI NATTE KUREMASU KA?,10
+KAZE NO STIGMA,10
+KEKKAI SENSEN,10
+KEKKAI SENSEN & BEYOND,10
+KENJA NO MAGO,10
+KIMETSU NO YAIBA,10
+KOBAYASHI-SAN CHI NO MAID DRAGON,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,10
+LOVE HINA,10
+MABURAHO,10
+MACHINE-DOLL WA KIZUTSUKANAI,10
+MADAN NO OU TO VANADIS,10
+MAGI: SINBAD NO BOUKEN (TV),10
+MAOU-SAMA RETRY!,10
+MAOYUU MAOU YUUSHA,10
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,10
+MONSTER MUSUME NO IRU NICHIJOU,10
+NANATSU NO TAIZAI,10
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,10
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,10
+NEJIMAKI SEIREI SENKI: TENKYOU NO ALDERAMIN,10
+NOBUNAGA THE FOOL,10
+NORAGAMI ARAGOTO,10
+ODA NOBUNA NO YABOU,10
+ORE GA OJOUSAMA GAKKOU NI SHOMIN SAMPLE TOSHITE GETS♥SARETA KEN,10
+OVERLORD,10
+OVERLORD II,10
+OVERLORD III,10
+OWARI NO SERAPH,10
+PAPA NO IUKOTO WO KIKINASAI!,10
+PRISON SCHOOL,8
+RAKUDAI KISHI NO CAVALRY,10
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+RENAI BOUKUN,10
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,10
+SAIJAKU MUHAI NO BAHAMUT,10
+SANKAREA,10
+SEIKEN NO BLACKSMITH,10
+SEIKEN TSUKAI NO WORLD BREAK,10
+SEIREITSUKAI NO BLADE DANCE,10
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,10
+SEWAYAKI KITSUNE NO SENKO-SAN,10
+SHAKUGAN NO SHANA,10
+SHAKUGAN NO SHANA II (SECOND),10
+SHAKUGAN NO SHANA III (FINAL),10
+SHICHISEI NO SUBARU,10
+SHINCHOU YUUSHA: KONO YUUSHA GA ORE TSUEEE KUSE NI SHINCHOU SUGIRU,10
+SHINMAI MAOU NO TESTAMENT,10
+SHUUMATSU NANI SHITEMASU KA? ISOGASHII DESU KA? SUKUTTE MORATTE II DESU KA?,10
+SWORD ART ONLINE,10
+SWORD ART ONLINE II,10
+SWORD ART ONLINE: ALICIZATION,10
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,10
+TATE NO YUUSHA NO NARIAGARI,10
+TENSEI SHITARA SLIME DATTA KEN,10
+TRINITY SEVEN,10
+TSUKUYOMI: MOON PHASE,10
+VIOLET EVERGARDEN,10
+YAMADA-KUN TO 7-NIN NO MAJO (TV),10
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),10
+ZERO NO TSUKAIMA,10
+ZERO NO TSUKAIMA F,10
+ZERO NO TSUKAIMA: FUTATSUKI NO KISHI,10
+ZERO NO TSUKAIMA: PRINCESSES NO RONDO,10

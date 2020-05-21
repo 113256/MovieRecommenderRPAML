@@ -1,81 +1,81 @@
-﻿.hack//Tasogare no Udewa Densetsu,8
-Afro Samurai,7
-Akame ga Kill!,8
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Ansatsu Kyoushitsu,8
-Ao no Exorcist,8
-Bakuman.,9
-Black Cat,8
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,10
-Boku no Hero Academia 4th Season,10
-Casshern Sins,6
-Darling in the FranXX,8
-Deadman Wonderland,4
-Death Note,8
-Digimon Adventure,9
-Digimon Adventure 02,8
-Digimon Frontier,7
-Digimon Tamers,7
-Dr. Stone,8
-Dragon Ball GT,8
-Dragon Ball Kai,6
-Dragon Ball Kai (2014),7
-Dragon Ball Super,6
-Dragon Ball Z,8
-Enen no Shouboutai,8
-Gakkou no Kaidan,10
-Gantz,7
-High School DxD,8
-Highschool of the Dead,8
-Hoshi no Kirby,9
-Ikkitousen,-
-InuYasha (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kill la Kill,8
-Kimetsu no Yaiba,9
-Kinnikuman II Sei,6
-Kodai Ouja Kyouryuu King,8
-Konjiki no Gash Bell!!,9
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Mirai Nikki,7
-Mob Psycho 100,8
-Mob Psycho 100 II,8
-Naruto,8
-Naruto: Shippuuden,8
-Ojamajo Doremi,9
-One Punch Man,8
-One Punch Man 2nd Season,7
-Ouran Koukou Host Club,6
-Pokemon,8
-Pokemon Advanced Generation,8
-Radiant,8
-Radiant 2nd Season,8
-Saiko Robot Kombock,5
-Samurai Champloo,9
-Shaman King,8
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,9
-Sirius,7
-Sonic X,8
-Soul Eater,8
-Spider Riders: Oracle no Yuusha-tachi,7
-Suzumiya Haruhi no Yuuutsu,10
-Suzumiya Haruhi no Yuuutsu (2009),10
-Taichi Senjimon,6
-Tengen Toppa Gurren Lagann,10
-Tokyo Ghoul,8
-Tokyo Ghoul √A,6
-Tokyo Ghoul:re,8
-Tokyo Ghoul:re 2nd Season,7
-Vinland Saga,7
-Violet Evergarden,9
-Yakusoku no Neverland,10
-Yu☆Gi☆Oh! 5D's,6
-Yu☆Gi☆Oh! Duel Monsters,8
-Zankyou no Terror,9
+﻿.HACK//TASOGARE NO UDEWA DENSETSU,8
+AFRO SAMURAI,7
+AKAME GA KILL!,8
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+ANSATSU KYOUSHITSU,8
+AO NO EXORCIST,8
+BAKUMAN.,9
+BLACK CAT,8
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+BOKU NO HERO ACADEMIA 4TH SEASON,10
+CASSHERN SINS,6
+DARLING IN THE FRANXX,8
+DEADMAN WONDERLAND,4
+DEATH NOTE,8
+DIGIMON ADVENTURE,9
+DIGIMON ADVENTURE 02,8
+DIGIMON FRONTIER,7
+DIGIMON TAMERS,7
+DR. STONE,8
+DRAGON BALL GT,8
+DRAGON BALL KAI,6
+DRAGON BALL KAI (2014),7
+DRAGON BALL SUPER,6
+DRAGON BALL Z,8
+ENEN NO SHOUBOUTAI,8
+GAKKOU NO KAIDAN,10
+GANTZ,7
+HIGH SCHOOL DXD,8
+HIGHSCHOOL OF THE DEAD,8
+HOSHI NO KIRBY,9
+INUYASHA (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KILL LA KILL,8
+KIMETSU NO YAIBA,9
+KINNIKUMAN II SEI,6
+KODAI OUJA KYOURYUU KING,8
+KONJIKI NO GASH BELL!!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+MIRAI NIKKI,7
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,8
+NARUTO,8
+NARUTO: SHIPPUUDEN,8
+OJAMAJO DOREMI,9
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,7
+OURAN KOUKOU HOST CLUB,6
+POKEMON,8
+POKEMON ADVANCED GENERATION,8
+RADIANT,8
+RADIANT 2ND SEASON,8
+SAIKO ROBOT KOMBOCK,5
+SAMURAI CHAMPLOO,9
+SHAMAN KING,8
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SIRIUS,7
+SONIC X,8
+SOUL EATER,8
+SPIDER RIDERS: ORACLE NO YUUSHA-TACHI,7
+SUZUMIYA HARUHI NO YUUUTSU,10
+SUZUMIYA HARUHI NO YUUUTSU (2009),10
+TAICHI SENJIMON,6
+TENGEN TOPPA GURREN LAGANN,10
+TOKYO GHOUL,8
+TOKYO GHOUL √A,6
+TOKYO GHOUL:RE,8
+TOKYO GHOUL:RE 2ND SEASON,7
+VINLAND SAGA,7
+VIOLET EVERGARDEN,9
+YAKUSOKU NO NEVERLAND,10
+YU☆GI☆OH! 5D'S,6
+YU☆GI☆OH! DUEL MONSTERS,8
+ZANKYOU NO TERROR,9

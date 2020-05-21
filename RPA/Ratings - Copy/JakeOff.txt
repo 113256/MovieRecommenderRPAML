@@ -1,76 +1,76 @@
-﻿Angel Beats!,7
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,7
-Bakuman. 3rd Season,6
-Beastars,8
-Black Lagoon,8
-Black Lagoon: The Second Barrage,6
-Blood+,7
-Blood-C,8
-Boku dake ga Inai Machi,8
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,7
-Clannad,3
-Clannad: After Story,3
-Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,9
-Cowboy Bebop,8
-Death Note,9
-Death Parade,7
-Dr. Stone,8
-Dragon Ball Z,9
-Ergo Proxy,7
-Fullmetal Alchemist: Brotherhood,9
-Gantz,8
-Gantz 2nd Stage,8
-Grappler Baki (TV),7
-Guilty Crown,6
-Hajime no Ippo,9
-Hajime no Ippo: New Challenger,9
-Hajime no Ippo: Rising,8
-Hunter x Hunter (2011),9
-Initial D First Stage,7
-Initial D Second Stage,7
-JoJo no Kimyou na Bouken (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
-Kenpuu Denki Berserk,10
-Kimi ni Todoke,7
-Kokoro Connect,7
-Lovely★Complex,8
-Mahou Shoujo Madoka★Magica,8
-Mirai Nikki,8
-Mob Psycho 100,8
-Mob Psycho 100 II,6
-Monster,8
-Mousou Dairinin,6
-Mushishi,5
-Nana,7
-Naruto,8
-Neon Genesis Evangelion,10
-No Game No Life,6
-No.6,7
-Noragami,7
-One Punch Man,9
-Ore Monogatari!!,7
-Phantom: Requiem for the Phantom,8
-Ping Pong the Animation,7
-Psycho-Pass,7
-Robotics;Notes,7
-Samurai Champloo,8
-Serial Experiments Lain,8
-Shigatsu wa Kimi no Uso,7
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,10
-Shingeki no Kyojin Season 3,9
-Space☆Dandy,8
-Steins;Gate,9
-Steins;Gate 0,7
-Sukitte Ii na yo.,7
-Tate no Yuusha no Nariagari,7
-Tengen Toppa Gurren Lagann,6
-Tokyo Ghoul,8
-Tokyo Ghoul √A,6
-Tokyo Ghoul:re,4
-Violet Evergarden,8
-Yuu☆Yuu☆Hakusho,7
+﻿ANGEL BEATS!,7
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,7
+BAKUMAN. 3RD SEASON,6
+BEASTARS,8
+BLACK LAGOON,8
+BLACK LAGOON: THE SECOND BARRAGE,6
+BLOOD+,7
+BLOOD-C,8
+BOKU DAKE GA INAI MACHI,8
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+CLANNAD,3
+CLANNAD: AFTER STORY,3
+CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,9
+COWBOY BEBOP,8
+DEATH NOTE,9
+DEATH PARADE,7
+DR. STONE,8
+DRAGON BALL Z,9
+ERGO PROXY,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+GANTZ,8
+GANTZ 2ND STAGE,8
+GRAPPLER BAKI (TV),7
+GUILTY CROWN,6
+HAJIME NO IPPO,9
+HAJIME NO IPPO: NEW CHALLENGER,9
+HAJIME NO IPPO: RISING,8
+HUNTER X HUNTER (2011),9
+INITIAL D FIRST STAGE,7
+INITIAL D SECOND STAGE,7
+JOJO NO KIMYOU NA BOUKEN (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,8
+KENPUU DENKI BERSERK,10
+KIMI NI TODOKE,7
+KOKORO CONNECT,7
+LOVELY★COMPLEX,8
+MAHOU SHOUJO MADOKA★MAGICA,8
+MIRAI NIKKI,8
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,6
+MONSTER,8
+MOUSOU DAIRININ,6
+MUSHISHI,5
+NANA,7
+NARUTO,8
+NEON GENESIS EVANGELION,10
+NO GAME NO LIFE,6
+NO.6,7
+NORAGAMI,7
+ONE PUNCH MAN,9
+ORE MONOGATARI!!,7
+PHANTOM: REQUIEM FOR THE PHANTOM,8
+PING PONG THE ANIMATION,7
+PSYCHO-PASS,7
+ROBOTICS;NOTES,7
+SAMURAI CHAMPLOO,8
+SERIAL EXPERIMENTS LAIN,8
+SHIGATSU WA KIMI NO USO,7
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,10
+SHINGEKI NO KYOJIN SEASON 3,9
+SPACE☆DANDY,8
+STEINS;GATE,9
+STEINS;GATE 0,7
+SUKITTE II NA YO.,7
+TATE NO YUUSHA NO NARIAGARI,7
+TENGEN TOPPA GURREN LAGANN,6
+TOKYO GHOUL,8
+TOKYO GHOUL √A,6
+TOKYO GHOUL:RE,4
+VIOLET EVERGARDEN,8
+YUU☆YUU☆HAKUSHO,7

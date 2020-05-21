@@ -1,74 +1,75 @@
-5-toubun no Hanayome,7
-Amagi Brilliant Park,6
-Araburu Kisetsu no Otome-domo yo.,7
-Bakemonogatari,9
-Blend S,7
-Boku dake ga Inai Machi,7
-Bokutachi wa Benkyou ga Dekinai,5
-Bokutachi wa Benkyou ga Dekinai!,6
-Charlotte,7
-Chihayafuru,9
-Chihayafuru 2,9
-Death Parade,7
-Dr. Stone,8
-Fruits Basket 1st Season,8
-Gamers!,6
-Gyakuten Saiban: Sono Shinjitsu Igi Ari!,4
-Hanamonogatari,9
-Hataraku Saibou (TV),7
-Hibike! Euphonium,7
-Hibike! Euphonium 2,9
-Himouto! Umaru-chan,6
-Imouto sae Ireba Ii.,7
-Isekai Quartet,7
-Isekai Quartet 2,6
-Isshuukan Friends.,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Karakai Jouzu no Takagi-san,8
-Karakai Jouzu no Takagi-san 2,9
-Kobayashi-san Chi no Maid Dragon,8
-Kono Oto Tomare!,7
-Kono Oto Tomare! 2nd Season,7
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Little Witch Academia (TV),8
-Love Live! School Idol Project,5
-Love Live! School Idol Project 2nd Season,5
-Love Live! Sunshine!!,5
-Love Live! Sunshine!! 2nd Season,5
-Mahou Shoujo Madoka★Magica,9
-Mirai Nikki,7
-Monogatari Series: Second Season,9
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Imashime no Fukkatsu,7
-Nanatsu no Taizai: Seisen no Shirushi,5
-Nekomonogatari: Kuro,8
-New Game!,7
-New Game!!,7
-Nichijou,9
-Nisemonogatari,7
-No Game No Life,8
-Noragami,7
-Owarimonogatari,8
-Owarimonogatari 2nd Season,9
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Rokudenashi Majutsu Koushi to Akashic Records,5
-Saiki Kusuo no Ψ-nan,8
-Saiki Kusuo no Ψ-nan 2,9
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Sewayaki Kitsune no Senko-san,7
-Shigatsu wa Kimi no Uso,9
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,6
-Sora yori mo Tooi Basho,9
-Tsukimonogatari,7
-Tsurezure Children,7
-Violet Evergarden,9
-Watashi ga Motete Dousunda,7
-Working!!,6
-Wotaku ni Koi wa Muzukashii,8
-Yagate Kimi ni Naru,8
-Yuri!!! on Ice,7
-Yuru Camp△,8
-Yuru Yuri,7
-Yuru Yuri San☆Hai!,7
-Yuru Yuri♪♪,7
+﻿5-TOUBUN NO HANAYOME,7
+AMAGI BRILLIANT PARK,6
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,7
+ARABURU KISETSU NO OTOME-DOMO YO.,7
+BAKEMONOGATARI,9
+BLEND S,7
+BOKU DAKE GA INAI MACHI,7
+BOKUTACHI WA BENKYOU GA DEKINAI,5
+BOKUTACHI WA BENKYOU GA DEKINAI!,6
+CHARLOTTE,7
+CHIHAYAFURU,9
+CHIHAYAFURU 2,9
+DEATH PARADE,7
+DR. STONE,8
+FRUITS BASKET 1ST SEASON,8
+GAMERS!,6
+GYAKUTEN SAIBAN: SONO SHINJITSU IGI ARI!,4
+HANAMONOGATARI,9
+HATARAKU SAIBOU (TV),7
+HIBIKE! EUPHONIUM,7
+HIBIKE! EUPHONIUM 2,9
+HIMOUTO! UMARU-CHAN,6
+IMOUTO SAE IREBA II.,7
+ISEKAI QUARTET,7
+ISEKAI QUARTET 2,6
+ISSHUUKAN FRIENDS.,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KARAKAI JOUZU NO TAKAGI-SAN,8
+KARAKAI JOUZU NO TAKAGI-SAN 2,9
+KOBAYASHI-SAN CHI NO MAID DRAGON,8
+KONO OTO TOMARE!,7
+KONO OTO TOMARE! 2ND SEASON,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+LITTLE WITCH ACADEMIA (TV),8
+LOVE LIVE! SCHOOL IDOL PROJECT,5
+LOVE LIVE! SCHOOL IDOL PROJECT 2ND SEASON,5
+LOVE LIVE! SUNSHINE!!,5
+LOVE LIVE! SUNSHINE!! 2ND SEASON,5
+MAHOU SHOUJO MADOKA★MAGICA,9
+MIRAI NIKKI,7
+MONOGATARI SERIES: SECOND SEASON,9
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,7
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,5
+NEKOMONOGATARI: KURO,8
+NEW GAME!,7
+NEW GAME!!,7
+NICHIJOU,9
+NISEMONOGATARI,7
+NO GAME NO LIFE,8
+NORAGAMI,7
+OWARIMONOGATARI,8
+OWARIMONOGATARI 2ND SEASON,9
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,5
+SAIKI KUSUO NO Ψ-NAN,8
+SAIKI KUSUO NO Ψ-NAN 2,9
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SEWAYAKI KITSUNE NO SENKO-SAN,7
+SHIGATSU WA KIMI NO USO,9
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,6
+SORA YORI MO TOOI BASHO,9
+TSUKIMONOGATARI,7
+TSUREZURE CHILDREN,7
+VIOLET EVERGARDEN,9
+WATASHI GA MOTETE DOUSUNDA,7
+WORKING!!,6
+WOTAKU NI KOI WA MUZUKASHII,8
+YAGATE KIMI NI NARU,8
+YURI!!! ON ICE,7
+YURU CAMP△,8
+YURU YURI,7
+YURU YURI SAN☆HAI!,7
+YURU YURI♪♪,7

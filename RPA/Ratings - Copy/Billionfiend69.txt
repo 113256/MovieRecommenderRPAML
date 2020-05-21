@@ -1,15 +1,14 @@
-﻿Boku no Hero Academia,6
-Boku no Hero Academia 2nd Season,6
-Boku no Hero Academia 3rd Season,6
-Death Note,8
-Goblin Slayer,7
-Ishuzoku Reviewers,10
-JoJo no Kimyou na Bouken (TV),7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,10
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,10
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,10
-No Game No Life,7
-One Punch Man,10
+﻿BOKU NO HERO ACADEMIA,6
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,6
+DEATH NOTE,8
+GOBLIN SLAYER,7
+ISHUZOKU REVIEWERS,10
+JOJO NO KIMYOU NA BOUKEN (TV),7
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,9
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,10
+NO GAME NO LIFE,7
+ONE PUNCH MAN,10
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8

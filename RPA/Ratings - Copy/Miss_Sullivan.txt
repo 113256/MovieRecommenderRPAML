@@ -1,144 +1,143 @@
-3D Kanojo: Real Girl,7
-3D Kanojo: Real Girl 2nd Season,8
-5-toubun no Hanayome,8
-Ajin,8
-Ajin 2nd Season,7
-Amaama to Inazuma,9
-Amagi Brilliant Park,9
-Angel Beats!,9
-Ani ni Tsukeru Kusuri wa Nai!,9
-Ani ni Tsukeru Kusuri wa Nai! 2,9
-Araburu Kisetsu no Otome-domo yo.,6
-B-Project: Kodou*Ambitious,8
-Back Street Girls: Gokudolls,8
-Banana Fish,10
-Barakamon,8
-Blend S,9
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,8
-Boku no Hero Academia 4th Season,9
-Bokutachi wa Benkyou ga Dekinai,6
-Charlotte,8
-Citrus,8
-Dakaretai Otoko 1-i ni Odosarete Imasu.,8
-Dance in the Vampire Bund,8
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,8
-Darling in the FranXX,9
-Date A Live,8
-Death Note,10
-Death Parade,10
-Demi-chan wa Kataritai,8
-Diabolik Lovers,5
-Dororo,9
-Doukyonin wa Hiza Tokidoki Atama no Ue.,10
-DRAMAtical Murder,9
-Eikoku Koi Monogatari Emma,8
-Eikoku Koi Monogatari Emma: Molders-hen,7
-Eromanga-sensei,8
-Free!,9
-Free!: Dive to the Future,8
-Free!: Eternal Summer,8
-Fruits Basket 1st Season,10
-Fudanshi Koukou Seikatsu,7
-Fukigen na Mononokean,8
-Fukigen na Mononokean Tsuzuki,8
-Gabriel DropOut,8
-Gaikotsu Shotenin Honda-san,8
-Gakkougurashi!,9
-Gakuen Babysitters,9
-Golden Time,7
-Gugure! Kokkuri-san,9
-Haikyuu!!,10
-Haikyuu!! Second Season,9
-Hataraku Saibou (TV),10
-Hellsing,9
-Himouto! Umaru-chan,9
-Hitorijime My Hero,8
-Inu x Boku SS,9
-Inuyashiki,9
-Jibaku Shounen Hanako-kun,6
-Jingai-san no Yome,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kakegurui,9
-Kakegurui××,9
-Kanojo to Kanojo no Neko: Everything Flows,7
-Kimetsu no Yaiba,8
-Kimi ni Todoke,5
-Kimi ni Todoke 2nd Season,5
-Kishuku Gakkou no Juliet,8
-Kobayashi-san Chi no Maid Dragon,9
-Koi wa Ameagari no You ni,9
-Konbini Kareshi,7
-Kuroshitsuji,9
-Kuroshitsuji II,7
-Kuroshitsuji: Book of Circus,9
-Kyoukai no Kanata,8
-Love Stage!!,8
-Made in Abyss,7
-Midara na Ao-chan wa Benkyou ga Dekinai,9
-Mikakunin de Shinkoukei,8
-Mob Psycho 100,9
-Mob Psycho 100 II,10
-Nagi no Asu kara,8
-Nanbaka,9
-Netoge no Yome wa Onnanoko ja Nai to Omotta?,7
-Nisekoi,9
-Nisekoi:,7
-No Game No Life,8
-No.6,9
-Noragami,9
-Noragami Aragoto,9
-One Punch Man,9
-Ookami Shoujo to Kuro Ouji,7
-Orange,9
-Ore Monogatari!!,8
-Ore wo Suki nano wa Omae dake ka yo,8
-Orenchi no Furo Jijou,9
-Osomatsu-san,10
-Osomatsu-san 2nd Season,10
-Ouran Koukou Host Club,8
-Owari no Seraph,7
-Owari no Seraph: Nagoya Kessen-hen,8
-Prison School,9
-Sakamoto Desu ga?,8
-Sakura Trick,6
-Sakura-sou no Pet na Kanojo,8
-Sanrio Danshi,8
-Sarazanmai,8
-Satsuriku no Tenshi,7
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Sekaiichi Hatsukoi,8
-Senryuu Shoujo,9
-Servamp,9
-Servant x Service,9
-Shigatsu wa Kimi no Uso,8
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,9
-Shingeki no Kyojin,9
-Shokugeki no Souma,9
-Shokugeki no Souma: Ni no Sara,9
-Shokugeki no Souma: San no Sara,9
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,9
-Soredemo Sekai wa Utsukushii,9
-Sukitte Ii na yo.,7
-Tanaka-kun wa Itsumo Kedaruge,8
-Tate no Yuusha no Nariagari,9
-Tokyo Ghoul,9
-Tokyo Ghoul √A,7
-Tonari no Kaibutsu-kun,7
-Toradora!,9
-Tsurezure Children,9
-Vampire Knight,9
-Vampire Knight: Guilty,7
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,8
-Watashi ga Motete Dousunda,7
-Working!!,7
-Wotaku ni Koi wa Muzukashii,8
-XL Joushi.,-
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
-Yakusoku no Neverland,8
-Yamada-kun to 7-nin no Majo (TV),9
-Yubisaki kara no Honki no Netsujou: Osananajimi wa Shouboushi,7
-Yuri!!! on Ice,9
-Zombieland Saga,9
+﻿3D KANOJO: REAL GIRL,7
+3D KANOJO: REAL GIRL 2ND SEASON,8
+5-TOUBUN NO HANAYOME,8
+AJIN,8
+AJIN 2ND SEASON,7
+AMAAMA TO INAZUMA,9
+AMAGI BRILLIANT PARK,9
+ANGEL BEATS!,9
+ANI NI TSUKERU KUSURI WA NAI!,9
+ANI NI TSUKERU KUSURI WA NAI! 2,9
+ARABURU KISETSU NO OTOME-DOMO YO.,6
+B-PROJECT: KODOU*AMBITIOUS,8
+BACK STREET GIRLS: GOKUDOLLS,8
+BANANA FISH,10
+BARAKAMON,8
+BLEND S,9
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BOKU NO HERO ACADEMIA 4TH SEASON,9
+BOKUTACHI WA BENKYOU GA DEKINAI,6
+CHARLOTTE,8
+CITRUS,8
+DAKARETAI OTOKO 1-I NI ODOSARETE IMASU.,8
+DANCE IN THE VAMPIRE BUND,8
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,8
+DARLING IN THE FRANXX,9
+DATE A LIVE,8
+DEATH NOTE,10
+DEATH PARADE,10
+DEMI-CHAN WA KATARITAI,8
+DIABOLIK LOVERS,5
+DORORO,9
+DOUKYONIN WA HIZA TOKIDOKI ATAMA NO UE.,10
+DRAMATICAL MURDER,9
+EIKOKU KOI MONOGATARI EMMA,8
+EIKOKU KOI MONOGATARI EMMA: MOLDERS-HEN,7
+EROMANGA-SENSEI,8
+FREE!,9
+FREE!: DIVE TO THE FUTURE,8
+FREE!: ETERNAL SUMMER,8
+FRUITS BASKET 1ST SEASON,10
+FUDANSHI KOUKOU SEIKATSU,7
+FUKIGEN NA MONONOKEAN,8
+FUKIGEN NA MONONOKEAN TSUZUKI,8
+GABRIEL DROPOUT,8
+GAIKOTSU SHOTENIN HONDA-SAN,8
+GAKKOUGURASHI!,9
+GAKUEN BABYSITTERS,9
+GOLDEN TIME,7
+GUGURE! KOKKURI-SAN,9
+HAIKYUU!!,10
+HAIKYUU!! SECOND SEASON,9
+HATARAKU SAIBOU (TV),10
+HELLSING,9
+HIMOUTO! UMARU-CHAN,9
+HITORIJIME MY HERO,8
+INU X BOKU SS,9
+INUYASHIKI,9
+JIBAKU SHOUNEN HANAKO-KUN,6
+JINGAI-SAN NO YOME,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KAKEGURUI,9
+KAKEGURUI××,9
+KANOJO TO KANOJO NO NEKO: EVERYTHING FLOWS,7
+KIMETSU NO YAIBA,8
+KIMI NI TODOKE,5
+KIMI NI TODOKE 2ND SEASON,5
+KISHUKU GAKKOU NO JULIET,8
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+KOI WA AMEAGARI NO YOU NI,9
+KONBINI KARESHI,7
+KUROSHITSUJI,9
+KUROSHITSUJI II,7
+KUROSHITSUJI: BOOK OF CIRCUS,9
+KYOUKAI NO KANATA,8
+LOVE STAGE!!,8
+MADE IN ABYSS,7
+MIDARA NA AO-CHAN WA BENKYOU GA DEKINAI,9
+MIKAKUNIN DE SHINKOUKEI,8
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,10
+NAGI NO ASU KARA,8
+NANBAKA,9
+NETOGE NO YOME WA ONNANOKO JA NAI TO OMOTTA?,7
+NISEKOI,9
+NISEKOI:,7
+NO GAME NO LIFE,8
+NO.6,9
+NORAGAMI,9
+NORAGAMI ARAGOTO,9
+ONE PUNCH MAN,9
+OOKAMI SHOUJO TO KURO OUJI,7
+ORANGE,9
+ORE MONOGATARI!!,8
+ORE WO SUKI NANO WA OMAE DAKE KA YO,8
+ORENCHI NO FURO JIJOU,9
+OSOMATSU-SAN,10
+OSOMATSU-SAN 2ND SEASON,10
+OURAN KOUKOU HOST CLUB,8
+OWARI NO SERAPH,7
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,8
+PRISON SCHOOL,9
+SAKAMOTO DESU GA?,8
+SAKURA TRICK,6
+SAKURA-SOU NO PET NA KANOJO,8
+SANRIO DANSHI,8
+SARAZANMAI,8
+SATSURIKU NO TENSHI,7
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SEKAIICHI HATSUKOI,8
+SENRYUU SHOUJO,9
+SERVAMP,9
+SERVANT X SERVICE,9
+SHIGATSU WA KIMI NO USO,8
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,9
+SHINGEKI NO KYOJIN,9
+SHOKUGEKI NO SOUMA,9
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,9
+SOREDEMO SEKAI WA UTSUKUSHII,9
+SUKITTE II NA YO.,7
+TANAKA-KUN WA ITSUMO KEDARUGE,8
+TATE NO YUUSHA NO NARIAGARI,9
+TOKYO GHOUL,9
+TOKYO GHOUL √A,7
+TONARI NO KAIBUTSU-KUN,7
+TORADORA!,9
+TSUREZURE CHILDREN,9
+VAMPIRE KNIGHT,9
+VAMPIRE KNIGHT: GUILTY,7
+WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,8
+WATASHI GA MOTETE DOUSUNDA,7
+WORKING!!,7
+WOTAKU NI KOI WA MUZUKASHII,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,8
+YAKUSOKU NO NEVERLAND,8
+YAMADA-KUN TO 7-NIN NO MAJO (TV),9
+YUBISAKI KARA NO HONKI NO NETSUJOU: OSANANAJIMI WA SHOUBOUSHI,7
+YURI!!! ON ICE,9
+ZOMBIELAND SAGA,9

@@ -1,34 +1,34 @@
-Amagi Brilliant Park,10
-Amnesia,8
-Ao Haru Ride,7
-Black★Rock Shooter (TV),10
-Bleach,10
-Brothers Conflict,5
-Dance with Devils,7
-Diabolik Lovers,10
-Diabolik Lovers MoreBlood,7
-Fukumenkei Noise,7
-Gekkan Shoujo Nozaki-kun,8
-Gugure! Kokkuri-san,10
-Happy Sugar Life,7
-Inu x Boku SS,10
-Kaichou wa Maid-sama!,10
-Kimi ni Todoke,10
-Kimi ni Todoke 2nd Season,10
-Kuzu no Honkai,5
-Kyoukai no Kanata,10
-Lovely★Complex,10
-Mirai Nikki,8
-Nijiiro Days,7
-Ookami Shoujo to Kuro Ouji,10
-Orange,8
-Owari no Seraph,9
-Owari no Seraph: Nagoya Kessen-hen,9
-ReLIFE,9
-Strike the Blood,5
-Sukitte Ii na yo.,8
-Tamako Market,8
-Tonari no Kaibutsu-kun,8
-Toradora!,7
-Watashi ga Motete Dousunda,7
-Yosuga no Sora: In Solitude Where We Are Least Alone.,7
+﻿AMAGI BRILLIANT PARK,10
+AMNESIA,8
+AO HARU RIDE,7
+BLACK★ROCK SHOOTER (TV),10
+BLEACH,10
+BROTHERS CONFLICT,5
+DANCE WITH DEVILS,7
+DIABOLIK LOVERS,10
+DIABOLIK LOVERS MOREBLOOD,7
+FUKUMENKEI NOISE,7
+GEKKAN SHOUJO NOZAKI-KUN,8
+GUGURE! KOKKURI-SAN,10
+HAPPY SUGAR LIFE,7
+INU X BOKU SS,10
+KAICHOU WA MAID-SAMA!,10
+KIMI NI TODOKE,10
+KIMI NI TODOKE 2ND SEASON,10
+KUZU NO HONKAI,5
+KYOUKAI NO KANATA,10
+LOVELY★COMPLEX,10
+MIRAI NIKKI,8
+NIJIIRO DAYS,7
+OOKAMI SHOUJO TO KURO OUJI,10
+ORANGE,8
+OWARI NO SERAPH,9
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,9
+RELIFE,9
+STRIKE THE BLOOD,5
+SUKITTE II NA YO.,8
+TAMAKO MARKET,8
+TONARI NO KAIBUTSU-KUN,8
+TORADORA!,7
+WATASHI GA MOTETE DOUSUNDA,7
+YOSUGA NO SORA: IN SOLITUDE WHERE WE ARE LEAST ALONE.,7

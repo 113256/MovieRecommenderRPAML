@@ -1,135 +1,135 @@
-﻿Akame ga Kill!,7
-All Out!!,7
-Ansatsu Kyoushitsu,8
-Ansatsu Kyoushitsu 2nd Season,9
-Ao no Exorcist,6
-Ao no Exorcist: Kyoto Fujouou-hen,6
-Area no Kishi,7
-Baby Steps,7
-Baby Steps 2nd Season,7
-Bakugan Battle Brawlers: Mechtanium Surge,6
-Bakugan Battle Brawlers: New Vestroia,6
-Bakuman.,9
-Bakuman. 2nd Season,9
-Bakuman. 3rd Season,9
-Bakuten Shoot Beyblade,7
-Bakuten Shoot Beyblade 2002,7
-Ballroom e Youkoso,7
-Banana Fish,7
-Battery,6
-Beastars,6
-Bleach,6
-Boku no Hero Academia,6
-Boku no Hero Academia 2nd Season,6
-Boku no Hero Academia 3rd Season,6
-Boku no Hero Academia 4th Season,6
-Bungou Stray Dogs,6
-Code Geass: Hangyaku no Lelouch R2,8
-Cross Game,8
-D.Gray-man,6
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,8
-Darling in the FranXX,8
-Days (TV),6
-Death Note,9
-Death Parade,7
-Diamond no Ace,7
-Diamond no Ace: Act II,7
-Diamond no Ace: Second Season,7
-Dive!!,6
-Dororo,8
-Dr. Stone,10
-Dragon Ball,9
-Dragon Ball Z,9
-Fairy Tail,8
-Fairy Tail (2014),8
-Free!,7
-Free!: Eternal Summer,7
-Fullmetal Alchemist,10
-Fullmetal Alchemist: Brotherhood,10
-Giant Killing,7
-Grappler Baki (TV),7
-Grappler Baki: Saidai Tournament-hen,7
-Haikyuu!!,9
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Haikyuu!!: To the Top,9
-Hajime no Ippo,10
-Hajime no Ippo: New Challenger,10
-Hajime no Ippo: Rising,10
-Hanebado!,6
-High Score Girl,7
-Highschool of the Dead,6
-Hinomaruzumou,6
-Hoshiai no Sora,7
-Hunter x Hunter (2011),10
-Inazuma Eleven,9
-Inazuma Eleven Go,9
-Inazuma Eleven Go: Chrono Stone,9
-Inazuma Eleven Go: Galaxy,9
-JoJo no Kimyou na Bouken (TV),7
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kakegurui,7
-Kakegurui××,7
-Karakai Jouzu no Takagi-san,9
-Karakai Jouzu no Takagi-san 2,9
-Kill la Kill,7
-Kimetsu no Yaiba,9
-Kiseijuu: Sei no Kakuritsu,9
-Kiznaiver,7
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,7
-Kuroko no Basket,7
-Kuroko no Basket 2nd Season,7
-Kuroko no Basket 3rd Season,7
-Made in Abyss,9
-Magic Kaito 1412,8
-Major S1,10
-Major S2,10
-Major S3,10
-Major S4,10
-Major S5,10
-Major S6,10
-Megalo Box,8
-Mix,8
-Mob Psycho 100,9
-Mob Psycho 100 II,9
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,7
-Naruto,10
-Naruto: Shippuuden,9
-Neon Genesis Evangelion,8
-No Game No Life,8
-Noragami,8
-Noragami Aragoto,8
-One Outs,7
-One Punch Man,9
-One Punch Man 2nd Season,7
-Ookiku Furikabutte,7
-Ookiku Furikabutte: Natsu no Taikai-hen,7
-Prison School,9
-Reikenzan: Eichi e no Shikaku,6
-Reikenzan: Hoshikuzu-tachi no Utage,6
-ReLIFE,8
-Samurai Champloo,8
-Shigatsu wa Kimi no Uso,9
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,9
-Shokugeki no Souma,9
-Shokugeki no Souma: Ni no Sara,9
-Shokugeki no Souma: San no Sara,9
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,9
-Shokugeki no Souma: Shin no Sara,9
-Steins;Gate,8
-Sword Art Online,6
-Sword Art Online II,6
-Tokyo Ghoul,7
-Ushio to Tora (TV),7
-Yakusoku no Neverland,9
-Yowamushi Pedal,7
-Yowamushi Pedal: Glory Line,7
-Yowamushi Pedal: Grande Road,7
-Yowamushi Pedal: New Generation,7
-Yuri!!! on Ice,6
-Zankyou no Terror,10
+﻿AKAME GA KILL!,7
+ALL OUT!!,7
+ANSATSU KYOUSHITSU,8
+ANSATSU KYOUSHITSU 2ND SEASON,9
+AO NO EXORCIST,6
+AO NO EXORCIST: KYOTO FUJOUOU-HEN,6
+AREA NO KISHI,7
+BABY STEPS,7
+BABY STEPS 2ND SEASON,7
+BAKUGAN BATTLE BRAWLERS: MECHTANIUM SURGE,6
+BAKUGAN BATTLE BRAWLERS: NEW VESTROIA,6
+BAKUMAN.,9
+BAKUMAN. 2ND SEASON,9
+BAKUMAN. 3RD SEASON,9
+BAKUTEN SHOOT BEYBLADE,7
+BAKUTEN SHOOT BEYBLADE 2002,7
+BALLROOM E YOUKOSO,7
+BANANA FISH,7
+BATTERY,6
+BEASTARS,6
+BLEACH,6
+BOKU NO HERO ACADEMIA,6
+BOKU NO HERO ACADEMIA 2ND SEASON,6
+BOKU NO HERO ACADEMIA 3RD SEASON,6
+BOKU NO HERO ACADEMIA 4TH SEASON,6
+BUNGOU STRAY DOGS,6
+CODE GEASS: HANGYAKU NO LELOUCH R2,8
+CROSS GAME,8
+D.GRAY-MAN,6
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,8
+DARLING IN THE FRANXX,8
+DAYS (TV),6
+DEATH NOTE,9
+DEATH PARADE,7
+DIAMOND NO ACE,7
+DIAMOND NO ACE: ACT II,7
+DIAMOND NO ACE: SECOND SEASON,7
+DIVE!!,6
+DORORO,8
+DR. STONE,10
+DRAGON BALL,9
+DRAGON BALL Z,9
+FAIRY TAIL,8
+FAIRY TAIL (2014),8
+FREE!,7
+FREE!: ETERNAL SUMMER,7
+FULLMETAL ALCHEMIST,10
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GIANT KILLING,7
+GRAPPLER BAKI (TV),7
+GRAPPLER BAKI: SAIDAI TOURNAMENT-HEN,7
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HAIKYUU!!: TO THE TOP,9
+HAJIME NO IPPO,10
+HAJIME NO IPPO: NEW CHALLENGER,10
+HAJIME NO IPPO: RISING,10
+HANEBADO!,6
+HIGH SCORE GIRL,7
+HIGHSCHOOL OF THE DEAD,6
+HINOMARUZUMOU,6
+HOSHIAI NO SORA,7
+HUNTER X HUNTER (2011),10
+INAZUMA ELEVEN,9
+INAZUMA ELEVEN GO,9
+INAZUMA ELEVEN GO: CHRONO STONE,9
+INAZUMA ELEVEN GO: GALAXY,9
+JOJO NO KIMYOU NA BOUKEN (TV),7
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KAKEGURUI,7
+KAKEGURUI××,7
+KARAKAI JOUZU NO TAKAGI-SAN,9
+KARAKAI JOUZU NO TAKAGI-SAN 2,9
+KILL LA KILL,7
+KIMETSU NO YAIBA,9
+KISEIJUU: SEI NO KAKURITSU,9
+KIZNAIVER,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,7
+KUROKO NO BASKET,7
+KUROKO NO BASKET 2ND SEASON,7
+KUROKO NO BASKET 3RD SEASON,7
+MADE IN ABYSS,9
+MAGIC KAITO 1412,8
+MAJOR S1,10
+MAJOR S2,10
+MAJOR S3,10
+MAJOR S4,10
+MAJOR S5,10
+MAJOR S6,10
+MEGALO BOX,8
+MIX,8
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,9
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,7
+NARUTO,10
+NARUTO: SHIPPUUDEN,9
+NEON GENESIS EVANGELION,8
+NO GAME NO LIFE,8
+NORAGAMI,8
+NORAGAMI ARAGOTO,8
+ONE OUTS,7
+ONE PUNCH MAN,9
+ONE PUNCH MAN 2ND SEASON,7
+OOKIKU FURIKABUTTE,7
+OOKIKU FURIKABUTTE: NATSU NO TAIKAI-HEN,7
+PRISON SCHOOL,9
+REIKENZAN: EICHI E NO SHIKAKU,6
+REIKENZAN: HOSHIKUZU-TACHI NO UTAGE,6
+RELIFE,8
+SAMURAI CHAMPLOO,8
+SHIGATSU WA KIMI NO USO,9
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SHOKUGEKI NO SOUMA,9
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,9
+SHOKUGEKI NO SOUMA: SHIN NO SARA,9
+STEINS;GATE,8
+SWORD ART ONLINE,6
+SWORD ART ONLINE II,6
+TOKYO GHOUL,7
+USHIO TO TORA (TV),7
+YAKUSOKU NO NEVERLAND,9
+YOWAMUSHI PEDAL,7
+YOWAMUSHI PEDAL: GLORY LINE,7
+YOWAMUSHI PEDAL: GRANDE ROAD,7
+YOWAMUSHI PEDAL: NEW GENERATION,7
+YURI!!! ON ICE,6
+ZANKYOU NO TERROR,10

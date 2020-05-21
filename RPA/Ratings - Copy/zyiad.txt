@@ -1,3 +1,3 @@
-﻿Overlord,10
-Shingeki no Kyojin,10
-Tensei shitara Slime Datta Ken,8
+﻿OVERLORD,10
+SHINGEKI NO KYOJIN,10
+TENSEI SHITARA SLIME DATTA KEN,8

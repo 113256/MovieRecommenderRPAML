@@ -1,100 +1,100 @@
-5-toubun no Hanayome,7
-Absolute Duo,6
-ACCA: 13-ku Kansatsu-ka,6
-Akame ga Kill!,8
-Akatsuki no Yona,6
-Aldnoah.Zero,8
-Amagi Brilliant Park,6
-Arifureta Shokugyou de Sekai Saikyou,7
-Asu no Yoichi!,5
-Bakemonogatari,10
-Black Bullet,7
-Blood Lad,7
-Boku dake ga Inai Machi,8
-Boku no Hero Academia,6
-Brave 10,5
-Busou Shoujo Machiavellianism,4
-C: The Money of Soul and Possibility Control,6
-Code Geass: Hangyaku no Lelouch,7
-Cross Ange: Tenshi to Ryuu no Rondo,7
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,6
-Darling in the FranXX,7
-Deadman Wonderland,6
-Death March kara Hajimaru Isekai Kyousoukyoku,5
-Death Parade,9
-Donten ni Warau,5
-Dororo,6
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
-Eromanga-sensei,7
-Fate/stay night: Unlimited Blade Works,7
-Fuuka,5
-Gakusen Toshi Asterisk,6
-Gangsta.,7
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,7
-Goblin Slayer,7
-Grisaia no Kajitsu,8
-Guilty Crown,8
-Hagure Yuusha no Aesthetica,6
-Haikyuu!!,6
-Hataraku Maou-sama!,7
-Hibike! Euphonium,7
-Hidan no Aria,7
-Hundred,3
-Hunter x Hunter (2011),10
-Isekai Cheat Magician,4
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,6
-Isekai wa Smartphone to Tomo ni.,3
-Isuca,4
-Kakegurui,7
-Katanagatari,5
-Keijo!!!!!!!!,6
-Kekkai Sensen,6
-Kenja no Mago,6
-Kimetsu no Yaiba,8
-Kiseijuu: Sei no Kakuritsu,7
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Koutetsujou no Kabaneri,5
-Kuroko no Basket,7
-Kyoukai no Kanata,5
-Little Witch Academia (TV),5
-Log Horizon,6
-Magi: The Kingdom of Magic,7
-Mahouka Koukou no Rettousei,9
-Mahoutsukai no Yome,8
-Masamune-kun no Revenge,5
-Nanatsu no Taizai,8
-Naruto: Shippuuden,8
-Nejimaki Seirei Senki: Tenkyou no Alderamin,8
-Nichijou,7
-No Game No Life,10
-Noragami,9
-Oda Nobuna no Yabou,6
-One Punch Man,8
-Ookami to Koushinryou,7
-Overlord,8
-Owari no Seraph,6
-Plastic Memories,6
-Princess Principal,6
-Rakudai Kishi no Cavalry,7
-Re:Zero kara Hajimeru Isekai Seikatsu,7
-Rokka no Yuusha,7
-Saijaku Muhai no Bahamut,4
-Seiken Tsukai no World Break,4
-Shigatsu wa Kimi no Uso,8
-Shingeki no Kyojin,8
-Shinsekai yori,2
-Shokugeki no Souma,7
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,7
-Sword Art Online,8
-Taimadou Gakuen 35 Shiken Shoutai,7
-Tales of Zestiria the Cross,2
-Tate no Yuusha no Nariagari,6
-Tensei shitara Slime Datta Ken,6
-Toaru Majutsu no Index,5
-Tokyo Ghoul,8
-Toradora!,7
-Trinity Seven,7
-Youjo Senki,8
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),8
-Zankyou no Terror,8
-Zero no Tsukaima,5
+﻿5-TOUBUN NO HANAYOME,7
+ABSOLUTE DUO,6
+ACCA: 13-KU KANSATSU-KA,6
+AKAME GA KILL!,8
+AKATSUKI NO YONA,6
+ALDNOAH.ZERO,8
+AMAGI BRILLIANT PARK,6
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,7
+ASU NO YOICHI!,5
+BAKEMONOGATARI,10
+BLACK BULLET,7
+BLOOD LAD,7
+BOKU DAKE GA INAI MACHI,8
+BOKU NO HERO ACADEMIA,6
+BRAVE 10,5
+BUSOU SHOUJO MACHIAVELLIANISM,4
+C: THE MONEY OF SOUL AND POSSIBILITY CONTROL,6
+CODE GEASS: HANGYAKU NO LELOUCH,7
+CROSS ANGE: TENSHI TO RYUU NO RONDO,7
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,6
+DARLING IN THE FRANXX,7
+DEADMAN WONDERLAND,6
+DEATH MARCH KARA HAJIMARU ISEKAI KYOUSOUKYOKU,5
+DEATH PARADE,9
+DONTEN NI WARAU,5
+DORORO,6
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,7
+EROMANGA-SENSEI,7
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,7
+FUUKA,5
+GAKUSEN TOSHI ASTERISK,6
+GANGSTA.,7
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,7
+GOBLIN SLAYER,7
+GRISAIA NO KAJITSU,8
+GUILTY CROWN,8
+HAGURE YUUSHA NO AESTHETICA,6
+HAIKYUU!!,6
+HATARAKU MAOU-SAMA!,7
+HIBIKE! EUPHONIUM,7
+HIDAN NO ARIA,7
+HUNDRED,3
+HUNTER X HUNTER (2011),10
+ISEKAI CHEAT MAGICIAN,4
+ISEKAI MAOU TO SHOUKAN SHOUJO NO DOREI MAJUTSU,6
+ISEKAI WA SMARTPHONE TO TOMO NI.,3
+ISUCA,4
+KAKEGURUI,7
+KATANAGATARI,5
+KEIJO!!!!!!!!,6
+KEKKAI SENSEN,6
+KENJA NO MAGO,6
+KIMETSU NO YAIBA,8
+KISEIJUU: SEI NO KAKURITSU,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KOUTETSUJOU NO KABANERI,5
+KUROKO NO BASKET,7
+KYOUKAI NO KANATA,5
+LITTLE WITCH ACADEMIA (TV),5
+LOG HORIZON,6
+MAGI: THE KINGDOM OF MAGIC,7
+MAHOUKA KOUKOU NO RETTOUSEI,9
+MAHOUTSUKAI NO YOME,8
+MASAMUNE-KUN NO REVENGE,5
+NANATSU NO TAIZAI,8
+NARUTO: SHIPPUUDEN,8
+NEJIMAKI SEIREI SENKI: TENKYOU NO ALDERAMIN,8
+NICHIJOU,7
+NO GAME NO LIFE,10
+NORAGAMI,9
+ODA NOBUNA NO YABOU,6
+ONE PUNCH MAN,8
+OOKAMI TO KOUSHINRYOU,7
+OVERLORD,8
+OWARI NO SERAPH,6
+PLASTIC MEMORIES,6
+PRINCESS PRINCIPAL,6
+RAKUDAI KISHI NO CAVALRY,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,7
+ROKKA NO YUUSHA,7
+SAIJAKU MUHAI NO BAHAMUT,4
+SEIKEN TSUKAI NO WORLD BREAK,4
+SHIGATSU WA KIMI NO USO,8
+SHINGEKI NO KYOJIN,8
+SHINSEKAI YORI,2
+SHOKUGEKI NO SOUMA,7
+SHUUMATSU NANI SHITEMASU KA? ISOGASHII DESU KA? SUKUTTE MORATTE II DESU KA?,7
+SWORD ART ONLINE,8
+TAIMADOU GAKUEN 35 SHIKEN SHOUTAI,7
+TALES OF ZESTIRIA THE CROSS,2
+TATE NO YUUSHA NO NARIAGARI,6
+TENSEI SHITARA SLIME DATTA KEN,6
+TOARU MAJUTSU NO INDEX,5
+TOKYO GHOUL,8
+TORADORA!,7
+TRINITY SEVEN,7
+YOUJO SENKI,8
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),8
+ZANKYOU NO TERROR,8
+ZERO NO TSUKAIMA,5

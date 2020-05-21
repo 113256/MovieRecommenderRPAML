@@ -1,135 +1,16 @@
-﻿Amnesia,-
-Angel Beats!,-
-Ansatsu Kyoushitsu,-
-Ansatsu Kyoushitsu 2nd Season,8
-Ao Haru Ride,-
-Ao no Exorcist,-
-Baccano!,-
-Barakamon,-
-Bleach,-
-Boku dake ga Inai Machi,-
-Boku no Hero Academia,-
-Boku no Hero Academia 2nd Season,-
-Boku no Hero Academia 3rd Season,-
-Boku no Hero Academia 4th Season,-
-Darling in the FranXX,-
-Deadman Wonderland,-
-Death March kara Hajimaru Isekai Kyousoukyoku,-
-Death Parade,7
-Devil May Cry,-
-Devils Line,-
-Diabolik Lovers,-
-Dr. Stone,-
-DRAMAtical Murder,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,-
-Durarara!!,-
-Elfen Lied,-
-Fairy Tail,9
-Fairy Tail (2014),9
-Fairy Tail: Final Series,-
-Flying Witch,-
-Free!,-
-Fruits Basket 1st Season,-
-Fullmetal Alchemist,-
-Gakuen Babysitters,-
-Gekkan Shoujo Nozaki-kun,-
-Gin no Guardian,-
-Given,-
-Haikyuu!!,9
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Hakuouki,-
-Hamatora The Animation,-
-Hataraku Maou-sama!,-
-Hellsing,-
-Himouto! Umaru-chan,-
-Houseki no Kuni (TV),-
-Hunter x Hunter,-
-Inu x Boku SS,-
-InuYasha (TV): Kanketsu-hen,-
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,-
-Isekai wa Smartphone to Tomo ni.,-
-Junjou Romantica,-
-Junjou Romantica 2,-
-Junjou Romantica 3,-
-K-On!,-
-K-On!!,-
-Kaichou wa Maid-sama!,-
-Kamigami no Asobi,-
-Kamisama Hajimemashita◎,-
-Kamisama no Inai Nichiyoubi,-
-Kill la Kill,-
-Kimetsu no Yaiba,-
-Kuroko no Basket,-
-Kuroko no Basket 2nd Season,-
-Kuroko no Basket 3rd Season,-
-Kuroshitsuji,-
-Kuroshitsuji: Book of Circus,-
-Log Horizon,-
-Love Stage!!,-
-Made in Abyss,-
-Magi: The Kingdom of Magic,-
-Magi: The Labyrinth of Magic,-
-Mahou Sensei Negima!,-
-Mob Psycho 100,-
-Mob Psycho 100 II,-
-Musaigen no Phantom World,-
-Mushishi,10
-Mushishi Zoku Shou,10
-Mushishi Zoku Shou 2nd Season,-
-Nana,-
-Nanatsu no Taizai,-
-Nanatsu no Taizai: Imashime no Fukkatsu,-
-Nanatsu no Taizai: Kamigami no Gekirin,-
-Nanatsu no Taizai: Seisen no Shirushi,-
-Naruto,-
-Naruto: Shippuuden,-
-Natsume Yuujinchou,-
-Natsume Yuujinchou Go,-
-Needless,-
-No Game No Life,-
-No.6,-
-Noragami,-
-Noragami Aragoto,-
-One Punch Man,10
-Ouran Koukou Host Club,-
-Overlord,-
-Owari no Seraph,-
-Paradise Kiss,-
-Princess Tutu,-
-Psycho-Pass,-
-Rokudenashi Majutsu Koushi to Akashic Records,-
-Rurouni Kenshin: Meiji Kenkaku Romantan,-
-Saiki Kusuo no Ψ-nan,-
-Samurai Champloo,-
-Seikon no Qwaser,-
-Shingeki no Kyojin,-
-Shingeki no Kyojin Season 2,-
-Shingeki no Kyojin Season 3,-
-Shinryaku! Ika Musume,-
-Shokugeki no Souma,-
-Shokugeki no Souma: Ni no Sara,-
-Shokugeki no Souma: San no Sara,-
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,-
-Skip Beat!,-
-Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai,-
-Soul Eater,-
-Special A,-
-Sukitte Ii na yo.,-
-Sword Art Online,-
-Sword Art Online II,-
-Tamako Market,-
-Tanaka-kun wa Itsumo Kedaruge,-
-Tensei shitara Slime Datta Ken,-
-Tokyo Ghoul,-
-Tokyo Ghoul √A,-
-Tonari no Kaibutsu-kun,-
-Trigun,-
-Urara Meirochou,-
-Ushio to Tora (TV),-
-Ushio to Tora (TV) 2nd Season,-
-Uta no☆Prince-sama♪ Maji Love 1000%,-
-Violet Evergarden,-
-Yuu☆Yuu☆Hakusho,-
-Zero kara Hajimeru Mahou no Sho,-
+﻿ANSATSU KYOUSHITSU 2ND SEASON,8
+AO NO EXORCIST,8
+CHOUJIN KOUKOUSEI-TACHI WA ISEKAI DEMO YOYUU DE IKINUKU YOU DESU!,6
+DEATH PARADE,7
+FAIRY TAIL,9
+FAIRY TAIL (2014),9
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HUNTER X HUNTER (2011),9
+MIIRA NO KAIKATA,9
+MUSHISHI,10
+MUSHISHI ZOKU SHOU,10
+ONE PUNCH MAN,10
+WATASHI NOURYOKU WA HEIKINCHI DE TTE ITTA YO NE!,7

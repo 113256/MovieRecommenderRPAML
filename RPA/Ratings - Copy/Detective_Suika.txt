@@ -1,66 +1,65 @@
-Ao no Exorcist,6
-Black Bullet,7
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,8
-Carole & Tuesday,10
-Charlotte,10
-Chuunibyou demo Koi ga Shitai!,10
-Chuunibyou demo Koi ga Shitai! Ren,10
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,8
-Darling in the FranXX,8
-Darwin's Game,10
-Death Note,9
-Dr. Stone,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
-Durarara!!,8
-Fullmetal Alchemist: Brotherhood,9
-Gabriel DropOut,9
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,8
-Girls & Panzer,8
-Goblin Slayer,7
-Hataraku Maou-sama!,8
-High School DxD,7
-Isekai Quartet,7
-JoJo no Kimyou na Bouken (TV),10
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,10
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,10
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,10
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,10
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kakegurui,8
-Kakegurui××,8
-Kimetsu no Yaiba,10
-Kobayashi-san Chi no Maid Dragon,10
-Little Witch Academia (TV),8
-Love Live! School Idol Project,9
-Love Live! School Idol Project 2nd Season,9
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Imashime no Fukkatsu,-
-Nanatsu no Taizai: Seisen no Shirushi,7
-Ouran Koukou Host Club,9
-Overlord,8
-Overlord II,8
-Overlord III,9
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Shigatsu wa Kimi no Uso,8
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,7
-Shingeki no Kyojin Season 3,10
-Shingeki no Kyojin Season 3 Part 2,9
-Shokugeki no Souma,9
-Shokugeki no Souma: Ni no Sara,9
-Shokugeki no Souma: San no Sara,-
-Soul Eater,7
-Sunohara-sou no Kanrinin-san,7
-Sword Art Online,7
-Sword Art Online Alternative: Gun Gale Online,8
-Sword Art Online II,8
-Tate no Yuusha no Nariagari,9
-Tensei shitara Slime Datta Ken,10
-Vampire Knight,7
-Vampire Knight: Guilty,8
-Violet Evergarden,10
-Yakusoku no Neverland,9
-Youjo Senki,8
-Zombieland Saga,9
+﻿ANSATSU KYOUSHITSU,9
+AO NO EXORCIST,6
+BLACK BULLET,7
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+CAROLE & TUESDAY,10
+CHARLOTTE,10
+CHUUNIBYOU DEMO KOI GA SHITAI!,10
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,10
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,8
+DARLING IN THE FRANXX,8
+DARWIN'S GAME,10
+DEATH NOTE,9
+DR. STONE,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,9
+DURARARA!!,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+GABRIEL DROPOUT,9
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,8
+GIRLS & PANZER,8
+GOBLIN SLAYER,7
+HATARAKU MAOU-SAMA!,8
+HIGH SCHOOL DXD,7
+ISEKAI QUARTET,7
+JOJO NO KIMYOU NA BOUKEN (TV),10
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,10
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,10
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,10
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,10
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KAKEGURUI,8
+KAKEGURUI××,8
+KIMETSU NO YAIBA,10
+KOBAYASHI-SAN CHI NO MAID DRAGON,10
+LITTLE WITCH ACADEMIA (TV),8
+LOVE LIVE! SCHOOL IDOL PROJECT,9
+LOVE LIVE! SCHOOL IDOL PROJECT 2ND SEASON,9
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,7
+OURAN KOUKOU HOST CLUB,9
+OVERLORD,8
+OVERLORD II,8
+OVERLORD III,9
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+SHIGATSU WA KIMI NO USO,8
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,7
+SHINGEKI NO KYOJIN SEASON 3,10
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SHOKUGEKI NO SOUMA,9
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SOUL EATER,7
+SUNOHARA-SOU NO KANRININ-SAN,7
+SWORD ART ONLINE,7
+SWORD ART ONLINE ALTERNATIVE: GUN GALE ONLINE,8
+SWORD ART ONLINE II,8
+TATE NO YUUSHA NO NARIAGARI,9
+TENSEI SHITARA SLIME DATTA KEN,10
+VAMPIRE KNIGHT,7
+VAMPIRE KNIGHT: GUILTY,8
+VIOLET EVERGARDEN,10
+YAKUSOKU NO NEVERLAND,9
+YOUJO SENKI,8
+ZOMBIELAND SAGA,9

@@ -1,101 +1,101 @@
-﻿Akagami no Shirayuki-hime,9
-Akagami no Shirayuki-hime 2nd Season,9
-Assassins Pride,6
-Boku dake ga Inai Machi,7
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,10
-Boku no Hero Academia 4th Season,10
-Bokutachi wa Benkyou ga Dekinai,7
-Bungou Stray Dogs,9
-Bungou Stray Dogs 2nd Season,9
-Charlotte,8
-Darling in the FranXX,7
-Death March kara Hajimaru Isekai Kyousoukyoku,7
-Death Note,10
-Domestic na Kanojo,8
-Dorohedoro,8
-Dr. Stone,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,7
-Enen no Shouboutai,8
-Fullmetal Alchemist: Brotherhood,10
-Gakuen Babysitters,7
-Gamers!,8
-Gin no Guardian,7
-Gin no Guardian II,7
-Goblin Slayer,7
-Grancrest Senki,8
-Grand Blue,10
-Haikyuu!!,9
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Haikyuu!!: To the Top,9
-High School DxD,8
-High School DxD BorN,8
-High School DxD Hero,8
-High School DxD New,8
-Hyakuren no Haou to Seiyaku no Valkyria,6
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,7
-Ishuzoku Reviewers,7
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,8
-Juuni Taisen,4
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Karakai Jouzu no Takagi-san,7
-Kimetsu no Yaiba,10
-Kino no Tabi: The Beautiful World - The Animated Series,8
-Kiznaiver,9
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,9
-Kyokou Suiri,7
-Magi: Sinbad no Bouken (TV),9
-Magi: The Kingdom of Magic,7
-Magi: The Labyrinth of Magic,8
-Mahouka Koukou no Rettousei,7
-Mahoutsukai no Yome,9
-Midara na Ao-chan wa Benkyou ga Dekinai,6
-Miira no Kaikata,7
-Mob Psycho 100,9
-Mob Psycho 100 II,9
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,9
-Nanatsu no Taizai: Kamigami no Gekirin,6
-Nanatsu no Taizai: Seisen no Shirushi,8
-Nande Koko ni Sensei ga!?,7
-Naruto,8
-No Game No Life,8
-No Guns Life,7
-One Punch Man,9
-Osake wa Fuufu ni Natte kara,8
-Plastic Memories,10
-Prison School,8
-Rakudai Kishi no Cavalry,7
-Re:Zero kara Hajimeru Isekai Seikatsu,10
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,9
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,9
-Shokugeki no Souma,8
-Shokugeki no Souma: Ni no Sara,8
-Shokugeki no Souma: San no Sara,8
-Shokugeki no Souma: Shin no Sara,8
-Sukitte Ii na yo.,9
-Sword Art Online,8
-Sword Art Online Alternative: Gun Gale Online,7
-Sword Art Online II,7
-Sword Art Online: Alicization,8
-Sword Art Online: Alicization - War of Underworld,8
-Tate no Yuusha no Nariagari,10
-Tensei shitara Slime Datta Ken,8
-Tokyo Ghoul,9
-Tsurezure Children,8
-Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?,7
-Vinland Saga,9
-Violet Evergarden,10
-Yakusoku no Neverland,9
-Yamada-kun to 7-nin no Majo (TV),8
-Youjo Senki,9
-Yuragi-sou no Yuuna-san,6
+﻿AKAGAMI NO SHIRAYUKI-HIME,9
+AKAGAMI NO SHIRAYUKI-HIME 2ND SEASON,9
+ASSASSINS PRIDE,6
+BOKU DAKE GA INAI MACHI,7
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+BOKU NO HERO ACADEMIA 4TH SEASON,10
+BOKUTACHI WA BENKYOU GA DEKINAI,7
+BUNGOU STRAY DOGS,9
+BUNGOU STRAY DOGS 2ND SEASON,9
+CHARLOTTE,8
+DARLING IN THE FRANXX,7
+DEATH MARCH KARA HAJIMARU ISEKAI KYOUSOUKYOKU,7
+DEATH NOTE,10
+DOMESTIC NA KANOJO,8
+DOROHEDORO,8
+DR. STONE,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA GAIDEN: SWORD ORATORIA,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,7
+ENEN NO SHOUBOUTAI,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GAKUEN BABYSITTERS,7
+GAMERS!,8
+GIN NO GUARDIAN,7
+GIN NO GUARDIAN II,7
+GOBLIN SLAYER,7
+GRANCREST SENKI,8
+GRAND BLUE,10
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HAIKYUU!!: TO THE TOP,9
+HIGH SCHOOL DXD,8
+HIGH SCHOOL DXD BORN,8
+HIGH SCHOOL DXD HERO,8
+HIGH SCHOOL DXD NEW,8
+HYAKUREN NO HAOU TO SEIYAKU NO VALKYRIA,6
+ISEKAI MAOU TO SHOUKAN SHOUJO NO DOREI MAJUTSU,7
+ISHUZOKU REVIEWERS,7
+ITAI NO WA IYA NANO DE BOUGYORYOKU NI KYOKUFURI SHITAI TO OMOIMASU.,8
+JUUNI TAISEN,4
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KARAKAI JOUZU NO TAKAGI-SAN,7
+KIMETSU NO YAIBA,10
+KINO NO TABI: THE BEAUTIFUL WORLD - THE ANIMATED SERIES,8
+KIZNAIVER,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,9
+KYOKOU SUIRI,7
+MAGI: SINBAD NO BOUKEN (TV),9
+MAGI: THE KINGDOM OF MAGIC,7
+MAGI: THE LABYRINTH OF MAGIC,8
+MAHOUKA KOUKOU NO RETTOUSEI,7
+MAHOUTSUKAI NO YOME,9
+MIDARA NA AO-CHAN WA BENKYOU GA DEKINAI,6
+MIIRA NO KAIKATA,7
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,9
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,9
+NANATSU NO TAIZAI: KAMIGAMI NO GEKIRIN,6
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,8
+NANDE KOKO NI SENSEI GA!?,7
+NARUTO,8
+NO GAME NO LIFE,8
+NO GUNS LIFE,7
+ONE PUNCH MAN,9
+OSAKE WA FUUFU NI NATTE KARA,8
+PLASTIC MEMORIES,10
+PRISON SCHOOL,8
+RAKUDAI KISHI NO CAVALRY,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,10
+SHINCHOU YUUSHA: KONO YUUSHA GA ORE TSUEEE KUSE NI SHINCHOU SUGIRU,9
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SHOKUGEKI NO SOUMA,8
+SHOKUGEKI NO SOUMA: NI NO SARA,8
+SHOKUGEKI NO SOUMA: SAN NO SARA,8
+SHOKUGEKI NO SOUMA: SHIN NO SARA,8
+SUKITTE II NA YO.,9
+SWORD ART ONLINE,8
+SWORD ART ONLINE ALTERNATIVE: GUN GALE ONLINE,7
+SWORD ART ONLINE II,7
+SWORD ART ONLINE: ALICIZATION,8
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,8
+TATE NO YUUSHA NO NARIAGARI,10
+TENSEI SHITARA SLIME DATTA KEN,8
+TOKYO GHOUL,9
+TSUREZURE CHILDREN,8
+TSUUJOU KOUGEKI GA ZENTAI KOUGEKI DE NI-KAI KOUGEKI NO OKAASAN WA SUKI DESU KA?,7
+VINLAND SAGA,9
+VIOLET EVERGARDEN,10
+YAKUSOKU NO NEVERLAND,9
+YAMADA-KUN TO 7-NIN NO MAJO (TV),8
+YOUJO SENKI,9
+YURAGI-SOU NO YUUNA-SAN,6

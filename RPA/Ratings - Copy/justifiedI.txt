@@ -1,97 +1,131 @@
-3-gatsu no Lion,-
-91 Days,-
-Aria the Animation,-
-Baccano!,-
-Barakamon,-
-Beastars,-
-Black Lagoon,-
-Bleach,-
-Boku dake ga Inai Machi,-
-Boku no Hero Academia,-
-Btooom!,-
-Bungou Stray Dogs,-
-Chuunibyou demo Koi ga Shitai!,-
-Clannad,-
-Comic Girls,-
-Cop Craft,-
-Dagashi Kashi,-
-Danshi Koukousei no Nichijou,-
-Death Note,-
-Dr. Stone,-
-Dragon Ball,-
-Dragon Ball Super,-
-Dumbbell Nan Kilo Moteru?,-
-Durarara!!,-
-Enen no Shouboutai,-
-Ergo Proxy,-
-Fate/Zero,-
-Fullmetal Alchemist: Brotherhood,-
-Fune wo Amu,-
-Gaikotsu Shotenin Honda-san,-
-Gakuen Babysitters,-
-Gekkan Shoujo Nozaki-kun,-
-Gin no Saji,-
-Gintama,-
-Gintama°,-
-Hachigatsu no Cinderella Nine (TV),-
-Hamatora The Animation,-
-Hataage! Kemono Michi,-
-Hellsing,-
-Hinamatsuri,-
-Hunter x Hunter,-
-Hyouka,-
-Initial D First Stage,-
-Inou-Battle wa Nichijou-kei no Naka de,-
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,-
-Joshikousei no Mudazukai,-
-K,-
-Kaichou wa Maid-sama!,-
-Kanon,-
-Kanon (2006),-
-Kaze no Youjinbou,-
-Kekkai Sensen,-
-Kenka Banchou Otome: Girl Beats Boys,-
-Kimetsu no Yaiba,-
-Kino no Tabi: The Beautiful World,-
-Kobayashi-san Chi no Maid Dragon,-
-Kokkoku,-
-Konbini Kareshi,-
-Kono Oto Tomare!,-
-Kyoukai no Kanata,-
-Machikado Mazoku,-
-Magi: The Labyrinth of Magic,-
-Maou-sama Retry!,-
-Masamune-kun no Revenge,-
-Mitsuboshi Colors,-
-Mob Psycho 100,-
-Monster,-
-Mushishi,-
-Naruto,-
-Natsume Yuujinchou,-
-New Game!,-
-Nichijou,-
-No Game No Life,-
-Non Non Biyori,-
-One Punch Man,-
-Persona 4 the Golden Animation,-
-Persona 5 the Animation,-
-Ping Pong the Animation,-
-ReLIFE,-
-Saiki Kusuo no Ψ-nan,-
-Sakigake!! Cromartie Koukou,-
-Shingeki no Kyojin,-
-Shirobako,-
-Sounan Desu ka?,-
-Sword Art Online,-
-Tamako Market,-
-Tanaka-kun wa Itsumo Kedaruge,-
-To Be Hero,-
-Tonari no Kaibutsu-kun,-
-Tonari no Seki-kun,-
-Trigun,-
-Tsuki ga Kirei,-
-Tsurezure Children,-
-Vinland Saga,-
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,-
-Watashi ni Tenshi ga Maiorita!,-
-Yakusoku no Neverland,-
+﻿3-GATSU NO LION,9
+3D KANOJO: REAL GIRL,6
+91 DAYS,8
+AFRO SAMURAI,7
+AKAME GA KILL!,7
+AMAGI BRILLIANT PARK,7
+ANSATSU KYOUSHITSU,8
+ARIA THE ANIMATION,10
+BACCANO!,9
+BARAKAMON,10
+BEASTARS,7
+BEELZEBUB,7
+BLACK LAGOON,9
+BLEACH,6
+BOKU DAKE GA INAI MACHI,8
+BOKU NO HERO ACADEMIA,8
+BTOOOM!,6
+BUNGOU STRAY DOGS,8
+CAROLE & TUESDAY,8
+CHIO-CHAN NO TSUUGAKURO,8
+CHUUNIBYOU DEMO KOI GA SHITAI!,7
+CLANNAD,8
+COMIC GIRLS,9
+COP CRAFT,6
+D-FRAG!,7
+DAGASHI KASHI,8
+DANSHI KOUKOUSEI NO NICHIJOU,9
+DEATH NOTE,8
+DEMI-CHAN WA KATARITAI,6
+DENPA KYOUSHI (TV),6
+DR. STONE,7
+DRAGON BALL,8
+DRAGON BALL SUPER,7
+DUMBBELL NAN KILO MOTERU?,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,6
+DURARARA!!,9
+ENEN NO SHOUBOUTAI,7
+ERGO PROXY,8
+FATE/ZERO,7
+FUDANSHI KOUKOU SEIKATSU,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,8
+FUMIKIRI JIKAN,8
+FUNE WO AMU,10
+FUUKA,8
+GAIKOTSU SHOTENIN HONDA-SAN,6
+GAKUEN BABYSITTERS,7
+GAMERS!,6
+GEKKAN SHOUJO NOZAKI-KUN,8
+GIN NO SAJI,9
+GINTAMA,10
+GRAPPLER BAKI (TV),6
+HACHIGATSU NO CINDERELLA NINE (TV),6
+HAJIME NO IPPO,9
+HAMATORA THE ANIMATION,6
+HARUKANA RECEIVE,6
+HATARAKU MAOU-SAMA!,7
+HELLSING,8
+HINAMATSURI,9
+HINOMARUZUMOU,7
+HUNTER X HUNTER,9
+HYOUKA,7
+INITIAL D FIRST STAGE,7
+INOU-BATTLE WA NICHIJOU-KEI NO NAKA DE,7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,9
+JOSHIKOUSEI NO MUDAZUKAI,9
+K,8
+K-ON!,8
+KAICHOU WA MAID-SAMA!,6
+KANON (2006),8
+KAZE NO YOUJINBOU,7
+KEKKAI SENSEN,9
+KENKA BANCHOU OTOME: GIRL BEATS BOYS,6
+KIMETSU NO YAIBA,8
+KINO NO TABI: THE BEAUTIFUL WORLD,9
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+KOKKOKU,7
+KONBINI KARESHI,6
+KONO OTO TOMARE!,6
+KYOUKAI NO KANATA,8
+MACHIKADO MAZOKU,9
+MAGI: THE LABYRINTH OF MAGIC,8
+MAOU-SAMA RETRY!,6
+MASAMUNE-KUN NO REVENGE,6
+MEGALO BOX,8
+MITSUBOSHI COLORS,8
+MOB PSYCHO 100,8
+MONSTER,8
+MUSHISHI,9
+NANATSU NO TAIZAI,7
+NANBAKA,7
+NARUTO,8
+NATSUME YUUJINCHOU,7
+NAZO NO KANOJO X,6
+NEW GAME!,7
+NHK NI YOUKOSO!,9
+NICHIJOU,8
+NO GAME NO LIFE,7
+NON NON BIYORI,7
+ONE PUNCH MAN,9
+ONEGAI☆TEACHER,7
+ONEGAI☆TWINS,5
+PERSONA 4 THE GOLDEN ANIMATION,8
+PERSONA 5 THE ANIMATION,8
+PING PONG THE ANIMATION,10
+RECORDER TO RANDOSERU DO♪,7
+RELIFE,8
+SAIKI KUSUO NO Ψ-NAN,8
+SAKAMICHI NO APOLLON,9
+SAKAMOTO DESU GA?,7
+SAKIGAKE!! CROMARTIE KOUKOU,8
+SHINGEKI NO KYOJIN,8
+SHIROBAKO,8
+SWORD ART ONLINE,6
+TAMAKO MARKET,8
+TANAKA-KUN WA ITSUMO KEDARUGE,8
+TENGEN TOPPA GURREN LAGANN,9
+TO BE HERO,10
+TONARI NO KAIBUTSU-KUN,7
+TONARI NO SEKI-KUN,8
+TRIGUN,10
+TSUKI GA KIREI,8
+TSUREZURE CHILDREN,8
+UDON NO KUNI NO KINIRO KEMARI,10
+VINLAND SAGA,9
+WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,7
+WATASHI NI TENSHI GA MAIORITA!,7
+WATASHI NOURYOKU WA HEIKINCHI DE TTE ITTA YO NE!,6
+WORKING!!,8
+WOTAKU NI KOI WA MUZUKASHII,8
+YAGATE KIMI NI NARU,7
+YAKUSOKU NO NEVERLAND,7

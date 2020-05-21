@@ -1,19 +1,19 @@
-﻿Death Note,9
-Haikyuu!!,8
-Haikyuu!! Second Season,8
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8
-Hunter x Hunter (2011),9
-Inazuma Eleven: Orion no Kokuin,8
-JoJo no Kimyou na Bouken (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-One Punch Man,8
-Sword Art Online,9
-Toaru Kagaku no Accelerator,7
-Toaru Kagaku no Railgun,7
-Toaru Kagaku no Railgun S,8
-Toaru Majutsu no Index,8
-Toaru Majutsu no Index II,8
-Toaru Majutsu no Index III,9
-Yakusoku no Neverland,8
+﻿DEATH NOTE,9
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,8
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,8
+HUNTER X HUNTER (2011),9
+INAZUMA ELEVEN: ORION NO KOKUIN,8
+JOJO NO KIMYOU NA BOUKEN (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+ONE PUNCH MAN,8
+SWORD ART ONLINE,9
+TOARU KAGAKU NO ACCELERATOR,7
+TOARU KAGAKU NO RAILGUN,7
+TOARU KAGAKU NO RAILGUN S,8
+TOARU MAJUTSU NO INDEX,8
+TOARU MAJUTSU NO INDEX II,8
+TOARU MAJUTSU NO INDEX III,9
+YAKUSOKU NO NEVERLAND,8

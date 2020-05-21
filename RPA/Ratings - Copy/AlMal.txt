@@ -1,41 +1,41 @@
-﻿.hack//Sign,-
-Bakemonogatari,8
-Boku dake ga Inai Machi,8
-Clannad,7
-Clannad: After Story,7
-Death Note,9
-Dragon Ball,8
-Dragon Ball Kai,9
-Dragon Ball Kai (2014),9
-Dragon Ball Super,8
-Dragon Ball Z,8
-Dumbbell Nan Kilo Moteru?,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,8
-Great Teacher Onizuka,8
-Highschool of the Dead,7
-Kanojo to Kanojo no Neko: Everything Flows,8
-Kill la Kill,9
-Kimetsu no Yaiba,8
-Kokoro Connect,7
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,7
-Maoyuu Maou Yuusha,7
-Monster Musume no Iru Nichijou,6
-Nande Koko ni Sensei ga!?,6
-Natsume Yuujinchou,7
-Nekopara,7
-Neon Genesis Evangelion,8
-NHK ni Youkoso!,8
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,8
-Somali to Mori no Kamisama,8
-Steins;Gate,9
-Steins;Gate 0,7
-Tokyo Ghoul,8
-Wotaku ni Koi wa Muzukashii,7
-Zoku Natsume Yuujinchou,8
+﻿BAKEMONOGATARI,8
+BOKU DAKE GA INAI MACHI,8
+CLANNAD,7
+CLANNAD: AFTER STORY,7
+DATE A LIVE,7
+DEATH NOTE,9
+DRAGON BALL,8
+DRAGON BALL KAI,9
+DRAGON BALL KAI (2014),9
+DRAGON BALL SUPER,8
+DRAGON BALL Z,8
+DUMBBELL NAN KILO MOTERU?,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA GAIDEN: SWORD ORATORIA,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,8
+GREAT TEACHER ONIZUKA,8
+HIGHSCHOOL OF THE DEAD,7
+KANOJO TO KANOJO NO NEKO: EVERYTHING FLOWS,8
+KILL LA KILL,9
+KIMETSU NO YAIBA,8
+KOKORO CONNECT,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,7
+MAOYUU MAOU YUUSHA,7
+MONSTER MUSUME NO IRU NICHIJOU,6
+NANDE KOKO NI SENSEI GA!?,6
+NATSUME YUUJINCHOU,7
+NEKOPARA,7
+NEON GENESIS EVANGELION,8
+NHK NI YOUKOSO!,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,8
+SOMALI TO MORI NO KAMISAMA,8
+STEINS;GATE,9
+STEINS;GATE 0,7
+TOKYO GHOUL,8
+WOTAKU NI KOI WA MUZUKASHII,7
+ZOKU NATSUME YUUJINCHOU,8

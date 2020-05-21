@@ -1,74 +1,68 @@
-﻿Angel Beats!,8
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Another,8
-Araburu Kisetsu no Otome-domo yo.,9
-Banana Fish,-
-Beastars,9
-Beck,9
-Berserk,-
-Boku no Hero Academia,6
-Canaan,9
-Carole & Tuesday,9
-Charlotte,8
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,8
-Danshi Koukousei no Nichijou,-
-Darwin's Game,-
-Deadman Wonderland,8
-Death Note,8
-Dorohedoro,8
-Dororo,10
-Dr. Stone,-
-Dumbbell Nan Kilo Moteru?,8
-Enen no Shouboutai,7
-Fullmetal Alchemist: Brotherhood,10
-Gantz,8
-Given,9
-Glasslip,6
-Hanasaku Iroha,9
-Higurashi no Naku Koro ni Kai,9
-Hunter x Hunter (2011),9
-InuYasha (TV): Kanketsu-hen,10
-Irozuku Sekai no Ashita kara,8
-Ishuzoku Reviewers,8
-Jibaku Shounen Hanako-kun,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kanata no Astra,8
-Karakai Jouzu no Takagi-san,6
-Katsute Kami Datta Kemono-tachi e,7
-Kimetsu no Yaiba,10
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kyoukai no Kanata,9
-Mob Psycho 100,9
-Mob Psycho 100 II,9
-Nagi no Asu kara,9
-Naruto,10
-Naruto: Shippuuden,9
-No.6,9
-One Punch Man,10
-One Punch Man 2nd Season,8
-Ore wo Suki nano wa Omae dake ka yo,8
-Ouran Koukou Host Club,8
-Pet,8
-Rainbow: Nisha Rokubou no Shichinin,9
-Ranma ½,10
-RDG: Red Data Girl,8
-Saiki Kusuo no Ψ-nan,10
-Saiki Kusuo no Ψ-nan 2,10
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,10
-Shingeki no Kyojin Season 3,10
-Shingeki no Kyojin Season 3 Part 2,10
-Shinsekai yori,8
-Shirobako,9
-Shokugeki no Souma,8
-Sirius,9
-Tari Tari,6
-True Tears,6
-Tsuki ga Kirei,7
-Uchouten Kazoku,6
-Vinland Saga,9
-Violet Evergarden,10
-Yakusoku no Neverland,10
-Yami Shibai 7,7
-Youjo Senki,-
+﻿ANGEL BEATS!,8
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+ANOTHER,8
+ARABURU KISETSU NO OTOME-DOMO YO.,9
+BEASTARS,9
+BECK,9
+BOKU NO HERO ACADEMIA,6
+CANAAN,9
+CAROLE & TUESDAY,9
+CHARLOTTE,8
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,8
+DEADMAN WONDERLAND,8
+DEATH NOTE,8
+DOROHEDORO,8
+DORORO,10
+DUMBBELL NAN KILO MOTERU?,8
+ENEN NO SHOUBOUTAI,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GANTZ,8
+GIVEN,9
+GLASSLIP,6
+HANASAKU IROHA,9
+HIGURASHI NO NAKU KORO NI KAI,9
+HUNTER X HUNTER (2011),9
+INUYASHA (TV): KANKETSU-HEN,10
+IROZUKU SEKAI NO ASHITA KARA,8
+ISHUZOKU REVIEWERS,8
+JIBAKU SHOUNEN HANAKO-KUN,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KANATA NO ASTRA,8
+KARAKAI JOUZU NO TAKAGI-SAN,6
+KATSUTE KAMI DATTA KEMONO-TACHI E,7
+KIMETSU NO YAIBA,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KYOUKAI NO KANATA,9
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,9
+NAGI NO ASU KARA,9
+NARUTO,10
+NARUTO: SHIPPUUDEN,9
+NO.6,9
+ONE PUNCH MAN,10
+ONE PUNCH MAN 2ND SEASON,8
+ORE WO SUKI NANO WA OMAE DAKE KA YO,8
+OURAN KOUKOU HOST CLUB,8
+PET,8
+RAINBOW: NISHA ROKUBOU NO SHICHININ,9
+RANMA ½,10
+RDG: RED DATA GIRL,8
+SAIKI KUSUO NO Ψ-NAN,10
+SAIKI KUSUO NO Ψ-NAN 2,10
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,10
+SHINGEKI NO KYOJIN SEASON 3,10
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SHINSEKAI YORI,8
+SHIROBAKO,9
+SHOKUGEKI NO SOUMA,8
+SIRIUS,9
+TARI TARI,6
+TRUE TEARS,6
+TSUKI GA KIREI,7
+UCHOUTEN KAZOKU,6
+VINLAND SAGA,9
+VIOLET EVERGARDEN,10
+YAKUSOKU NO NEVERLAND,10
+YAMI SHIBAI 7,7

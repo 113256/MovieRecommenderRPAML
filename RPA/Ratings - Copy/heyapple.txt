@@ -1,22 +1,19 @@
-﻿Boku no Hero Academia,10
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,10
-Boku no Hero Academia 4th Season,-
-Darling in the FranXX,10
-Death Note,9
-Fate/Apocrypha,10
-Fate/kaleid liner Prisma☆Illya,8
-Fate/kaleid liner Prisma☆Illya 2wei!,8
-Fate/stay night,9
-Fate/stay night: Unlimited Blade Works,10
-Fate/stay night: Unlimited Blade Works 2nd Season,10
-Fate/Zero,9
-Fate/Zero 2nd Season,8
-Fullmetal Alchemist: Brotherhood,10
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,9
-Nanatsu no Taizai,-
-One Punch Man,10
-Sword Art Online,9
-Sword Art Online: Alicization,-
-Tengen Toppa Gurren Lagann,10
+﻿BOKU NO HERO ACADEMIA,10
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+DARLING IN THE FRANXX,10
+DEATH NOTE,9
+FATE/APOCRYPHA,10
+FATE/KALEID LINER PRISMA☆ILLYA,8
+FATE/KALEID LINER PRISMA☆ILLYA 2WEI!,8
+FATE/STAY NIGHT,9
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,10
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,10
+FATE/ZERO,9
+FATE/ZERO 2ND SEASON,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,9
+ONE PUNCH MAN,10
+SWORD ART ONLINE,9
+TENGEN TOPPA GURREN LAGANN,10

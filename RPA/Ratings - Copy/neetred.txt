@@ -1,59 +1,54 @@
-﻿Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,10
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Boku wa Tomodachi ga Sukunai,7
-Chuunibyou demo Koi ga Shitai!,9
-Chuunibyou demo Koi ga Shitai! Ren,9
-Clannad,8
-Clannad: After Story,9
-Gabriel DropOut,6
-Goblin Slayer,6
-Golden Time,7
-Hanebado!,7
-Hataraku Maou-sama!,8
-Hataraku Saibou (TV),8
-Hoshiai no Sora,-
-Hyouka,8
-Isekai Quartet,7
-JoJo no Kimyou na Bouken (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,7
-Karakai Jouzu no Takagi-san,8
-Kill la Kill,9
-Kimetsu no Yaiba,9
-Kino no Tabi: The Beautiful World,-
-Kino no Tabi: The Beautiful World - The Animated Series,-
-Kokoro Connect,9
-Kuzu no Honkai,5
-Little Witch Academia (TV),-
-Mob Psycho 100,10
-Mob Psycho 100 II,8
-Nisekoi,7
-No Game No Life,10
-Ookami to Koushinryou,9
-Ookami to Koushinryou II,9
-Ore no Imouto ga Konnani Kawaii Wake ga Nai,6
-Ore no Imouto ga Konnani Kawaii Wake ga Nai.,6
-Plastic Memories,8
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-ReLIFE,9
-Sakura-sou no Pet na Kanojo,8
-Satsuriku no Tenshi,5
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Serial Experiments Lain,-
-Shigatsu wa Kimi no Uso,7
-SSSS.Gridman,7
-Steins;Gate,10
-Steins;Gate 0,7
-Tada-kun wa Koi wo Shinai,8
-Tate no Yuusha no Nariagari,8
-Tengen Toppa Gurren Lagann,10
-Toradora!,10
-Tsuki ga Kirei,9
-Violet Evergarden,9
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,7
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,9
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
-Yakusoku no Neverland,9
+﻿ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,10
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU WA TOMODACHI GA SUKUNAI,7
+CHUUNIBYOU DEMO KOI GA SHITAI!,9
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,9
+CLANNAD,8
+CLANNAD: AFTER STORY,9
+GABRIEL DROPOUT,6
+GOBLIN SLAYER,6
+GOLDEN TIME,7
+HANEBADO!,7
+HATARAKU MAOU-SAMA!,8
+HATARAKU SAIBOU (TV),8
+HYOUKA,8
+ISEKAI QUARTET,7
+JOJO NO KIMYOU NA BOUKEN (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,7
+KARAKAI JOUZU NO TAKAGI-SAN,8
+KILL LA KILL,9
+KIMETSU NO YAIBA,9
+KOKORO CONNECT,9
+KUZU NO HONKAI,5
+MOB PSYCHO 100,10
+MOB PSYCHO 100 II,8
+NISEKOI,7
+NO GAME NO LIFE,10
+OOKAMI TO KOUSHINRYOU,9
+OOKAMI TO KOUSHINRYOU II,9
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI,6
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI.,6
+PLASTIC MEMORIES,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+RELIFE,9
+SAKURA-SOU NO PET NA KANOJO,8
+SATSURIKU NO TENSHI,5
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SHIGATSU WA KIMI NO USO,7
+SSSS.GRIDMAN,7
+STEINS;GATE,10
+STEINS;GATE 0,7
+TADA-KUN WA KOI WO SHINAI,8
+TATE NO YUUSHA NO NARIAGARI,8
+TENGEN TOPPA GURREN LAGANN,10
+TORADORA!,10
+TSUKI GA KIREI,9
+VIOLET EVERGARDEN,9
+WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,7
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,9
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,8
+YAKUSOKU NO NEVERLAND,9

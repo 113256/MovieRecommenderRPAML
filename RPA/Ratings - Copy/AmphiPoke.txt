@@ -1,27 +1,27 @@
-﻿Angel Heart,10
-Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,10
-Boku no Hero Academia,10
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,10
-Chio-chan no Tsuugakuro,9
-City Hunter,10
-City Hunter '91,10
-Great Teacher Onizuka,10
-Haikyuu!!,9
-Haikyuu!! Second Season,10
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,10
-Kimetsu no Yaiba,8
-Mob Psycho 100,8
-Mob Psycho 100 II,9
-Naruto: Shippuuden,10
-One Punch Man,8
-One Punch Man 2nd Season,9
-Pokemon Sun & Moon,9
-Pokemon XY,10
-Pokemon XY&Z,10
-Radiant,8
-Shokugeki no Souma,9
-Shokugeki no Souma: Ni no Sara,9
-Shokugeki no Souma: San no Sara,9
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,9
+﻿ANGEL HEART,10
+ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,10
+BOKU NO HERO ACADEMIA,10
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+CHIO-CHAN NO TSUUGAKURO,9
+CITY HUNTER,10
+CITY HUNTER '91,10
+GREAT TEACHER ONIZUKA,10
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,10
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,10
+KIMETSU NO YAIBA,8
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,9
+NARUTO: SHIPPUUDEN,10
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,9
+POKEMON SUN & MOON,9
+POKEMON XY,10
+POKEMON XY&Z,10
+RADIANT,8
+SHOKUGEKI NO SOUMA,9
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,9

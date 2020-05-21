@@ -1,73 +1,75 @@
-﻿3-gatsu no Lion,6
-3-gatsu no Lion 2nd Season,7
-Angel Beats!,6
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
-Assassins Pride,2
-Bakemonogatari,7
-Beastars,4
-Boku no Hero Academia,5
-Boku no Hero Academia 2nd Season,6
-Boku no Hero Academia 3rd Season,5
-Boku no Hero Academia 4th Season,4
-Carole & Tuesday,4
-Code Geass: Hangyaku no Lelouch,10
-Code Geass: Hangyaku no Lelouch R2,8
-Cowboy Bebop,7
-Death Note,8
-Dr. Stone,5
-Eizouken ni wa Te wo Dasu na!,7
-Fullmetal Alchemist: Brotherhood,7
-Haibane Renmei,9
-Haikyuu!!,7
-Haikyuu!! Second Season,7
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,7
-Haikyuu!!: To the Top,6
-Hanamonogatari,5
-JoJo no Kimyou na Bouken (TV),5
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,7
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,4
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,6
-K-On!,5
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,5
-Kimetsu no Yaiba,6
-Kono Subarashii Sekai ni Shukufuku wo!,6
-Kono Subarashii Sekai ni Shukufuku wo! 2,7
-Made in Abyss,6
-Mahou Shoujo Madoka★Magica,6
-Metal Fight Beyblade,3
-Metal Fight Beyblade 4D,3
-Metal Fight Beyblade: Baku,3
-Mob Psycho 100,7
-Mob Psycho 100 II,7
-Monogatari Series: Second Season,6
-Monster,10
-Mushishi,8
-Mushishi Zoku Shou,7
-Mushishi Zoku Shou 2nd Season,7
-Nanatsu no Taizai,4
-Nanatsu no Taizai: Imashime no Fukkatsu,3
-Naruto,5
-Nekomonogatari: Kuro,5
-Neon Genesis Evangelion,8
-Nisemonogatari,5
-One Punch Man,7
-One Punch Man 2nd Season,5
-Re:Zero kara Hajimeru Isekai Seikatsu,6
-Sarazanmai,7
-Serial Experiments Lain,8
-Shigatsu wa Kimi no Uso,8
-Shingeki no Kyojin,6
-Shingeki no Kyojin Season 2,4
-Shingeki no Kyojin Season 3,5
-Sora yori mo Tooi Basho,6
-Steins;Gate,7
-Steins;Gate 0,6
-Sword Art Online,3
-Sword Art Online II,2
-Tengen Toppa Gurren Lagann,6
-Tensei shitara Slime Datta Ken,4
-Tsukimonogatari,5
-Violet Evergarden,5
-Yakusoku no Neverland,7
-Yojouhan Shinwa Taikei,9
+﻿3-GATSU NO LION,6
+3-GATSU NO LION 2ND SEASON,7
+ANGEL BEATS!,6
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,8
+ASSASSINS PRIDE,2
+BAKEMONOGATARI,7
+BEASTARS,4
+BOKU NO HERO ACADEMIA,5
+BOKU NO HERO ACADEMIA 2ND SEASON,6
+BOKU NO HERO ACADEMIA 3RD SEASON,5
+BOKU NO HERO ACADEMIA 4TH SEASON,4
+CAROLE & TUESDAY,4
+CODE GEASS: HANGYAKU NO LELOUCH,10
+CODE GEASS: HANGYAKU NO LELOUCH R2,8
+COWBOY BEBOP,7
+DEATH NOTE,8
+DR. STONE,5
+EIZOUKEN NI WA TE WO DASU NA!,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,7
+HAIBANE RENMEI,9
+HAIKYUU!!,7
+HAIKYUU!! SECOND SEASON,7
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,7
+HAIKYUU!!: TO THE TOP,6
+HANAMONOGATARI,5
+JOJO NO KIMYOU NA BOUKEN (TV),5
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,7
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,4
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,6
+K-ON!,5
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,5
+KIMETSU NO YAIBA,6
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,6
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,7
+MADE IN ABYSS,6
+MAHOU SHOUJO MADOKA★MAGICA,6
+METAL FIGHT BEYBLADE,3
+METAL FIGHT BEYBLADE 4D,3
+METAL FIGHT BEYBLADE: BAKU,3
+MOB PSYCHO 100,7
+MOB PSYCHO 100 II,7
+MONOGATARI SERIES: SECOND SEASON,6
+MONSTER,10
+MUSHISHI,8
+MUSHISHI ZOKU SHOU,7
+MUSHISHI ZOKU SHOU 2ND SEASON,7
+NANATSU NO TAIZAI,4
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,3
+NARUTO,5
+NEKOMONOGATARI: KURO,5
+NEON GENESIS EVANGELION,8
+NISEMONOGATARI,5
+ONE PUNCH MAN,7
+ONE PUNCH MAN 2ND SEASON,5
+PING PONG THE ANIMATION,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,6
+SARAZANMAI,7
+SERIAL EXPERIMENTS LAIN,8
+SHIGATSU WA KIMI NO USO,8
+SHINGEKI NO KYOJIN,6
+SHINGEKI NO KYOJIN SEASON 2,4
+SHINGEKI NO KYOJIN SEASON 3,5
+SHINGEKI NO KYOJIN SEASON 3 PART 2,6
+SORA YORI MO TOOI BASHO,6
+STEINS;GATE,7
+STEINS;GATE 0,6
+SWORD ART ONLINE,3
+SWORD ART ONLINE II,2
+TENGEN TOPPA GURREN LAGANN,6
+TENSEI SHITARA SLIME DATTA KEN,4
+TSUKIMONOGATARI,5
+VIOLET EVERGARDEN,5
+YAKUSOKU NO NEVERLAND,7
+YOJOUHAN SHINWA TAIKEI,9

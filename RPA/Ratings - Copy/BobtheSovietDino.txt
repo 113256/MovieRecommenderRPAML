@@ -1,57 +1,55 @@
-﻿Accel World,9
-Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,10
-Baka to Test to Shoukanjuu,9
-Baka to Test to Shoukanjuu Ni!,7
-Blend S,9
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Bungou Stray Dogs,8
-Busou Shoujo Machiavellianism,8
-Chuunibyou demo Koi ga Shitai!,9
-Danna ga Nani wo Itteiru ka Wakaranai Ken,7
-Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me,8
-Death Parade,8
-Demi-chan wa Kataritai,9
-Dororo,9
-Enen no Shouboutai,8
-Fate/Extra: Last Encore,6
-Fate/stay night: Unlimited Blade Works,8
-Fate/stay night: Unlimited Blade Works 2nd Season,8
-Fate/Zero,9
-Fate/Zero 2nd Season,9
-Gabriel DropOut,9
-Hinako Note,8
-JoJo no Kimyou na Bouken (TV),9
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kakegurui,9
-Kakegurui××,8
-Kekkai Sensen,9
-Kiznaiver,4
-Kobayashi-san Chi no Maid Dragon,9
-Kono Bijutsubu ni wa Mondai ga Aru!,8
-Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note,8
-Love Live! School Idol Project,7
-Mahou Shoujo Madoka★Magica,9
-Mayo Chiki!,7
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Seisen no Shirushi,8
-Nanbaka,6
-New Game!,9
-Nisekoi,9
-No Game No Life,9
-Noragami,8
-One Punch Man,9
-Overlord,8
-Panty & Stocking with Garterbelt,8
-Princess Principal,10
-Pucca,-
-Pucca 2,-
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Rokudenashi Majutsu Koushi to Akashic Records,9
-Teekyuu,3
-Tejina-senpai,-
-Uma Musume: Pretty Derby (TV),9
-Yondemasu yo Azazel-san. (TV),8
-Youjo Senki,8
+﻿ACCEL WORLD,9
+ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,10
+BAKA TO TEST TO SHOUKANJUU,9
+BAKA TO TEST TO SHOUKANJUU NI!,7
+BLEND S,9
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,10
+BUNGOU STRAY DOGS,8
+BUSOU SHOUJO MACHIAVELLIANISM,8
+CHUUNIBYOU DEMO KOI GA SHITAI!,9
+DANNA GA NANI WO ITTEIRU KA WAKARANAI KEN,7
+DANNA GA NANI WO ITTEIRU KA WAKARANAI KEN 2 SURE-ME,8
+DEATH PARADE,8
+DEMI-CHAN WA KATARITAI,9
+DORORO,9
+ENEN NO SHOUBOUTAI,8
+FATE/EXTRA: LAST ENCORE,6
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,8
+FATE/ZERO,9
+FATE/ZERO 2ND SEASON,9
+GABRIEL DROPOUT,9
+HINAKO NOTE,8
+JOJO NO KIMYOU NA BOUKEN (TV),9
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KAKEGURUI,9
+KAKEGURUI××,8
+KEKKAI SENSEN,9
+KIZNAIVER,4
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+KONO BIJUTSUBU NI WA MONDAI GA ARU!,8
+LORD EL-MELLOI II SEI NO JIKENBO: RAIL ZEPPELIN GRACE NOTE,8
+LOVE LIVE! SCHOOL IDOL PROJECT,7
+MAHOU SHOUJO MADOKA★MAGICA,9
+MAYO CHIKI!,7
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,8
+NANBAKA,7
+NEW GAME!,9
+NISEKOI,9
+NO GAME NO LIFE,9
+NORAGAMI,8
+ONE PUNCH MAN,9
+OVERLORD,8
+PANTY & STOCKING WITH GARTERBELT,8
+PRINCESS PRINCIPAL,10
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,9
+TEEKYUU,3
+UMA MUSUME: PRETTY DERBY (TV),9
+YONDEMASU YO AZAZEL-SAN. (TV),8
+YOUJO SENKI,8

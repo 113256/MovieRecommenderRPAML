@@ -1,23 +1,24 @@
-﻿Boku dake ga Inai Machi,9
-Code Geass: Hangyaku no Lelouch,8
-Code Geass: Hangyaku no Lelouch R2,9
-Dragon Ball Z,8
-Fate/stay night: Unlimited Blade Works,8
-Fate/stay night: Unlimited Blade Works 2nd Season,9
-Fate/Zero,8
-Fate/Zero 2nd Season,9
-Fullmetal Alchemist: Brotherhood,10
-Haikyuu!!,8
-Haikyuu!! Second Season,8
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Kimetsu no Yaiba,9
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Neon Genesis Evangelion,7
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,10
-Steins;Gate,9
-Tokyo Ghoul,8
-Violet Evergarden,9
+﻿BOKU DAKE GA INAI MACHI,9
+CODE GEASS: HANGYAKU NO LELOUCH,8
+CODE GEASS: HANGYAKU NO LELOUCH R2,9
+DRAGON BALL Z,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,9
+FATE/ZERO,8
+FATE/ZERO 2ND SEASON,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,8
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+KIMETSU NO YAIBA,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+NEON GENESIS EVANGELION,7
+RELIFE,8
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+STEINS;GATE,9
+TOKYO GHOUL,8
+VIOLET EVERGARDEN,9

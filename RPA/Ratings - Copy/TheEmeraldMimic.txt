@@ -1,15 +1,13 @@
-﻿Ao no Exorcist,9
-Boku no Hero Academia,-
-Boku no Hero Academia 2nd Season,-
-Hataraku Maou-sama!,9
-Isekai Quartet,7
-Isekai Quartet 2,7
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,6
-JoJo no Kimyou na Bouken (TV),8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-Karakai Jouzu no Takagi-san,7
-Kimetsu no Yaiba,10
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Mob Psycho 100,9
-Tensei shitara Slime Datta Ken,10
-Tokyo Ghoul,9
+﻿AO NO EXORCIST,9
+HATARAKU MAOU-SAMA!,9
+ISEKAI QUARTET,7
+ISEKAI QUARTET 2,7
+ITAI NO WA IYA NANO DE BOUGYORYOKU NI KYOKUFURI SHITAI TO OMOIMASU.,6
+JOJO NO KIMYOU NA BOUKEN (TV),8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+KARAKAI JOUZU NO TAKAGI-SAN,7
+KIMETSU NO YAIBA,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+MOB PSYCHO 100,9
+TENSEI SHITARA SLIME DATTA KEN,10
+TOKYO GHOUL,9

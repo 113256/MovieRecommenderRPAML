@@ -1,17 +1,17 @@
-﻿Angel Beats!,10
-Dr. Stone,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
-Free!,9
-Fruits Basket 1st Season,10
-JoJo no Kimyou na Bouken (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,10
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,10
-Kimetsu no Yaiba,7
-Kobayashi-san Chi no Maid Dragon,9
-Naruto,9
-Naruto: Shippuuden,7
-One Punch Man,9
-One Punch Man 2nd Season,8
-Yakusoku no Neverland,9
+﻿ANGEL BEATS!,10
+DR. STONE,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,9
+FREE!,9
+FRUITS BASKET 1ST SEASON,10
+JOJO NO KIMYOU NA BOUKEN (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,10
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,10
+KIMETSU NO YAIBA,7
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+NARUTO,9
+NARUTO: SHIPPUUDEN,7
+ONE PUNCH MAN,9
+ONE PUNCH MAN 2ND SEASON,8
+YAKUSOKU NO NEVERLAND,9

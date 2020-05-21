@@ -1,91 +1,91 @@
-﻿Absolute Duo,7
-Akame ga Kill!,8
-Aldnoah.Zero,8
-Aldnoah.Zero 2nd Season,8
-Ao no Exorcist,8
-Boku wa Tomodachi ga Sukunai,8
-Boku wa Tomodachi ga Sukunai Next,8
-Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou,9
-Chain Chronicle: Haecceitas no Hikari,8
-Date A Live,8
-Date A Live II,8
-Date A Live III,8
-Death Note,8
-Devil May Cry,9
-Dororo,9
-Dragon Ball Super,8
-Drifters,9
-Dumbbell Nan Kilo Moteru?,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,7
-Fullmetal Alchemist,9
-Fullmetal Alchemist: Brotherhood,9
-Fuuka,7
-Gakusen Toshi Asterisk,8
-Gakusen Toshi Asterisk 2nd Season,8
-Garo: Guren no Tsuki,9
-Garo: Honoo no Kokuin,8
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,8
-Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,8
-Goblin Slayer,8
-Grand Blue,9
-Guilty Crown,9
-Haikyuu!!,9
-Haikyuu!! Second Season,9
-Hataage! Kemono Michi,7
-High School DxD,9
-High School DxD BorN,9
-High School DxD New,9
-Highschool of the Dead,9
-Hundred,7
-Inazuma Eleven,8
-Inazuma Eleven Go,7
-IS: Infinite Stratos,8
-IS: Infinite Stratos 2,8
-JoJo no Kimyou na Bouken (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
+﻿ABSOLUTE DUO,7
+AKAME GA KILL!,8
+ALDNOAH.ZERO,8
+ALDNOAH.ZERO 2ND SEASON,8
+AO NO EXORCIST,8
+BOKU WA TOMODACHI GA SUKUNAI,8
+BOKU WA TOMODACHI GA SUKUNAI NEXT,8
+CAMPIONE!: MATSUROWANU KAMIGAMI TO KAMIGOROSHI NO MAOU,9
+CHAIN CHRONICLE: HAECCEITAS NO HIKARI,8
+DATE A LIVE,8
+DATE A LIVE II,8
+DATE A LIVE III,8
+DEATH NOTE,8
+DEVIL MAY CRY,9
+DORORO,9
+DRAGON BALL SUPER,8
+DRIFTERS,9
+DUMBBELL NAN KILO MOTERU?,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA GAIDEN: SWORD ORATORIA,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,7
+FULLMETAL ALCHEMIST,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+FUUKA,7
+GAKUSEN TOSHI ASTERISK,8
+GAKUSEN TOSHI ASTERISK 2ND SEASON,8
+GARO: GUREN NO TSUKI,9
+GARO: HONOO NO KOKUIN,8
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,8
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI 2ND SEASON,8
+GOBLIN SLAYER,8
+GRAND BLUE,9
+GUILTY CROWN,9
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,9
+HATAAGE! KEMONO MICHI,7
+HIGH SCHOOL DXD,9
+HIGH SCHOOL DXD BORN,9
+HIGH SCHOOL DXD NEW,9
+HIGHSCHOOL OF THE DEAD,9
+HUNDRED,7
+INAZUMA ELEVEN,8
+INAZUMA ELEVEN GO,7
+IS: INFINITE STRATOS,8
+IS: INFINITE STRATOS 2,8
+JOJO NO KIMYOU NA BOUKEN (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,9
 K,8
-K: Return of Kings,8
-Keijo!!!!!!!!,8
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,9
-Made in Abyss,6
-Magi: The Kingdom of Magic,8
-Maken-Ki!,7
-Maken-Ki! Two,7
-Masou Gakuen HxH,7
-Mirai Nikki,9
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,8
-Nanatsu no Taizai: Seisen no Shirushi,8
-Naruto,8
-Naruto: Shippuuden,9
-Nisekoi,8
-Nisekoi:,8
-Noragami,8
-Noragami Aragoto,8
-One Punch Man,9
-One Punch Man 2nd Season,8
-Overlord,9
-Overlord II,9
-Overlord III,9
-Prison School,8
-Rakudai Kishi no Cavalry,9
-Reikenzan: Eichi e no Shikaku,8
-Reikenzan: Hoshikuzu-tachi no Utage,8
-ReLIFE,9
-Rokudenashi Majutsu Koushi to Akashic Records,8
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,7
-Shokugeki no Souma,9
-Shokugeki no Souma: Ni no Sara,9
-Sword Art Online,9
-Sword Art Online II,8
-Sword Art Online: Alicization,8
-Tate no Yuusha no Nariagari,9
-Triage X,8
-Trinity Seven,9
-Vinland Saga,9
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
+K: RETURN OF KINGS,8
+KEIJO!!!!!!!!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,9
+MADE IN ABYSS,6
+MAGI: THE KINGDOM OF MAGIC,8
+MAKEN-KI!,7
+MAKEN-KI! TWO,7
+MASOU GAKUEN HXH,7
+MIRAI NIKKI,9
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,8
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,8
+NARUTO,8
+NARUTO: SHIPPUUDEN,9
+NISEKOI,8
+NISEKOI:,8
+NORAGAMI,8
+NORAGAMI ARAGOTO,8
+ONE PUNCH MAN,9
+ONE PUNCH MAN 2ND SEASON,8
+OVERLORD,9
+OVERLORD II,9
+OVERLORD III,9
+PRISON SCHOOL,8
+RAKUDAI KISHI NO CAVALRY,9
+REIKENZAN: EICHI E NO SHIKAKU,8
+REIKENZAN: HOSHIKUZU-TACHI NO UTAGE,8
+RELIFE,9
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,8
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,7
+SHOKUGEKI NO SOUMA,9
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SWORD ART ONLINE,9
+SWORD ART ONLINE II,8
+SWORD ART ONLINE: ALICIZATION,8
+TATE NO YUUSHA NO NARIAGARI,9
+TRIAGE X,8
+TRINITY SEVEN,9
+VINLAND SAGA,9
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,8

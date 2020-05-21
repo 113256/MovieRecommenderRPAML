@@ -1,25 +1,24 @@
-﻿Ao no Exorcist,5
-Ao no Exorcist: Kyoto Fujouou-hen,4
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,8
-Boku no Hero Academia 4th Season,7
-Haikyuu!!,8
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8
-Haikyuu!!: To the Top,9
-Kuroko no Basket,6
-Kuroko no Basket 2nd Season,6
-Kuroko no Basket 3rd Season,7
-Mermaid Melody Pichi Pichi Pitch,4
-Nisekoi,6
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,7
-Shingeki! Kyojin Chuugakkou,-
-Shokugeki no Souma,7
-Shokugeki no Souma: Ni no Sara,8
-Shokugeki no Souma: San no Sara,7
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,8
-Shokugeki no Souma: Shin no Sara,7
-Violet Evergarden,9
+﻿AO NO EXORCIST,5
+AO NO EXORCIST: KYOTO FUJOUOU-HEN,4
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BOKU NO HERO ACADEMIA 4TH SEASON,7
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,8
+HAIKYUU!!: TO THE TOP,9
+KUROKO NO BASKET,6
+KUROKO NO BASKET 2ND SEASON,6
+KUROKO NO BASKET 3RD SEASON,7
+MERMAID MELODY PICHI PICHI PITCH,4
+NISEKOI,6
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,7
+SHOKUGEKI NO SOUMA,7
+SHOKUGEKI NO SOUMA: NI NO SARA,8
+SHOKUGEKI NO SOUMA: SAN NO SARA,7
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,8
+SHOKUGEKI NO SOUMA: SHIN NO SARA,7
+VIOLET EVERGARDEN,9

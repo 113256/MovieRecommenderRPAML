@@ -1,50 +1,49 @@
-12-sai.: Chicchana Mune no Tokimeki,6
-12-sai.: Chicchana Mune no Tokimeki 2nd Season,6
-Ansatsu Kyoushitsu,7
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,7
-Candy Candy,10
-Cardcaptor Sakura,10
-Cardcaptor Sakura: Clear Card-hen,6
-Chuunibyou demo Koi ga Shitai!,8
-Chuunibyou demo Koi ga Shitai! Ren,7
-Clannad,-
-Daa! Daa! Daa!,7
-Fullmetal Alchemist: Brotherhood,10
-Golden Time,7
-Gyakuten Saiban: Sono Shinjitsu Igi Ari!,7
-Haikyuu!!,9
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Hana yori Dango,6
-Hime-chan no Ribbon,7
-Hunter x Hunter (2011),10
-Itazura na Kiss,7
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kaichou wa Maid-sama!,7
-Kaitou Saint Tail,9
-Kamisama Hajimemashita,8
-Kamisama Hajimemashita◎,8
-Kareshi Kanojo no Jijou,7
-Kimi ni Todoke,9
-Kimi ni Todoke 2nd Season,9
-Kobato.,7
-Kodomo no Omocha (TV),10
-Little Witch Academia (TV),8
-Lovely★Complex,9
-Mikakunin de Shinkoukei,7
-Mizuiro Jidai,9
-Nazo no Kanojo X,7
-Noragami,7
-Noragami Aragoto,7
-Ojamajo Doremi,9
-Ojamajo Doremi Sharp,9
-Ouran Koukou Host Club,8
-ReLIFE,7
-Skip Beat!,8
-Tanoshii Muumin Ikka,9
-Tonari no Kaibutsu-kun,7
-Toradora!,9
-Trinity Seven,7
-Yume-iro Pâtissière,7
+﻿12-SAI.: CHICCHANA MUNE NO TOKIMEKI,6
+12-SAI.: CHICCHANA MUNE NO TOKIMEKI 2ND SEASON,6
+ANSATSU KYOUSHITSU,7
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+CANDY CANDY,10
+CARDCAPTOR SAKURA,10
+CARDCAPTOR SAKURA: CLEAR CARD-HEN,6
+CHUUNIBYOU DEMO KOI GA SHITAI!,8
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,7
+DAA! DAA! DAA!,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GOLDEN TIME,7
+GYAKUTEN SAIBAN: SONO SHINJITSU IGI ARI!,7
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HANA YORI DANGO,6
+HIME-CHAN NO RIBBON,7
+HUNTER X HUNTER (2011),10
+ITAZURA NA KISS,7
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KAICHOU WA MAID-SAMA!,7
+KAITOU SAINT TAIL,9
+KAMISAMA HAJIMEMASHITA,8
+KAMISAMA HAJIMEMASHITA◎,8
+KARESHI KANOJO NO JIJOU,7
+KIMI NI TODOKE,9
+KIMI NI TODOKE 2ND SEASON,9
+KOBATO.,7
+KODOMO NO OMOCHA (TV),10
+LITTLE WITCH ACADEMIA (TV),8
+LOVELY★COMPLEX,9
+MIKAKUNIN DE SHINKOUKEI,7
+MIZUIRO JIDAI,9
+NAZO NO KANOJO X,7
+NORAGAMI,7
+NORAGAMI ARAGOTO,7
+OJAMAJO DOREMI,9
+OJAMAJO DOREMI SHARP,9
+OURAN KOUKOU HOST CLUB,8
+RELIFE,7
+SKIP BEAT!,8
+TANOSHII MUUMIN IKKA,9
+TONARI NO KAIBUTSU-KUN,7
+TORADORA!,9
+TRINITY SEVEN,7
+YUME-IRO PÂTISSIÈRE,7

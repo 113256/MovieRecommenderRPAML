@@ -1,82 +1,82 @@
-﻿5-toubun no Hanayome,7
-Angel Beats!,8
-Ansatsu Kyoushitsu,10
-Ansatsu Kyoushitsu 2nd Season,10
-Ao no Exorcist,5
-Bakemonogatari,8
-Bakugan Battle Brawlers,6
-Beastars,8
-Bleach,6
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,8
-Boku no Hero Academia 4th Season,6
-Code Geass: Hangyaku no Lelouch,7
-Code Geass: Hangyaku no Lelouch R2,8
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,5
-Darling in the FranXX,3
-Death Note,8
-Dr. Stone,7
-Dragon Ball,8
-Dragon Ball GT,5
-Dragon Ball Super,7
-Dragon Ball Z,8
-Enen no Shouboutai,8
-Fairy Tail,2
-Fairy Tail (2014),2
-Fullmetal Alchemist,7
-Fullmetal Alchemist: Brotherhood,9
-Gakkougurashi!,9
-High School DxD,4
-High School DxD New,4
-Hunter x Hunter (2011),10
-Hyouka,8
-Jibaku Shounen Hanako-kun,8
-JoJo no Kimyou na Bouken (TV),4
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,5
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kimetsu no Yaiba,8
-Kobayashi-san Chi no Maid Dragon,10
-Kono Subarashii Sekai ni Shukufuku wo!,6
-Kono Subarashii Sekai ni Shukufuku wo! 2,6
-Mahou Shoujo Madoka★Magica,7
-Mirai Nikki,4
-Mob Psycho 100,8
-Mob Psycho 100 II,8
-Monogatari Series: Second Season,8
-Nanatsu no Taizai,5
-Nanatsu no Taizai: Imashime no Fukkatsu,4
-Naruto,8
-Naruto: Shippuuden,5
-Nekomonogatari: Kuro,8
-Nisemonogatari,8
-No Game No Life,8
-Noragami,8
-One Punch Man,8
-One Punch Man 2nd Season,5
-Overlord,7
-Owari no Seraph,7
-Owari no Seraph: Nagoya Kessen-hen,5
-Pokemon,4
-Rakudai Kishi no Cavalry,4
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Saint Seiya,8
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,10
-Somali to Mori no Kamisama,7
-Soul Eater,8
-Steins;Gate,8
-Sword Art Online,6
-Sword Art Online II,4
-Tengen Toppa Gurren Lagann,10
-Tokyo Ghoul,8
-Tokyo Ghoul √A,4
-Tokyo Ghoul:re,6
-Violet Evergarden,10
-Yakusoku no Neverland,8
-Yu☆Gi☆Oh!,6
-Yu☆Gi☆Oh! Duel Monsters,6
-Yu☆Gi☆Oh!: Duel Monsters GX,6
-Yuu☆Yuu☆Hakusho,8
+﻿5-TOUBUN NO HANAYOME,7
+ANGEL BEATS!,8
+ANSATSU KYOUSHITSU,10
+ANSATSU KYOUSHITSU 2ND SEASON,10
+AO NO EXORCIST,5
+BAKEMONOGATARI,8
+BAKUGAN BATTLE BRAWLERS,6
+BEASTARS,8
+BLEACH,6
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BOKU NO HERO ACADEMIA 4TH SEASON,6
+CODE GEASS: HANGYAKU NO LELOUCH,7
+CODE GEASS: HANGYAKU NO LELOUCH R2,8
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,5
+DARLING IN THE FRANXX,3
+DEATH NOTE,8
+DR. STONE,7
+DRAGON BALL,8
+DRAGON BALL GT,5
+DRAGON BALL SUPER,7
+DRAGON BALL Z,10
+ENEN NO SHOUBOUTAI,8
+FAIRY TAIL,2
+FAIRY TAIL (2014),2
+FULLMETAL ALCHEMIST,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+GAKKOUGURASHI!,9
+HIGH SCHOOL DXD,4
+HIGH SCHOOL DXD NEW,4
+HUNTER X HUNTER (2011),10
+HYOUKA,8
+JIBAKU SHOUNEN HANAKO-KUN,8
+JOJO NO KIMYOU NA BOUKEN (TV),4
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,5
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KIMETSU NO YAIBA,8
+KOBAYASHI-SAN CHI NO MAID DRAGON,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,6
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,6
+MAHOU SHOUJO MADOKA★MAGICA,7
+MIRAI NIKKI,4
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,8
+MONOGATARI SERIES: SECOND SEASON,8
+NANATSU NO TAIZAI,5
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,4
+NARUTO,8
+NARUTO: SHIPPUUDEN,5
+NEKOMONOGATARI: KURO,8
+NISEMONOGATARI,8
+NO GAME NO LIFE,8
+NORAGAMI,8
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,5
+OVERLORD,7
+OWARI NO SERAPH,7
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,5
+POKEMON,4
+RAKUDAI KISHI NO CAVALRY,4
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+SAINT SEIYA,8
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SOMALI TO MORI NO KAMISAMA,7
+SOUL EATER,8
+STEINS;GATE,8
+SWORD ART ONLINE,6
+SWORD ART ONLINE II,4
+TENGEN TOPPA GURREN LAGANN,10
+TOKYO GHOUL,8
+TOKYO GHOUL √A,4
+TOKYO GHOUL:RE,6
+VIOLET EVERGARDEN,10
+YAKUSOKU NO NEVERLAND,8
+YU☆GI☆OH!,6
+YU☆GI☆OH! DUEL MONSTERS,6
+YU☆GI☆OH!: DUEL MONSTERS GX,6
+YUU☆YUU☆HAKUSHO,8

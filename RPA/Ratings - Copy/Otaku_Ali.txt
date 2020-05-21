@@ -1,96 +1,96 @@
-Ai Yori Aoshi,8
-Ai Yori Aoshi: Enishi,8
-Akame ga Kill!,8
-Akaneiro ni Somaru Saka,7
-Akatsuki no Yona,7
-Akikan!,7
-Amagami SS,8
-Amagami SS+ Plus,7
-Amagi Brilliant Park,7
-Angel Beats!,9
-Another,7
-Arakawa Under the Bridge,7
-Arifureta Shokugyou de Sekai Saikyou,8
-Beastars,8
-Binbou Shimai Monogatari,8
-Blade & Soul,8
-Boku dake ga Inai Machi,9
-Bokura wa Minna Kawai-sou,8
-Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou,7
-Charlotte,8
-Chobits,7
-Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!,7
-Citrus,7
-Code:Realize - Sousei no Himegimi,7
-Date A Live,7
-Date A Live II,7
-Death March kara Hajimaru Isekai Kyousoukyoku,8
-Death Note,7
-Demi-chan wa Kataritai,7
-Dororo,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
-Fairy Tail,8
-Fuuka,7
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,8
-Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,8
-Golden Time,8
-Grancrest Senki,8
-Hataraku Maou-sama!,8
-Highschool of the Dead,9
-Hunter x Hunter (2011),9
-InuYasha (TV),10
-InuYasha (TV): Kanketsu-hen,8
-Irozuku Sekai no Ashita kara,9
-Isekai wa Smartphone to Tomo ni.,7
-Itsudatte Bokura no Koi wa 10 cm Datta.,7
-Kaichou wa Maid-sama!,7
-Kanata no Astra,8
-Kiseijuu: Sei no Kakuritsu,8
-Kokoro Connect,9
-Kyoukai no Kanata,8
-Log Horizon,7
-Masamune-kun no Revenge,5
-Mirai Nikki,8
-Nande Koko ni Sensei ga!?,6
-Naruto,10
-Naruto: Shippuuden,10
-Natsuyuki Rendezvous,7
-Nazo no Kanojo X,8
-Noragami,9
-Noragami Aragoto,8
-One Punch Man,8
-One Punch Man 2nd Season,8
-Ore wo Suki nano wa Omae dake ka yo,8
-Otome Youkai Zakuro,8
-Overlord,7
-Plastic Memories,8
-Princess Lover!,7
-Prison School,7
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Seikon no Qwaser,7
-Seiren,7
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Shigatsu wa Kimi no Uso,7
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,10
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,8
-Somali to Mori no Kamisama,8
-Sukitte Ii na yo.,8
-Sword Art Online,8
-Sword Art Online II,8
-Tasogare Otome x Amnesia,9
-Tate no Yuusha no Nariagari,9
-Tensei shitara Slime Datta Ken,8
-Tokyo Ghoul,6
-Tonari no Kaibutsu-kun,7
-Tsuki ga Kirei,8
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,6
-Watashi Nouryoku wa Heikinchi de tte Itta yo ne!,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,10
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,10
-Yakusoku no Neverland,9
-Yamada-kun to 7-nin no Majo (TV),7
-Youjo Senki,7
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),8
+﻿AI YORI AOSHI,8
+AI YORI AOSHI: ENISHI,8
+AKAME GA KILL!,8
+AKANEIRO NI SOMARU SAKA,7
+AKATSUKI NO YONA,7
+AKIKAN!,7
+AMAGAMI SS,8
+AMAGAMI SS+ PLUS,7
+AMAGI BRILLIANT PARK,7
+ANGEL BEATS!,9
+ANOTHER,7
+ARAKAWA UNDER THE BRIDGE,7
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,8
+BEASTARS,8
+BINBOU SHIMAI MONOGATARI,8
+BLADE & SOUL,8
+BOKU DAKE GA INAI MACHI,9
+BOKURA WA MINNA KAWAI-SOU,8
+CAMPIONE!: MATSUROWANU KAMIGAMI TO KAMIGOROSHI NO MAOU,7
+CHARLOTTE,8
+CHOBITS,7
+CHOUJIN KOUKOUSEI-TACHI WA ISEKAI DEMO YOYUU DE IKINUKU YOU DESU!,7
+CITRUS,7
+CODE:REALIZE - SOUSEI NO HIMEGIMI,7
+DATE A LIVE,7
+DATE A LIVE II,7
+DEATH MARCH KARA HAJIMARU ISEKAI KYOUSOUKYOKU,8
+DEATH NOTE,7
+DEMI-CHAN WA KATARITAI,7
+DORORO,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,8
+FAIRY TAIL,8
+FUUKA,7
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,8
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI 2ND SEASON,8
+GOLDEN TIME,8
+GRANCREST SENKI,8
+HATARAKU MAOU-SAMA!,8
+HIGHSCHOOL OF THE DEAD,9
+HUNTER X HUNTER (2011),9
+INUYASHA (TV),10
+INUYASHA (TV): KANKETSU-HEN,8
+IROZUKU SEKAI NO ASHITA KARA,9
+ISEKAI WA SMARTPHONE TO TOMO NI.,7
+ITSUDATTE BOKURA NO KOI WA 10 CM DATTA.,7
+KAICHOU WA MAID-SAMA!,7
+KANATA NO ASTRA,8
+KISEIJUU: SEI NO KAKURITSU,8
+KOKORO CONNECT,9
+KYOUKAI NO KANATA,8
+LOG HORIZON,7
+MASAMUNE-KUN NO REVENGE,5
+MIRAI NIKKI,8
+NANDE KOKO NI SENSEI GA!?,6
+NARUTO,10
+NARUTO: SHIPPUUDEN,10
+NATSUYUKI RENDEZVOUS,7
+NAZO NO KANOJO X,8
+NORAGAMI,9
+NORAGAMI ARAGOTO,8
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,8
+ORE WO SUKI NANO WA OMAE DAKE KA YO,8
+OTOME YOUKAI ZAKURO,8
+OVERLORD,7
+PLASTIC MEMORIES,8
+PRINCESS LOVER!,7
+PRISON SCHOOL,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+SEIKON NO QWASER,7
+SEIREN,7
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SHIGATSU WA KIMI NO USO,7
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SHUUMATSU NANI SHITEMASU KA? ISOGASHII DESU KA? SUKUTTE MORATTE II DESU KA?,8
+SOMALI TO MORI NO KAMISAMA,8
+SUKITTE II NA YO.,8
+SWORD ART ONLINE,8
+SWORD ART ONLINE II,8
+TASOGARE OTOME X AMNESIA,9
+TATE NO YUUSHA NO NARIAGARI,9
+TENSEI SHITARA SLIME DATTA KEN,8
+TOKYO GHOUL,6
+TONARI NO KAIBUTSU-KUN,7
+TSUKI GA KIREI,8
+WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,6
+WATASHI NOURYOKU WA HEIKINCHI DE TTE ITTA YO NE!,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,10
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,10
+YAKUSOKU NO NEVERLAND,9
+YAMADA-KUN TO 7-NIN NO MAJO (TV),7
+YOUJO SENKI,7
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),8

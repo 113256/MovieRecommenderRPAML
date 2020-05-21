@@ -1,46 +1,46 @@
-﻿Ajin,4
-Akame ga Kill!,5
-Angel Beats!,6
-Ansatsu Kyoushitsu,8
-Ansatsu Kyoushitsu 2nd Season,9
-Ao no Exorcist,5
-Beastars,7
-Boku no Hero Academia,6
-Death Note,7
-Death Parade,7
-Eizouken ni wa Te wo Dasu na!,7
-Elfen Lied,5
-Fate/Zero,8
-Fate/Zero 2nd Season,9
-Fullmetal Alchemist: Brotherhood,9
-Guilty Crown,5
-Gyakkyou Burai Kaiji: Hakairoku-hen,7
-Gyakkyou Burai Kaiji: Ultimate Survivor,8
-JoJo no Kimyou na Bouken (TV),8
-Kiseijuu: Sei no Kakuritsu,7
-Kyoukai no Kanata,5
-Made in Abyss,9
-Magi: The Kingdom of Magic,7
-Magi: The Labyrinth of Magic,6
-Mahou Shoujo Madoka★Magica,7
-Mousou Dairinin,7
-Nanatsu no Taizai,5
-Neon Genesis Evangelion,8
-No Game No Life,6
-Non Non Biyori,5
-Non Non Biyori Repeat,7
-Noragami,5
-Noragami Aragoto,7
-One Punch Man,7
-Re:Zero kara Hajimeru Isekai Seikatsu,6
-Shigatsu wa Kimi no Uso,8
-Shingeki no Kyojin,7
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,9
-Soul Eater,7
-Steins;Gate,9
-Sword Art Online,2
-Sword Art Online II,1
-Tengen Toppa Gurren Lagann,8
-Tokyo Ghoul,2
+﻿AJIN,4
+AKAME GA KILL!,5
+ANGEL BEATS!,6
+ANSATSU KYOUSHITSU,8
+ANSATSU KYOUSHITSU 2ND SEASON,9
+AO NO EXORCIST,5
+BEASTARS,7
+BOKU NO HERO ACADEMIA,6
+DEATH NOTE,7
+DEATH PARADE,7
+EIZOUKEN NI WA TE WO DASU NA!,7
+ELFEN LIED,5
+FATE/ZERO,8
+FATE/ZERO 2ND SEASON,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+GUILTY CROWN,5
+GYAKKYOU BURAI KAIJI: HAKAIROKU-HEN,7
+GYAKKYOU BURAI KAIJI: ULTIMATE SURVIVOR,8
+JOJO NO KIMYOU NA BOUKEN (TV),8
+KISEIJUU: SEI NO KAKURITSU,7
+KYOUKAI NO KANATA,5
+MADE IN ABYSS,9
+MAGI: THE KINGDOM OF MAGIC,7
+MAGI: THE LABYRINTH OF MAGIC,6
+MAHOU SHOUJO MADOKA★MAGICA,7
+MOUSOU DAIRININ,7
+NANATSU NO TAIZAI,5
+NEON GENESIS EVANGELION,8
+NO GAME NO LIFE,6
+NON NON BIYORI,5
+NON NON BIYORI REPEAT,7
+NORAGAMI,5
+NORAGAMI ARAGOTO,7
+ONE PUNCH MAN,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,6
+SHIGATSU WA KIMI NO USO,8
+SHINGEKI NO KYOJIN,7
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SOUL EATER,7
+STEINS;GATE,9
+SWORD ART ONLINE,2
+SWORD ART ONLINE II,1
+TENGEN TOPPA GURREN LAGANN,8
+TOKYO GHOUL,2

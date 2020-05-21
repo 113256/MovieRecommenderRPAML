@@ -15,7 +15,7 @@
 3-gatsu no Lion,-
 3-gatsu no Lion 2nd Season,-
 3-Nen D-Gumi Glass no Kamen,-
-5-toubun no Hanayome,5
+5-toubun no Hanayome,-
 91 Days,-
 A.I.C.O.: Incarnation,-
 Aa! Megami-sama! (TV),-
@@ -60,8 +60,8 @@ Ajin,-
 Ajin 2nd Season,-
 Ajin OVA,-
 Akachan to Boku,-
-Akagami no Shirayuki-hime,8
-Akagami no Shirayuki-hime 2nd Season,7
+Akagami no Shirayuki-hime,-
+Akagami no Shirayuki-hime 2nd Season,-
 Akahori Gedou Hour Rabuge,-
 Akame ga Kill!,-
 AKAME GA KILL!,-
@@ -138,7 +138,7 @@ Aoki Hagane no Arpeggio: Ars Nova,-
 Aquarian Age: Sign for Evolution,-
 Aquarion Evol,-
 Aquarion Logos,-
-Araburu Kisetsu no Otome-domo yo.,8
+Araburu Kisetsu no Otome-domo yo.,-
 Arad Senki: Slap Up Party,-
 Araiya-san!: Ore to Aitsu ga Onnayu de!?,-
 Arakawa Under the Bridge,-
@@ -151,7 +151,7 @@ Area no Kishi,-
 Aria the Animation,-
 Aria the Natural,-
 Aria the Origination,-
-Arifureta Shokugyou de Sekai Saikyou,5
+Arifureta Shokugyou de Sekai Saikyou,-
 ARP Backstage Pass,-
 Arslan Senki (TV),-
 Arslan Senki (TV): Fuujin Ranbu,-
@@ -187,7 +187,7 @@ Back Street Girls: Gokudolls,-
 Baka to Test to Shoukanjuu,-
 Baka to Test to Shoukanjuu Ni!,-
 Baka to Test to Shoukanjuu: Spinout! Sore ga Bokura no Nichijou,-
-Bakemonogatari,9
+Bakemonogatari,-
 Baki,-
 Baku Tech! Bakugan,-
 Baku Tech! Bakugan Gachi,-
@@ -229,7 +229,7 @@ Basquash!,-
 Battery,-
 Battle Girl High School,-
 Battle Programmer Shirase,-
-Beastars,7
+Beastars,-
 BEASTARS,-
 Beatless,-
 Beatless Final Stage,-
@@ -291,13 +291,13 @@ Blue Gender,-
 Blue Seed,-
 Bobobo-bo Bo-bobo,-
 Boku dake ga Inai Machi,-
-Boku no Hero Academia,8
+Boku no Hero Academia,-
 BOKU NO HERO ACADEMIA,-
-Boku no Hero Academia 2nd Season,8
+Boku no Hero Academia 2nd Season,-
 BOKU NO HERO ACADEMIA 2ND SEASON,-
-Boku no Hero Academia 3rd Season,7
+Boku no Hero Academia 3rd Season,-
 BOKU NO HERO ACADEMIA 3RD SEASON,-
-Boku no Hero Academia 4th Season,7
+Boku no Hero Academia 4th Season,-
 BOKU NO HERO ACADEMIA 4TH SEASON,-
 Boku no Hero Academia the Movie: Futari no Hero Specials,-
 Boku no Imouto wa Osaka Okan,-
@@ -309,8 +309,8 @@ Boku wa Tomodachi ga Sukunai Next,-
 Bokura ga Ita,-
 Bokura no,-
 Bokura wa Minna Kawai-sou,-
-Bokutachi wa Benkyou ga Dekinai,7
-Bokutachi wa Benkyou ga Dekinai!,8
+Bokutachi wa Benkyou ga Dekinai,-
+Bokutachi wa Benkyou ga Dekinai!,-
 Bomberman Jetters,-
 Bonjour♪Koiaji Pâtisserie,-
 Boogiepop wa Warawanai,-
@@ -404,7 +404,7 @@ Chou Hatsumei Boy Kanipan,-
 Chou Henshin Cosprayers,-
 Chou Robot Seimeitai Transformers Micron Densetsu,-
 Choujigen Game Neptune The Animation,-
-Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!,2
+Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!,-
 Choujuushin Gravion,-
 Choujuushin Gravion Zwei,-
 Choukadou Girl ⅙,-
@@ -415,7 +415,7 @@ Chu-Bra!!,-
 Chuubyou Gekihatsu Boy,-
 Chuuka Ichiban!,-
 Chuukan Kanriroku Tonegawa,-
-Chuunibyou demo Koi ga Shitai!,6
+Chuunibyou demo Koi ga Shitai!,-
 Chuunibyou demo Koi ga Shitai! Lite,-
 Chuunibyou demo Koi ga Shitai! Ren,-
 Cinderella Girls Gekijou,-
@@ -499,7 +499,7 @@ Dantalian no Shoka,-
 Darker than Black: Kuro no Keiyakusha,-
 Darker than Black: Kuro no Keiyakusha Gaiden,-
 Darker than Black: Ryuusei no Gemini,-
-Darling in the FranXX,5
+Darling in the FranXX,-
 DARLING IN THE FRANXX,-
 Darwin's Game,-
 Dash! Kappei,-
@@ -512,8 +512,8 @@ Deadman Wonderland,-
 DEADMAN WONDERLAND,-
 Dear Boys,-
 DearS,-
-Death March kara Hajimaru Isekai Kyousoukyoku,3
-Death Note,-
+Death March kara Hajimaru Isekai Kyousoukyoku,-
+Death Note,4
 DEATH NOTE,-
 Death Parade,-
 Deltora Quest,-
@@ -529,7 +529,7 @@ Devidol!,-
 Devil May Cry,-
 Devil Survivor 2 The Animation,-
 Devilman Lady,-
-Devilman: Crybaby,6
+Devilman: Crybaby,-
 Devils Line,-
 D-Frag!,-
 Di Gi Charat,-
@@ -560,7 +560,7 @@ Dog Days',-
 Dog Days'',-
 Dogs: Bullets & Carnage,-
 Dokidoki! Precure,-
-Domestic na Kanojo,6
+Domestic na Kanojo,-
 Donten ni Warau,-
 Doraemon (1979),-
 Dorei-ku The Animation,-
@@ -601,10 +601,10 @@ Duel Masters,-
 Duel Masters Charge,-
 Duel Masters Zero,-
 Dumbbell Nan Kilo Moteru?,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,-
 DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,5
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,5
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,-
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,-
 DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,-
 Durarara!!,-
 DURARARA!!,-
@@ -636,7 +636,7 @@ Ensemble Stars!,-
 Erementar Gerad,-
 Ergo Proxy,-
 Eroge! H mo Game mo Kaihatsu Zanmai,-
-Eromanga-sensei,2
+Eromanga-sensei,-
 Eromanga-sensei OVA,-
 Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi,-
 Etotama,-
@@ -651,7 +651,7 @@ Fairy Tail (2014),-
 FAIRY TAIL (2014),-
 Fairy Tail: Final Series,-
 Fantasista Doll,-
-Fate/Apocrypha,6
+Fate/Apocrypha,-
 Fate/Extra: Last Encore,-
 Fate/Extra: Last Encore - Illustrias Tendousetsu,-
 Fate/Grand Order: Zettai Majuu Sensen Babylonia,-
@@ -659,13 +659,13 @@ Fate/kaleid liner Prisma☆Illya,-
 Fate/kaleid liner Prisma☆Illya 2wei Herz!,-
 Fate/kaleid liner Prisma☆Illya 2wei!,-
 Fate/kaleid liner Prisma☆Illya 3rei!!,-
-Fate/stay night,7
+Fate/stay night,-
 Fate/stay night: Unlimited Blade Works,-
 FATE/STAY NIGHT: UNLIMITED BLADE WORKS,-
 Fate/stay night: Unlimited Blade Works 2nd Season,-
-Fate/Zero,8
+Fate/Zero,-
 FATE/ZERO,-
-Fate/Zero 2nd Season,8
+Fate/Zero 2nd Season,-
 FATE/ZERO 2ND SEASON,-
 Fight Ippatsu! Juuden-chan!!,-
 Final Approach,-
@@ -690,7 +690,7 @@ Free!: FrFr - Short Movie,-
 Freezing,-
 Freezing Vibration,-
 Fruits Basket,-
-Fruits Basket 1st Season,8
+Fruits Basket 1st Season,-
 Fudanshi Koukou Seikatsu,-
 Fukigen na Mononokean,-
 Fukigen na Mononokean Tsuzuki,-
@@ -728,7 +728,7 @@ Future Card Buddyfight Triple D,-
 Future Card Shin Buddyfight,-
 Future GPX Cyber Formula,-
 Fuujin Monogatari,-
-Fuuka,6
+Fuuka,-
 Fuuun Ishin Dai☆Shogun,-
 Fuyu no Sonata,-
 F-Zero: Falcon Densetsu,-
@@ -750,7 +750,7 @@ Gakusen Toshi Asterisk 2nd Season,-
 Galaxy Angel,-
 Galilei Donna,-
 Gallery Fake,-
-Gamers!,6
+Gamers!,-
 Ganbare! Kickers,-
 Ganbarist! Shun,-
 Gangsta.,-
@@ -768,7 +768,7 @@ Gate: Jieitai Kanochi nite Kaku Tatakaeri,-
 Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,-
 Gegege no Kitarou (2018),-
 Gekitou! Crush Gear Turbo,-
-Gekkan Shoujo Nozaki-kun,8
+Gekkan Shoujo Nozaki-kun,-
 Gekkan Shoujo Nozaki-kun Specials,-
 Genei wo Kakeru Taiyou,-
 Genki Bakuhatsu Ganbaruger,-
@@ -787,7 +787,7 @@ Giant Gorg,-
 Giant Killing,-
 Gift: Eternal Rainbow,-
 Gilgamesh,-
-Gin no Guardian,4
+Gin no Guardian,-
 Gin no Guardian II,-
 Gin no Saji,-
 Gin no Saji 2nd Season,-
@@ -825,7 +825,7 @@ Girls Bravo: First Season,-
 GIRLS BRAVO: FIRST SEASON,-
 Girls Bravo: Second Season,-
 Girly Air Force,-
-Given,5
+Given,-
 GIVEN,-
 GJ-bu,-
 Glamorous Heroes,-
@@ -833,7 +833,7 @@ Glass no Kantai: La Legende du Vent de l'Univers,-
 Glasslip,-
 Go! Go! 575,-
 Go! Princess Precure,-
-Goblin Slayer,6
+Goblin Slayer,-
 Gochuumon wa Usagi Desu ka?,-
 Gochuumon wa Usagi Desu ka??,-
 God Eater,-
@@ -847,7 +847,7 @@ Gokusen,-
 Golden Boy,-
 Golden Kamuy,-
 Golden Kamuy 2nd Season,-
-Golden Time,8
+Golden Time,-
 Golgo 13 (TV),-
 Goshuushou-sama Ninomiya-kun,-
 Gosick,-
@@ -935,7 +935,7 @@ Hakyuu Houshin Engi,-
 Hamatora The Animation,-
 Hana yori Dango,-
 Hanamaru Youchien,-
-Hanamonogatari,7
+Hanamonogatari,-
 Hanasakeru Seishounen,-
 Hanasaku Iroha,-
 Hanaukyou Maid-tai,-
@@ -992,8 +992,8 @@ Heroman,-
 Heya Camp△,-
 Hi no Tori,-
 Hi☆sCoool! SeHa Girls,-
-Hibike! Euphonium,8
-Hibike! Euphonium 2,9
+Hibike! Euphonium,-
+Hibike! Euphonium 2,-
 Hidamari Sketch,-
 Hidamari Sketch x ☆☆☆,-
 Hidamari Sketch x 365,-
@@ -1033,7 +1033,7 @@ Himouto! Umaru-chan,-
 Himouto! Umaru-chan R,-
 Hina Logi: From Luck & Logic,-
 Hinako Note,-
-Hinamatsuri,8
+Hinamatsuri,-
 Hinomaruzumou,-
 HINOMARUZUMOU,-
 Hisone to Maso-tan,-
@@ -1051,7 +1051,7 @@ Hokuto no Ken: Raoh Gaiden Ten no Haoh,-
 Honobono Log,-
 Honoo no Mirage,-
 Honoo no Toukyuuji: Dodge Danpei,-
-Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,7
+Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,-
 Hoozuki no Reitetsu,-
 HOOZUKI NO REITETSU,-
 Hoozuki no Reitetsu 2nd Season,-
@@ -1060,7 +1060,7 @@ Hoshi no Kirby,-
 Hoshiai no Sora,-
 Hoshizora e Kakaru Hashi,-
 Houkago no Pleiades (TV),-
-Houkago Saikoro Club,5
+Houkago Saikoro Club,-
 Hourou Musuko,-
 Houseki no Kuni (TV),-
 Housekishou Richard-shi no Nazo Kantei,-
@@ -1076,7 +1076,7 @@ Hyakka Ryouran: Samurai Girls,-
 Hyakko,-
 Hyakujuu-Ou GoLion,-
 Hyakuren no Haou to Seiyaku no Valkyria,-
-Hyouka,8
+Hyouka,-
 I My Me! Strawberry Eggs,-
 Ichiban Ushiro no Daimaou,-
 Ichigo 100%,-
@@ -1100,7 +1100,7 @@ Ikkitousen: Great Guardians,-
 Ikkitousen: Xtreme Xecutor,-
 Ikoku Meiro no Croisée The Animation,-
 Ima Soko ni Iru Boku,-
-Imouto sae Ireba Ii.,5
+Imouto sae Ireba Ii.,-
 Inari Konkon Koi Iroha.,-
 Inazma Delivery,-
 Inazma Delivery: Dougyousha Attack-hen,-
@@ -1129,7 +1129,7 @@ InuYasha (TV): Kanketsu-hen,-
 Inuyashiki,-
 Iron Kid,-
 Iron Man,-
-Irozuku Sekai no Ashita kara,4
+Irozuku Sekai no Ashita kara,-
 IS: Infinite Stratos,-
 IS: INFINITE STRATOS,-
 IS: Infinite Stratos 2,-
@@ -1139,18 +1139,18 @@ Isekai no Seikishi Monogatari,-
 Isekai Quartet,-
 Isekai Quartet 2,-
 Isekai Shokudou,-
-Isekai wa Smartphone to Tomo ni.,1
+Isekai wa Smartphone to Tomo ni.,-
 Ishida to Asakura,-
 Ishuzoku Reviewers,-
 Island,-
-Isshuukan Friends.,7
+Isshuukan Friends.,-
 Isuca,-
 Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,-
 Itazura na Kiss,-
 Itoshi no Muco,-
 Itou Junji: Collection,-
 ITOU JUNJI: COLLECTION,-
-Itsudatte Bokura no Koi wa 10 cm Datta.,6
+Itsudatte Bokura no Koi wa 10 cm Datta.,-
 Itsuka Tenma no Kuro Usagi,-
 Ixion Saga DT,-
 Jashin-chan Dropkick,-
@@ -1172,7 +1172,7 @@ Jinki:Extend,-
 Jinrui wa Suitai Shimashita,-
 Jinsei,-
 Jinzou Ningen Kikaider The Animation,-
-Jitsu wa Watashi wa,6
+Jitsu wa Watashi wa,-
 JK Meshi!,-
 JoJo no Kimyou na Bouken (TV),-
 JOJO NO KIMYOU NA BOUKEN (TV),-
@@ -1202,7 +1202,7 @@ Junjou Romantica 2,-
 Junjou Romantica 3,-
 Junjou Romantica OVA,-
 Junketsu no Maria,-
-Just Because!,6
+Just Because!,-
 Juubee-chan: Lovely Gantai no Himitsu,-
 Juuni Kokuki,-
 Juuni Taisen,-
@@ -1221,7 +1221,7 @@ Kagaku Ninja-tai Gatchaman II,-
 Kage kara Mamoru!,-
 Kagewani,-
 Kagewani: Shou,-
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,7
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,-
 KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,-
 Kaiba,-
 Kaibutsu Oujo,-
@@ -1233,9 +1233,9 @@ Kaitou Joker,-
 Kaitou Joker 2nd Season,-
 Kaitou Reinya,-
 Kaitou Saint Tail,-
-Kakegurui,7
+Kakegurui,-
 KAKEGURUI,-
-Kakegurui××,6
+Kakegurui××,-
 Kakumeiki Valvrave,-
 Kakumeiki Valvrave 2nd Season,-
 Kakuriyo no Yadomeshi,-
@@ -1243,7 +1243,7 @@ Kakutou Ryouri Densetsu Bistro Recipe,-
 Kakyuusei 2: Hitomi no Naka no Shoujo-tachi,-
 Kaleido Star,-
 Kamen no Maid Guy,-
-Kami nomi zo Shiru Sekai,4
+Kami nomi zo Shiru Sekai,-
 KAMI NOMI ZO SHIRU SEKAI,-
 Kami nomi zo Shiru Sekai II,-
 KAMI NOMI ZO SHIRU SEKAI II,-
@@ -1295,8 +1295,8 @@ Kaze no Youjinbou,-
 Kazemakase Tsukikage Ran,-
 Keijo!!!!!!!!,-
 Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana,-
-Kekkai Sensen,9
-Kekkai Sensen & Beyond,9
+Kekkai Sensen,-
+Kekkai Sensen & Beyond,-
 Kekkaishi (TV),-
 Kemeko Deluxe!,-
 Kemono Friends,-
@@ -1306,7 +1306,7 @@ Kemonozume,-
 Kemurikusa (TV),-
 Ken En Ken: Aoki Kagayaki,-
 Kengan Ashura,-
-Kenja no Mago,2
+Kenja no Mago,-
 Kenka Banchou Otome: Girl Beats Boys,-
 Kenkou Zenrakei Suieibu Umishou,-
 Kenpuu Denki Berserk,-
@@ -1403,7 +1403,7 @@ Koisuru Boukun,-
 Koisuru Tenshi Angelique: Kagayaki no Ashita,-
 Koisuru Tenshi Angelique: Kokoro no Mezameru Toki,-
 Kokkoku,-
-Kokoro Connect,7
+Kokoro Connect,-
 Kokoro Connect: Michi Random,-
 Komori-san wa Kotowarenai!,-
 K-On!,-
@@ -1419,9 +1419,9 @@ Kono Minikuku mo Utsukushii Sekai,-
 Kono Naka ni Hitori Imouto ga Iru!,-
 Kono Oto Tomare!,-
 Kono Oto Tomare! 2nd Season,-
-Kono Subarashii Sekai ni Shukufuku wo!,8
+Kono Subarashii Sekai ni Shukufuku wo!,-
 KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,-
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
+Kono Subarashii Sekai ni Shukufuku wo! 2,-
 KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,-
 Kono Yo no Hate de Koi wo Utau Shoujo YU-NO,-
 Konohana Kitan,-
@@ -1473,7 +1473,7 @@ Kuroshitsuji: Book of Murder,-
 Kurozuka,-
 Kuuchuu Buranko,-
 Kuusen Madoushi Kouhosei no Kyoukan,-
-Kuzu no Honkai,6
+Kuzu no Honkai,-
 Kyattou Ninden Teyandee,-
 Kyokou Suiri,-
 Kyoto Teramachi Sanjou no Holmes,-
@@ -1512,12 +1512,12 @@ Litchi DE Hikari Club,-
 Little Busters!,-
 Little Busters!: EX,-
 Little Busters!: Refrain,-
-Little Witch Academia (TV),8
+Little Witch Academia (TV),-
 Lodoss-tou Senki: Eiyuu Kishi Den,-
 Log Horizon,-
 Log Horizon 2nd Season,-
 Long Riders!,-
-Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note,4
+Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note,-
 Lord of Vermilion: Guren no Ou,-
 Lost Song,-
 Lostorage Conflated WIXOSS,-
@@ -1597,12 +1597,12 @@ Mahoujin Guruguru (2017),-
 Mahouka Koukou no Rettousei,-
 Mahoutsukai ni Taisetsu na Koto,-
 Mahoutsukai ni Taisetsu na Koto: Natsu no Sora,-
-Mahoutsukai no Yome,8
-Mahoutsukai no Yome: Hoshi Matsu Hito,7
+Mahoutsukai no Yome,-
+Mahoutsukai no Yome: Hoshi Matsu Hito,-
 Mahoutsukai Precure!,-
 Mai-HiME,-
 Mai-Otome,-
-Mairimashita! Iruma-kun,6
+Mairimashita! Iruma-kun,-
 Maison Ikkoku,-
 Maji de Watashi ni Koi Shinasai!,-
 Majimoji Rurumo,-
@@ -1644,7 +1644,7 @@ Maria†Holic Alive,-
 Maria-sama ga Miteru,-
 Marmalade Boy,-
 Marvel Disk Wars: The Avengers,-
-Masamune-kun no Revenge,7
+Masamune-kun no Revenge,-
 Mashiro-iro Symphony: The Color of Lovers,-
 Masou Gakuen HxH,-
 Massugu ni Ikou.,-
@@ -1740,7 +1740,7 @@ Momo Kyun Sword,-
 Momokuri,-
 Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,-
 Monochrome Factor,-
-Monogatari Series: Second Season,8
+Monogatari Series: Second Season,-
 Mononoke,-
 Monster,-
 Monster Farm: Enbanseki no Himitsu,-
@@ -1783,13 +1783,13 @@ Nameless,-
 Namiuchigiwa no Muromi-san,-
 Namu Amida Butsu!: Rendai Utena,-
 Nana,-
-Nana Maru San Batsu,5
+Nana Maru San Batsu,-
 Nanaka 6/17,-
 Nanatsu no Bitoku,-
-Nanatsu no Taizai,6
+Nanatsu no Taizai,-
 NANATSU NO TAIZAI,-
 Nanatsu no Taizai OVA,-
-Nanatsu no Taizai: Imashime no Fukkatsu,7
+Nanatsu no Taizai: Imashime no Fukkatsu,-
 Nanatsu no Taizai: Kamigami no Gekirin,-
 Nanatsu no Taizai: Seisen no Shirushi,-
 NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,-
@@ -1822,13 +1822,13 @@ Negima!?,-
 Nejimaki Seirei Senki: Tenkyou no Alderamin,-
 Neko nanka Yondemo Konai.,-
 Nekogami Yaoyorozu,-
-Nekomonogatari: Kuro,7
+Nekomonogatari: Kuro,-
 NEKOMONOGATARI: KURO,-
 Nekopara,-
 Neo Angelique Abyss,-
 Neo Angelique Abyss: Second Age,-
-Neon Genesis Evangelion,8
-Net-juu no Susume,7
+Neon Genesis Evangelion,-
+Net-juu no Susume,-
 Netoge no Yome wa Onnanoko ja Nai to Omotta?,-
 NETOGE NO YOME WA ONNANOKO JA NAI TO OMOTTA?,-
 Netsuzou TRap,-
@@ -1843,11 +1843,11 @@ Nijiiro Days,-
 Nijuu Mensou no Musume,-
 Nil Admirari no Tenbin,-
 Ninja Senshi Tobikage,-
-Nisekoi,8
+Nisekoi,-
 Nisekoi OVA,-
-Nisekoi:,7
+Nisekoi:,-
 Nisekoi: OVA,-
-Nisemonogatari,8
+Nisemonogatari,-
 No Game No Life,-
 No Game No Life Specials,-
 No Guns Life,-
@@ -1937,10 +1937,10 @@ Ore no Imouto ga Konnani Kawaii Wake ga Nai,-
 ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI,-
 Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials,-
 Ore no Imouto ga Konnani Kawaii Wake ga Nai.,-
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,5
+Ore no Kanojo to Osananajimi ga Shuraba Sugiru,-
 Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,-
 Ore Twintail ni Narimasu.,-
-Ore wo Suki nano wa Omae dake ka yo,7
+Ore wo Suki nano wa Omae dake ka yo,-
 Orenchi no Furo Jijou,-
 Oretachi ni Tsubasa wa Nai: Under the Innocent Sky.,-
 Oruchuban Ebichu,-
@@ -1957,7 +1957,7 @@ Otogizoushi,-
 Otome wa Boku ni Koishiteru,-
 Otome Youkai Zakuro,-
 Ou Dorobou Jing,-
-Ouran Koukou Host Club,9
+Ouran Koukou Host Club,-
 OURAN KOUKOU HOST CLUB,-
 Ousama Game The Animation,-
 Oushitsu Kyoushi Heine,-
@@ -2008,8 +2008,8 @@ Phi Brain: Kami no Puzzle - Orpheus Order-hen,-
 Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen,-
 Photokano,-
 Piace: Watashi no Italian,-
-Piano no Mori (TV),7
-Piano no Mori (TV) 2nd Season,6
+Piano no Mori (TV),-
+Piano no Mori (TV) 2nd Season,-
 Pikotarou no Lullaby Lullaby (TV),-
 Ping Pong the Animation,-
 Pingu in the City,-
@@ -2019,7 +2019,7 @@ Planet With,-
 Planetarian: Chiisana Hoshi no Yume,-
 Planetes,-
 Plastic Memories,-
-Pokemon,9
+Pokemon,-
 Pokemon Advanced Generation,-
 Pokemon Best Wishes!,-
 Pokemon Best Wishes! Season 2,-
@@ -2080,16 +2080,16 @@ Ragnastrike Angels,-
 RahXephon,-
 Rail Wars!,-
 Rainbow: Nisha Rokubou no Shichinin,-
-Rakudai Kishi no Cavalry,2
+Rakudai Kishi no Cavalry,-
 Ramen Daisuki Koizumi-san,-
 Ranma ½,-
 Ranpo Kitan: Game of Laplace,-
 RDG: Red Data Girl,-
 Re:␣Hamatora,-
-Re:Creators,8
+Re:Creators,-
 Re:Petit kara Hajimeru Isekai Seikatsu,-
 Re:Stage! Dream Days♪,-
-Re:Zero kara Hajimeru Isekai Seikatsu,8
+Re:Zero kara Hajimeru Isekai Seikatsu,-
 Rec,-
 Recorder to Randoseru Do♪,-
 Recorder to Randoseru Mi☆,-
@@ -2101,10 +2101,10 @@ Reikenzan: Hoshikuzu-tachi no Utage,-
 Re-Kan!,-
 Rekka no Honoo,-
 Release the Spyce,-
-ReLIFE,7
-ReLIFE: Kanketsu-hen,7
+ReLIFE,-
+ReLIFE: Kanketsu-hen,-
 ReLIFE: Kanketsu-hen Specials,-
-Renai Boukun,6
+Renai Boukun,-
 Renkin San-kyuu Magical? Pokaan,-
 Rental Magica,-
 RErideD: Tokigoe no Derrida,-
@@ -2149,7 +2149,7 @@ Runway de Waratte,-
 Rurouni Kenshin: Meiji Kenkaku Romantan,-
 Ryuu no Haisha,-
 Ryuugajou Nanana no Maizoukin (TV),-
-Ryuuou no Oshigoto!,4
+Ryuuou no Oshigoto!,-
 Ryuusei no Rockman,-
 s.CRY.ed,-
 Sabage-bu!,-
@@ -2184,7 +2184,7 @@ Sakura Quest,-
 Sakura Trick,-
 Sakurada Reset,-
 Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,-
-Sakura-sou no Pet na Kanojo,8
+Sakura-sou no Pet na Kanojo,-
 Salaryman Kintarou,-
 Samurai 7,-
 Samurai Champloo,-
@@ -2226,7 +2226,7 @@ Seirei no Moribito,-
 Seireitsukai no Blade Dance,-
 Seiren,-
 Seisen Cerberus: Ryuukoku no Fatalités,-
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,-
 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Picture Drama,-
 Seitokai no Ichizon,-
 Seitokai Yakuindomo,-
@@ -2264,7 +2264,7 @@ Senki Zesshou Symphogear XV,-
 Senkou no Night Raid,-
 Senran Kagura,-
 Senran Kagura Shinovi Master: Tokyo Youma-hen,-
-Senryuu Shoujo,6
+Senryuu Shoujo,-
 Senyuu.,-
 Senyuu. 2,-
 Senyuu. Specials,-
@@ -2282,7 +2282,7 @@ Shaman King,-
 Shangri-La,-
 Shichinin no Nana,-
 Shichisei no Subaru,-
-Shigatsu wa Kimi no Uso,10
+Shigatsu wa Kimi no Uso,-
 Shigofumi,-
 Shigurui,-
 Shijou Saikyou no Deshi Kenichi,-
@@ -2301,7 +2301,7 @@ Shin Shirayuki-hime Densetsu Prétear,-
 Shin Strange+,-
 Shin Tenchi Muyou!,-
 Shin Tennis no Ouji-sama,-
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,5
+Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,-
 Shingeki no Bahamut: Genesis,-
 Shingeki no Bahamut: Virgin Soul,-
 Shingeki no Kyojin,-
@@ -2335,15 +2335,15 @@ Shirayuki Hime no Densetsu,-
 Shirobako,-
 Shirogane no Ishi: Argevollen,-
 Shirokuma Cafe,-
-Shokugeki no Souma,6
+Shokugeki no Souma,-
 SHOKUGEKI NO SOUMA,-
 Shokugeki no Souma OVA,-
-Shokugeki no Souma: Ni no Sara,6
+Shokugeki no Souma: Ni no Sara,-
 SHOKUGEKI NO SOUMA: NI NO SARA,-
 Shokugeki no Souma: Ni no Sara OVA,-
-Shokugeki no Souma: San no Sara,6
+Shokugeki no Souma: San no Sara,-
 SHOKUGEKI NO SOUMA: SAN NO SARA,-
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,6
+Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,-
 SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,-
 Shokugeki no Souma: Shin no Sara,-
 SHOKUGEKI NO SOUMA: SHIN NO SARA,-
@@ -2372,7 +2372,7 @@ Shugo Chara! Party!,-
 Shugo Chara!! Doki,-
 Shukufuku no Campanella,-
 Shuudengo Capsule Hotel de Joushi ni Binetsu Tsutawaru Yoru.,-
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,3
+Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,-
 Shuumatsu no Izetta,-
 Sidonia no Kishi,-
 Sidonia no Kishi: Daikyuu Wakusei Seneki,-
@@ -2408,7 +2408,7 @@ Sora no Otoshimono,-
 Sora no Otoshimono: Forte,-
 Sora to Umi no Aida,-
 Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai,-
-Sora yori mo Tooi Basho,9
+Sora yori mo Tooi Basho,-
 Sore ga Seiyuu!,-
 Soredemo Machi wa Mawatteiru,-
 Soredemo Sekai wa Utsukushii,-
@@ -2487,19 +2487,19 @@ Suzumiya Haruhi no Yuuutsu,-
 SUZUMIYA HARUHI NO YUUUTSU,-
 Suzumiya Haruhi no Yuuutsu (2009),-
 SUZUMIYA HARUHI NO YUUUTSU (2009),-
-Sword Art Online,5
+Sword Art Online,-
 SWORD ART ONLINE,-
 Sword Art Online Alternative: Gun Gale Online,-
-Sword Art Online II,4
-Sword Art Online: Alicization,5
-Sword Art Online: Alicization - War of Underworld,6
+Sword Art Online II,-
+Sword Art Online: Alicization,-
+Sword Art Online: Alicization - War of Underworld,-
 Sword Gai The Animation,-
 Sword Gai The Animation Part II,-
 Tabi Machi Late Show,-
 Taboo Tattoo,-
 Tachibanakan Triangle,-
 Tactics,-
-Tada-kun wa Koi wo Shinai,6
+Tada-kun wa Koi wo Shinai,-
 Taichi Senjimon,-
 Taiho Shichau zo (TV),-
 Taiho Shichau zo Special,-
@@ -2517,7 +2517,7 @@ Tales of Zestiria the Cross 2nd Season,-
 Tamako Market,-
 Tamayura: Hitotose,-
 Tamayura: More Aggressive,-
-Tanaka-kun wa Itsumo Kedaruge,7
+Tanaka-kun wa Itsumo Kedaruge,-
 Tanaka-kun wa Itsumo Kedaruge Specials,-
 Tanoshii Muumin Ikka,-
 Tanoshii Muumin Ikka Bouken Nikki,-
@@ -2528,7 +2528,7 @@ Tantei Team KZ Jiken Note,-
 Tari Tari,-
 Tasogare Otome x Amnesia,-
 Tatakau Shisho: The Book of Bantorra,-
-Tate no Yuusha no Nariagari,7
+Tate no Yuusha no Nariagari,-
 TATE NO YUUSHA NO NARIAGARI,-
 Tayutama: Kiss on My Deity,-
 Tears to Tiara,-
@@ -2547,14 +2547,14 @@ Tejina-senpai,-
 Tenchi Muyou!,-
 Tenchi Muyou! GXP,-
 Tenchi Muyou! Ryououki,-
-Tengen Toppa Gurren Lagann,9
+Tengen Toppa Gurren Lagann,-
 TENGEN TOPPA GURREN LAGANN,-
 Tenjou Tenge,-
 Tenka Hyakken: Meiji-kan e Youkoso!,-
 Tenkuu no Escaflowne,-
 Tennis no Ouji-sama,-
 Tenpou Ibun: Ayakashi Ayashi,-
-Tensei shitara Slime Datta Ken,7
+Tensei shitara Slime Datta Ken,-
 TENSEI SHITARA SLIME DATTA KEN,-
 Tenshi na Konamaiki,-
 Tenshi no 3P!,-
@@ -2599,9 +2599,9 @@ Toji no Miko,-
 Tokimeki Memorial: Only Love,-
 Tokkou,-
 Tokyo ESP,-
-Tokyo Ghoul,7
+Tokyo Ghoul,-
 TOKYO GHOUL,-
-Tokyo Ghoul √A,5
+Tokyo Ghoul √A,-
 TOKYO GHOUL √A,-
 Tokyo Ghoul:re,-
 TOKYO GHOUL:RE,-
@@ -2614,15 +2614,15 @@ Tokyo Mew Mew,-
 Tokyo Ravens,-
 Tokyo Underground,-
 Tonagura!,-
-Tonari no Kaibutsu-kun,7
+Tonari no Kaibutsu-kun,-
 TONARI NO KAIBUTSU-KUN,-
 Tonari no Kyuuketsuki-san,-
 Tonari no Seki-kun,-
 Tonkatsu DJ Agetarou,-
 Top Secret: The Revelation,-
 Top wo Nerae! Gunbuster,-
-Toradora!,-
-TORADORA!,-
+Toradora!,8
+TORADORA!,7
 Toriko,-
 Toshokan Sensou,-
 Tottoko Hamtarou,-
@@ -2639,19 +2639,19 @@ Triage X,-
 Trickster: Edogawa Ranpo Shounen Tanteidan yori,-
 Trigun,-
 Trinity Blood,-
-Trinity Seven,1
+Trinity Seven,-
 True Tears,-
 Try Knights,-
 Tsubasa Chronicle,-
 Tsubasa Chronicle 2nd Season,-
 Tsugumomo,-
 Tsuki ga Kirei,-
-Tsukimonogatari,7
+Tsukimonogatari,-
 Tsukipro The Animation,-
 Tsukiuta. The Animation,-
 Tsukumogami Kashimasu,-
 Tsukuyomi: Moon Phase,-
-Tsurezure Children,7
+Tsurezure Children,-
 TSUREZURE CHILDREN,-
 Tsuritama,-
 Tsurune: Kazemai Koukou Kyuudoubu,-
@@ -2725,7 +2725,7 @@ Viewtiful Joe,-
 VIEWTIFUL JOE,-
 Vinland Saga,-
 VINLAND SAGA,-
-Violet Evergarden,9
+Violet Evergarden,-
 VIOLET EVERGARDEN,-
 Virtua Fighter,-
 ViVid Strike!,-
@@ -2746,7 +2746,7 @@ Warau Salesman,-
 Warau Salesman New,-
 Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,-
 WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,-
-Watashi ga Motete Dousunda,7
+Watashi ga Motete Dousunda,-
 WATASHI GA MOTETE DOUSUNDA,-
 Watashi ni Tenshi ga Maiorita!,-
 Watashi no Ashinaga Ojisan,-
@@ -2756,9 +2756,9 @@ Weiß Survive R,-
 Wellber no Monogatari: Sisters of Wellber,-
 Wellber no Monogatari: Sisters of Wellber Zwei,-
 Whistle!,-
-White Album,-
-White Album 2,-
-White Album 2nd Season,-
+White Album,9
+White Album 2,9
+White Album 2nd Season,9
 Witch Craft Works,-
 Witch Hunter Robin,-
 Witchblade,-
@@ -2768,9 +2768,9 @@ Wolverine,-
 Wooser no Sono Higurashi,-
 Wooser no Sono Higurashi: Kakusei-hen,-
 Wooser no Sono Higurashi: Mugen-hen,-
-Working!!,9
-Working'!!,8
-Working!!!,10
+Working!!,-
+Working'!!,-
+Working!!!,-
 World Destruction: Sekai Bokumetsu no Rokunin,-
 World Trigger,-
 Wotaku ni Koi wa Muzukashii,-
@@ -2785,16 +2785,16 @@ xxxHOLiC,-
 xxxHOLiC Kei,-
 xxxHOLiC Rou,-
 xxxHOLiC Shunmuki,-
-Yagate Kimi ni Naru,7
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
+Yagate Kimi ni Naru,-
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,-
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,-
 Yakitate!! Japan,-
 Yakusoku no Neverland,-
 YAKUSOKU NO NEVERLAND,-
 Yama no Susume,-
 Yama no Susume: Second Season,-
 Yama no Susume: Third Season,-
-Yamada-kun to 7-nin no Majo (TV),7
+Yamada-kun to 7-nin no Majo (TV),-
 YAMADA-KUN TO 7-NIN NO MAJO (TV),-
 Yamato Nadeshiko Shichihenge♥,-
 Yami no Matsuei,-
@@ -2868,8 +2868,8 @@ Zankyou no Terror,-
 Zegapain,-
 Zero Duel Masters,-
 Zero kara Hajimeru Mahou no Sho,-
-Zero no Tsukaima,-
-ZERO NO TSUKAIMA,-
+Zero no Tsukaima,8
+ZERO NO TSUKAIMA,8
 Zero no Tsukaima F,-
 ZERO NO TSUKAIMA F,-
 Zero no Tsukaima: Futatsuki no Kishi,-

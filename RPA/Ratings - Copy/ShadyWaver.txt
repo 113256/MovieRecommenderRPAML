@@ -1,18 +1,13 @@
-﻿Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,-
-Boku no Hero Academia 3rd Season,-
-Death Note,-
-Dirty Pair,7
-Fullmetal Alchemist,9
-Heppoko Jikken Animation Excel♥Saga,7
-Highschool of the Dead,7
-JoJo no Kimyou na Bouken (TV),-
-Koutetsujou no Kabaneri,5
-Love Hina,7
-One Punch Man,-
-Ore Monogatari!!,8
-Panty & Stocking with Garterbelt,7
-Shingeki no Kyojin,7
-Suzumiya Haruhi no Yuuutsu,9
-Tate no Yuusha no Nariagari,8
-Toradora!,8
+﻿BOKU NO HERO ACADEMIA,9
+DIRTY PAIR,7
+FULLMETAL ALCHEMIST,9
+HEPPOKO JIKKEN ANIMATION EXCEL♥SAGA,7
+HIGHSCHOOL OF THE DEAD,7
+KOUTETSUJOU NO KABANERI,5
+LOVE HINA,7
+ORE MONOGATARI!!,8
+PANTY & STOCKING WITH GARTERBELT,7
+SHINGEKI NO KYOJIN,7
+SUZUMIYA HARUHI NO YUUUTSU,9
+TATE NO YUUSHA NO NARIAGARI,8
+TORADORA!,8

@@ -1,89 +1,17 @@
-﻿5-toubun no Hanayome,7
-Bakemonogatari,-
-Bleach,-
-Boku dake ga Inai Machi,-
-Boku no Hero Academia,-
-Boku no Hero Academia 2nd Season,-
-Boku no Hero Academia 3rd Season,-
-Charlotte,-
-Chuunibyou demo Koi ga Shitai!,-
-Citrus,-
-Darwin's Game,-
-Death March kara Hajimaru Isekai Kyousoukyoku,-
-Dragon Ball Kai,-
-Dragon Ball Super,-
-Dragon Ball Z,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,-
-Eromanga-sensei,-
-Fairy Tail,-
-Fairy Tail (2014),-
-Fullmetal Alchemist: Brotherhood,-
-Gakusen Toshi Asterisk,6
-Golden Time,-
-Guilty Crown,7
-Hai to Gensou no Grimgar,-
-Hanamonogatari,-
-High School DxD,6
-High School DxD New,6
-Hunter x Hunter (2011),-
-Ichiban Ushiro no Daimaou,7
-Irozuku Sekai no Ashita kara,9
-Isekai wa Smartphone to Tomo ni.,-
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,-
-Kimi ni Todoke,-
-Kimi ni Todoke 2nd Season,-
-Kiseijuu: Sei no Kakuritsu,-
-Kono Subarashii Sekai ni Shukufuku wo!,-
-Kuzu no Honkai,-
-Mekakucity Actors,6
-Mob Psycho 100,-
-Mob Psycho 100 II,-
-Monogatari Series: Second Season,-
-Motto To LOVE-Ru,7
-Naruto,-
-Naruto: Shippuuden,-
-Nekomonogatari: Kuro,-
-Netsuzou TRap,-
-NHK ni Youkoso!,-
-Nisekoi,-
-Nisekoi:,-
-Nisemonogatari,-
-No Game No Life,-
-Noragami,-
-One Punch Man,-
-Ookami to Koushinryou,-
-Ookami to Koushinryou II,-
-Ore Monogatari!!,-
-Overlord,-
-Overlord II,-
-Overlord III,-
-Re:Zero kara Hajimeru Isekai Seikatsu,-
-ReLIFE,-
-Renai Boukun,6
-Rokujouma no Shinryakusha!? (TV),7
-Rosario to Vampire,7
-Rosario to Vampire Capu2,7
-Sakura Trick,-
-Sakura-sou no Pet na Kanojo,-
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,-
-Sewayaki Kitsune no Senko-san,7
-Shingeki no Kyojin,-
-Shingeki no Kyojin Season 2,-
-Shingeki no Kyojin Season 3,-
-Sword Art Online,-
-Sword Art Online II,-
-Tasogare Otome x Amnesia,-
-Tensei shitara Slime Datta Ken,-
-To LOVE-Ru,7
-To LOVE-Ru Darkness,7
-To LOVE-Ru Darkness 2nd,7
-Tonari no Kaibutsu-kun,-
-Toradora!,-
-Tsukimonogatari,-
-Yagate Kimi ni Naru,-
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,-
-Zero no Tsukaima,-
-Zero no Tsukaima F,-
-Zero no Tsukaima: Futatsuki no Kishi,-
-Zero no Tsukaima: Princesses no Rondo,-
+﻿5-TOUBUN NO HANAYOME,7
+GAKUSEN TOSHI ASTERISK,6
+GUILTY CROWN,7
+HIGH SCHOOL DXD,6
+HIGH SCHOOL DXD NEW,6
+ICHIBAN USHIRO NO DAIMAOU,7
+IROZUKU SEKAI NO ASHITA KARA,9
+MEKAKUCITY ACTORS,6
+MOTTO TO LOVE-RU,7
+RENAI BOUKUN,6
+ROKUJOUMA NO SHINRYAKUSHA!? (TV),7
+ROSARIO TO VAMPIRE,7
+ROSARIO TO VAMPIRE CAPU2,7
+SEWAYAKI KITSUNE NO SENKO-SAN,7
+TO LOVE-RU,7
+TO LOVE-RU DARKNESS,7
+TO LOVE-RU DARKNESS 2ND,7

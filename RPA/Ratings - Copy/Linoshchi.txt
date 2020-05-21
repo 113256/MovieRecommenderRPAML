@@ -1,37 +1,34 @@
-﻿Ao no Exorcist,8
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,9
-Death Note,10
-Dr. Stone,9
-Enen no Shouboutai,8
-Fullmetal Alchemist,9
-Fullmetal Alchemist: Brotherhood,10
-Hataraku Maou-sama!,8
-Hunter x Hunter (2011),10
-Ishuzoku Reviewers,-
-Kakegurui,8
-Kill la Kill,7
-Kimetsu no Yaiba,9
-Kiseijuu: Sei no Kakuritsu,8
-Mob Psycho 100,8
-Mob Psycho 100 II,7
-Nanatsu no Taizai,8
-Nanatsu no Taizai: Imashime no Fukkatsu,9
-Nanatsu no Taizai: Kamigami no Gekirin,9
-Nanatsu no Taizai: Seisen no Shirushi,9
-Naruto,8
-Naruto: Shippuuden,8
-Neon Genesis Evangelion,4
-One Punch Man,9
-Samurai Champloo,10
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,7
-Shingeki no Kyojin Season 3,-
-Shingeki no Kyojin Season 3 Part 2,-
-Shokugeki no Souma,7
-Soul Eater,8
-Sunabouzu,9
-Ueno-san wa Bukiyou,6
-Yakusoku no Neverland,10
+﻿AO NO EXORCIST,8
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,9
+DEATH NOTE,10
+DR. STONE,9
+ENEN NO SHOUBOUTAI,8
+FULLMETAL ALCHEMIST,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+HATARAKU MAOU-SAMA!,8
+HUNTER X HUNTER (2011),10
+KAKEGURUI,8
+KILL LA KILL,7
+KIMETSU NO YAIBA,9
+KISEIJUU: SEI NO KAKURITSU,8
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,7
+NANATSU NO TAIZAI,8
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,9
+NANATSU NO TAIZAI: KAMIGAMI NO GEKIRIN,9
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,9
+NARUTO,8
+NARUTO: SHIPPUUDEN,8
+NEON GENESIS EVANGELION,4
+ONE PUNCH MAN,9
+SAMURAI CHAMPLOO,10
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,7
+SHOKUGEKI NO SOUMA,7
+SOUL EATER,8
+SUNABOUZU,9
+UENO-SAN WA BUKIYOU,6
+YAKUSOKU NO NEVERLAND,10

@@ -1,41 +1,41 @@
-﻿5-toubun no Hanayome,9
-Akame ga Kill!,1
-Beastars,8
-Demi-chan wa Kataritai,7
-Dororo,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,7
-Enen no Shouboutai,8
-Gamers!,10
-Hataraku Saibou (TV),9
-High School DxD,10
-High School DxD BorN,10
-High School DxD Hero,10
-High School DxD New,10
-Higurashi no Naku Koro ni,8
-Higurashi no Naku Koro ni Kai,7
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,10
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,10
-Karakai Jouzu no Takagi-san,7
-Kimetsu no Yaiba,10
-Kiseijuu: Sei no Kakuritsu,10
-Kobayashi-san Chi no Maid Dragon,9
-Little Witch Academia (TV),8
-One Punch Man,8
-One Punch Man 2nd Season,5
-Ore wo Suki nano wa Omae dake ka yo,10
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,10
-Shingeki no Kyojin Season 3,10
-Shingeki no Kyojin Season 3 Part 2,10
-Shokugeki no Souma,9
-Shokugeki no Souma: Ni no Sara,9
-Shokugeki no Souma: San no Sara,9
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,9
-Shokugeki no Souma: Shin no Sara,9
-Vinland Saga,9
-Violet Evergarden,10
-Wotaku ni Koi wa Muzukashii,9
-Yuragi-sou no Yuuna-san,7
+﻿5-TOUBUN NO HANAYOME,9
+AKAME GA KILL!,1
+BEASTARS,8
+DEMI-CHAN WA KATARITAI,7
+DORORO,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA GAIDEN: SWORD ORATORIA,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,7
+ENEN NO SHOUBOUTAI,8
+GAMERS!,10
+HATARAKU SAIBOU (TV),9
+HIGH SCHOOL DXD,10
+HIGH SCHOOL DXD BORN,10
+HIGH SCHOOL DXD HERO,10
+HIGH SCHOOL DXD NEW,10
+HIGURASHI NO NAKU KORO NI,8
+HIGURASHI NO NAKU KORO NI KAI,7
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,10
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,10
+KARAKAI JOUZU NO TAKAGI-SAN,7
+KIMETSU NO YAIBA,10
+KISEIJUU: SEI NO KAKURITSU,10
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+LITTLE WITCH ACADEMIA (TV),8
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,5
+ORE WO SUKI NANO WA OMAE DAKE KA YO,10
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,10
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,10
+SHINGEKI NO KYOJIN SEASON 3,10
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SHOKUGEKI NO SOUMA,9
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,9
+SHOKUGEKI NO SOUMA: SHIN NO SARA,9
+VINLAND SAGA,9
+VIOLET EVERGARDEN,10
+WOTAKU NI KOI WA MUZUKASHII,9
+YURAGI-SOU NO YUUNA-SAN,7

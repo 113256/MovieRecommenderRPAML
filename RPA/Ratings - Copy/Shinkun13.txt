@@ -1,66 +1,66 @@
-Aiura,5
-Alps no Shoujo Heidi,8
-Angel Beats!,8
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Another,9
-Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,9
-Beastars,8
-Big Order (TV),7
-Bobobo-bo Bo-bobo,10
-Boku dake ga Inai Machi,8
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,8
-Captain Tsubasa: Road to 2002,7
-Cardcaptor Sakura,8
-Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,8
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,9
-Danna ga Nani wo Itteiru ka Wakaranai Ken,7
-Death Note,9
-Dragon Ball,9
-Dragon Ball GT,7
-Dragon Ball Z,9
-Gyakuten Saiban: Sono Shinjitsu Igi Ari!,8
-Gyakuten Saiban: Sono Shinjitsu Igi Ari! Season 2,9
-High Score Girl,8
-Hunter x Hunter (2011),9
-Inazuma Eleven,7
-Inazuma Eleven Go,7
-Inazuma Eleven Go: Chrono Stone,9
-JoJo no Kimyou na Bouken (TV),8
-Kakegurui,9
-Kakegurui××,8
-Made in Abyss,8
-Mahou Shoujo Madoka★Magica,9
-Mob Psycho 100,8
-Mob Psycho 100 II,7
-Muhyo to Rouji no Mahouritsu Soudan Jimusho,8
-Nanatsu no Taizai,5
-Neon Genesis Evangelion,8
-New Game!,8
-New Game!!,8
-No Game No Life,10
-Noragami,7
-Noragami Aragoto,8
-One Punch Man,8
-Orange,8
-Recorder to Randoseru Do♪,7
-Recorder to Randoseru Mi☆,7
-Recorder to Randoseru Re♪,7
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,8
-Shokugeki no Souma,9
-Slam Dunk,8
-Steins;Gate,9
-Sword Art Online,9
-Sword Art Online II,7
-Tokyo Ghoul,9
-Tokyo Ghoul √A,5
-Toradora!,8
-Ueki no Housoku,8
-Wagamama High Spec,7
-Wagamama☆Fairy Mirumo de Pon!,10
-Yakusoku no Neverland,10
-Zero no Tsukaima,8
+﻿AIURA,5
+ALPS NO SHOUJO HEIDI,8
+ANGEL BEATS!,8
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+ANOTHER,9
+ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,9
+BEASTARS,8
+BIG ORDER (TV),7
+BOBOBO-BO BO-BOBO,10
+BOKU DAKE GA INAI MACHI,8
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+CAPTAIN TSUBASA: ROAD TO 2002,7
+CARDCAPTOR SAKURA,8
+CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,8
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,9
+DANNA GA NANI WO ITTEIRU KA WAKARANAI KEN,7
+DEATH NOTE,9
+DRAGON BALL,9
+DRAGON BALL GT,7
+DRAGON BALL Z,9
+GYAKUTEN SAIBAN: SONO SHINJITSU IGI ARI!,8
+GYAKUTEN SAIBAN: SONO SHINJITSU IGI ARI! SEASON 2,9
+HIGH SCORE GIRL,8
+HUNTER X HUNTER (2011),9
+INAZUMA ELEVEN,7
+INAZUMA ELEVEN GO,7
+INAZUMA ELEVEN GO: CHRONO STONE,9
+JOJO NO KIMYOU NA BOUKEN (TV),8
+KAKEGURUI,9
+KAKEGURUI××,8
+MADE IN ABYSS,8
+MAHOU SHOUJO MADOKA★MAGICA,9
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,7
+MUHYO TO ROUJI NO MAHOURITSU SOUDAN JIMUSHO,8
+NANATSU NO TAIZAI,5
+NEON GENESIS EVANGELION,8
+NEW GAME!,8
+NEW GAME!!,8
+NO GAME NO LIFE,10
+NORAGAMI,7
+NORAGAMI ARAGOTO,8
+ONE PUNCH MAN,8
+ORANGE,8
+RECORDER TO RANDOSERU DO♪,7
+RECORDER TO RANDOSERU MI☆,7
+RECORDER TO RANDOSERU RE♪,7
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,8
+SHOKUGEKI NO SOUMA,9
+SLAM DUNK,8
+STEINS;GATE,9
+SWORD ART ONLINE,9
+SWORD ART ONLINE II,7
+TOKYO GHOUL,9
+TOKYO GHOUL √A,5
+TORADORA!,8
+UEKI NO HOUSOKU,8
+WAGAMAMA HIGH SPEC,7
+WAGAMAMA☆FAIRY MIRUMO DE PON!,10
+YAKUSOKU NO NEVERLAND,10
+ZERO NO TSUKAIMA,8

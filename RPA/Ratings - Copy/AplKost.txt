@@ -1,31 +1,31 @@
-﻿Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,10
-Darwin's Game,9
-Dr. Stone,9
-Enen no Shouboutai,7
-Fullmetal Alchemist: Brotherhood,9
-Haikyuu!!,8
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Haikyuu!!: To the Top,8
-Kimetsu no Yaiba,9
-Kono Subarashii Sekai ni Shukufuku wo!,6
-Mob Psycho 100,7
-Mob Psycho 100 II,10
-Naruto,6
-Naruto: Shippuuden,9
-No Game No Life,7
-One Punch Man,8
-One Punch Man 2nd Season,9
-Shokugeki no Souma,7
-Shokugeki no Souma: Ni no Sara,8
-Shokugeki no Souma: San no Sara,7
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,7
-Shokugeki no Souma: Shin no Sara,8
-Tate no Yuusha no Nariagari,9
-Tokyo Ghoul,8
-Tokyo Ghoul √A,8
-Vinland Saga,8
-Yakusoku no Neverland,10
+﻿BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,10
+DARWIN'S GAME,9
+DR. STONE,9
+ENEN NO SHOUBOUTAI,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HAIKYUU!!: TO THE TOP,8
+KIMETSU NO YAIBA,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,6
+MOB PSYCHO 100,7
+MOB PSYCHO 100 II,10
+NARUTO,6
+NARUTO: SHIPPUUDEN,9
+NO GAME NO LIFE,7
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,9
+SHOKUGEKI NO SOUMA,7
+SHOKUGEKI NO SOUMA: NI NO SARA,8
+SHOKUGEKI NO SOUMA: SAN NO SARA,7
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,7
+SHOKUGEKI NO SOUMA: SHIN NO SARA,8
+TATE NO YUUSHA NO NARIAGARI,9
+TOKYO GHOUL,8
+TOKYO GHOUL √A,8
+VINLAND SAGA,8
+YAKUSOKU NO NEVERLAND,10

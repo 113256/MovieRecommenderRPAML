@@ -1,21 +1,26 @@
-﻿Ao no Exorcist,8
-Arifureta Shokugyou de Sekai Saikyou,7
-Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,10
-Darwin's Game,8
-Dr. Stone,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
-Enen no Shouboutai,8
-Goblin Slayer,8
-Haikyuu!!,8
-High School DxD,7
-Nanatsu no Taizai,8
-Nanatsu no Taizai: Imashime no Fukkatsu,8
-Noragami,8
-Noragami Aragoto,8
-Overlord,8
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Sword Art Online,6
-Tate no Yuusha no Nariagari,8
-Tokyo Ghoul,8
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),8
+﻿5-TOUBUN NO HANAYOME,8
+AO NO EXORCIST,8
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,6
+CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,10
+DARWIN'S GAME,8
+DR. STONE,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,8
+ENEN NO SHOUBOUTAI,8
+GOBLIN SLAYER,8
+HAIKYUU!!,8
+HIGH SCHOOL DXD,7
+NANATSU NO TAIZAI,8
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,8
+NORAGAMI,8
+NORAGAMI ARAGOTO,8
+OVERLORD,8
+OWARI NO SERAPH,6
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,6
+RAKUDAI KISHI NO CAVALRY,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+SWORD ART ONLINE,6
+SWORD ART ONLINE: ALICIZATION,7
+TATE NO YUUSHA NO NARIAGARI,8
+TOKYO GHOUL,8
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),8

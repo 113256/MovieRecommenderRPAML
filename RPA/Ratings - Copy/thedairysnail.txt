@@ -1,23 +1,25 @@
-﻿Angel Beats!,8
-Ansatsu Kyoushitsu,8
-Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,9
-Death Note,9
-Dororo,7
-Dr. Stone,8
-Fate/Zero,9
-Fate/Zero 2nd Season,9
-Fullmetal Alchemist: Brotherhood,10
-Hunter x Hunter (2011),9
-Kimetsu no Yaiba,8
-Naruto,7
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,10
-Shokugeki no Souma,8
-Shokugeki no Souma: Ni no Sara,8
-Shokugeki no Souma: San no Sara,8
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,8
-Shokugeki no Souma: Shin no Sara,8
-Yakusoku no Neverland,9
+﻿ANGEL BEATS!,8
+ANSATSU KYOUSHITSU,8
+ANSATSU KYOUSHITSU 2ND SEASON,8
+CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,9
+DEATH NOTE,9
+DORORO,7
+DR. STONE,8
+FATE/ZERO,9
+FATE/ZERO 2ND SEASON,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+HUNTER X HUNTER (2011),9
+KIMETSU NO YAIBA,8
+NARUTO,7
+POKEMON XY,7
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SHOKUGEKI NO SOUMA,8
+SHOKUGEKI NO SOUMA: NI NO SARA,8
+SHOKUGEKI NO SOUMA: SAN NO SARA,8
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,8
+SHOKUGEKI NO SOUMA: SHIN NO SARA,8
+YAKUSOKU NO NEVERLAND,9

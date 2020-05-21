@@ -1,69 +1,69 @@
-﻿Akame ga Kill!,10
-Angel Beats!,9
-Another,9
-Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,7
-Ao no Exorcist,8
-Baccano!,10
-Bakemonogatari,8
-Bleach,9
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,7
-Charlotte,9
-Code Geass: Hangyaku no Lelouch,8
-Darker than Black: Kuro no Keiyakusha,8
-Darling in the FranXX,9
-Death March kara Hajimaru Isekai Kyousoukyoku,6
-Death Note,9
-Death Parade,10
-Dr. Stone,8
-Durarara!!,10
-Elfen Lied,8
-Fairy Tail,8
-Fullmetal Alchemist: Brotherhood,10
-Goblin Slayer,6
-Hataraku Maou-sama!,9
-Highschool of the Dead,7
-Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,9
-Hunter x Hunter (2011),7
+﻿AKAME GA KILL!,10
+ANGEL BEATS!,9
+ANOTHER,9
+ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,7
+AO NO EXORCIST,8
+BACCANO!,10
+BAKEMONOGATARI,8
+BLEACH,9
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+CHARLOTTE,9
+CODE GEASS: HANGYAKU NO LELOUCH,8
+DARKER THAN BLACK: KURO NO KEIYAKUSHA,8
+DARLING IN THE FRANXX,9
+DEATH MARCH KARA HAJIMARU ISEKAI KYOUSOUKYOKU,6
+DEATH NOTE,9
+DEATH PARADE,10
+DR. STONE,8
+DURARARA!!,10
+ELFEN LIED,8
+FAIRY TAIL,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GOBLIN SLAYER,6
+HATARAKU MAOU-SAMA!,9
+HIGHSCHOOL OF THE DEAD,7
+HONZUKI NO GEKOKUJOU: SHISHO NI NARU TAME NI WA SHUDAN WO ERANDEIRAREMASEN,9
+HUNTER X HUNTER (2011),7
 K,9
-Kekkai Sensen,8
-Kiseijuu: Sei no Kakuritsu,9
-Kokoro Connect,10
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,9
-Kyokou Suiri,8
-Log Horizon,10
-Log Horizon 2nd Season,9
-Mahouka Koukou no Rettousei,9
-Mahoutsukai no Yome,10
-Mirai Nikki,8
-Mnemosyne: Mnemosyne no Musume-tachi,9
-Mob Psycho 100,8
-Naruto,7
-Naruto: Shippuuden,7
-Nejimaki Seirei Senki: Tenkyou no Alderamin,9
-No Game No Life,9
-Noragami,8
-One Punch Man,10
-Overlord,9
-Overlord II,9
-Overlord III,10
-Re:Zero kara Hajimeru Isekai Seikatsu,7
-Saiki Kusuo no Ψ-nan,8
-Shinsekai yori,9
-Suzumiya Haruhi no Yuuutsu,10
-Sword Art Online,9
-Sword Art Online II,7
-Tate no Yuusha no Nariagari,9
-Tensei shitara Slime Datta Ken,9
-Toaru Majutsu no Index,8
-Tokyo Ghoul,10
-Tokyo Ghoul √A,10
-Toradora!,8
-Yamada-kun to 7-nin no Majo (TV),9
-Youjo Senki,10
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),9
-Zankyou no Terror,10
-Zetsuen no Tempest,8
+KEKKAI SENSEN,8
+KISEIJUU: SEI NO KAKURITSU,9
+KOKORO CONNECT,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,9
+KYOKOU SUIRI,8
+LOG HORIZON,10
+LOG HORIZON 2ND SEASON,9
+MAHOUKA KOUKOU NO RETTOUSEI,9
+MAHOUTSUKAI NO YOME,10
+MIRAI NIKKI,8
+MNEMOSYNE: MNEMOSYNE NO MUSUME-TACHI,9
+MOB PSYCHO 100,8
+NARUTO,7
+NARUTO: SHIPPUUDEN,7
+NEJIMAKI SEIREI SENKI: TENKYOU NO ALDERAMIN,9
+NO GAME NO LIFE,9
+NORAGAMI,8
+ONE PUNCH MAN,10
+OVERLORD,9
+OVERLORD II,9
+OVERLORD III,10
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,7
+SAIKI KUSUO NO Ψ-NAN,8
+SHINSEKAI YORI,9
+SUZUMIYA HARUHI NO YUUUTSU,10
+SWORD ART ONLINE,9
+SWORD ART ONLINE II,7
+TATE NO YUUSHA NO NARIAGARI,9
+TENSEI SHITARA SLIME DATTA KEN,9
+TOARU MAJUTSU NO INDEX,8
+TOKYO GHOUL,10
+TOKYO GHOUL √A,10
+TORADORA!,8
+YAMADA-KUN TO 7-NIN NO MAJO (TV),9
+YOUJO SENKI,10
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),9
+ZANKYOU NO TERROR,10
+ZETSUEN NO TEMPEST,8

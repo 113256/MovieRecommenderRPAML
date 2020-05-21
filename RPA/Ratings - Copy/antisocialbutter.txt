@@ -1,20 +1,22 @@
-﻿Beastars,7
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,7
-Boku no Hero Academia 4th Season,8
-Bungou Stray Dogs,9
-Chuunibyou demo Koi ga Shitai!,7
-Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,4
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,5
-Free!,7
-Highschool of the Dead,10
-Kakegurui,9
-Kakegurui××,9
-Kimetsu no Yaiba,8
-Kobayashi-san Chi no Maid Dragon,10
-Mirai Nikki,8
-Oruchuban Ebichu,10
-Ouran Koukou Host Club,7
-Ousama Game The Animation,3
-Tottoko Hamtarou,10
+﻿BEASTARS,7
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+BOKU NO HERO ACADEMIA 4TH SEASON,8
+BUNGOU STRAY DOGS,9
+BUNGOU STRAY DOGS 2ND SEASON,9
+CHUUNIBYOU DEMO KOI GA SHITAI!,7
+DANGANRONPA 3: THE END OF KIBOUGAMINE GAKUEN - MIRAI-HEN,4
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,5
+FREE!,7
+HIGHSCHOOL OF THE DEAD,10
+KAKEGURUI,9
+KAKEGURUI××,9
+KIMETSU NO YAIBA,8
+KOBAYASHI-SAN CHI NO MAID DRAGON,10
+MIRAI NIKKI,8
+ORUCHUBAN EBICHU,10
+OURAN KOUKOU HOST CLUB,7
+OUSAMA GAME THE ANIMATION,3
+TORADORA!,7
+TOTTOKO HAMTAROU,10

@@ -1,29 +1,22 @@
-﻿Baku Tech! Bakugan,8
-Baku Tech! Bakugan Gachi,8
-Bakugan Battle Brawlers,8
-Bakugan Battle Brawlers: Gundalian Invaders,8
-Bakugan Battle Brawlers: Mechtanium Surge,8
-Bakugan Battle Brawlers: New Vestroia,8
-Bleach,10
-Death Note,9
-Death Parade,10
-Naruto,10
-Naruto: Shippuuden,10
-One Punch Man,10
-Pokemon,8
-Pokemon Advanced Generation,-
-Pokemon Best Wishes!,-
-Pokemon Best Wishes! Season 2,-
-Pokemon Diamond & Pearl,-
-Pokemon Housoukyoku,-
-Pokemon XY,-
-Pokemon XY&Z,-
-Satsuriku no Tenshi,9
-Shingeki no Kyojin,8
-Tokyo Ghoul,9
-Yu☆Gi☆Oh! 5D's,8
-Yu☆Gi☆Oh! Arc-V,8
-Yu☆Gi☆Oh! Duel Monsters,8
-Yu☆Gi☆Oh! Zexal,8
-Yu☆Gi☆Oh! Zexal Second,8
-Yu☆Gi☆Oh!: Duel Monsters GX,8
+﻿BAKU TECH! BAKUGAN,8
+BAKU TECH! BAKUGAN GACHI,8
+BAKUGAN BATTLE BRAWLERS,8
+BAKUGAN BATTLE BRAWLERS: GUNDALIAN INVADERS,8
+BAKUGAN BATTLE BRAWLERS: MECHTANIUM SURGE,8
+BAKUGAN BATTLE BRAWLERS: NEW VESTROIA,8
+BLEACH,10
+DEATH NOTE,9
+DEATH PARADE,10
+NARUTO,10
+NARUTO: SHIPPUUDEN,10
+ONE PUNCH MAN,10
+POKEMON,8
+SATSURIKU NO TENSHI,9
+SHINGEKI NO KYOJIN,8
+TOKYO GHOUL,9
+YU☆GI☆OH! 5D'S,8
+YU☆GI☆OH! ARC-V,8
+YU☆GI☆OH! DUEL MONSTERS,8
+YU☆GI☆OH! ZEXAL,8
+YU☆GI☆OH! ZEXAL SECOND,8
+YU☆GI☆OH!: DUEL MONSTERS GX,8

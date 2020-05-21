@@ -1,42 +1,42 @@
-Akagami no Shirayuki-hime,9
-Ao Haru Ride,-
-Boku dake ga Inai Machi,8
-Bokura ga Ita,9
-Devils Line,8
-Dororo,6
-Elfen Lied,8
-Ergo Proxy,8
-Golden Kamuy,9
-Golden Kamuy 2nd Season,8
-Hajimete no Gal,6
-Hana yori Dango,8
-Higashi no Eden,6
-Inari Konkon Koi Iroha.,6
-Inuyashiki,6
-Katanagatari,8
-Kiseijuu: Sei no Kakuritsu,9
-Koutetsujou no Kabaneri,5
-Kuzu no Honkai,8
-Made in Abyss,8
-Mushishi,10
-Mushishi Zoku Shou,10
-Mushishi Zoku Shou 2nd Season,10
-Nagi no Asu kara,8
-Nana,8
-Neon Genesis Evangelion,9
-Noragami,6
-Saint Seiya,8
-Sakamichi no Apollon,9
-Shingeki no Bahamut: Genesis,7
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,9
-Shinreigari,7
-Shinsekai yori,8
-Shouwa Genroku Rakugo Shinjuu,8
-Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,9
-Souryo to Majiwaru Shikiyoku no Yoru ni...,7
-Tada-kun wa Koi wo Shinai,8
-Tsuki ga Kirei,7
-Wotaku ni Koi wa Muzukashii,8
-Yakusoku no Neverland,8
-Zankyou no Terror,7
+﻿AKAGAMI NO SHIRAYUKI-HIME,9
+AKAGAMI NO SHIRAYUKI-HIME 2ND SEASON,9
+BOKU DAKE GA INAI MACHI,8
+BOKURA GA ITA,9
+DEVILS LINE,8
+DORORO,6
+ELFEN LIED,8
+ERGO PROXY,8
+GOLDEN KAMUY,9
+GOLDEN KAMUY 2ND SEASON,8
+HAJIMETE NO GAL,6
+HANA YORI DANGO,8
+HIGASHI NO EDEN,6
+INARI KONKON KOI IROHA.,6
+INUYASHIKI,6
+KATANAGATARI,8
+KISEIJUU: SEI NO KAKURITSU,9
+KOUTETSUJOU NO KABANERI,5
+KUZU NO HONKAI,8
+MADE IN ABYSS,8
+MUSHISHI,10
+MUSHISHI ZOKU SHOU,10
+MUSHISHI ZOKU SHOU 2ND SEASON,10
+NAGI NO ASU KARA,8
+NANA,8
+NEON GENESIS EVANGELION,9
+NORAGAMI,6
+SAINT SEIYA,8
+SAKAMICHI NO APOLLON,9
+SHINGEKI NO BAHAMUT: GENESIS,7
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINREIGARI,7
+SHINSEKAI YORI,8
+SHOUWA GENROKU RAKUGO SHINJUU,8
+SHOUWA GENROKU RAKUGO SHINJUU: SUKEROKU FUTATABI-HEN,9
+SOURYO TO MAJIWARU SHIKIYOKU NO YORU NI...,7
+TADA-KUN WA KOI WO SHINAI,8
+TSUKI GA KIREI,7
+WOTAKU NI KOI WA MUZUKASHII,8
+YAKUSOKU NO NEVERLAND,8
+ZANKYOU NO TERROR,7

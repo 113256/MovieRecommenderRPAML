@@ -1,33 +1,33 @@
-﻿Bleach,9
-Boku no Hero Academia,6
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,9
-Code Geass: Hangyaku no Lelouch,10
-Code Geass: Hangyaku no Lelouch R2,10
-Darling in the FranXX,4
-Death Note,9
-Dragon Ball GT,5
-Dragon Ball Kai,9
-Dragon Ball Kai (2014),7
-Dragon Ball Super,3
-Fairy Tail,5
-Fullmetal Alchemist: Brotherhood,10
-Hunter x Hunter (2011),10
-InuYasha (TV),10
-Katekyo Hitman Reborn!,9
-Kill la Kill,8
-Magi: The Labyrinth of Magic,8
-Majin Tantei Nougami Neuro,7
-Nanatsu no Taizai,10
-Naruto,10
-Naruto: Shippuuden,8
-Rurouni Kenshin: Meiji Kenkaku Romantan,9
-Shingeki no Kyojin,10
-Sonic X,4
-Soul Eater,7
-Tengen Toppa Gurren Lagann,8
-Ueki no Housoku,8
-Yu☆Gi☆Oh! 5D's,10
-Yu☆Gi☆Oh! Duel Monsters,10
-Yu☆Gi☆Oh!: Duel Monsters GX,9
-Yuu☆Yuu☆Hakusho,10
+﻿BLEACH,9
+BOKU NO HERO ACADEMIA,6
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+CODE GEASS: HANGYAKU NO LELOUCH,10
+CODE GEASS: HANGYAKU NO LELOUCH R2,10
+DARLING IN THE FRANXX,4
+DEATH NOTE,9
+DRAGON BALL GT,5
+DRAGON BALL KAI,9
+DRAGON BALL KAI (2014),7
+DRAGON BALL SUPER,3
+FAIRY TAIL,5
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+HUNTER X HUNTER (2011),10
+INUYASHA (TV),10
+KATEKYO HITMAN REBORN!,9
+KILL LA KILL,8
+MAGI: THE LABYRINTH OF MAGIC,8
+MAJIN TANTEI NOUGAMI NEURO,7
+NANATSU NO TAIZAI,10
+NARUTO,10
+NARUTO: SHIPPUUDEN,8
+RUROUNI KENSHIN: MEIJI KENKAKU ROMANTAN,9
+SHINGEKI NO KYOJIN,10
+SONIC X,4
+SOUL EATER,7
+TENGEN TOPPA GURREN LAGANN,8
+UEKI NO HOUSOKU,8
+YU☆GI☆OH! 5D'S,10
+YU☆GI☆OH! DUEL MONSTERS,10
+YU☆GI☆OH!: DUEL MONSTERS GX,9
+YUU☆YUU☆HAKUSHO,10

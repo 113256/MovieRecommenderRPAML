@@ -1,44 +1,34 @@
-﻿Akame ga Kill!,8
-Another,4
-Black★Rock Shooter (TV),7
-Bokura wa Minna Kawai-sou,8
-Citrus,8
-Claymore,9
-Deadman Wonderland,8
-Death Note,8
-Elfen Lied,10
-Ga-Rei: Zero,9
-Gakkougurashi!,-
-Highschool of the Dead,7
-Higurashi no Naku Koro ni,-
-Himouto! Umaru-chan,9
-Hourou Musuko,8
-Isekai Shokudou,-
+﻿AKAME GA KILL!,8
+ANOTHER,4
+BLACK★ROCK SHOOTER (TV),7
+BOKURA WA MINNA KAWAI-SOU,8
+CITRUS,8
+CLAYMORE,9
+DEADMAN WONDERLAND,8
+DEATH NOTE,8
+ELFEN LIED,10
+GA-REI: ZERO,9
+HIGHSCHOOL OF THE DEAD,7
+HIMOUTO! UMARU-CHAN,9
+HOUROU MUSUKO,8
 K,8
-Kekkaishi (TV),9
-Kiddy GiRL-AND,8
-Kiddy Grade,8
-Kill la Kill,6
-Kiss x Sis (TV),6
-Kore wa Zombie Desu ka?,7
-Kore wa Zombie Desu ka? of the Dead,6
-Mahou Shoujo Madoka★Magica,8
-Mirai Nikki,9
-No Game No Life,8
-Overlord,8
-Overlord II,-
-Overlord III,-
-Psycho-Pass 2,7
-Re:Zero kara Hajimeru Isekai Seikatsu,-
-Sankarea,-
-School Days,-
-Seirei no Moribito,10
-Sekirei,7
-Shigatsu wa Kimi no Uso,6
-Shingeki no Kyojin,9
-Strike Witches,9
-Strike Witches 2,9
-Sword Art Online,-
-Tengen Toppa Gurren Lagann,7
-Tokyo Ghoul,9
-Violet Evergarden,-
+KEKKAISHI (TV),9
+KIDDY GIRL-AND,8
+KIDDY GRADE,8
+KILL LA KILL,6
+KISS X SIS (TV),6
+KORE WA ZOMBIE DESU KA?,7
+KORE WA ZOMBIE DESU KA? OF THE DEAD,6
+MAHOU SHOUJO MADOKA★MAGICA,8
+MIRAI NIKKI,9
+NO GAME NO LIFE,8
+OVERLORD,8
+PSYCHO-PASS 2,7
+SEIREI NO MORIBITO,10
+SEKIREI,7
+SHIGATSU WA KIMI NO USO,6
+SHINGEKI NO KYOJIN,9
+STRIKE WITCHES,9
+STRIKE WITCHES 2,9
+TENGEN TOPPA GURREN LAGANN,7
+TOKYO GHOUL,9

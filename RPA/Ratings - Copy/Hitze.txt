@@ -1,14 +1,15 @@
-﻿Another,10
-Ao no Exorcist,7
-Chuunibyou demo Koi ga Shitai!,6
-Death Note,9
-Hataraku Saibou (TV),7
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Little Witch Academia (TV),7
-Ore no Imouto ga Konnani Kawaii Wake ga Nai,4
-Re:Zero kara Hajimeru Isekai Seikatsu,10
-Sword Art Online,6
-Sword Art Online II,5
-Tokyo Ghoul,6
-Yuru Camp△,7
+﻿ANOTHER,10
+AO NO EXORCIST,7
+CHUUNIBYOU DEMO KOI GA SHITAI!,6
+DEATH NOTE,9
+HATARAKU SAIBOU (TV),7
+KOBAYASHI-SAN CHI NO MAID DRAGON,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+LITTLE WITCH ACADEMIA (TV),7
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI,4
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+SWORD ART ONLINE,6
+SWORD ART ONLINE II,5
+TOKYO GHOUL,6
+YURU CAMP△,7

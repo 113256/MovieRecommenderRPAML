@@ -1,59 +1,33 @@
-﻿Ajin,-
-Ao Haru Ride,-
-Bishoujo Senshi Sailor Moon,10
-Bishoujo Senshi Sailor Moon R,-
-Bishoujo Senshi Sailor Moon S,9
-Boku dake ga Inai Machi,10
-Boku no Hero Academia,-
-Boku no Hero Academia 2nd Season,-
-Boku no Hero Academia 3rd Season,-
-Darling in the FranXX,10
-DearS,8
-Death Note,8
-Death Parade,10
-Devils Line,9
-Digimon Adventure,10
-Digimon Adventure 02,9
-Digimon Tamers,7
-Dr. Stone,-
-Fruits Basket,7
-Fruits Basket 1st Season,10
-Fullmetal Alchemist,9
-Ga-Rei: Zero,-
-Inu x Boku SS,9
-Kamisama Hajimemashita,-
-Kamisama Hajimemashita◎,-
-Kill la Kill,10
-Kodomo no Omocha (TV),8
-Kuragehime,7
-Kuroshitsuji,8
-Little Witch Academia (TV),-
-Mahoutsukai no Yome,-
-Master Mosquiton '99,8
-Nanatsu no Taizai,10
-Nanatsu no Taizai: Imashime no Fukkatsu,-
-Naruto,9
-Naruto SD: Rock Lee no Seishun Full-Power Ninden,-
-Naruto: Shippuuden,10
-Noragami,-
-Noragami Aragoto,-
-Ouran Koukou Host Club,9
-Rosario to Vampire,7
-Samurai Champloo,9
-Shingeki no Kyojin,10
-Sukitte Ii na yo.,9
-Sword Art Online,9
-Sword Art Online II,-
-Tengen Toppa Gurren Lagann,10
-Tokyo Ghoul,-
-Tokyo Ghoul √A,-
-Tokyo Ghoul:re,-
-Tokyo Mew Mew,9
-Tonari no Kaibutsu-kun,-
-Trigun,-
-Vampire Knight,8
-Violet Evergarden,-
-Wotaku ni Koi wa Muzukashii,-
+﻿BISHOUJO SENSHI SAILOR MOON,10
+BISHOUJO SENSHI SAILOR MOON S,9
+BOKU DAKE GA INAI MACHI,10
+DARLING IN THE FRANXX,10
+DEARS,8
+DEATH NOTE,8
+DEATH PARADE,10
+DEVILS LINE,9
+DIGIMON ADVENTURE,10
+DIGIMON ADVENTURE 02,9
+DIGIMON TAMERS,7
+FRUITS BASKET,7
+FRUITS BASKET 1ST SEASON,10
+FULLMETAL ALCHEMIST,9
+INU X BOKU SS,9
+KILL LA KILL,10
+KODOMO NO OMOCHA (TV),8
+KURAGEHIME,7
+KUROSHITSUJI,8
+MASTER MOSQUITON '99,8
+NANATSU NO TAIZAI,10
+NARUTO,9
+NARUTO: SHIPPUUDEN,10
+OURAN KOUKOU HOST CLUB,9
+ROSARIO TO VAMPIRE,7
+SAMURAI CHAMPLOO,9
+SHINGEKI NO KYOJIN,10
+SUKITTE II NA YO.,9
+SWORD ART ONLINE,9
+TENGEN TOPPA GURREN LAGANN,10
+TOKYO MEW MEW,9
+VAMPIRE KNIGHT,8
 X,9
-Yuri!!! on Ice,-
-Yuu☆Yuu☆Hakusho,-

@@ -1,23 +1,16 @@
-﻿Araburu Kisetsu no Otome-domo yo.,8
-Blend S,-
-Boku no Hero Academia,-
-Domestic na Kanojo,-
-Eromanga-sensei,8
-Girls & Panzer,7
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,7
-Kakegurui,8
-Kobayashi-san Chi no Maid Dragon,9
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Made in Abyss,-
-Naruto,-
-Netoge no Yome wa Onnanoko ja Nai to Omotta?,9
-One Punch Man,8
-One Punch Man 2nd Season,7
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Sakura-sou no Pet na Kanojo,9
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Shingeki no Kyojin,-
-Sounan Desu ka?,-
-Sword Art Online,7
-Watashi ni Tenshi ga Maiorita!,8
+﻿ARABURU KISETSU NO OTOME-DOMO YO.,8
+EROMANGA-SENSEI,8
+GIRLS & PANZER,7
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,7
+KAKEGURUI,8
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+NETOGE NO YOME WA ONNANOKO JA NAI TO OMOTTA?,9
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+SAKURA-SOU NO PET NA KANOJO,9
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SWORD ART ONLINE,7
+WATASHI NI TENSHI GA MAIORITA!,8

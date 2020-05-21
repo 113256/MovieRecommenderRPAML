@@ -1,127 +1,127 @@
-﻿Ajin,7
-Akame ga Kill!,9
-Aldnoah.Zero,8
-Angel Beats!,7
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Another,8
-Ao no Exorcist,8
-Ao no Exorcist: Kyoto Fujouou-hen,7
-Bakemonogatari,9
-Berserk,8
-Black Lagoon,7
-Bleach,8
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,9
-Btooom!,8
-Bungou Stray Dogs,8
-Bungou Stray Dogs 2nd Season,8
-Bungou Stray Dogs 3rd Season,8
-Claymore,8
-Darling in the FranXX,9
-Deadman Wonderland,7
-Digimon Adventure,8
-Dororo,9
-Dr. Stone,8
-Dragon Ball,8
-Dragon Ball Z,8
-Drifters,8
-Dumbbell Nan Kilo Moteru?,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,7
-Durarara!!,9
-Durarara!!x2 Ketsu,7
-Durarara!!x2 Shou,8
-Durarara!!x2 Ten,8
-Elfen Lied,8
-Enen no Shouboutai,8
-Ergo Proxy,8
-Fate/stay night: Unlimited Blade Works,8
-Fate/stay night: Unlimited Blade Works 2nd Season,8
-Fate/Zero,9
-Fate/Zero 2nd Season,8
-Fullmetal Alchemist,8
-Fullmetal Alchemist: Brotherhood,9
-God Eater,8
-Hai to Gensou no Grimgar,8
-Haikyuu!!,8
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Hanamonogatari,8
-Hataraku Maou-sama!,9
-Highschool of the Dead,7
-Hinamatsuri,8
-Houseki no Kuni (TV),9
-Hunter x Hunter (2011),9
-Id:Invaded,9
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,7
-JoJo no Kimyou na Bouken (TV),8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
+﻿AJIN,7
+AKAME GA KILL!,9
+ALDNOAH.ZERO,8
+ANGEL BEATS!,7
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+ANOTHER,8
+AO NO EXORCIST,8
+AO NO EXORCIST: KYOTO FUJOUOU-HEN,7
+BAKEMONOGATARI,9
+BERSERK,8
+BLACK LAGOON,7
+BLEACH,8
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BTOOOM!,8
+BUNGOU STRAY DOGS,8
+BUNGOU STRAY DOGS 2ND SEASON,8
+BUNGOU STRAY DOGS 3RD SEASON,8
+CLAYMORE,8
+DARLING IN THE FRANXX,9
+DEADMAN WONDERLAND,7
+DIGIMON ADVENTURE,8
+DORORO,9
+DR. STONE,8
+DRAGON BALL,8
+DRAGON BALL Z,8
+DRIFTERS,8
+DUMBBELL NAN KILO MOTERU?,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA GAIDEN: SWORD ORATORIA,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,7
+DURARARA!!,9
+DURARARA!!X2 KETSU,7
+DURARARA!!X2 SHOU,8
+DURARARA!!X2 TEN,8
+ELFEN LIED,8
+ENEN NO SHOUBOUTAI,8
+ERGO PROXY,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,8
+FATE/ZERO,9
+FATE/ZERO 2ND SEASON,8
+FULLMETAL ALCHEMIST,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+GOD EATER,8
+HAI TO GENSOU NO GRIMGAR,8
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HANAMONOGATARI,8
+HATARAKU MAOU-SAMA!,9
+HIGHSCHOOL OF THE DEAD,7
+HINAMATSURI,8
+HOUSEKI NO KUNI (TV),9
+HUNTER X HUNTER (2011),9
+ID:INVADED,9
+ISEKAI MAOU TO SHOUKAN SHOUJO NO DOREI MAJUTSU,7
+JOJO NO KIMYOU NA BOUKEN (TV),8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,8
 K,7
-K: Return of Kings,8
-Kakegurui,9
-Kakegurui××,7
-Kenpuu Denki Berserk,8
-Kill la Kill,9
-Kimetsu no Yaiba,9
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Kujira no Kora wa Sajou ni Utau,8
-Kuroko no Basket,8
-Kuroko no Basket 2nd Season,9
-Kuroko no Basket 3rd Season,8
-Little Witch Academia (TV),8
-Made in Abyss,9
-Magi: Sinbad no Bouken (TV),8
-Magi: The Kingdom of Magic,8
-Magi: The Labyrinth of Magic,8
-Megalo Box,8
-Mirai Nikki,8
-Mob Psycho 100,8
-Mob Psycho 100 II,9
-Monogatari Series: Second Season,9
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,8
-Nanatsu no Taizai: Seisen no Shirushi,7
-Naruto,8
-Naruto: Shippuuden,8
-Nekomonogatari: Kuro,8
-Neon Genesis Evangelion,9
-Nisemonogatari,8
-No Game No Life,8
-Noragami,8
-Noragami Aragoto,8
-One Punch Man,8
-Owari no Seraph,8
-Owari no Seraph: Nagoya Kessen-hen,8
-Owarimonogatari,9
-Owarimonogatari 2nd Season,9
-Psycho-Pass,9
-Psycho-Pass 2,8
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Rokka no Yuusha,8
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Shigatsu wa Kimi no Uso,8
-Shingeki no Bahamut: Genesis,7
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,7
-Shingeki no Kyojin Season 3,8
-Sirius,8
-Soul Eater,8
-Sousei no Onmyouji,7
-Suisei no Gargantia,7
-Sword Art Online,8
-Sword Art Online II,8
-Sword Art Online: Alicization,8
-Sword Art Online: Alicization - War of Underworld,8
-Tengen Toppa Gurren Lagann,9
-Tokyo Ghoul,8
-Tokyo Ghoul √A,8
-Tokyo Ghoul:re,7
-Tsukimonogatari,8
-Vinland Saga,9
-Violet Evergarden,9
-Yakusoku no Neverland,9
-Zero no Tsukaima,7
+K: RETURN OF KINGS,8
+KAKEGURUI,9
+KAKEGURUI××,7
+KENPUU DENKI BERSERK,8
+KILL LA KILL,9
+KIMETSU NO YAIBA,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+KUJIRA NO KORA WA SAJOU NI UTAU,8
+KUROKO NO BASKET,8
+KUROKO NO BASKET 2ND SEASON,9
+KUROKO NO BASKET 3RD SEASON,8
+LITTLE WITCH ACADEMIA (TV),8
+MADE IN ABYSS,9
+MAGI: SINBAD NO BOUKEN (TV),8
+MAGI: THE KINGDOM OF MAGIC,8
+MAGI: THE LABYRINTH OF MAGIC,8
+MEGALO BOX,8
+MIRAI NIKKI,8
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,9
+MONOGATARI SERIES: SECOND SEASON,9
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,8
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,7
+NARUTO,8
+NARUTO: SHIPPUUDEN,8
+NEKOMONOGATARI: KURO,8
+NEON GENESIS EVANGELION,9
+NISEMONOGATARI,8
+NO GAME NO LIFE,8
+NORAGAMI,8
+NORAGAMI ARAGOTO,8
+ONE PUNCH MAN,8
+OWARI NO SERAPH,8
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,8
+OWARIMONOGATARI,9
+OWARIMONOGATARI 2ND SEASON,9
+PSYCHO-PASS,9
+PSYCHO-PASS 2,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+ROKKA NO YUUSHA,8
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SHIGATSU WA KIMI NO USO,8
+SHINGEKI NO BAHAMUT: GENESIS,7
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,7
+SHINGEKI NO KYOJIN SEASON 3,8
+SIRIUS,8
+SOUL EATER,8
+SOUSEI NO ONMYOUJI,7
+SUISEI NO GARGANTIA,7
+SWORD ART ONLINE,8
+SWORD ART ONLINE II,8
+SWORD ART ONLINE: ALICIZATION,8
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,8
+TENGEN TOPPA GURREN LAGANN,9
+TOKYO GHOUL,8
+TOKYO GHOUL √A,8
+TOKYO GHOUL:RE,7
+TSUKIMONOGATARI,8
+VINLAND SAGA,9
+VIOLET EVERGARDEN,9
+YAKUSOKU NO NEVERLAND,9
+ZERO NO TSUKAIMA,7

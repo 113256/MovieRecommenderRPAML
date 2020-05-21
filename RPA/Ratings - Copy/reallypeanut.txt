@@ -1,6 +1,6 @@
-﻿Boku no Hero Academia,5
-Boku no Hero Academia 2nd Season,5
-Kill la Kill,9
-Neon Genesis Evangelion,10
-Persona 4 the Animation,8
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
+﻿BOKU NO HERO ACADEMIA,5
+BOKU NO HERO ACADEMIA 2ND SEASON,5
+KILL LA KILL,9
+NEON GENESIS EVANGELION,10
+PERSONA 4 THE ANIMATION,8
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8

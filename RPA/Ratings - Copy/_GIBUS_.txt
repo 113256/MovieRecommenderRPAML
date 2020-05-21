@@ -1,54 +1,54 @@
-﻿Acchi Kocchi (TV),5
-Another,5
-Bakemonogatari,10
-Bakugan Battle Brawlers: Mechtanium Surge,6
-Blend S,8
-Chio-chan no Tsuugakuro,8
-Choujigen Game Neptune The Animation,6
-Chuunibyou demo Koi ga Shitai!,10
-Chuunibyou demo Koi ga Shitai! Ren,7
-Clannad,9
-Clannad: After Story,9
-Code Geass: Hangyaku no Lelouch,9
-Cowboy Bebop,8
-Darling in the FranXX,1
-Death Note,8
-Eromanga-sensei,4
-Gabriel DropOut,9
-High School DxD,3
-Isekai Quartet,7
-JoJo no Kimyou na Bouken (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,10
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
-K-On!,9
-K-On!!,9
-Kill Me Baby,7
-Kobayashi-san Chi no Maid Dragon,8
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Kotoura-san,7
-Lucky☆Star,9
-Made in Abyss,10
-Mikakunin de Shinkoukei,7
-Mirai Nikki,4
-Monster Musume no Iru Nichijou,4
-Neon Genesis Evangelion,9
-Nichijou,10
-No Game No Life,7
-Oshiete! Galko-chan,4
-Overlord,7
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Sakura-sou no Pet na Kanojo,9
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,9
-Suzumiya Haruhi no Yuuutsu,9
-Suzumiya Haruhi no Yuuutsu (2009),8
-Sword Art Online,3
-Sword Art Online II,2
-Tejina-senpai,4
-Tokyo Ghoul,4
-Toradora!,9
-Ueno-san wa Bukiyou,4
-Youjo Senki,7
-Yuru Yuri,8
+﻿ACCHI KOCCHI (TV),5
+ANOTHER,5
+BAKEMONOGATARI,10
+BAKUGAN BATTLE BRAWLERS: MECHTANIUM SURGE,6
+BLEND S,8
+CHIO-CHAN NO TSUUGAKURO,8
+CHOUJIGEN GAME NEPTUNE THE ANIMATION,6
+CHUUNIBYOU DEMO KOI GA SHITAI!,10
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,7
+CLANNAD,9
+CLANNAD: AFTER STORY,9
+CODE GEASS: HANGYAKU NO LELOUCH,9
+COWBOY BEBOP,8
+DARLING IN THE FRANXX,1
+DEATH NOTE,8
+EROMANGA-SENSEI,4
+GABRIEL DROPOUT,9
+HIGH SCHOOL DXD,3
+ISEKAI QUARTET,7
+JOJO NO KIMYOU NA BOUKEN (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,10
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,8
+K-ON!,9
+K-ON!!,9
+KILL ME BABY,7
+KOBAYASHI-SAN CHI NO MAID DRAGON,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+KOTOURA-SAN,7
+LUCKY☆STAR,9
+MADE IN ABYSS,10
+MIKAKUNIN DE SHINKOUKEI,7
+MIRAI NIKKI,4
+MONSTER MUSUME NO IRU NICHIJOU,4
+NEON GENESIS EVANGELION,9
+NICHIJOU,10
+NO GAME NO LIFE,7
+OSHIETE! GALKO-CHAN,4
+OVERLORD,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+SAKURA-SOU NO PET NA KANOJO,9
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,9
+SUZUMIYA HARUHI NO YUUUTSU,9
+SUZUMIYA HARUHI NO YUUUTSU (2009),8
+SWORD ART ONLINE,3
+SWORD ART ONLINE II,2
+TEJINA-SENPAI,4
+TOKYO GHOUL,4
+TORADORA!,9
+UENO-SAN WA BUKIYOU,4
+YOUJO SENKI,7
+YURU YURI,8

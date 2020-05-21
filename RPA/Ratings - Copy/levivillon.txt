@@ -1,44 +1,44 @@
-﻿Amagi Brilliant Park,9
-Angel Beats!,8
-Ansatsu Kyoushitsu,8
-Ansatsu Kyoushitsu 2nd Season,7
-Ao no Exorcist,6
-Beastars,7
-Blood Lad,9
-Charlotte,7
-Cowboy Bebop,9
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,7
-Death Note,9
-Durarara!!,7
-Durarara!!x2 Ketsu,6
-Durarara!!x2 Shou,6
-Durarara!!x2 Ten,7
-Enen no Shouboutai,9
-Fruits Basket,9
-Fruits Basket 1st Season,7
-Given,7
-Haikyuu!!,8
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Hunter x Hunter (2011),9
+﻿AMAGI BRILLIANT PARK,9
+ANGEL BEATS!,8
+ANSATSU KYOUSHITSU,8
+ANSATSU KYOUSHITSU 2ND SEASON,7
+AO NO EXORCIST,6
+BEASTARS,7
+BLOOD LAD,9
+CHARLOTTE,7
+COWBOY BEBOP,9
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,7
+DEATH NOTE,9
+DURARARA!!,7
+DURARARA!!X2 KETSU,6
+DURARARA!!X2 SHOU,6
+DURARARA!!X2 TEN,7
+ENEN NO SHOUBOUTAI,8
+FRUITS BASKET,9
+FRUITS BASKET 1ST SEASON,7
+GIVEN,7
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HUNTER X HUNTER (2011),9
 K,8
-K: Return of Kings,8
-Kaichou wa Maid-sama!,7
-Kakegurui,8
-Kakegurui××,8
-Kuroshitsuji,8
-Kuroshitsuji: Book of Circus,9
-Nanatsu no Taizai,6
-No Game No Life,8
-One Punch Man,8
-Ouran Koukou Host Club,8
-Psycho-Pass,7
-Samurai Champloo,9
-Satsuriku no Tenshi,7
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,8
-Shokugeki no Souma,8
-Shokugeki no Souma: Ni no Sara,9
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),8
+K: RETURN OF KINGS,8
+KAICHOU WA MAID-SAMA!,7
+KAKEGURUI,8
+KAKEGURUI××,8
+KUROSHITSUJI,8
+KUROSHITSUJI: BOOK OF CIRCUS,9
+NANATSU NO TAIZAI,6
+NO GAME NO LIFE,8
+ONE PUNCH MAN,8
+OURAN KOUKOU HOST CLUB,8
+PSYCHO-PASS,7
+SAMURAI CHAMPLOO,9
+SATSURIKU NO TENSHI,7
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,8
+SHOKUGEKI NO SOUMA,8
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),8

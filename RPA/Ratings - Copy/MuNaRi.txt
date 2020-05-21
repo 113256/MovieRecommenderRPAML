@@ -1,107 +1,108 @@
-5-toubun no Hanayome, 9
-Aho Girl, 8
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai., 9
-Asobi Asobase, 9
-Bakemonogatari, 9
-Barakamon, 9
-Blend S, 10
-Boku dake ga Inai Machi, 9
-Boku no Hero Academia, 8
-Boku no Hero Academia 2nd Season, 8
-Boku no Hero Academia 3rd Season, 9
-Boku no Hero Academia 4th Season, 8
-Bokutachi wa Benkyou ga Dekinai, 9
-Chuunibyou demo Koi ga Shitai!, 9
-Chuunibyou demo Koi ga Shitai! Ren, 9
-D-Frag!, 9
-Danshi Koukousei no Nichijou, 9
-Death Note, 9
-Demashita! Powerpuff Girls Z, 9
-Dragon Ball Kai, 9
-Dragon Ball Kai (2014), 8
-Dragon Ball Super, 9
-Dragon Ball Z, 8
-Elfen Lied, 9
-Gekkan Shoujo Nozaki-kun, 9
-Gintama, 9
-Gintama', 9
-Gintama': Enchousen, 8
-Gintama., 8
-Gintama.: Porori-hen, 8
-Gintama.: Shirogane no Tamashii-hen, 9
-Gintama.: Shirogane no Tamashii-hen - Kouhan-sen, 9
-Gintama°, 10
-Grand Blue, 8
-Hanamonogatari, 9
-Handa-kun, 9
-Hataraku Saibou (TV), 9
-High Score Girl, 8
-Himouto! Umaru-chan, 7
-Himouto! Umaru-chan R, 8
-Hinamatsuri, 8
-Hunter x Hunter (2011), 10
-Inuyashiki, 9
-Isekai Quartet, 8
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu., 8
-K-On!, 10
-K-On!!, 10
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, 9
-Kamisama Hajimemashita, 9
-Kamisama Hajimemashita◎, 9
-Karakai Jouzu no Takagi-san, 9
-Kenja no Mago, 8
-Kimetsu no Yaiba, 9
-Kobayashi-san Chi no Maid Dragon, 9
-Kono Subarashii Sekai ni Shukufuku wo!, 8
-Kono Subarashii Sekai ni Shukufuku wo! 2, 9
-Kyoukai no Kanata, 9
-Mob Psycho 100, -
-Mob Psycho 100 II, 9
-Monogatari Series: Second Season, 10
-Nagi no Asu kara, 8
-Naruto, 9
-Naruto SD: Rock Lee no Seishun Full-Power Ninden, 8
-Naruto: Shippuuden, 9
-Nekomonogatari: Kuro, 8
-Nijiiro Days, 8
-Nisekoi, 10
-Nisekoi:, 8
-Nisemonogatari, 9
-No Game No Life, 9
-Noragami, 8
-Noragami Aragoto, 9
-One Punch Man, 10
-One Punch Man 2nd Season, 7
-Owarimonogatari, 9
-Owarimonogatari 2nd Season, 10
-Saiki Kusuo no Ψ-nan, 8
-Saiki Kusuo no Ψ-nan 2, 9
-Sakamoto Desu ga?, 8
-Sakura-sou no Pet na Kanojo, 9
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai, 9
-Senryuu Shoujo, 9
-Shingeki no Kyojin, 9
-Shingeki no Kyojin Season 2, 9
-Shingeki no Kyojin Season 3, 8
-Shingeki no Kyojin Season 3 Part 2, 9
-Shinryaku! Ika Musume, 8
-Shinryaku!? Ika Musume, 9
-Shokugeki no Souma, 9
-Shokugeki no Souma: Ni no Sara, 9
-Shokugeki no Souma: San no Sara, 8
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen, 8
-Shokugeki no Souma: Shin no Sara, 6
-Sora yori mo Tooi Basho, 9
-Sword Art Online: Alicization - War of Underworld, 9
-Toaru Kagaku no Accelerator, 7
-Toaru Kagaku no Railgun, 8
-Toaru Kagaku no Railgun S, 9
-Toaru Majutsu no Index, 8
-Toaru Majutsu no Index II, 7
-Toaru Majutsu no Index III, 6
-Tsukimonogatari, 8
-Tsurezure Children, 8
-Wotaku ni Koi wa Muzukashii, 9
-Yahari Ore no Seishun Love Comedy wa Machigatteiru., 8
-Yakusoku no Neverland, 9
-Yuru Camp△, 9
+﻿5-TOUBUN NO HANAYOME," 9"
+AHO GIRL," 8"
+ANGEL BEATS!," 9"
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.," 9"
+ASOBI ASOBASE," 9"
+BAKEMONOGATARI," 9"
+BARAKAMON," 9"
+BLEND S," 10"
+BOKU DAKE GA INAI MACHI," 9"
+BOKU NO HERO ACADEMIA," 8"
+BOKU NO HERO ACADEMIA 2ND SEASON," 8"
+BOKU NO HERO ACADEMIA 3RD SEASON," 9"
+BOKU NO HERO ACADEMIA 4TH SEASON," 8"
+BOKUTACHI WA BENKYOU GA DEKINAI," 9"
+CHUUNIBYOU DEMO KOI GA SHITAI!," 9"
+CHUUNIBYOU DEMO KOI GA SHITAI! REN," 9"
+D-FRAG!," 9"
+DANSHI KOUKOUSEI NO NICHIJOU," 9"
+DEATH NOTE," -"
+DEMASHITA! POWERPUFF GIRLS Z," 9"
+DRAGON BALL KAI," 9"
+DRAGON BALL KAI (2014)," 8"
+DRAGON BALL SUPER," 9"
+DRAGON BALL Z," 8"
+ELFEN LIED," 9"
+GEKKAN SHOUJO NOZAKI-KUN," 9"
+GINTAMA," 9"
+GINTAMA'," 9"
+GINTAMA': ENCHOUSEN," 8"
+GINTAMA.," 8"
+GINTAMA.: PORORI-HEN," 8"
+GINTAMA.: SHIROGANE NO TAMASHII-HEN," 9"
+GINTAMA.: SHIROGANE NO TAMASHII-HEN - KOUHAN-SEN," 9"
+GINTAMA°," 10"
+GRAND BLUE," 8"
+HANAMONOGATARI," 9"
+HANDA-KUN," 9"
+HATARAKU SAIBOU (TV)," 9"
+HIGH SCORE GIRL," 8"
+HIMOUTO! UMARU-CHAN," 7"
+HIMOUTO! UMARU-CHAN R," 8"
+HINAMATSURI," 8"
+HUNTER X HUNTER (2011)," 10"
+INUYASHIKI," 9"
+ISEKAI QUARTET," 8"
+ITAI NO WA IYA NANO DE BOUGYORYOKU NI KYOKUFURI SHITAI TO OMOIMASU.," 8"
+K-ON!," 10"
+K-ON!!," 10"
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN," 9"
+KAMISAMA HAJIMEMASHITA," 9"
+KAMISAMA HAJIMEMASHITA◎," 9"
+KARAKAI JOUZU NO TAKAGI-SAN," 9"
+KENJA NO MAGO," 8"
+KIMETSU NO YAIBA," 9"
+KOBAYASHI-SAN CHI NO MAID DRAGON," 9"
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!," 8"
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2," 9"
+KYOUKAI NO KANATA," 9"
+MOB PSYCHO 100," -"
+MOB PSYCHO 100 II," 9"
+MONOGATARI SERIES: SECOND SEASON," 10"
+NAGI NO ASU KARA," 8"
+NARUTO," 9"
+NARUTO SD: ROCK LEE NO SEISHUN FULL-POWER NINDEN," 8"
+NARUTO: SHIPPUUDEN," 9"
+NEKOMONOGATARI: KURO," 8"
+NIJIIRO DAYS," 8"
+NISEKOI," 10"
+NISEKOI:," 8"
+NISEMONOGATARI," 9"
+NO GAME NO LIFE," 9"
+NORAGAMI," 8"
+NORAGAMI ARAGOTO," 9"
+ONE PUNCH MAN," 10"
+ONE PUNCH MAN 2ND SEASON," 7"
+OWARIMONOGATARI," 9"
+OWARIMONOGATARI 2ND SEASON," 10"
+SAIKI KUSUO NO Ψ-NAN," 8"
+SAIKI KUSUO NO Ψ-NAN 2," 9"
+SAKAMOTO DESU GA?," 8"
+SAKURA-SOU NO PET NA KANOJO," 9"
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI," 9"
+SENRYUU SHOUJO," 9"
+SHINGEKI NO KYOJIN," 9"
+SHINGEKI NO KYOJIN SEASON 2," 9"
+SHINGEKI NO KYOJIN SEASON 3," 8"
+SHINGEKI NO KYOJIN SEASON 3 PART 2," 9"
+SHINRYAKU! IKA MUSUME," 8"
+SHINRYAKU!? IKA MUSUME," 9"
+SHOKUGEKI NO SOUMA," 9"
+SHOKUGEKI NO SOUMA: NI NO SARA," 9"
+SHOKUGEKI NO SOUMA: SAN NO SARA," 8"
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN," 8"
+SHOKUGEKI NO SOUMA: SHIN NO SARA," 6"
+SORA YORI MO TOOI BASHO," 9"
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD," 9"
+TOARU KAGAKU NO ACCELERATOR," 7"
+TOARU KAGAKU NO RAILGUN," 8"
+TOARU KAGAKU NO RAILGUN S," 9"
+TOARU MAJUTSU NO INDEX," 8"
+TOARU MAJUTSU NO INDEX II," 7"
+TOARU MAJUTSU NO INDEX III," 6"
+TSUKIMONOGATARI," 8"
+TSUREZURE CHILDREN," 8"
+WOTAKU NI KOI WA MUZUKASHII," 9"
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.," 8"
+YAKUSOKU NO NEVERLAND," 9"
+YURU CAMP△," 9"

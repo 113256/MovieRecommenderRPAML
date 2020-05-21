@@ -1,33 +1,33 @@
-﻿3-gatsu no Lion,7
-3-gatsu no Lion 2nd Season,7
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,10
-Ao no Exorcist,7
-Ao no Exorcist: Kyoto Fujouou-hen,7
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,9
-Bungou Stray Dogs,8
-Bungou Stray Dogs 2nd Season,8
-Bungou Stray Dogs 3rd Season,8
-Death Note,9
-Dr. Stone,9
-Isekai wa Smartphone to Tomo ni.,6
-Itsudatte Bokura no Koi wa 10 cm Datta.,7
-Kimetsu no Yaiba,9
-Kiseijuu: Sei no Kakuritsu,10
-Kyokou Suiri,8
-Mob Psycho 100,9
-Mob Psycho 100 II,9
-Nagi no Asu kara,10
-Overlord,8
-Overlord II,8
-Overlord III,8
-Re:Zero kara Hajimeru Isekai Seikatsu,10
-Shinsekai yori,9
-Tate no Yuusha no Nariagari,8
-Tsuki ga Kirei,9
-Tsurezure Children,7
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
-Yakusoku no Neverland,10
+﻿3-GATSU NO LION,7
+3-GATSU NO LION 2ND SEASON,7
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,10
+AO NO EXORCIST,7
+AO NO EXORCIST: KYOTO FUJOUOU-HEN,7
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,9
+BUNGOU STRAY DOGS,8
+BUNGOU STRAY DOGS 2ND SEASON,8
+BUNGOU STRAY DOGS 3RD SEASON,8
+DEATH NOTE,9
+DR. STONE,9
+ISEKAI WA SMARTPHONE TO TOMO NI.,6
+ITSUDATTE BOKURA NO KOI WA 10 CM DATTA.,7
+KIMETSU NO YAIBA,9
+KISEIJUU: SEI NO KAKURITSU,10
+KYOKOU SUIRI,8
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,9
+NAGI NO ASU KARA,10
+OVERLORD,8
+OVERLORD II,8
+OVERLORD III,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+SHINSEKAI YORI,9
+TATE NO YUUSHA NO NARIAGARI,8
+TSUKI GA KIREI,9
+TSUREZURE CHILDREN,7
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,8
+YAKUSOKU NO NEVERLAND,10

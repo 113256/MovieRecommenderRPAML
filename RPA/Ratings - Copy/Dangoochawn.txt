@@ -1,95 +1,96 @@
-﻿91 Days,6
-Akatsuki no Yona,8
-Amnesia,2
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
-Ao Haru Ride,6
-Beastars,8
-Bishoujo Senshi Sailor Moon,6
-Bishoujo Senshi Sailor Moon R,6
-Blood-C,5
-Boku dake ga Inai Machi,8
-Boku no Hero Academia,7
-Brothers Conflict,3
-Btooom!,7
-Clannad,7
-Clannad: After Story,7
-Death Note,8
-Durarara!!,7
-Durarara!!x2 Ketsu,7
-Durarara!!x2 Shou,7
-Durarara!!x2 Ten,8
-Fruits Basket,7
-Fullmetal Alchemist: Brotherhood,9
-Gangsta.,5
-Golden Time,6
-Hakuouki,5
-Hana yori Dango,6
-Hanbun no Tsuki ga Noboru Sora,6
-Hataraku Maou-sama!,7
-Hiiro no Kakera,4
-Himouto! Umaru-chan,8
-Hunter x Hunter (2011),9
-Itazura na Kiss,7
-Kaichou wa Maid-sama!,6
-Kamigami no Asobi,3
-Kamisama Hajimemashita,9
-Kamisama Hajimemashita◎,9
-Kareshi Kanojo no Jijou,8
-Kimi ni Todoke,5
-Kiseijuu: Sei no Kakuritsu,7
-Kuragehime,8
-Lovely★Complex,6
-Magi: The Labyrinth of Magic,8
-Marmalade Boy,6
-Mirai Nikki,8
-Nana,7
-Naruto,10
-Naruto: Shippuuden,10
-Nejimaki Seirei Senki: Tenkyou no Alderamin,7
-Nijiiro Days,5
-No Game No Life,8
-Nodame Cantabile,7
-One Punch Man,8
-One Punch Man 2nd Season,6
-Ookami Shoujo to Kuro Ouji,4
-Ookami to Koushinryou,7
-Ookami to Koushinryou II,8
-Orange,7
-Otome Youkai Zakuro,7
-Ouran Koukou Host Club,8
-Owari no Seraph,6
-Owari no Seraph: Nagoya Kessen-hen,6
-Paradise Kiss,6
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-ReLIFE,5
-Romeo x Juliet,7
-Sakamichi no Apollon,8
-Sankarea,7
-Seitokai Yakuindomo,5
-Senjou no Valkyria,7
-Shigatsu wa Kimi no Uso,8
-Shingeki no Kyojin,7
-Shingeki no Kyojin Season 2,9
-Shokugeki no Souma,8
-Shokugeki no Souma: Ni no Sara,7
-Shokugeki no Souma: San no Sara,7
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,5
-Shoujo Kakumei Utena,6
-Shouwa Genroku Rakugo Shinjuu,9
-Soredemo Sekai wa Utsukushii,5
-Special A,6
-Steins;Gate,9
-Sukitte Ii na yo.,6
-Sword Art Online,4
-Tasogare Otome x Amnesia,7
-Tonari no Kaibutsu-kun,6
-Toradora!,8
-Uta no☆Prince-sama♪ Maji Love 1000%,5
-Uta no☆Prince-sama♪ Maji Love 2000%,5
-Uta no☆Prince-sama♪ Maji Love Revolutions,5
-Vampire Knight,7
-Vampire Knight: Guilty,7
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,7
-Watashi ga Motete Dousunda,7
-Yuri!!! on Ice,6
-Zankyou no Terror,7
+﻿91 DAYS,6
+AKATSUKI NO YONA,8
+AMNESIA,2
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,8
+AO HARU RIDE,6
+BEASTARS,8
+BISHOUJO SENSHI SAILOR MOON,6
+BISHOUJO SENSHI SAILOR MOON R,6
+BLOOD-C,5
+BOKU DAKE GA INAI MACHI,8
+BOKU NO HERO ACADEMIA,7
+BROTHERS CONFLICT,3
+BTOOOM!,7
+CLANNAD,7
+CLANNAD: AFTER STORY,7
+DEATH NOTE,8
+DURARARA!!,7
+DURARARA!!X2 KETSU,7
+DURARARA!!X2 SHOU,7
+DURARARA!!X2 TEN,8
+FRUITS BASKET,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+GANGSTA.,5
+GOLDEN TIME,6
+HAKUOUKI,5
+HANA YORI DANGO,6
+HANBUN NO TSUKI GA NOBORU SORA,6
+HATARAKU MAOU-SAMA!,7
+HIIRO NO KAKERA,4
+HIMOUTO! UMARU-CHAN,8
+HUNTER X HUNTER (2011),9
+ITAZURA NA KISS,7
+KAICHOU WA MAID-SAMA!,6
+KAMIGAMI NO ASOBI,3
+KAMISAMA HAJIMEMASHITA,9
+KAMISAMA HAJIMEMASHITA◎,9
+KARESHI KANOJO NO JIJOU,8
+KIMI NI TODOKE,5
+KISEIJUU: SEI NO KAKURITSU,7
+KURAGEHIME,8
+LOVELY★COMPLEX,6
+MAGI: THE LABYRINTH OF MAGIC,8
+MARMALADE BOY,6
+MIRAI NIKKI,8
+NANA,7
+NARUTO,10
+NARUTO: SHIPPUUDEN,10
+NEJIMAKI SEIREI SENKI: TENKYOU NO ALDERAMIN,7
+NIJIIRO DAYS,5
+NO GAME NO LIFE,8
+NODAME CANTABILE,7
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,6
+OOKAMI SHOUJO TO KURO OUJI,4
+OOKAMI TO KOUSHINRYOU,7
+OOKAMI TO KOUSHINRYOU II,8
+ORANGE,7
+OTOME YOUKAI ZAKURO,7
+OURAN KOUKOU HOST CLUB,8
+OWARI NO SERAPH,6
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,6
+PARADISE KISS,6
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+RELIFE,5
+ROMEO X JULIET,7
+SAKAMICHI NO APOLLON,8
+SANKAREA,7
+SEITOKAI YAKUINDOMO,5
+SENJOU NO VALKYRIA,7
+SHIGATSU WA KIMI NO USO,8
+SHINGEKI NO KYOJIN,7
+SHINGEKI NO KYOJIN SEASON 2,9
+SHOKUGEKI NO SOUMA,8
+SHOKUGEKI NO SOUMA: NI NO SARA,7
+SHOKUGEKI NO SOUMA: SAN NO SARA,7
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,5
+SHOKUGEKI NO SOUMA: SHIN NO SARA,5
+SHOUJO KAKUMEI UTENA,6
+SHOUWA GENROKU RAKUGO SHINJUU,9
+SOREDEMO SEKAI WA UTSUKUSHII,5
+SPECIAL A,6
+STEINS;GATE,9
+SUKITTE II NA YO.,6
+SWORD ART ONLINE,4
+TASOGARE OTOME X AMNESIA,7
+TONARI NO KAIBUTSU-KUN,6
+TORADORA!,8
+UTA NO☆PRINCE-SAMA♪ MAJI LOVE 1000%,5
+UTA NO☆PRINCE-SAMA♪ MAJI LOVE 2000%,5
+UTA NO☆PRINCE-SAMA♪ MAJI LOVE REVOLUTIONS,5
+VAMPIRE KNIGHT,7
+VAMPIRE KNIGHT: GUILTY,7
+WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,7
+WATASHI GA MOTETE DOUSUNDA,7
+YURI!!! ON ICE,6
+ZANKYOU NO TERROR,7

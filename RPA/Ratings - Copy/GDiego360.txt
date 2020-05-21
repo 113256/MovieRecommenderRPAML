@@ -1,75 +1,76 @@
-﻿3-gatsu no Lion,8
-3-gatsu no Lion 2nd Season,9
-Air,6
-Akkun to Kanojo,8
-Angel Beats!,9
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Another,7
-Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,9
-Asobi Asobase,7
-Charlotte,8
-Chuunibyou demo Koi ga Shitai!,8
-Chuunibyou demo Koi ga Shitai! Ren,8
-Clannad,9
-Clannad: After Story,10
-Days (TV),7
-Death Note,9
-Dragon Ball Super,7
-Fuuka,6
-Gamers!,8
-Hataraku Saibou (TV),8
-Hinamatsuri,8
-Inu to Hasami wa Tsukaiyou,7
-Irozuku Sekai no Ashita kara,8
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,8
-K-On!,7
-K-On!!,8
-Kanon (2006),8
-Karakai Jouzu no Takagi-san,8
-Kobayashi-san Chi no Maid Dragon,7
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Little Busters!,7
-Little Busters!: Refrain,8
-Little Witch Academia (TV),9
-Lucky☆Star,8
-Made in Abyss,9
-Mahou Shoujo Madoka★Magica,9
-Mahou Shoujo Site,8
-Megalo Box,8
-Nanatsu no Bitoku,5
-Naruto,9
-Neon Genesis Evangelion,8
-Netoge no Yome wa Onnanoko ja Nai to Omotta?,7
-New Game!,8
-New Game!!,8
-Nichijou,8
-One Punch Man,9
-Ongaku Shoujo (TV),7
-Orange,6
-Ore no Imouto ga Konnani Kawaii Wake ga Nai,7
-Ore no Imouto ga Konnani Kawaii Wake ga Nai.,7
-Ore wo Suki nano wa Omae dake ka yo,8
-Plastic Memories,8
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-ReLIFE,9
-Rewrite,8
-Rewrite 2nd Season,8
-Rokudenashi Majutsu Koushi to Akashic Records,8
-Sakura-sou no Pet na Kanojo,7
-School Days,5
-Shigatsu wa Kimi no Uso,10
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,8
-Show By Rock!!,8
-Show By Rock!! #,8
-Slow Start,6
-Strawberry Panic,8
-Strike Witches,7
-Sword Art Online,8
-Tensei shitara Slime Datta Ken,9
-Toradora!,8
-Tsurezure Children,8
-Ueno-san wa Bukiyou,8
-Violet Evergarden,8
-Zombieland Saga,7
+﻿3-GATSU NO LION,8
+3-GATSU NO LION 2ND SEASON,9
+AIR,6
+AKKUN TO KANOJO,8
+ANGEL BEATS!,9
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+ANOTHER,7
+ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,9
+ASOBI ASOBASE,7
+CHARLOTTE,8
+CHUUNIBYOU DEMO KOI GA SHITAI!,8
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,8
+CLANNAD,9
+CLANNAD: AFTER STORY,10
+DAYS (TV),7
+DEATH NOTE,9
+DRAGON BALL SUPER,7
+FUUKA,6
+GAMERS!,8
+HATARAKU SAIBOU (TV),8
+HINAMATSURI,8
+INU TO HASAMI WA TSUKAIYOU,7
+IROZUKU SEKAI NO ASHITA KARA,8
+ISEKAI MAOU TO SHOUKAN SHOUJO NO DOREI MAJUTSU,8
+K-ON!,7
+K-ON!!,8
+KANON (2006),8
+KARAKAI JOUZU NO TAKAGI-SAN,8
+KOBAYASHI-SAN CHI NO MAID DRAGON,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+LITTLE BUSTERS!,7
+LITTLE BUSTERS!: REFRAIN,8
+LITTLE WITCH ACADEMIA (TV),9
+LUCKY☆STAR,8
+MADE IN ABYSS,9
+MAHOU SHOUJO MADOKA★MAGICA,9
+MAHOU SHOUJO SITE,8
+MEGALO BOX,8
+NANATSU NO BITOKU,5
+NARUTO,9
+NEON GENESIS EVANGELION,8
+NETOGE NO YOME WA ONNANOKO JA NAI TO OMOTTA?,7
+NEW GAME!,8
+NEW GAME!!,8
+NICHIJOU,8
+ONE PUNCH MAN,9
+ONGAKU SHOUJO (TV),7
+ORANGE,6
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI,7
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI.,7
+ORE WO SUKI NANO WA OMAE DAKE KA YO,8
+PLASTIC MEMORIES,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+RELIFE,9
+REWRITE,8
+REWRITE 2ND SEASON,8
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,8
+SAKURA-SOU NO PET NA KANOJO,7
+SCHOOL DAYS,5
+SHIGATSU WA KIMI NO USO,10
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,7
+SHINCHOU YUUSHA: KONO YUUSHA GA ORE TSUEEE KUSE NI SHINCHOU SUGIRU,8
+SHOW BY ROCK!!,8
+SHOW BY ROCK!! #,8
+SLOW START,6
+STRAWBERRY PANIC,8
+STRIKE WITCHES,7
+SWORD ART ONLINE,8
+TENSEI SHITARA SLIME DATTA KEN,9
+TORADORA!,8
+TSUREZURE CHILDREN,8
+UENO-SAN WA BUKIYOU,8
+VIOLET EVERGARDEN,8
+ZOMBIELAND SAGA,7

@@ -1,83 +1,11 @@
-﻿Angel Beats!,7
-Ansatsu Kyoushitsu,-
-Ansatsu Kyoushitsu 2nd Season,-
-B-gata H-kei,-
-Blood Lad,-
-Boku dake ga Inai Machi,-
-Boku no Hero Academia,-
-Boku no Hero Academia 2nd Season,-
-Boku no Hero Academia 3rd Season,-
-Boku wa Tomodachi ga Sukunai,-
-Boku wa Tomodachi ga Sukunai Next,-
-ChäoS;HEAd,-
-Chuunibyou demo Koi ga Shitai!,-
-Clannad,10
-Clannad: After Story,10
-Code Geass: Hangyaku no Lelouch,-
-Darling in the FranXX,-
-Death March kara Hajimaru Isekai Kyousoukyoku,-
-Death Note,7
-Domestic na Kanojo,-
-Doukyonin wa Hiza Tokidoki Atama no Ue.,7
-Dr. Stone,-
-Durarara!!,-
-Elfen Lied,7
-Fairy Tail,-
-Fruits Basket 1st Season,-
-Fullmetal Alchemist,-
-Golden Time,-
-Hataraku Maou-sama!,-
-High School DxD,-
-High School DxD BorN,-
-High School DxD Hero,-
-Ichiban Ushiro no Daimaou,-
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,-
-Isekai wa Smartphone to Tomo ni.,-
+﻿ANGEL BEATS!,7
+CLANNAD: AFTER STORY,10
+DEATH NOTE,7
+DOUKYONIN WA HIZA TOKIDOKI ATAMA NO UE.,7
+ELFEN LIED,7
 K,8
-Kakegurui,-
-Kill la Kill,-
-Kimetsu no Yaiba,-
-Kiseijuu: Sei no Kakuritsu,-
-Kono Subarashii Sekai ni Shukufuku wo!,-
-Kono Subarashii Sekai ni Shukufuku wo! 2,-
-Kuroshitsuji,-
-Little Witch Academia (TV),-
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,-
-Nanatsu no Taizai,-
-Naruto,-
-Noragami Aragoto,8
-One Punch Man,-
-One Punch Man 2nd Season,-
-Ookami to Koushinryou,10
-Ookami to Koushinryou II,10
-Overlord,-
-Overlord II,-
-Overlord III,-
-Re:Zero kara Hajimeru Isekai Seikatsu,-
-ReLIFE,-
-Sakamoto Desu ga?,-
-Shigatsu wa Kimi no Uso,-
-Shingeki no Kyojin,-
-Shingeki no Kyojin Season 2,-
-Shingeki no Kyojin Season 3,-
-Shingeki no Kyojin Season 3 Part 2,-
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,-
-Steins;Gate,-
-Steins;Gate 0,-
-Sword Art Online,-
-Sword Art Online Alternative: Gun Gale Online,-
-Sword Art Online II,-
-Sword Art Online: Alicization,-
-Sword Art Online: Alicization - War of Underworld,-
-Tengen Toppa Gurren Lagann,-
-Tensei shitara Slime Datta Ken,-
-Toaru Kagaku no Accelerator,-
-Toaru Kagaku no Railgun,-
-Toaru Kagaku no Railgun S,-
-Toaru Majutsu no Index,7
-Toaru Majutsu no Index II,-
-Tokyo Ghoul,-
-Trinity Seven,-
-Violet Evergarden,-
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,-
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,-
+NORAGAMI ARAGOTO,8
+OOKAMI TO KOUSHINRYOU,10
+OOKAMI TO KOUSHINRYOU II,10
+TOARU MAJUTSU NO INDEX,7
+TORADORA!,10

@@ -1,62 +1,45 @@
-﻿5-toubun no Hanayome,9
-Africa no Salaryman (TV),-
-Akame ga Kill!,8
-Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,10
-Beastars,10
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,-
-Dakaretai Otoko 1-i ni Odosarete Imasu.,9
-Deadman Wonderland,7
-Death Note,8
-Dr. Stone,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,-
-Gaikotsu Shotenin Honda-san,6
-Given,-
-Goblin Slayer,8
-Hacka Doll The Animation,8
-High School DxD,9
-High School DxD BorN,9
-High School DxD Hero,9
-High School DxD New,9
-Highschool of the Dead,-
-Junjou Romantica,8
-Junjou Romantica 2,-
-Junketsu no Maria,8
-Keijo!!!!!!!!,9
-Kimetsu no Yaiba,-
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,-
-Love Stage!!,9
-Mahoutsukai no Yome,10
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,9
-Nanatsu no Taizai: Kamigami no Gekirin,-
-Nanatsu no Taizai: Seisen no Shirushi,9
-Nanbaka,7
-No Game No Life,10
-Oda Cinnamon Nobunaga,-
-One Punch Man,9
-One Punch Man 2nd Season,-
-Ousama Game The Animation,-
-Re:Zero kara Hajimeru Isekai Seikatsu,-
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,7
-Shingeki no Kyojin Season 3 Part 2,-
-Sword Art Online,9
-Sword Art Online II,8
-Sword Art Online: Alicization,8
-Sword Art Online: Alicization - War of Underworld,-
-Tate no Yuusha no Nariagari,10
-Tokyo Ghoul,10
-Tokyo Ghoul √A,9
-Tokyo Ghoul:re,6
-Tokyo Ghoul:re 2nd Season,8
-Yuri!!! on Ice,10
-Zero kara Hajimeru Mahou no Sho,10
-Zombieland Saga,8
+﻿5-TOUBUN NO HANAYOME,9
+AKAME GA KILL!,8
+ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,10
+BEASTARS,10
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+DAKARETAI OTOKO 1-I NI ODOSARETE IMASU.,9
+DEADMAN WONDERLAND,7
+DEATH NOTE,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,8
+GAIKOTSU SHOTENIN HONDA-SAN,6
+GOBLIN SLAYER,8
+HACKA DOLL THE ANIMATION,8
+HIGH SCHOOL DXD,9
+HIGH SCHOOL DXD BORN,9
+HIGH SCHOOL DXD HERO,9
+HIGH SCHOOL DXD NEW,9
+JUNJOU ROMANTICA,8
+JUNKETSU NO MARIA,8
+KEIJO!!!!!!!!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+LOVE STAGE!!,9
+MAHOUTSUKAI NO YOME,10
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,9
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,9
+NANBAKA,7
+NO GAME NO LIFE,10
+ONE PUNCH MAN,9
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,7
+SWORD ART ONLINE,9
+SWORD ART ONLINE II,8
+SWORD ART ONLINE: ALICIZATION,8
+TATE NO YUUSHA NO NARIAGARI,10
+TOKYO GHOUL,10
+TOKYO GHOUL √A,9
+TOKYO GHOUL:RE,6
+TOKYO GHOUL:RE 2ND SEASON,8
+YURI!!! ON ICE,10
+ZERO KARA HAJIMERU MAHOU NO SHO,10
+ZOMBIELAND SAGA,8

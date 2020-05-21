@@ -1,30 +1,30 @@
-﻿Bakugan Battle Brawlers,-
-Banana Fish,9
-Beastars,10
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,10
-Boku no Hero Academia 4th Season,9
-Bungou Stray Dogs,9
-Bungou Stray Dogs 2nd Season,9
-Death Note,9
-Death Parade,9
-Free!,7
-Haikyuu!!,9
-Haikyuu!! Second Season,10
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Hataraku Saibou (TV),9
-Hunter x Hunter (2011),10
-Jibaku Shounen Hanako-kun,9
-Kaichou wa Maid-sama!,8
-Kakegurui,10
-Kakegurui××,7
-Kimetsu no Yaiba,10
-Nana,10
-Naruto,8
-Naruto: Shippuuden,8
-Orange,9
-Paradise Kiss,9
-Tokyo Ghoul,7
-Yakusoku no Neverland,7
-Yuri!!! on Ice,8
+﻿BANANA FISH,9
+BEASTARS,10
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+BOKU NO HERO ACADEMIA 4TH SEASON,9
+BUNGOU STRAY DOGS,9
+BUNGOU STRAY DOGS 2ND SEASON,9
+DEATH NOTE,9
+DEATH PARADE,9
+FREE!,7
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,10
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HATARAKU SAIBOU (TV),9
+HUNTER X HUNTER (2011),10
+JIBAKU SHOUNEN HANAKO-KUN,9
+KAICHOU WA MAID-SAMA!,8
+KAKEGURUI,10
+KAKEGURUI××,7
+KANATA NO ASTRA,9
+KIMETSU NO YAIBA,10
+NANA,10
+NARUTO,8
+NARUTO: SHIPPUUDEN,8
+ORANGE,9
+PARADISE KISS,9
+TOKYO GHOUL,7
+YAKUSOKU NO NEVERLAND,7
+YURI!!! ON ICE,8

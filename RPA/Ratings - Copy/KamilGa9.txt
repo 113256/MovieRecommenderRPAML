@@ -1,109 +1,102 @@
-3D Kanojo: Real Girl,8
-5-toubun no Hanayome,7
-Accel World,7
-Akame ga Kill!,8
-Angel Beats!,9
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Another,8
-Bakemonogatari,9
-Blend S,7
-Blood Lad,9
-Boku wa Tomodachi ga Sukunai,7
-Boku wa Tomodachi ga Sukunai Next,6
-Charlotte,9
-Choujigen Game Neptune The Animation,6
-Chuunibyou demo Koi ga Shitai!,-
-Dakara Boku wa H ga Dekinai.,7
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,8
-Darling in the FranXX,8
-Date A Live,8
-Date A Live II,8
-Date A Live III,8
-Death Note,9
-Death Parade,9
-Domestic na Kanojo,7
-Elfen Lied,8
-Eromanga-sensei,9
-Gabriel DropOut,8
-Goblin Slayer,9
-Guilty Crown,9
-Haitai Nanafa,6
-Happy Sugar Life,8
-Hentai Ouji to Warawanai Neko.,8
-High School DxD,8
-High School DxD BorN,9
-High School DxD Hero,8
-High School DxD New,7
-Highschool of the Dead,8
-Higurashi no Naku Koro ni,9
-Higurashi no Naku Koro ni Kai,9
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,9
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kakegurui,9
-Kakegurui××,-
-Kiseijuu: Sei no Kakuritsu,10
-Kiss x Sis (TV),8
-Kobayashi-san Chi no Maid Dragon,8
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,9
-Machine-Doll wa Kizutsukanai,9
-Mahou Shoujo Madoka★Magica,-
-Mirai Nikki,9
-Motto To LOVE-Ru,7
-Nanatsu no Taizai,10
-Nanatsu no Taizai: Imashime no Fukkatsu,10
-Nanatsu no Taizai: Seisen no Shirushi,-
-Nande Koko ni Sensei ga!?,7
-Nekomonogatari: Kuro,8
-Neon Genesis Evangelion,8
-Nisekoi,8
-Nisekoi:,8
-Nisemonogatari,8
-No Game No Life,9
-Noragami,9
-Okusama ga Seitokaichou!,7
-One Punch Man,9
-Oniichan dakedo Ai sae Areba Kankeinai yo ne!,7
-Overlord,9
-Punch Line,7
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Rokudenashi Majutsu Koushi to Akashic Records,9
-Sankarea,-
-School Days,6
-Seireitsukai no Blade Dance,7
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Shakugan no Shana,9
-Shakugan no Shana II (Second),9
-Shakugan no Shana III (Final),9
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,9
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,10
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,10
-Shinmai Maou no Testament,9
-Shinmai Maou no Testament Burst,9
-Strike Witches,8
-Suzumiya Haruhi no Yuuutsu,-
-Suzumiya Haruhi no Yuuutsu (2009),-
-Sword Art Online,9
-Sword Art Online II,9
-Sword Art Online: Alicization,8
-Tate no Yuusha no Nariagari,9
-Tejina-senpai,6
-Tengen Toppa Gurren Lagann,10
-Tensei shitara Slime Datta Ken,10
-To LOVE-Ru,7
-To LOVE-Ru Darkness,9
-To LOVE-Ru Darkness 2nd,8
-Toaru Majutsu no Index,8
-Toaru Majutsu no Index II,9
-Tokyo Ghoul,8
-Tokyo Ghoul √A,9
-Tokyo Ghoul:re,9
-Trinity Seven,8
-Violet Evergarden,10
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,9
-Yakusoku no Neverland,9
-Yamada-kun to 7-nin no Majo (TV),9
-Yosuga no Sora: In Solitude Where We Are Least Alone.,7
-Yuru Yuri,8
+﻿3D KANOJO: REAL GIRL,8
+5-TOUBUN NO HANAYOME,7
+ACCEL WORLD,7
+AKAME GA KILL!,8
+ANGEL BEATS!,9
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+ANOTHER,8
+BAKEMONOGATARI,9
+BLEND S,7
+BLOOD LAD,9
+BOKU WA TOMODACHI GA SUKUNAI,7
+BOKU WA TOMODACHI GA SUKUNAI NEXT,6
+CHARLOTTE,9
+CHOUJIGEN GAME NEPTUNE THE ANIMATION,6
+DAKARA BOKU WA H GA DEKINAI.,7
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,8
+DARLING IN THE FRANXX,8
+DATE A LIVE,8
+DATE A LIVE II,8
+DATE A LIVE III,8
+DEATH NOTE,9
+DEATH PARADE,9
+DOMESTIC NA KANOJO,7
+ELFEN LIED,8
+EROMANGA-SENSEI,9
+GABRIEL DROPOUT,8
+GOBLIN SLAYER,9
+GUILTY CROWN,9
+HAITAI NANAFA,6
+HAPPY SUGAR LIFE,8
+HENTAI OUJI TO WARAWANAI NEKO.,8
+HIGH SCHOOL DXD,8
+HIGH SCHOOL DXD BORN,9
+HIGH SCHOOL DXD HERO,8
+HIGH SCHOOL DXD NEW,7
+HIGHSCHOOL OF THE DEAD,8
+HIGURASHI NO NAKU KORO NI,9
+HIGURASHI NO NAKU KORO NI KAI,9
+ISEKAI MAOU TO SHOUKAN SHOUJO NO DOREI MAJUTSU,9
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KAKEGURUI,9
+KISEIJUU: SEI NO KAKURITSU,10
+KISS X SIS (TV),8
+KOBAYASHI-SAN CHI NO MAID DRAGON,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,9
+MACHINE-DOLL WA KIZUTSUKANAI,9
+MIRAI NIKKI,9
+MOTTO TO LOVE-RU,7
+NANATSU NO TAIZAI,10
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,10
+NANDE KOKO NI SENSEI GA!?,7
+NEKOMONOGATARI: KURO,8
+NEON GENESIS EVANGELION,8
+NISEKOI,8
+NISEKOI:,8
+NISEMONOGATARI,8
+NO GAME NO LIFE,9
+NORAGAMI,9
+OKUSAMA GA SEITOKAICHOU!,7
+ONE PUNCH MAN,9
+ONIICHAN DAKEDO AI SAE AREBA KANKEINAI YO NE!,7
+OVERLORD,9
+PUNCH LINE,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,9
+SCHOOL DAYS,6
+SEIREITSUKAI NO BLADE DANCE,7
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SHAKUGAN NO SHANA,9
+SHAKUGAN NO SHANA II (SECOND),9
+SHAKUGAN NO SHANA III (FINAL),9
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,9
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,10
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SHINMAI MAOU NO TESTAMENT,9
+SHINMAI MAOU NO TESTAMENT BURST,9
+STRIKE WITCHES,8
+SWORD ART ONLINE,9
+SWORD ART ONLINE II,9
+SWORD ART ONLINE: ALICIZATION,8
+TATE NO YUUSHA NO NARIAGARI,9
+TEJINA-SENPAI,6
+TENGEN TOPPA GURREN LAGANN,10
+TENSEI SHITARA SLIME DATTA KEN,10
+TO LOVE-RU,7
+TO LOVE-RU DARKNESS,9
+TO LOVE-RU DARKNESS 2ND,8
+TOARU MAJUTSU NO INDEX,8
+TOARU MAJUTSU NO INDEX II,9
+TOKYO GHOUL,8
+TOKYO GHOUL √A,9
+TOKYO GHOUL:RE,9
+TRINITY SEVEN,8
+VIOLET EVERGARDEN,10
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,9
+YAKUSOKU NO NEVERLAND,9
+YAMADA-KUN TO 7-NIN NO MAJO (TV),9
+YOSUGA NO SORA: IN SOLITUDE WHERE WE ARE LEAST ALONE.,7
+YURU YURI,8

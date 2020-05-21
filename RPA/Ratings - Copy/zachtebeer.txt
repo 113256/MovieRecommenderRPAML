@@ -1,25 +1,25 @@
-﻿Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,10
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,7
-Code Geass: Hangyaku no Lelouch,8
-Code Geass: Hangyaku no Lelouch R2,6
-High School DxD,9
-High School DxD BorN,9
-High School DxD Hero,8
-High School DxD New,9
-Hunter x Hunter (2011),10
-Inuyashiki,8
-Kimetsu no Yaiba,9
-Masou Gakuen HxH,7
-Mob Psycho 100,8
-Mob Psycho 100 II,8
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,8
-Nanatsu no Taizai: Seisen no Shirushi,8
-One Punch Man,8
-One Punch Man 2nd Season,8
-Shinmai Maou no Testament,8
-Shinmai Maou no Testament Burst,7
-Vinland Saga,10
+﻿ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,10
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+CODE GEASS: HANGYAKU NO LELOUCH,8
+CODE GEASS: HANGYAKU NO LELOUCH R2,6
+HIGH SCHOOL DXD,9
+HIGH SCHOOL DXD BORN,9
+HIGH SCHOOL DXD HERO,8
+HIGH SCHOOL DXD NEW,9
+HUNTER X HUNTER (2011),10
+INUYASHIKI,8
+KIMETSU NO YAIBA,9
+MASOU GAKUEN HXH,7
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,8
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,8
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,8
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,8
+SHINMAI MAOU NO TESTAMENT,8
+SHINMAI MAOU NO TESTAMENT BURST,7
+VINLAND SAGA,10

@@ -1,127 +1,129 @@
-Akame ga Kill!,8
-Amagi Brilliant Park,7
-Angel Beats!,8
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Ao no Exorcist,7
-Arcana Famiglia,6
-Arifureta Shokugyou de Sekai Saikyou,6
-Arslan Senki (TV),8
-Arslan Senki (TV): Fuujin Ranbu,7
-Baby Steps,8
-Baccano!,9
-Bakemonogatari,9
-Barakamon,10
-Beastars,8
-Black Bullet,7
-Boku dake ga Inai Machi,8
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,8
-Boku no Hero Academia 4th Season,9
-Break Blade,6
-Btooom!,8
-Bungou Stray Dogs,8
-Bungou Stray Dogs 2nd Season,7
-Bungou Stray Dogs 3rd Season,8
-Charlotte,7
-Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!,7
-Dagashi Kashi,7
-Darwin's Game,8
-Deadman Wonderland,5
-Death March kara Hajimaru Isekai Kyousoukyoku,7
-Death Parade,8
-Densetsu no Yuusha no Densetsu,6
-Divine Gate,6
-Donten ni Warau,7
-Dororo,7
-Dr. Stone,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,6
-Durarara!!,7
-Enen no Shouboutai,8
-Fairy Tail,8
-Freezing,6
-Fullmetal Alchemist,8
-Gakusen Toshi Asterisk,7
-Gangsta.,8
-Garo: Honoo no Kokuin,6
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,8
-God Eater,8
-Guilty Crown,8
-Haikyuu!!,9
-Hamatora The Animation,8
-Hitori no Shita: The Outcast,7
-Hunter x Hunter (2011),10
-Irozuku Sekai no Ashita kara,7
-Isekai Quartet,8
-Isuca,7
+﻿AKAME GA KILL!,8
+AMAGI BRILLIANT PARK,7
+ANGEL BEATS!,8
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+AO NO EXORCIST,7
+ARCANA FAMIGLIA,6
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,6
+ARSLAN SENKI (TV),8
+ARSLAN SENKI (TV): FUUJIN RANBU,7
+BABY STEPS,8
+BACCANO!,9
+BAKEMONOGATARI,9
+BARAKAMON,10
+BEASTARS,8
+BLACK BULLET,7
+BOKU DAKE GA INAI MACHI,8
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BOKU NO HERO ACADEMIA 4TH SEASON,9
+BREAK BLADE,6
+BTOOOM!,8
+BUNGOU STRAY DOGS,8
+BUNGOU STRAY DOGS 2ND SEASON,7
+BUNGOU STRAY DOGS 3RD SEASON,8
+CHARLOTTE,7
+CHOUJIN KOUKOUSEI-TACHI WA ISEKAI DEMO YOYUU DE IKINUKU YOU DESU!,7
+DAGASHI KASHI,7
+DARWIN'S GAME,8
+DEADMAN WONDERLAND,5
+DEATH MARCH KARA HAJIMARU ISEKAI KYOUSOUKYOKU,7
+DEATH PARADE,8
+DENSETSU NO YUUSHA NO DENSETSU,6
+DIVINE GATE,6
+DONTEN NI WARAU,7
+DOROHEDORO,9
+DORORO,7
+DR. STONE,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,6
+DURARARA!!,7
+ENEN NO SHOUBOUTAI,8
+FAIRY TAIL,8
+FREEZING,6
+FULLMETAL ALCHEMIST,8
+GAKUSEN TOSHI ASTERISK,7
+GANGSTA.,8
+GARO: HONOO NO KOKUIN,6
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,8
+GOD EATER,8
+GUILTY CROWN,8
+HAIKYUU!!,9
+HAMATORA THE ANIMATION,8
+HITORI NO SHITA: THE OUTCAST,7
+HUNTER X HUNTER (2011),10
+IROZUKU SEKAI NO ASHITA KARA,7
+ISEKAI QUARTET,8
+ISUCA,7
 K,7
-Kakegurui,7
-Kanata no Astra,8
-Kimetsu no Yaiba,9
-Kiznaiver,8
-Kokoro Connect,9
-Kono Oto Tomare!,9
-Kono Oto Tomare! 2nd Season,9
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Koutetsujou no Kabaneri,6
-Kujira no Kora wa Sajou ni Utau,7
-Kuroko no Basket,8
-Kuroko no Basket 2nd Season,8
-Kuusen Madoushi Kouhosei no Kyoukan,6
-Log Horizon,8
-Machine-Doll wa Kizutsukanai,6
-Madan no Ou to Vanadis,7
-Magi: The Kingdom of Magic,8
-Magi: The Labyrinth of Magic,8
-Mahouka Koukou no Rettousei,9
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,8
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Seisen no Shirushi,6
-Naruto,9
-Natsume Yuujinchou,7
-Nejimaki Seirei Senki: Tenkyou no Alderamin,8
-Nekomonogatari: Kuro,8
-Nisemonogatari,8
-No Game No Life,8
-No Guns Life,7
-Noragami,7
-One Punch Man,8
-One Punch Man 2nd Season,7
-Overlord,8
-Overlord II,7
-Overlord III,6
-Owari no Seraph,8
-Piano no Mori (TV),7
-Prison School,8
-Re:␣Hamatora,8
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Reikenzan: Hoshikuzu-tachi no Utage,7
-ReLIFE,8
-Sakamoto Desu ga?,8
-Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,8
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Shigatsu wa Kimi no Uso,10
-Shokugeki no Souma,8
-Shokugeki no Souma: Ni no Sara,8
-Shokugeki no Souma: San no Sara,8
-Sousei no Onmyouji,7
-Steins;Gate,10
-Strike the Blood,6
-Sword Art Online,8
-Sword Art Online II,7
-Sword Art Online: Alicization,8
-Sword Art Online: Alicization - War of Underworld,8
-Tate no Yuusha no Nariagari,7
-Tensei shitara Slime Datta Ken,8
-Tokyo ESP,7
-Tokyo Ravens,8
-Trinity Seven,7
-Vinland Saga,9
-Violet Evergarden,10
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,7
-Yakusoku no Neverland,10
-Yamada-kun to 7-nin no Majo (TV),8
-Youjo Senki,7
-Yozakura Quartet,6
-Zankyou no Terror,7
+KAKEGURUI,7
+KANATA NO ASTRA,8
+KIMETSU NO YAIBA,9
+KIZNAIVER,8
+KOKORO CONNECT,9
+KONO OTO TOMARE!,9
+KONO OTO TOMARE! 2ND SEASON,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KOUTETSUJOU NO KABANERI,6
+KUJIRA NO KORA WA SAJOU NI UTAU,7
+KUROKO NO BASKET,8
+KUROKO NO BASKET 2ND SEASON,8
+KUUSEN MADOUSHI KOUHOSEI NO KYOUKAN,6
+KYOKOU SUIRI,6
+LOG HORIZON,8
+MACHINE-DOLL WA KIZUTSUKANAI,6
+MADAN NO OU TO VANADIS,7
+MAGI: THE KINGDOM OF MAGIC,8
+MAGI: THE LABYRINTH OF MAGIC,8
+MAHOUKA KOUKOU NO RETTOUSEI,9
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,8
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,6
+NARUTO,9
+NATSUME YUUJINCHOU,7
+NEJIMAKI SEIREI SENKI: TENKYOU NO ALDERAMIN,8
+NEKOMONOGATARI: KURO,8
+NISEMONOGATARI,8
+NO GAME NO LIFE,8
+NO GUNS LIFE,7
+NORAGAMI,7
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,7
+OVERLORD,8
+OVERLORD II,7
+OVERLORD III,6
+OWARI NO SERAPH,8
+PIANO NO MORI (TV),7
+PRISON SCHOOL,8
+RE:␣HAMATORA,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+REIKENZAN: HOSHIKUZU-TACHI NO UTAGE,7
+RELIFE,8
+SAKAMOTO DESU GA?,8
+SAKURAKO-SAN NO ASHIMOTO NI WA SHITAI GA UMATTEIRU,8
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SHIGATSU WA KIMI NO USO,10
+SHOKUGEKI NO SOUMA,8
+SHOKUGEKI NO SOUMA: NI NO SARA,8
+SHOKUGEKI NO SOUMA: SAN NO SARA,8
+SOUSEI NO ONMYOUJI,7
+STEINS;GATE,10
+STRIKE THE BLOOD,6
+SWORD ART ONLINE,8
+SWORD ART ONLINE II,7
+SWORD ART ONLINE: ALICIZATION,8
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,8
+TATE NO YUUSHA NO NARIAGARI,7
+TENSEI SHITARA SLIME DATTA KEN,8
+TOKYO ESP,7
+TOKYO RAVENS,8
+TRINITY SEVEN,7
+VINLAND SAGA,9
+VIOLET EVERGARDEN,10
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,7
+YAKUSOKU NO NEVERLAND,10
+YAMADA-KUN TO 7-NIN NO MAJO (TV),8
+YOUJO SENKI,7
+YOZAKURA QUARTET,6
+ZANKYOU NO TERROR,7

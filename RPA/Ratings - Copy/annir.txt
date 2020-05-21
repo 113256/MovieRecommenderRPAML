@@ -1,18 +1,18 @@
-﻿Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,10
-Bungou Stray Dogs,10
-Bungou Stray Dogs 2nd Season,10
-Bungou Stray Dogs 3rd Season,10
-Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,5
-Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,10
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,7
-Given,9
-Haikyuu!!,8
-Haikyuu!! Second Season,10
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8
-Jibaku Shounen Hanako-kun,9
-Kiznaiver,9
-Mirai Nikki,7
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
-Yakusoku no Neverland,9
-Zankyou no Terror,10
+﻿ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,10
+BUNGOU STRAY DOGS,10
+BUNGOU STRAY DOGS 2ND SEASON,10
+BUNGOU STRAY DOGS 3RD SEASON,10
+DANGANRONPA 3: THE END OF KIBOUGAMINE GAKUEN - MIRAI-HEN,5
+DANGANRONPA 3: THE END OF KIBOUGAMINE GAKUEN - ZETSUBOU-HEN,10
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,7
+GIVEN,9
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,10
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,8
+JIBAKU SHOUNEN HANAKO-KUN,9
+KIZNAIVER,9
+MIRAI NIKKI,7
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,10
+YAKUSOKU NO NEVERLAND,9
+ZANKYOU NO TERROR,10

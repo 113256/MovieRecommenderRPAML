@@ -1,88 +1,91 @@
-﻿3-gatsu no Lion,8
-3-gatsu no Lion 2nd Season,10
-Afro Samurai,7
-Angel Beats!,6
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
-Assassins Pride,3
-Azur Lane,2
-Bakemonogatari,9
-Beastars,8
-Boku no Hero Academia,5
-Clannad,7
-Clannad: After Story,10
-Code Geass: Hangyaku no Lelouch,8
-Code Geass: Hangyaku no Lelouch R2,8
-Cowboy Bebop,9
-Death Note,8
-Death Parade,6
-Fate/stay night: Unlimited Blade Works,8
-Fate/stay night: Unlimited Blade Works 2nd Season,10
-Fate/Zero,8
-Fate/Zero 2nd Season,9
-Fruits Basket 1st Season,8
-Fullmetal Alchemist: Brotherhood,10
-Gintama,10
-Gintama',9
-Gintama': Enchousen,10
-Gintama.,9
-Gintama.: Porori-hen,10
-Gintama.: Shirogane no Tamashii-hen,9
-Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,10
-Gintama°,10
-Goblin Slayer,5
-Hanamonogatari,8
-High School DxD,6
-High School DxD BorN,6
-High School DxD Hero,7
-High School DxD New,7
-Himegoto,2
-Hunter x Hunter (2011),10
-Id:Invaded,8
-Isekai Quartet,7
-K-On!,6
-K-On!!,5
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kill la Kill,8
-Kimetsu no Yaiba,8
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Kujira no Kora wa Sajou ni Utau,3
-Kyokou Suiri,3
-Made in Abyss,9
-Mob Psycho 100,7
-Mob Psycho 100 II,8
-Monogatari Series: Second Season,9
-Monster Musume no Iru Nichijou,4
-Motto To LOVE-Ru,5
-Nekomonogatari: Kuro,8
-Neon Genesis Evangelion,8
-Nisemonogatari,8
-Noragami,7
-Noragami Aragoto,8
-One Punch Man,7
-Onegai☆Teacher,4
-Owarimonogatari,8
-Owarimonogatari 2nd Season,9
-Psycho-Pass,8
-Re:Zero kara Hajimeru Isekai Seikatsu,10
-Recorder to Randoseru Do♪,6
-Saiki Kusuo no Ψ-nan,8
-Saiki Kusuo no Ψ-nan 2,8
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Shigatsu wa Kimi no Uso,8
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,10
-Soul Eater,7
-Steins;Gate,10
-Suisei no Gargantia,4
-Suzumiya Haruhi no Yuuutsu,7
-Suzumiya Haruhi no Yuuutsu (2009),5
-Tengen Toppa Gurren Lagann,9
-To LOVE-Ru,6
-To LOVE-Ru Darkness,7
-To LOVE-Ru Darkness 2nd,7
-Tsukimonogatari,8
-Violet Evergarden,9
-Youjo Senki,4
+﻿3-GATSU NO LION,8
+3-GATSU NO LION 2ND SEASON,10
+AFRO SAMURAI,7
+ANGEL BEATS!,6
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,8
+ASSASSINS PRIDE,3
+AZUR LANE,2
+BAKEMONOGATARI,9
+BEASTARS,8
+BOKU NO HERO ACADEMIA,5
+CHUUNIBYOU DEMO KOI GA SHITAI!,8
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,7
+CLANNAD,7
+CLANNAD: AFTER STORY,10
+CODE GEASS: HANGYAKU NO LELOUCH,8
+CODE GEASS: HANGYAKU NO LELOUCH R2,8
+COWBOY BEBOP,9
+DEATH NOTE,8
+DEATH PARADE,6
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,10
+FATE/ZERO,8
+FATE/ZERO 2ND SEASON,9
+FRUITS BASKET 1ST SEASON,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GINTAMA,10
+GINTAMA',9
+GINTAMA': ENCHOUSEN,10
+GINTAMA.,9
+GINTAMA.: PORORI-HEN,10
+GINTAMA.: SHIROGANE NO TAMASHII-HEN,9
+GINTAMA.: SHIROGANE NO TAMASHII-HEN - KOUHAN-SEN,10
+GINTAMA°,10
+GOBLIN SLAYER,5
+HANAMONOGATARI,8
+HIGH SCHOOL DXD,6
+HIGH SCHOOL DXD BORN,6
+HIGH SCHOOL DXD HERO,7
+HIGH SCHOOL DXD NEW,7
+HIMEGOTO,2
+HUNTER X HUNTER (2011),9
+ID:INVADED,8
+ISEKAI QUARTET,7
+K-ON!,6
+K-ON!!,5
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KILL LA KILL,8
+KIMETSU NO YAIBA,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+KUJIRA NO KORA WA SAJOU NI UTAU,3
+KYOKOU SUIRI,3
+MADE IN ABYSS,9
+MAHOU SHOUJO MADOKA★MAGICA,10
+MOB PSYCHO 100,7
+MOB PSYCHO 100 II,8
+MONOGATARI SERIES: SECOND SEASON,9
+MONSTER MUSUME NO IRU NICHIJOU,4
+MOTTO TO LOVE-RU,5
+NEKOMONOGATARI: KURO,8
+NEON GENESIS EVANGELION,8
+NISEMONOGATARI,8
+NORAGAMI,7
+NORAGAMI ARAGOTO,8
+ONE PUNCH MAN,7
+ONEGAI☆TEACHER,4
+OWARIMONOGATARI,8
+OWARIMONOGATARI 2ND SEASON,9
+PSYCHO-PASS,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+RECORDER TO RANDOSERU DO♪,6
+SAIKI KUSUO NO Ψ-NAN,8
+SAIKI KUSUO NO Ψ-NAN 2,8
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SHIGATSU WA KIMI NO USO,8
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SOUL EATER,7
+STEINS;GATE,10
+SUISEI NO GARGANTIA,4
+SUZUMIYA HARUHI NO YUUUTSU,7
+SUZUMIYA HARUHI NO YUUUTSU (2009),5
+TENGEN TOPPA GURREN LAGANN,9
+TO LOVE-RU,6
+TO LOVE-RU DARKNESS,7
+TO LOVE-RU DARKNESS 2ND,7
+TSUKIMONOGATARI,8
+VIOLET EVERGARDEN,9
+YOUJO SENKI,4

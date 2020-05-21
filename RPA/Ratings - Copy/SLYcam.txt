@@ -1,68 +1,68 @@
-Absolute Duo,7
-Ao no Exorcist,8
-Ao no Exorcist: Kyoto Fujouou-hen,7
-Arifureta Shokugyou de Sekai Saikyou,8
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,10
-Btooom!,7
-Busou Shoujo Machiavellianism,7
-Darling in the FranXX,8
-Death March kara Hajimaru Isekai Kyousoukyoku,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,8
-Gakusen Toshi Asterisk,8
-Gakusen Toshi Asterisk 2nd Season,8
-Grancrest Senki,8
-Grappler Baki: Saidai Tournament-hen,8
-Gunjou no Magmell,7
-Hai to Gensou no Grimgar,7
-Hataraku Maou-sama!,8
-Hinomaruzumou,9
-Hunter x Hunter (2011),10
-Isekai Cheat Magician,6
-Kenja no Mago,8
-Kingdom,9
-Kingdom 2nd Season,9
-Kiznaiver,6
-Madan no Ou to Vanadis,8
-Magi: Sinbad no Bouken (TV),8
-Mahou Sensou,7
-Maou-sama Retry!,7
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,8
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,9
-Nanatsu no Taizai: Kamigami no Gekirin,9
-Nanatsu no Taizai: Seisen no Shirushi,8
-Nejimaki Seirei Senki: Tenkyou no Alderamin,8
-No Game No Life,8
-Oda Nobuna no Yabou,6
-One Punch Man,9
-One Punch Man 2nd Season,8
-Owari no Seraph,8
-Owari no Seraph: Nagoya Kessen-hen,8
-Rakudai Kishi no Cavalry,8
-Rokka no Yuusha,7
-Rokudenashi Majutsu Koushi to Akashic Records,7
-Shijou Saikyou no Deshi Kenichi,8
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,8
-Shokugeki no Souma,8
-Shokugeki no Souma: Ni no Sara,9
-Shokugeki no Souma: San no Sara,9
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,8
-Shokugeki no Souma: Shin no Sara,8
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,9
-Soredemo Sekai wa Utsukushii,6
-Sword Art Online,9
-Sword Art Online II,7
-Sword Art Online: Alicization,8
-Sword Art Online: Alicization - War of Underworld,8
-Tales of Zestiria the Cross,7
-Tate no Yuusha no Nariagari,8
-Tensei shitara Slime Datta Ken,9
-Tokyo Ghoul,8
-Toradora!,8
-UQ Holder!: Mahou Sensei Negima! 2,-
-Witch Craft Works,4
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),8
-Zero no Tsukaima,6
+﻿ABSOLUTE DUO,7
+AO NO EXORCIST,8
+AO NO EXORCIST: KYOTO FUJOUOU-HEN,7
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,8
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+BTOOOM!,7
+BUSOU SHOUJO MACHIAVELLIANISM,7
+CHOUJIN KOUKOUSEI-TACHI WA ISEKAI DEMO YOYUU DE IKINUKU YOU DESU!,6
+DARLING IN THE FRANXX,8
+DEATH MARCH KARA HAJIMARU ISEKAI KYOUSOUKYOKU,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,8
+GAKUSEN TOSHI ASTERISK,8
+GAKUSEN TOSHI ASTERISK 2ND SEASON,8
+GRANCREST SENKI,8
+GRAPPLER BAKI: SAIDAI TOURNAMENT-HEN,8
+GUNJOU NO MAGMELL,7
+HAI TO GENSOU NO GRIMGAR,7
+HATARAKU MAOU-SAMA!,8
+HINOMARUZUMOU,9
+HUNTER X HUNTER (2011),10
+ISEKAI CHEAT MAGICIAN,6
+KENJA NO MAGO,8
+KINGDOM,9
+KINGDOM 2ND SEASON,9
+KIZNAIVER,6
+MADAN NO OU TO VANADIS,8
+MAGI: SINBAD NO BOUKEN (TV),8
+MAHOU SENSOU,7
+MAOU-SAMA RETRY!,7
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,8
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,9
+NANATSU NO TAIZAI: KAMIGAMI NO GEKIRIN,9
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,8
+NEJIMAKI SEIREI SENKI: TENKYOU NO ALDERAMIN,8
+NO GAME NO LIFE,8
+ODA NOBUNA NO YABOU,6
+ONE PUNCH MAN,9
+ONE PUNCH MAN 2ND SEASON,8
+OWARI NO SERAPH,8
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,8
+RAKUDAI KISHI NO CAVALRY,8
+ROKKA NO YUUSHA,7
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,7
+SHIJOU SAIKYOU NO DESHI KENICHI,8
+SHINCHOU YUUSHA: KONO YUUSHA GA ORE TSUEEE KUSE NI SHINCHOU SUGIRU,8
+SHOKUGEKI NO SOUMA,8
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,8
+SHOKUGEKI NO SOUMA: SHIN NO SARA,8
+SHUUMATSU NANI SHITEMASU KA? ISOGASHII DESU KA? SUKUTTE MORATTE II DESU KA?,9
+SOREDEMO SEKAI WA UTSUKUSHII,6
+SWORD ART ONLINE,9
+SWORD ART ONLINE II,7
+SWORD ART ONLINE: ALICIZATION,8
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,8
+TALES OF ZESTIRIA THE CROSS,7
+TATE NO YUUSHA NO NARIAGARI,8
+TENSEI SHITARA SLIME DATTA KEN,9
+TOKYO GHOUL,8
+TORADORA!,8
+WITCH CRAFT WORKS,4
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),8
+ZERO NO TSUKAIMA,6

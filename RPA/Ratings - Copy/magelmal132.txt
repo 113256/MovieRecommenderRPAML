@@ -1,158 +1,158 @@
-18if,8
-Absolute Duo,7
-Accel World,8
-Ajin,7
-Ajin 2nd Season,7
-Akame ga Kill!,7
-Akikan!,7
-Aldnoah.Zero,7
-Aldnoah.Zero 2nd Season,8
-Angel Beats!,7
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,10
-Another,7
-Ansatsu Kyoushitsu,10
-Ansatsu Kyoushitsu 2nd Season,10
-Aquarion Evol,8
-Arifureta Shokugyou de Sekai Saikyou,7
-B-gata H-kei,6
-Bakemonogatari,10
-Boku dake ga Inai Machi,10
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,7
-Btooom!,7
-Bungou Stray Dogs,8
-Bungou Stray Dogs 2nd Season,9
-Bungou Stray Dogs 3rd Season,9
-Charlotte,8
-Chuunibyou demo Koi ga Shitai!,8
-Dagashi Kashi,7
-Dagashi Kashi 2,7
-Dakara Boku wa H ga Dekinai.,7
-Darling in the FranXX,6
-Date A Live,6
-Death March kara Hajimaru Isekai Kyousoukyoku,7
-Death Note,8
-Death Parade,8
-Dr. Stone,8
-Dragon Ball Super,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,9
-Durarara!!,8
-Durarara!!x2 Ketsu,10
-Durarara!!x2 Shou,10
-Durarara!!x2 Ten,10
-Elfen Lied,7
-Enen no Shouboutai,7
-Freezing,7
-Fullmetal Alchemist,-
-Fullmetal Alchemist: Brotherhood,7
-Gakusen Toshi Asterisk,6
-Gakusen Toshi Asterisk 2nd Season,7
-Gangsta.,7
-Gatchaman Crowds,7
-Gatchaman Crowds Insight,7
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,8
-Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,7
-Girls Bravo: First Season,6
-Goblin Slayer,9
-Hakata Tonkotsu Ramens,7
-Hanamonogatari,10
-High School DxD,7
-High School DxD BorN,7
-High School DxD New,7
-Highschool of the Dead,9
-Himouto! Umaru-chan,9
-Hundred,7
-Ichiban Ushiro no Daimaou,6
-Inuyashiki,9
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,8
-Itou Junji: Collection,7
-JoJo no Kimyou na Bouken (TV),8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
+﻿18IF,8
+ABSOLUTE DUO,7
+ACCEL WORLD,8
+AJIN,7
+AJIN 2ND SEASON,7
+AKAME GA KILL!,7
+AKIKAN!,7
+ALDNOAH.ZERO,7
+ALDNOAH.ZERO 2ND SEASON,8
+ANGEL BEATS!,7
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,10
+ANOTHER,7
+ANSATSU KYOUSHITSU,10
+ANSATSU KYOUSHITSU 2ND SEASON,10
+AO NO EXORCIST,7
+AQUARION EVOL,8
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,7
+B-GATA H-KEI,6
+BAKEMONOGATARI,10
+BOKU DAKE GA INAI MACHI,10
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+BTOOOM!,7
+BUNGOU STRAY DOGS,8
+BUNGOU STRAY DOGS 2ND SEASON,9
+BUNGOU STRAY DOGS 3RD SEASON,9
+CHARLOTTE,8
+CHUUNIBYOU DEMO KOI GA SHITAI!,8
+DAGASHI KASHI,7
+DAGASHI KASHI 2,7
+DAKARA BOKU WA H GA DEKINAI.,7
+DARLING IN THE FRANXX,6
+DATE A LIVE,6
+DEATH MARCH KARA HAJIMARU ISEKAI KYOUSOUKYOKU,7
+DEATH NOTE,8
+DEATH PARADE,8
+DR. STONE,8
+DRAGON BALL SUPER,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,9
+DURARARA!!,8
+DURARARA!!X2 KETSU,10
+DURARARA!!X2 SHOU,10
+DURARARA!!X2 TEN,10
+ELFEN LIED,7
+ENEN NO SHOUBOUTAI,7
+FREEZING,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,7
+GAKUSEN TOSHI ASTERISK,6
+GAKUSEN TOSHI ASTERISK 2ND SEASON,7
+GANGSTA.,7
+GATCHAMAN CROWDS,7
+GATCHAMAN CROWDS INSIGHT,7
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,8
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI 2ND SEASON,7
+GIRLS BRAVO: FIRST SEASON,6
+GOBLIN SLAYER,9
+HAKATA TONKOTSU RAMENS,7
+HANAMONOGATARI,10
+HIGH SCHOOL DXD,7
+HIGH SCHOOL DXD BORN,7
+HIGH SCHOOL DXD NEW,7
+HIGHSCHOOL OF THE DEAD,9
+HIMOUTO! UMARU-CHAN,9
+HUNDRED,7
+ICHIBAN USHIRO NO DAIMAOU,6
+INUYASHIKI,9
+ISEKAI MAOU TO SHOUKAN SHOUJO NO DOREI MAJUTSU,8
+ITOU JUNJI: COLLECTION,7
+JOJO NO KIMYOU NA BOUKEN (TV),8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,8
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,9
 K,8
-K: Return of Kings,8
-Kakegurui,10
-Keijo!!!!!!!!,6
-Kekkai Sensen,10
-Kekkai Sensen & Beyond,10
-Kill la Kill,8
-Kimetsu no Yaiba,9
-Kiseijuu: Sei no Kakuritsu,8
-Kiss x Sis (TV),8
-Kiznaiver,7
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,9
-Kore wa Zombie Desu ka?,7
-Koutetsujou no Kabaneri,8
-Kyoukai no Kanata,8
-Ladies versus Butlers!,7
-Little Witch Academia (TV),8
-Log Horizon,9
-Log Horizon 2nd Season,7
-Made in Abyss,7
-Mahoutsukai no Yome,9
-Maken-Ki!,8
-Masou Gakuen HxH,7
-Mekakucity Actors,10
-Mirai Nikki,7
-Mob Psycho 100,9
-Mob Psycho 100 II,9
-Momo Kyun Sword,9
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,8
-Monogatari Series: Second Season,10
-Monster Musume no Iru Nichijou,9
-Motto To LOVE-Ru,9
-Musaigen no Phantom World,8
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Imashime no Fukkatsu,8
-Nanatsu no Taizai: Kamigami no Gekirin,7
-Nekomonogatari: Kuro,10
-Nisemonogatari,10
-No Game No Life,10
-Noragami,7
-One Punch Man,8
-One Punch Man 2nd Season,7
-Overlord,10
-Overlord II,8
-Overlord III,10
-Owari no Seraph,7
-Owari no Seraph: Nagoya Kessen-hen,-
-Owarimonogatari,10
-Owarimonogatari 2nd Season,10
-Prison School,8
-Punch Line,8
-Re:Creators,9
-Re:Zero kara Hajimeru Isekai Seikatsu,10
-Rokudenashi Majutsu Koushi to Akashic Records,7
-Rosario to Vampire,6
-Saiki Kusuo no Ψ-nan 2,9
-Sakamoto Desu ga?,7
-Satsuriku no Tenshi,9
-Seikoku no Dragonar,9
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,8
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,-
-Shingeki no Kyojin Season 3 Part 2,8
-Shinmai Maou no Testament,6
-Sora no Otoshimono,8
-Steins;Gate,10
-Steins;Gate 0,10
-Sword Art Online,7
-Sword Art Online II,7
-Sword Art Online: Alicization,8
-Sword Art Online: Alicization - War of Underworld,8
-Taboo Tattoo,6
-Tate no Yuusha no Nariagari,9
-Tensei shitara Slime Datta Ken,7
-To LOVE-Ru,9
-To LOVE-Ru Darkness,9
-Tokyo Ghoul,7
-Tokyo Ghoul √A,-
-Trinity Seven,7
-Tsukimonogatari,10
-Vinland Saga,6
-Youjo Senki,9
-Yuragi-sou no Yuuna-san,6
+K: RETURN OF KINGS,8
+KAKEGURUI,10
+KAKEGURUI××,10
+KEIJO!!!!!!!!,6
+KEKKAI SENSEN,10
+KEKKAI SENSEN & BEYOND,10
+KILL LA KILL,8
+KIMETSU NO YAIBA,9
+KISEIJUU: SEI NO KAKURITSU,8
+KISS X SIS (TV),8
+KIZNAIVER,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,9
+KORE WA ZOMBIE DESU KA?,7
+KOUTETSUJOU NO KABANERI,8
+KYOUKAI NO KANATA,8
+LADIES VERSUS BUTLERS!,7
+LITTLE WITCH ACADEMIA (TV),8
+LOG HORIZON,9
+LOG HORIZON 2ND SEASON,7
+MADE IN ABYSS,7
+MAHOUTSUKAI NO YOME,9
+MAKEN-KI!,8
+MASOU GAKUEN HXH,7
+MEKAKUCITY ACTORS,10
+MIRAI NIKKI,7
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,9
+MOMO KYUN SWORD,9
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,8
+MONOGATARI SERIES: SECOND SEASON,10
+MONSTER MUSUME NO IRU NICHIJOU,9
+MOTTO TO LOVE-RU,9
+MUSAIGEN NO PHANTOM WORLD,8
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,8
+NANATSU NO TAIZAI: KAMIGAMI NO GEKIRIN,7
+NEKOMONOGATARI: KURO,10
+NISEMONOGATARI,10
+NO GAME NO LIFE,10
+NORAGAMI,7
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,7
+OVERLORD,10
+OVERLORD II,8
+OVERLORD III,10
+OWARI NO SERAPH,7
+OWARIMONOGATARI,10
+OWARIMONOGATARI 2ND SEASON,10
+PRISON SCHOOL,8
+PUNCH LINE,8
+RADIANT,7
+RADIANT 2ND SEASON,7
+RE:CREATORS,9
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,7
+ROSARIO TO VAMPIRE,6
+SAIKI KUSUO NO Ψ-NAN 2,9
+SAKAMOTO DESU GA?,7
+SATSURIKU NO TENSHI,9
+SEIKOKU NO DRAGONAR,9
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,8
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,8
+SHINMAI MAOU NO TESTAMENT,6
+SORA NO OTOSHIMONO,8
+STEINS;GATE,10
+STEINS;GATE 0,10
+SWORD ART ONLINE,7
+SWORD ART ONLINE II,7
+SWORD ART ONLINE: ALICIZATION,8
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,8
+TABOO TATTOO,6
+TATE NO YUUSHA NO NARIAGARI,9
+TENSEI SHITARA SLIME DATTA KEN,7
+TO LOVE-RU,9
+TO LOVE-RU DARKNESS,9
+TOKYO GHOUL,7
+TRINITY SEVEN,7
+TSUKIMONOGATARI,10
+VINLAND SAGA,6
+YOUJO SENKI,9
+YURAGI-SOU NO YUUNA-SAN,6

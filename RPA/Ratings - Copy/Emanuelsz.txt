@@ -1,5 +1,6 @@
-﻿Bleach,9
-Hajimete no Gal,9
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,10
-Naruto,9
-Tsugumomo,8
+﻿BLEACH,8
+HAJIMETE NO GAL,7
+ID:INVADED,9
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,10
+NARUTO,8
+TSUGUMOMO,7

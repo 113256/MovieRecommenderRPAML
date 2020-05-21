@@ -1,18 +1,18 @@
-﻿Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,9
-High School DxD,7
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kakegurui,7
-Kakegurui××,7
-Motto To LOVE-Ru,6
-One Punch Man,8
-One Punch Man 2nd Season,6
-Shokugeki no Souma,8
-Shokugeki no Souma: Ni no Sara,8
-Sword Art Online,9
-To LOVE-Ru,6
-To LOVE-Ru Darkness,5
-Tokyo Ghoul,8
-Tokyo Ghoul √A,8
-Tokyo Ghoul:re,8
-Toradora!,10
+﻿ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,9
+HIGH SCHOOL DXD,6
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KAKEGURUI,7
+KAKEGURUI××,7
+MOTTO TO LOVE-RU,6
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,6
+SHOKUGEKI NO SOUMA,8
+SHOKUGEKI NO SOUMA: NI NO SARA,8
+SWORD ART ONLINE,9
+TO LOVE-RU,6
+TO LOVE-RU DARKNESS,5
+TOKYO GHOUL,8
+TOKYO GHOUL √A,8
+TOKYO GHOUL:RE,8
+TORADORA!,10

@@ -1,39 +1,39 @@
-﻿Akame ga Kill!,4
-Bleach,7
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,7
-Citrus,2
-Darling in the FranXX,3
-Death Note,10
-Domestic na Kanojo,1
-Haikyuu!!,8
-Haikyuu!! Second Season,6
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8
-Hunter x Hunter (2011),10
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kiseijuu: Sei no Kakuritsu,6
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Imashime no Fukkatsu,7
-Naruto: Shippuuden,7
-One Punch Man,9
-One Punch Man 2nd Season,6
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Shigatsu wa Kimi no Uso,9
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,10
-Shokugeki no Souma,8
-Shokugeki no Souma: Ni no Sara,7
-Shokugeki no Souma: San no Sara,6
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,5
-Steins;Gate,10
-Tokyo Ghoul,8
-Tokyo Ghoul √A,6
-Tokyo Ghoul:re,5
-Tsurezure Children,8
-Violet Evergarden,9
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,9
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,10
-Yakusoku no Neverland,9
+﻿AKAME GA KILL!,4
+BLEACH,7
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+CITRUS,2
+DARLING IN THE FRANXX,3
+DEATH NOTE,10
+DOMESTIC NA KANOJO,1
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,6
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,8
+HUNTER X HUNTER (2011),10
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KISEIJUU: SEI NO KAKURITSU,6
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,7
+NARUTO: SHIPPUUDEN,7
+ONE PUNCH MAN,9
+ONE PUNCH MAN 2ND SEASON,6
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+SHIGATSU WA KIMI NO USO,9
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SHOKUGEKI NO SOUMA,8
+SHOKUGEKI NO SOUMA: NI NO SARA,7
+SHOKUGEKI NO SOUMA: SAN NO SARA,6
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,5
+STEINS;GATE,10
+TOKYO GHOUL,8
+TOKYO GHOUL √A,6
+TOKYO GHOUL:RE,5
+TSUREZURE CHILDREN,8
+VIOLET EVERGARDEN,9
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,9
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,10
+YAKUSOKU NO NEVERLAND,9

@@ -1,82 +1,85 @@
-﻿Bakemonogatari,8
-Boku no Hero Academia,6
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,7
-Boku no Hero Academia 4th Season,8
-Code Geass: Hangyaku no Lelouch,7
-Code Geass: Hangyaku no Lelouch R2,7
-Cowboy Bebop,9
-Darling in the FranXX,5
-Death Note,9
-Dororo,8
-Dr. Stone,8
-Enen no Shouboutai,6
-Fullmetal Alchemist: Brotherhood,10
-Ginga Eiyuu Densetsu: Die Neue These - Kaikou,6
-Haikyuu!!,8
-Haikyuu!! Second Season,8
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8
-Haikyuu!!: To the Top,8
-Hanamonogatari,7
-Hataraku Saibou (TV),6
-Hunter x Hunter (2011),9
-Initial D Fifth Stage,7
-Initial D Final Stage,7
-Initial D First Stage,8
-Initial D Fourth Stage,7
-Initial D Second Stage,7
-JoJo no Kimyou na Bouken (TV),8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
-K-On!,7
-K-On!!,9
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kareshi Kanojo no Jijou,8
-Kill la Kill,8
-Kimetsu no Yaiba,8
-Kiseijuu: Sei no Kakuritsu,6
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Little Witch Academia (TV),6
-Made in Abyss,8
-Megalo Box,7
-Mob Psycho 100,8
-Mob Psycho 100 II,9
-Monogatari Series: Second Season,8
-Monster,10
-Nanatsu no Taizai,6
-Nanatsu no Taizai: Imashime no Fukkatsu,5
-Naruto,7
-Naruto: Shippuuden,7
-Nekomonogatari: Kuro,7
-Neon Genesis Evangelion,10
-NHK ni Youkoso!,9
-Nisemonogatari,7
-One Punch Man,7
-One Punch Man 2nd Season,5
-Owarimonogatari,8
-Owarimonogatari 2nd Season,8
-Pokemon XY,6
-Pokemon XY&Z,7
-Poputepipikku,6
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,7
-Serial Experiments Lain,8
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,9
-Sora yori mo Tooi Basho,8
-SSSS.Gridman,6
-Steins;Gate,9
-Steins;Gate 0,8
-Suzumiya Haruhi no Yuuutsu,8
-Suzumiya Haruhi no Yuuutsu (2009),4
-Tengen Toppa Gurren Lagann,9
-Tokyo Ghoul,6
-Tsukimonogatari,7
-Vinland Saga,9
-Violet Evergarden,6
-Yakusoku no Neverland,7
-Zankyou no Terror,8
+﻿BAKEMONOGATARI,8
+BOKU NO HERO ACADEMIA,6
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+BOKU NO HERO ACADEMIA 4TH SEASON,8
+CODE GEASS: HANGYAKU NO LELOUCH,7
+CODE GEASS: HANGYAKU NO LELOUCH R2,7
+COWBOY BEBOP,9
+DARLING IN THE FRANXX,5
+DEATH NOTE,9
+DORORO,8
+DR. STONE,8
+ENEN NO SHOUBOUTAI,6
+FATE/STAY NIGHT,5
+FATE/ZERO,8
+FATE/ZERO 2ND SEASON,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GINGA EIYUU DENSETSU: DIE NEUE THESE - KAIKOU,6
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,8
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,8
+HAIKYUU!!: TO THE TOP,8
+HANAMONOGATARI,7
+HATARAKU SAIBOU (TV),6
+HUNTER X HUNTER (2011),9
+INITIAL D FIFTH STAGE,7
+INITIAL D FINAL STAGE,7
+INITIAL D FIRST STAGE,8
+INITIAL D FOURTH STAGE,7
+INITIAL D SECOND STAGE,7
+JOJO NO KIMYOU NA BOUKEN (TV),8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,8
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,9
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,8
+K-ON!,7
+K-ON!!,9
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KARESHI KANOJO NO JIJOU,8
+KILL LA KILL,8
+KIMETSU NO YAIBA,8
+KISEIJUU: SEI NO KAKURITSU,6
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+LITTLE WITCH ACADEMIA (TV),6
+MADE IN ABYSS,8
+MEGALO BOX,7
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,9
+MONOGATARI SERIES: SECOND SEASON,8
+MONSTER,10
+NANATSU NO TAIZAI,6
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,5
+NARUTO,7
+NARUTO: SHIPPUUDEN,7
+NEKOMONOGATARI: KURO,7
+NEON GENESIS EVANGELION,10
+NHK NI YOUKOSO!,9
+NISEMONOGATARI,7
+ONE PUNCH MAN,7
+ONE PUNCH MAN 2ND SEASON,5
+OWARIMONOGATARI,8
+OWARIMONOGATARI 2ND SEASON,8
+POKEMON XY,6
+POKEMON XY&Z,7
+POPUTEPIPIKKU,6
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,7
+SERIAL EXPERIMENTS LAIN,8
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SORA YORI MO TOOI BASHO,8
+SSSS.GRIDMAN,6
+STEINS;GATE,9
+STEINS;GATE 0,8
+SUZUMIYA HARUHI NO YUUUTSU,8
+SUZUMIYA HARUHI NO YUUUTSU (2009),4
+TENGEN TOPPA GURREN LAGANN,9
+TOKYO GHOUL,6
+TSUKIMONOGATARI,7
+VINLAND SAGA,9
+VIOLET EVERGARDEN,6
+YAKUSOKU NO NEVERLAND,7
+ZANKYOU NO TERROR,8

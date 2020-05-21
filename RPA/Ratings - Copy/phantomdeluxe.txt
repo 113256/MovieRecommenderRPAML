@@ -1,38 +1,38 @@
-﻿5-toubun no Hanayome,6
-Another,7
-Bakuten Shoot Beyblade,6
-Bakuten Shoot Beyblade 2002,6
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,7
-Death Note,8
-Domestic na Kanojo,5
-Dr. Stone,8
-Fate/stay night,7
-Fate/stay night: Unlimited Blade Works,8
-Fate/stay night: Unlimited Blade Works 2nd Season,8
-Fate/Zero,7
-Fate/Zero 2nd Season,7
-High School DxD,5
-High School DxD BorN,6
-Ichiban Ushiro no Daimaou,6
-JoJo no Kimyou na Bouken (TV),7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,6
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
-Kiseijuu: Sei no Kakuritsu,7
-Kokoro Connect,6
-Metal Fight Beyblade,7
-Metal Fight Beyblade 4D,7
-Nazo no Kanojo X,4
-Noragami,8
-One Punch Man,8
-One Punch Man 2nd Season,7
-Shingeki no Kyojin,7
-Steins;Gate,8
-Steins;Gate 0,8
-Tokyo Ghoul,8
-Tokyo Ghoul √A,9
-Tokyo Ghoul:re,9
-Tokyo Ghoul:re 2nd Season,9
+﻿5-TOUBUN NO HANAYOME,6
+ANOTHER,7
+BAKUTEN SHOOT BEYBLADE,6
+BAKUTEN SHOOT BEYBLADE 2002,6
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+DEATH NOTE,8
+DOMESTIC NA KANOJO,5
+DR. STONE,8
+FATE/STAY NIGHT,7
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,8
+FATE/ZERO,7
+FATE/ZERO 2ND SEASON,7
+HIGH SCHOOL DXD,5
+HIGH SCHOOL DXD BORN,6
+ICHIBAN USHIRO NO DAIMAOU,6
+JOJO NO KIMYOU NA BOUKEN (TV),7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,6
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,8
+KISEIJUU: SEI NO KAKURITSU,7
+KOKORO CONNECT,6
+METAL FIGHT BEYBLADE,7
+METAL FIGHT BEYBLADE 4D,7
+NAZO NO KANOJO X,4
+NORAGAMI,8
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,7
+SHINGEKI NO KYOJIN,7
+STEINS;GATE,8
+STEINS;GATE 0,8
+TOKYO GHOUL,8
+TOKYO GHOUL √A,9
+TOKYO GHOUL:RE,9
+TOKYO GHOUL:RE 2ND SEASON,9

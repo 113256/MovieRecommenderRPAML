@@ -1,58 +1,58 @@
-﻿Akame ga Kill!,7
-Angel Beats!,6
-Another,7
-Black Bullet,8
-Boku dake ga Inai Machi,6
-Boku no Hero Academia,6
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,7
-Clannad,8
-Clannad: After Story,8
-Deadman Wonderland,5
-Death Note,5
-Dororo,8
-Dr. Stone,6
-Fairy Tail,4
-Fairy Tail (2014),4
-Fullmetal Alchemist: Brotherhood,7
-Great Teacher Onizuka,9
-Initial D Final Stage,9
-Initial D First Stage,9
-Initial D Fourth Stage,9
-Initial D Second Stage,9
-Kimetsu no Yaiba,7
-Kiseijuu: Sei no Kakuritsu,5
-Kuroko no Basket,8
-Kuroko no Basket 2nd Season,8
-Kuroko no Basket 3rd Season,8
-Mahouka Koukou no Rettousei,4
-Masamune-kun no Revenge,4
-Megalo Box,10
-Mirai Nikki,7
-Mob Psycho 100,7
-Mob Psycho 100 II,7
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Imashime no Fukkatsu,7
-Nisekoi,6
-No Game No Life,9
-Noragami,4
-Noragami Aragoto,4
-One Punch Man,7
-One Punch Man 2nd Season,6
-Psycho-Pass,3
-Re:Zero kara Hajimeru Isekai Seikatsu,7
-Samurai Champloo,8
-School Days,1
-Shingeki no Kyojin,3
-Shokugeki no Souma,5
-Shokugeki no Souma: Ni no Sara,5
-Shokugeki no Souma: San no Sara,5
-Strike the Blood,8
-Sword Art Online,4
-Sword Art Online II,3
-Tokyo Ghoul,7
-Tokyo Ghoul √A,6
-Tonari no Kaibutsu-kun,6
-Toradora!,5
-Vinland Saga,6
-Yamada-kun to 7-nin no Majo (TV),6
+﻿AKAME GA KILL!,7
+ANGEL BEATS!,6
+ANOTHER,7
+BLACK BULLET,8
+BOKU DAKE GA INAI MACHI,6
+BOKU NO HERO ACADEMIA,6
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+CLANNAD,8
+CLANNAD: AFTER STORY,8
+DEADMAN WONDERLAND,5
+DEATH NOTE,5
+DORORO,8
+DR. STONE,6
+FAIRY TAIL,4
+FAIRY TAIL (2014),4
+FULLMETAL ALCHEMIST: BROTHERHOOD,7
+GREAT TEACHER ONIZUKA,9
+INITIAL D FINAL STAGE,9
+INITIAL D FIRST STAGE,9
+INITIAL D FOURTH STAGE,9
+INITIAL D SECOND STAGE,9
+KIMETSU NO YAIBA,7
+KISEIJUU: SEI NO KAKURITSU,5
+KUROKO NO BASKET,8
+KUROKO NO BASKET 2ND SEASON,8
+KUROKO NO BASKET 3RD SEASON,8
+MAHOUKA KOUKOU NO RETTOUSEI,4
+MASAMUNE-KUN NO REVENGE,4
+MEGALO BOX,10
+MIRAI NIKKI,7
+MOB PSYCHO 100,7
+MOB PSYCHO 100 II,7
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,7
+NISEKOI,6
+NO GAME NO LIFE,9
+NORAGAMI,4
+NORAGAMI ARAGOTO,4
+ONE PUNCH MAN,7
+ONE PUNCH MAN 2ND SEASON,6
+PSYCHO-PASS,3
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,7
+SAMURAI CHAMPLOO,8
+SCHOOL DAYS,1
+SHINGEKI NO KYOJIN,3
+SHOKUGEKI NO SOUMA,5
+SHOKUGEKI NO SOUMA: NI NO SARA,5
+SHOKUGEKI NO SOUMA: SAN NO SARA,5
+STRIKE THE BLOOD,8
+SWORD ART ONLINE,4
+SWORD ART ONLINE II,3
+TOKYO GHOUL,7
+TOKYO GHOUL √A,6
+TONARI NO KAIBUTSU-KUN,6
+TORADORA!,5
+VINLAND SAGA,6
+YAMADA-KUN TO 7-NIN NO MAJO (TV),6

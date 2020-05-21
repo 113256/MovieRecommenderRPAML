@@ -1,37 +1,14 @@
-﻿Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
-Ao Haru Ride,8
-Asobi Asobase,-
-Beastars,-
-Boku no Hero Academia,-
-Cardcaptor Sakura,7
-Cardcaptor Sakura: Clear Card-hen,7
-Clannad,8
-Clannad: After Story,-
-Enen no Shouboutai,-
-Fruits Basket 1st Season,8
-Fullmetal Alchemist,9
-Fullmetal Alchemist: Brotherhood,-
-Gakkougurashi!,8
-Gekkan Shoujo Nozaki-kun,-
-Jibaku Shounen Hanako-kun,-
-K-On!,7
-K-On!!,7
-Kamichama Karin,6
-Kimetsu no Yaiba,-
-Kono Subarashii Sekai ni Shukufuku wo!,-
-Kotoura-san,6
-Mahou Shoujo Madoka★Magica,8
-Mob Psycho 100 II,-
-Nanatsu no Taizai,-
-Nanatsu no Taizai: Imashime no Fukkatsu,-
-Nanatsu no Taizai: Seisen no Shirushi,-
-Noragami,-
-Noragami Aragoto,-
-Prison School,-
-Saiki Kusuo no Ψ-nan,-
-Tokyo Ghoul,-
-Tokyo Ghoul √A,-
-Tokyo Ghoul:re,-
-Tokyo Ghoul:re 2nd Season,-
-Youjo Senki,7
-Yuru Yuri,-
+﻿ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,8
+AO HARU RIDE,8
+CARDCAPTOR SAKURA,7
+CARDCAPTOR SAKURA: CLEAR CARD-HEN,7
+CLANNAD,8
+FRUITS BASKET 1ST SEASON,8
+FULLMETAL ALCHEMIST,9
+GAKKOUGURASHI!,8
+K-ON!,7
+K-ON!!,7
+KAMICHAMA KARIN,6
+KOTOURA-SAN,6
+MAHOU SHOUJO MADOKA★MAGICA,8
+YOUJO SENKI,7

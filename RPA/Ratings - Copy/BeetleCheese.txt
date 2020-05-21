@@ -1,34 +1,34 @@
-﻿Arifureta Shokugyou de Sekai Saikyou,10
-Asu no Yoichi!,7
-Black Bullet,7
-Boku no Hero Academia,10
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,10
-Boku no Hero Academia 4th Season,10
-Death March kara Hajimaru Isekai Kyousoukyoku,8
-Dr. Stone,10
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,7
-Goblin Slayer,10
-Isekai Cheat Magician,7
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,10
-Isekai wa Smartphone to Tomo ni.,6
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,9
-Kenja no Mago,9
-Kono Subarashii Sekai ni Shukufuku wo!,6
-Kono Subarashii Sekai ni Shukufuku wo! 2,6
-Log Horizon,8
-Log Horizon 2nd Season,9
-Maken-Ki!,9
-Maou-sama Retry!,7
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,7
-No Game No Life,9
-Rokudenashi Majutsu Koushi to Akashic Records,8
-Shingeki no Kyojin,10
-Sword Art Online,9
-Sword Art Online II,10
-Sword Art Online: Alicization,10
-Tales of Zestiria the Cross,9
-Tate no Yuusha no Nariagari,10
-Tensei shitara Slime Datta Ken,10
-Tokyo Ghoul,10
-Urara Meirochou,6
+﻿ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,10
+ASU NO YOICHI!,7
+BLACK BULLET,7
+BOKU NO HERO ACADEMIA,10
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+BOKU NO HERO ACADEMIA 4TH SEASON,10
+DEATH MARCH KARA HAJIMARU ISEKAI KYOUSOUKYOKU,8
+DR. STONE,10
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,7
+GOBLIN SLAYER,10
+ISEKAI CHEAT MAGICIAN,7
+ISEKAI MAOU TO SHOUKAN SHOUJO NO DOREI MAJUTSU,10
+ISEKAI WA SMARTPHONE TO TOMO NI.,6
+ITAI NO WA IYA NANO DE BOUGYORYOKU NI KYOKUFURI SHITAI TO OMOIMASU.,9
+KENJA NO MAGO,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,6
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,6
+LOG HORIZON,8
+LOG HORIZON 2ND SEASON,9
+MAKEN-KI!,9
+MAOU-SAMA RETRY!,7
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,7
+NO GAME NO LIFE,9
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,8
+SHINGEKI NO KYOJIN,10
+SWORD ART ONLINE,9
+SWORD ART ONLINE II,10
+SWORD ART ONLINE: ALICIZATION,10
+TALES OF ZESTIRIA THE CROSS,9
+TATE NO YUUSHA NO NARIAGARI,10
+TENSEI SHITARA SLIME DATTA KEN,10
+TOKYO GHOUL,10
+URARA MEIROCHOU,6

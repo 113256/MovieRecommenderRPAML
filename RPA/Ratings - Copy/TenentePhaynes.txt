@@ -1,25 +1,25 @@
-﻿Angel Beats!,6
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,7
-Death Note,9
-Dragon Ball Super,6
-Elfen Lied,7
-Fullmetal Alchemist: Brotherhood,10
-Hunter x Hunter (2011),10
-Inuyashiki,8
-JoJo no Kimyou na Bouken (TV),10
-Nanatsu no Taizai,5
-Neon Genesis Evangelion,9
-Shigatsu wa Kimi no Uso,6
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,8
-Shokugeki no Souma,7
-Sword Art Online,7
-Sword Art Online Alternative: Gun Gale Online,7
-Sword Art Online II,7
-Tokyo Ghoul,7
-Yakusoku no Neverland,8
-Zankyou no Terror,8
+﻿ANGEL BEATS!,6
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+DEATH NOTE,9
+DRAGON BALL SUPER,6
+ELFEN LIED,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+HUNTER X HUNTER (2011),10
+INUYASHIKI,8
+JOJO NO KIMYOU NA BOUKEN (TV),10
+NANATSU NO TAIZAI,5
+NEON GENESIS EVANGELION,9
+SHIGATSU WA KIMI NO USO,6
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,8
+SHOKUGEKI NO SOUMA,7
+SWORD ART ONLINE,7
+SWORD ART ONLINE ALTERNATIVE: GUN GALE ONLINE,7
+SWORD ART ONLINE II,7
+TOKYO GHOUL,7
+YAKUSOKU NO NEVERLAND,8
+ZANKYOU NO TERROR,8

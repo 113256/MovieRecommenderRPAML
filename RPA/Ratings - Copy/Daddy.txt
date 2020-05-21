@@ -1,125 +1,15 @@
-Angel Beats!,-
-Another,-
-Ao no Exorcist,-
-Baccano!,-
-Baka to Test to Shoukanjuu,-
-Baka to Test to Shoukanjuu Ni!,-
-Bakemonogatari,-
-Beck,-
-Beelzebub,-
-Ben-To,-
-Binbougami ga!,-
-Bishoujo Senshi Sailor Moon,10
-Black Lagoon,-
-Blade,-
-Blood Lad,-
-Boku no Hero Academia,-
-Boku wa Tomodachi ga Sukunai,-
-Brave 10,-
-Btooom!,-
-Claymore,-
-Code Geass: Hangyaku no Lelouch,-
-Code Geass: Hangyaku no Lelouch R2,-
-Danshi Koukousei no Nichijou,-
-Darker than Black: Kuro no Keiyakusha,-
-Deadman Wonderland,-
-Death Note,-
-Death Parade,10
-Dr. Stone,1
-Dragon Ball Z,-
-Durarara!!,-
-ef: A Tale of Memories.,-
-Elfen Lied,-
-Eyeshield 21,-
-Fate/Zero,-
-Fate/Zero 2nd Season,-
-Fullmetal Alchemist: Brotherhood,-
-Gankutsuou,10
-Gin no Saji,-
-Gintama,10
-Gintama',10
-Gintama': Enchousen,10
-Grappler Baki (TV),-
-Grappler Baki: Saidai Tournament-hen,-
-Guilty Crown,-
-Gyakkyou Burai Kaiji: Hakairoku-hen,1
-Gyakkyou Burai Kaiji: Ultimate Survivor,-
-Haikyuu!!,-
-Hajime no Ippo,10
-Hajime no Ippo: New Challenger,-
-Highschool of the Dead,-
-Hokuto no Ken: Raoh Gaiden Ten no Haoh,-
-Ichiban Ushiro no Daimaou,-
-Ima Soko ni Iru Boku,-
-Initial D First Stage,-
-Initial D Second Stage,-
-Ishida to Asakura,-
-Ixion Saga DT,-
-JoJo no Kimyou na Bouken (TV),-
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,-
-Jormungand,-
-Kaichou wa Maid-sama!,-
-Kami nomi zo Shiru Sekai,-
-Kami nomi zo Shiru Sekai II,-
-Kamisama no Inai Nichiyoubi,-
-Kiseijuu: Sei no Kakuritsu,-
-Kore wa Zombie Desu ka?,-
-Kore wa Zombie Desu ka? of the Dead,-
-Kuroko no Basket,-
-Kuroshitsuji,-
-Kuroshitsuji: Book of Circus,10
-Litchi DE Hikari Club,-
-Lupin the Third: Mine Fujiko to Iu Onna,-
-Magi: The Labyrinth of Magic,10
-Mahou Shoujo Madoka★Magica,-
-Mayo Chiki!,-
-Mirai Nikki,-
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,-
-Mononoke,-
-Monster,10
-Naruto,-
-Natsume Yuujinchou,-
-Natsuyuki Rendezvous,-
-Nekomonogatari: Kuro,-
-Nisemonogatari,-
-No.6,-
-Noragami,10
-One Outs,-
-One Punch Man,-
-Ouran Koukou Host Club,-
-Prison School,-
-Rainbow: Nisha Rokubou no Shichinin,10
-Recorder to Randoseru Do♪,-
-Recorder to Randoseru Re♪,-
-Sakamichi no Apollon,-
-Sakigake!! Cromartie Koukou,-
-Samurai Champloo,-
-Saraiya Goyou,-
-Sekaiichi Hatsukoi,-
-Sekaiichi Hatsukoi 2,-
-Senyuu.,-
-Senyuu. 2,-
-Servant x Service,-
-Shijou Saikyou no Deshi Kenichi,-
-Shin Tennis no Ouji-sama,-
-Shingeki no Kyojin,-
-Shirokuma Cafe,-
-SKET Dance,-
-Soul Eater,-
-Steins;Gate,1
-Sukitte Ii na yo.,-
-Sunabouzu,-
-Tonari no Kaibutsu-kun,-
-Touhai Densetsu Akagi: Yami ni Maiorita Tensai,-
-Trigun,-
-Tsuritama,-
-Uchouten Kazoku,-
-Uta no☆Prince-sama♪ Maji Love 1000%,-
-Vandread,-
-Vandread: The Second Stage,-
-Working!!,-
-Working'!!,-
-Yami Shibai,-
-Yu☆Gi☆Oh! Duel Monsters,-
-Yu☆Gi☆Oh!: Duel Monsters GX,-
-Zetman,-
+﻿BISHOUJO SENSHI SAILOR MOON,10
+DEATH PARADE,10
+DR. STONE,1
+GANKUTSUOU,10
+GINTAMA,10
+GINTAMA',10
+GINTAMA': ENCHOUSEN,10
+GYAKKYOU BURAI KAIJI: HAKAIROKU-HEN,1
+HAJIME NO IPPO,10
+KUROSHITSUJI: BOOK OF CIRCUS,10
+MAGI: THE LABYRINTH OF MAGIC,10
+MONSTER,10
+NORAGAMI,10
+RAINBOW: NISHA ROKUBOU NO SHICHININ,10
+STEINS;GATE,1

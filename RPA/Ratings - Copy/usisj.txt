@@ -1,121 +1,123 @@
-5-toubun no Hanayome,6
-Accel World,6
-Aho Girl,7
-Akame ga Kill!,8
-Animegataris,1
-Anne Happy♪,6
-Ansatsu Kyoushitsu,7
-Ansatsu Kyoushitsu 2nd Season,7
-Ao no Exorcist,2
-Arifureta Shokugyou de Sekai Saikyou,2
-Baka to Test to Shoukanjuu,6
-Baka to Test to Shoukanjuu Ni!,8
-Barakamon,9
-Big Order (TV),3
-Blend S,7
-Blood Lad,7
-Boku no Hero Academia 4th Season,6
-Bokutachi wa Benkyou ga Dekinai,7
-Bokutachi wa Benkyou ga Dekinai!,8
-Busou Shoujo Machiavellianism,5
-Charlotte,6
-Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,8
-Dance in the Vampire Bund,2
-Death Parade,8
-Dorei-ku The Animation,4
-Dr. Stone,9
-Dragon Ball Super,3
-Dumbbell Nan Kilo Moteru?,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,6
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,5
-Endro~!,4
-Eromanga-sensei,2
-Fairy Tail,5
-Fairy Tail (2014),6
-Gabriel DropOut,7
-Gamers!,6
-Gekkan Shoujo Nozaki-kun,8
-Hataraku Maou-sama!,7
-Hataraku Saibou (TV),8
-Himouto! Umaru-chan,6
-Himouto! Umaru-chan R,4
-Hitoribocchi no Marumaru Seikatsu,8
-Hunter x Hunter (2011),10
-Inu x Boku SS,6
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,5
-Isekai Quartet,6
-Isekai Quartet 2,6
-Ishuzoku Reviewers,7
-Jashin-chan Dropkick,6
-Jitsu wa Watashi wa,5
-JoJo no Kimyou na Bouken (TV),6
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
-Joukamachi no Dandelion,6
+﻿5-TOUBUN NO HANAYOME,6
+ACCEL WORLD,6
+AHO GIRL,7
+AKAME GA KILL!,8
+ANIMEGATARIS,1
+ANNE HAPPY♪,6
+ANSATSU KYOUSHITSU,7
+ANSATSU KYOUSHITSU 2ND SEASON,7
+AO NO EXORCIST,2
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,2
+BAKA TO TEST TO SHOUKANJUU,6
+BAKA TO TEST TO SHOUKANJUU NI!,8
+BARAKAMON,9
+BIG ORDER (TV),3
+BLEND S,7
+BLOOD LAD,7
+BOKU NO HERO ACADEMIA 4TH SEASON,6
+BOKUTACHI WA BENKYOU GA DEKINAI,7
+BOKUTACHI WA BENKYOU GA DEKINAI!,8
+BUSOU SHOUJO MACHIAVELLIANISM,5
+CHARLOTTE,6
+CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,8
+DANCE IN THE VAMPIRE BUND,2
+DEATH PARADE,8
+DOREI-KU THE ANIMATION,4
+DR. STONE,9
+DRAGON BALL SUPER,3
+DUMBBELL NAN KILO MOTERU?,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,6
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,5
+ENDRO~!,4
+EROMANGA-SENSEI,2
+FAIRY TAIL,5
+FAIRY TAIL (2014),6
+GABRIEL DROPOUT,7
+GAMERS!,6
+GEKKAN SHOUJO NOZAKI-KUN,8
+HATARAKU MAOU-SAMA!,7
+HATARAKU SAIBOU (TV),8
+HIMOUTO! UMARU-CHAN,6
+HIMOUTO! UMARU-CHAN R,4
+HITORIBOCCHI NO MARUMARU SEIKATSU,8
+HUNTER X HUNTER (2011),10
+INU X BOKU SS,5
+ISEKAI MAOU TO SHOUKAN SHOUJO NO DOREI MAJUTSU,5
+ISEKAI QUARTET,6
+ISEKAI QUARTET 2,6
+ISHUZOKU REVIEWERS,7
+JASHIN-CHAN DROPKICK,6
+JITSU WA WATASHI WA,5
+JOJO NO KIMYOU NA BOUKEN (TV),7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,9
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,8
+JOUKAMACHI NO DANDELION,6
 K,6
-K-On!,7
-K-On!!,8
-K: Return of Kings,7
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kill la Kill,7
-Kimetsu no Yaiba,8
-Kobayashi-san Chi no Maid Dragon,8
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,7
-Magi: Sinbad no Bouken (TV),9
-Magi: The Kingdom of Magic,10
-Magi: The Labyrinth of Magic,8
-Mairimashita! Iruma-kun,8
-Maou-sama Retry!,4
-Medaka Box,6
-Medaka Box Abnormal,6
-Murenase! Seton Gakuen,8
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Imashime no Fukkatsu,6
-Nanbaka,7
-New Game!,8
-New Game!!,8
-No Game No Life,8
-Noragami,7
-Noragami Aragoto,8
-One Punch Man,9
-One Punch Man 2nd Season,6
-Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,5
-Owari no Seraph,6
-Prison School,5
-Renai Boukun,6
-Saiki Kusuo no Ψ-nan,7
-Saiki Kusuo no Ψ-nan 2,8
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,8
-Shokugeki no Souma,7
-Shokugeki no Souma: Ni no Sara,6
-Shokugeki no Souma: San no Sara,5
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,4
-Sounan Desu ka?,5
-Sword Art Online,4
-Sword Art Online Alternative: Gun Gale Online,6
-Sword Art Online II,3
-Tate no Yuusha no Nariagari,7
-Tejina-senpai,5
-Tensei shitara Slime Datta Ken,8
-Toradora!,8
-Toriko,6
-Trinity Seven,5
-Tsurezure Children,7
-Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?,5
-Ueno-san wa Bukiyou,4
-Working!!,6
-Working!!!,6
-Working'!!,6
-Wotaku ni Koi wa Muzukashii,8
-WWW.Working!!,7
-Yamada-kun to 7-nin no Majo (TV),7
-Yu☆Gi☆Oh! Arc-V,4
-Yu☆Gi☆Oh! Zexal,6
-Zero no Tsukaima,5
-Zero no Tsukaima F,5
-Zero no Tsukaima: Futatsuki no Kishi,6
-Zero no Tsukaima: Princesses no Rondo,4
-Zombieland Saga,7
+K-ON!,7
+K-ON!!,8
+K: RETURN OF KINGS,7
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KILL LA KILL,7
+KIMETSU NO YAIBA,8
+KOBAYASHI-SAN CHI NO MAID DRAGON,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,7
+MAGI: SINBAD NO BOUKEN (TV),9
+MAGI: THE KINGDOM OF MAGIC,10
+MAGI: THE LABYRINTH OF MAGIC,8
+MAIRIMASHITA! IRUMA-KUN,8
+MAOU-SAMA RETRY!,4
+MEDAKA BOX,6
+MEDAKA BOX ABNORMAL,6
+MURENASE! SETON GAKUEN,8
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,6
+NANBAKA,7
+NEW GAME!,8
+NEW GAME!!,8
+NO GAME NO LIFE,8
+NORAGAMI,7
+NORAGAMI ARAGOTO,8
+ONE PUNCH MAN,9
+ONE PUNCH MAN 2ND SEASON,6
+ORE NO NOUNAI SENTAKUSHI GA GAKUEN LOVE COMEDY WO ZENRYOKU DE JAMA SHITEIRU,5
+OWARI NO SERAPH,6
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,5
+PRISON SCHOOL,5
+RENAI BOUKUN,6
+SAIKI KUSUO NO Ψ-NAN,7
+SAIKI KUSUO NO Ψ-NAN 2,8
+SHINCHOU YUUSHA: KONO YUUSHA GA ORE TSUEEE KUSE NI SHINCHOU SUGIRU,8
+SHOKUGEKI NO SOUMA,7
+SHOKUGEKI NO SOUMA: NI NO SARA,6
+SHOKUGEKI NO SOUMA: SAN NO SARA,5
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,4
+SOUNAN DESU KA?,5
+SWORD ART ONLINE,4
+SWORD ART ONLINE ALTERNATIVE: GUN GALE ONLINE,6
+SWORD ART ONLINE II,3
+TATE NO YUUSHA NO NARIAGARI,7
+TEJINA-SENPAI,5
+TENSEI SHITARA SLIME DATTA KEN,8
+TORADORA!,8
+TORIKO,6
+TRINITY SEVEN,5
+TSUREZURE CHILDREN,7
+TSUUJOU KOUGEKI GA ZENTAI KOUGEKI DE NI-KAI KOUGEKI NO OKAASAN WA SUKI DESU KA?,5
+UENO-SAN WA BUKIYOU,4
+WORKING!!,6
+WORKING!!!,6
+WORKING'!!,6
+WOTAKU NI KOI WA MUZUKASHII,8
+WWW.WORKING!!,7
+YAMADA-KUN TO 7-NIN NO MAJO (TV),7
+YU☆GI☆OH! ARC-V,4
+YU☆GI☆OH! ZEXAL,5
+YU☆GI☆OH! ZEXAL SECOND,8
+ZERO NO TSUKAIMA,5
+ZERO NO TSUKAIMA F,5
+ZERO NO TSUKAIMA: FUTATSUKI NO KISHI,6
+ZERO NO TSUKAIMA: PRINCESSES NO RONDO,4
+ZOMBIELAND SAGA,7

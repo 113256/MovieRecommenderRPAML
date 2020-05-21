@@ -1,159 +1,134 @@
-5-toubun no Hanayome,6
-Acchi Kocchi (TV),9
-Angel Beats!,7
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,7
-Ao no Exorcist,6
-Ao no Exorcist: Kyoto Fujouou-hen,-
-Arakawa Under the Bridge,6
-Bakemonogatari,10
-Blend S,6
-Boku dake ga Inai Machi,5
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,-
-Boku wa Tomodachi ga Sukunai,8
-Boku wa Tomodachi ga Sukunai Next,-
-Bokutachi wa Benkyou ga Dekinai,-
-Bokutachi wa Benkyou ga Dekinai!,7
-Charlotte,9
-Chuunibyou demo Koi ga Shitai!,8
-Chuunibyou demo Koi ga Shitai! Ren,6
-Clannad,8
-Clannad: After Story,10
-Darling in the FranXX,7
-Date A Live,6
-Date A Live II,6
-Date A Live III,-
-Death March kara Hajimaru Isekai Kyousoukyoku,8
-Domestic na Kanojo,4
-Dragon Ball,9
-Dragon Ball Kai,9
-Dragon Ball Super,5
-Eromanga-sensei,7
-Fullmetal Alchemist: Brotherhood,9
-Gabriel DropOut,8
-Girlfriend (Kari),5
-Hajimete no Gal,5
-Hataraku Maou-sama!,8
-Hataraku Saibou (TV),-
-Higurashi no Naku Koro ni,9
-Higurashi no Naku Koro ni Kai,-
-Hinamatsuri,7
-Imouto sae Ireba Ii.,9
-Irozuku Sekai no Ashita kara,7
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,6
-Isekai Quartet,8
-Island,6
-Jitsu wa Watashi wa,8
-JoJo no Kimyou na Bouken (TV),7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,6
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,7
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
-Joshikousei no Mudazukai,7
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kannagi,6
-Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?,6
-Kenja no Mago,4
-Kimetsu no Yaiba,6
-Kodomo no Jikan (TV),5
-Koi to Uso,6
-Kono Subarashii Sekai ni Shukufuku wo!,-
-Kono Subarashii Sekai ni Shukufuku wo! 2,7
-Kyoukai no Kanata,9
-Log Horizon,8
-Love Lab,6
-Love Live! School Idol Project,7
-Love Live! School Idol Project 2nd Season,7
-Made in Abyss,9
-Mahou Shoujo Madoka★Magica,8
-Mahou Shoujo Site,6
-Mirai Nikki,8
-Mitsuboshi Colors,7
-Mob Psycho 100,8
-Mob Psycho 100 II,9
-Murenase! Seton Gakuen,6
-Mushishi,9
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Imashime no Fukkatsu,6
-Nanatsu no Taizai: Seisen no Shirushi,-
-Naruto,9
-Naruto: Shippuuden,10
-Nekomonogatari: Kuro,7
-Netoge no Yome wa Onnanoko ja Nai to Omotta?,4
-New Game!,8
-New Game!!,-
-NHK ni Youkoso!,7
-Nichijou,8
-Nisekoi,9
-Nisekoi:,-
-Nisemonogatari,9
-No Game No Life,9
-Noragami,9
-Noragami Aragoto,6
-Okusama ga Seitokaichou!,7
-Okusama ga Seitokaichou!+!,-
-Oneechan ga Kita,4
-Oniichan dakedo Ai sae Areba Kankeinai yo ne!,4
-Ookami to Koushinryou,7
-Ookami to Koushinryou II,6
-Ore no Imouto ga Konnani Kawaii Wake ga Nai,9
-Ore no Imouto ga Konnani Kawaii Wake ga Nai.,-
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,8
-Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,8
-Ore wo Suki nano wa Omae dake ka yo,6
-Pokemon Best Wishes!,-
-Pokemon Best Wishes! Season 2,-
-Pokemon Best Wishes! Season 2: Decolora Adventure,-
-Pokemon Best Wishes! Season 2: Episode N,-
-Pokemon Diamond & Pearl,-
-Pokemon XY,-
-Pokemon XY&Z,-
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Renai Boukun,6
-Rokudenashi Majutsu Koushi to Akashic Records,-
-Saenai Heroine no Sodatekata,9
-Saenai Heroine no Sodatekata ♭,6
-Sakura-sou no Pet na Kanojo,9
-Sankarea,6
-School Days,6
-Seiren,5
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Seitokai Yakuindomo,9
-Seitokai Yakuindomo*,-
-Sewayaki Kitsune no Senko-san,6
-Shigatsu wa Kimi no Uso,3
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,8
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,-
-Shinryaku! Ika Musume,6
-Shirobako,9
-Shokugeki no Souma,-
-Shokugeki no Souma: Ni no Sara,-
-Shokugeki no Souma: San no Sara,8
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,6
-Shokugeki no Souma: Shin no Sara,5
-Sousei no Onmyouji,9
-SSSS.Gridman,7
-Steins;Gate,9
-Steins;Gate 0,8
-Sword Art Online,6
-Sword Art Online II,5
-Tejina-senpai,6
-Tokyo Ghoul,6
-Tokyo Ghoul √A,6
-Tokyo Ghoul:re,5
-Tokyo Ghoul:re 2nd Season,4
-Toradora!,9
-Trinity Seven,7
-Tsurezure Children,9
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,9
-Watashi ga Motete Dousunda,5
-Working!!,7
-Working!!!,7
-Working'!!,-
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,7
-Yakusoku no Neverland,7
-Yamada-kun to 7-nin no Majo (TV),7
-Yosuga no Sora: In Solitude Where We Are Least Alone.,8
-Yowamushi Pedal,7
-Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.,8
+﻿5-TOUBUN NO HANAYOME,6
+ACCHI KOCCHI (TV),9
+ANGEL BEATS!,7
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,7
+AO NO EXORCIST,6
+ARAKAWA UNDER THE BRIDGE,6
+BAKEMONOGATARI,10
+BLEND S,6
+BOKU DAKE GA INAI MACHI,5
+BOKU NO HERO ACADEMIA,8
+BOKU WA TOMODACHI GA SUKUNAI,8
+BOKUTACHI WA BENKYOU GA DEKINAI!,7
+CHARLOTTE,9
+CHUUNIBYOU DEMO KOI GA SHITAI!,8
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,6
+CLANNAD,8
+CLANNAD: AFTER STORY,10
+DARLING IN THE FRANXX,7
+DATE A LIVE,6
+DATE A LIVE II,6
+DEATH MARCH KARA HAJIMARU ISEKAI KYOUSOUKYOKU,8
+DOMESTIC NA KANOJO,4
+DRAGON BALL,9
+DRAGON BALL KAI,9
+DRAGON BALL SUPER,5
+EROMANGA-SENSEI,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+GABRIEL DROPOUT,8
+GIRLFRIEND (KARI),5
+HAJIMETE NO GAL,5
+HATARAKU MAOU-SAMA!,8
+HIGURASHI NO NAKU KORO NI,9
+HINAMATSURI,7
+IMOUTO SAE IREBA II.,9
+INOU-BATTLE WA NICHIJOU-KEI NO NAKA DE,7
+IROZUKU SEKAI NO ASHITA KARA,7
+ISEKAI MAOU TO SHOUKAN SHOUJO NO DOREI MAJUTSU,6
+ISEKAI QUARTET,8
+ISLAND,6
+JITSU WA WATASHI WA,8
+JOJO NO KIMYOU NA BOUKEN (TV),7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,6
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,7
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,9
+JOSHIKOUSEI NO MUDAZUKAI,7
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KANNAGI,6
+KAWAIKEREBA HENTAI DEMO SUKI NI NATTE KUREMASU KA?,6
+KENJA NO MAGO,4
+KIMETSU NO YAIBA,6
+KODOMO NO JIKAN (TV),5
+KOI TO USO,6
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,7
+KYOUKAI NO KANATA,9
+LOG HORIZON,8
+LOVE LAB,6
+LOVE LIVE! SCHOOL IDOL PROJECT,7
+LOVE LIVE! SCHOOL IDOL PROJECT 2ND SEASON,7
+MADE IN ABYSS,9
+MAHOU SHOUJO MADOKA★MAGICA,8
+MAHOU SHOUJO SITE,6
+MIRAI NIKKI,8
+MITSUBOSHI COLORS,7
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,9
+MURENASE! SETON GAKUEN,6
+MUSHISHI,9
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,6
+NARUTO,9
+NARUTO: SHIPPUUDEN,10
+NEKOMONOGATARI: KURO,7
+NETOGE NO YOME WA ONNANOKO JA NAI TO OMOTTA?,4
+NEW GAME!,8
+NHK NI YOUKOSO!,7
+NICHIJOU,8
+NISEKOI,9
+NISEMONOGATARI,9
+NO GAME NO LIFE,9
+NORAGAMI,9
+NORAGAMI ARAGOTO,6
+OKUSAMA GA SEITOKAICHOU!,7
+ONEECHAN GA KITA,4
+ONIICHAN DAKEDO AI SAE AREBA KANKEINAI YO NE!,4
+OOKAMI TO KOUSHINRYOU,7
+OOKAMI TO KOUSHINRYOU II,6
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI,9
+ORE NO KANOJO TO OSANANAJIMI GA SHURABA SUGIRU,8
+ORE NO NOUNAI SENTAKUSHI GA GAKUEN LOVE COMEDY WO ZENRYOKU DE JAMA SHITEIRU,8
+ORE WO SUKI NANO WA OMAE DAKE KA YO,6
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+RENAI BOUKUN,6
+SAENAI HEROINE NO SODATEKATA,9
+SAENAI HEROINE NO SODATEKATA ♭,6
+SAKURA-SOU NO PET NA KANOJO,9
+SANKAREA,6
+SCHOOL DAYS,6
+SEIREN,5
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SEITOKAI YAKUINDOMO,9
+SEWAYAKI KITSUNE NO SENKO-SAN,6
+SHIGATSU WA KIMI NO USO,3
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,8
+SHINGEKI NO KYOJIN,9
+SHINRYAKU! IKA MUSUME,6
+SHIROBAKO,9
+SHOKUGEKI NO SOUMA: SAN NO SARA,8
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,6
+SHOKUGEKI NO SOUMA: SHIN NO SARA,5
+SOUSEI NO ONMYOUJI,9
+SSSS.GRIDMAN,7
+STEINS;GATE,9
+STEINS;GATE 0,8
+SWORD ART ONLINE,6
+SWORD ART ONLINE II,5
+TEJINA-SENPAI,6
+TOKYO GHOUL,6
+TOKYO GHOUL √A,6
+TOKYO GHOUL:RE,5
+TOKYO GHOUL:RE 2ND SEASON,4
+TORADORA!,9
+TRINITY SEVEN,7
+TSUREZURE CHILDREN,9
+WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,9
+WATASHI GA MOTETE DOUSUNDA,5
+WORKING!!,7
+WORKING!!!,7
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,7
+YAKUSOKU NO NEVERLAND,7
+YAMADA-KUN TO 7-NIN NO MAJO (TV),7
+YOSUGA NO SORA: IN SOLITUDE WHERE WE ARE LEAST ALONE.,8
+YOWAMUSHI PEDAL,7
+YUUSHA NI NARENAKATTA ORE WA SHIBUSHIBU SHUUSHOKU WO KETSUI SHIMASHITA.,8

@@ -1,83 +1,81 @@
-﻿5-toubun no Hanayome,5
-Akame ga Kill!,7
-Angel Beats!,7
-Another,4
-Asobi Asobase,10
-Baccano!,10
-Black★Rock Shooter (TV),10
-Blood Lad,8
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,8
-Boku wa Tomodachi ga Sukunai,10
-Boku wa Tomodachi ga Sukunai Next,10
-Bungou Stray Dogs,7
-Busou Shoujo Machiavellianism,8
-Chuunibyou demo Koi ga Shitai!,10
-Claymore,10
-Code Geass: Hangyaku no Lelouch,10
-Code Geass: Hangyaku no Lelouch R2,10
-D-Frag!,7
-Daitoshokan no Hitsujikai,8
-Death Parade,10
-Demi-chan wa Kataritai,8
-Dragon Ball Super,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
-Fullmetal Alchemist: Brotherhood,10
-Gabriel DropOut,8
-Goblin Slayer,10
-Guilty Crown,6
-Hataraku Maou-sama!,7
-Hinamatsuri,10
-Houseki no Kuni (TV),10
-Ichiban Ushiro no Daimaou,7
-IS: Infinite Stratos,5
-IS: Infinite Stratos 2,5
+﻿5-TOUBUN NO HANAYOME,5
+AKAME GA KILL!,7
+ANGEL BEATS!,7
+ANOTHER,4
+ASOBI ASOBASE,10
+BACCANO!,10
+BLACK★ROCK SHOOTER (TV),10
+BLOOD LAD,8
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BOKU WA TOMODACHI GA SUKUNAI,10
+BOKU WA TOMODACHI GA SUKUNAI NEXT,10
+BUNGOU STRAY DOGS,7
+BUSOU SHOUJO MACHIAVELLIANISM,8
+CHUUNIBYOU DEMO KOI GA SHITAI!,10
+CLAYMORE,10
+CODE GEASS: HANGYAKU NO LELOUCH,10
+CODE GEASS: HANGYAKU NO LELOUCH R2,10
+D-FRAG!,7
+DAITOSHOKAN NO HITSUJIKAI,8
+DEATH PARADE,10
+DEMI-CHAN WA KATARITAI,8
+DRAGON BALL SUPER,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GABRIEL DROPOUT,8
+GOBLIN SLAYER,10
+GUILTY CROWN,6
+HATARAKU MAOU-SAMA!,7
+HINAMATSURI,10
+HOUSEKI NO KUNI (TV),10
+ICHIBAN USHIRO NO DAIMAOU,7
+IS: INFINITE STRATOS,5
+IS: INFINITE STRATOS 2,5
 K,6
-K: Return of Kings,5
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kami nomi zo Shiru Sekai,8
-Kami nomi zo Shiru Sekai II,7
-Kami nomi zo Shiru Sekai: Megami-hen,9
-Kill la Kill,10
-Kiseijuu: Sei no Kakuritsu,10
-Kobayashi-san Chi no Maid Dragon,9
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kyokou Suiri,8
-Kyoukai no Kanata,8
-Mahou Shoujo Madoka★Magica,10
-Mahouka Koukou no Rettousei,6
-Masamune-kun no Revenge,2
-Musaigen no Phantom World,6
-Nanatsu no Taizai,9
-Nejimaki Seirei Senki: Tenkyou no Alderamin,7
-Neon Genesis Evangelion,10
-Nichijou,10
-Nisekoi,7
-Nisekoi:,8
-No Game No Life,10
-One Punch Man,9
-Overlord,10
-Overlord II,10
-Overlord III,10
-Prison School,10
-Psycho-Pass,10
-Psycho-Pass 2,10
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,9
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,10
-Shingeki no Kyojin Season 3,10
-Shingeki no Kyojin Season 3 Part 2,9
-Shinmai Maou no Testament,8
-Shokugeki no Souma,8
-Tokyo Ghoul,7
-Tokyo Ghoul √A,8
-Tonari no Kaibutsu-kun,9
-Toradora!,10
-Uchuu Patrol Luluco,9
-Yagate Kimi ni Naru,10
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,-
-Youjo Senki,10
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),6
-Yuru Yuri,9
-Yuru Yuri♪♪,-
+K: RETURN OF KINGS,5
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KAMI NOMI ZO SHIRU SEKAI,8
+KAMI NOMI ZO SHIRU SEKAI II,7
+KAMI NOMI ZO SHIRU SEKAI: MEGAMI-HEN,9
+KILL LA KILL,10
+KISEIJUU: SEI NO KAKURITSU,10
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KYOKOU SUIRI,8
+KYOUKAI NO KANATA,8
+MAHOU SHOUJO MADOKA★MAGICA,10
+MAHOUKA KOUKOU NO RETTOUSEI,6
+MASAMUNE-KUN NO REVENGE,2
+MUSAIGEN NO PHANTOM WORLD,6
+NANATSU NO TAIZAI,9
+NEJIMAKI SEIREI SENKI: TENKYOU NO ALDERAMIN,7
+NEON GENESIS EVANGELION,10
+NICHIJOU,10
+NISEKOI,7
+NISEKOI:,8
+NO GAME NO LIFE,10
+ONE PUNCH MAN,9
+OVERLORD,10
+OVERLORD II,10
+OVERLORD III,10
+PRISON SCHOOL,10
+PSYCHO-PASS,10
+PSYCHO-PASS 2,10
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,9
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,10
+SHINGEKI NO KYOJIN SEASON 3,10
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SHINMAI MAOU NO TESTAMENT,8
+SHOKUGEKI NO SOUMA,8
+TOKYO GHOUL,7
+TOKYO GHOUL √A,8
+TONARI NO KAIBUTSU-KUN,9
+TORADORA!,10
+UCHUU PATROL LULUCO,9
+YAGATE KIMI NI NARU,10
+YOUJO SENKI,10
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),6
+YURU YURI,9

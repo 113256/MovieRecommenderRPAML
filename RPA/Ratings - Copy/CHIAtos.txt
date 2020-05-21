@@ -1,59 +1,60 @@
-﻿Air Gear,7
-Asu no Yoichi!,6
-B-gata H-kei,7
-Back Street Girls: Gokudolls,7
-Baka to Test to Shoukanjuu,9
-Baka to Test to Shoukanjuu Ni!,8
-Bamboo Blade,7
-Blend S,9
-Chu-Bra!!,6
-Code Geass: Hangyaku no Lelouch,10
-Code Geass: Hangyaku no Lelouch R2,9
-Danshi Koukousei no Nichijou,10
-Darker than Black: Kuro no Keiyakusha,10
-Darker than Black: Ryuusei no Gemini,6
-Darwin's Game,7
-Devil May Cry,7
-Domestic na Kanojo,9
-Dragon Ball Z,7
-Eromanga-sensei,7
-Himegoto,8
-Ichiban Ushiro no Daimaou,7
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,7
-K-On!,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kämpfer,7
-Kimetsu no Yaiba,9
-Kono Minikuku mo Utsukushii Sekai,7
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Kyoushoku Soukou Guyver (2005),8
-Ladies versus Butlers!,6
-Maburaho,5
-Maria†Holic,7
+﻿AIR GEAR,7
+ASU NO YOICHI!,6
+B-GATA H-KEI,7
+BACK STREET GIRLS: GOKUDOLLS,7
+BAKA TO TEST TO SHOUKANJUU,9
+BAKA TO TEST TO SHOUKANJUU NI!,8
+BAMBOO BLADE,7
+BLEND S,9
+CHU-BRA!!,6
+CODE GEASS: HANGYAKU NO LELOUCH,10
+CODE GEASS: HANGYAKU NO LELOUCH R2,9
+DANSHI KOUKOUSEI NO NICHIJOU,10
+DARKER THAN BLACK: KURO NO KEIYAKUSHA,10
+DARKER THAN BLACK: RYUUSEI NO GEMINI,6
+DARWIN'S GAME,7
+DEVIL MAY CRY,7
+DOMESTIC NA KANOJO,9
+DRAGON BALL Z,7
+EROMANGA-SENSEI,7
+HIMEGOTO,8
+ICHIBAN USHIRO NO DAIMAOU,7
+IS: INFINITE STRATOS,6
+ITAI NO WA IYA NANO DE BOUGYORYOKU NI KYOKUFURI SHITAI TO OMOIMASU.,7
+K-ON!,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KÄMPFER,7
+KIMETSU NO YAIBA,9
+KONO MINIKUKU MO UTSUKUSHII SEKAI,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+KYOUSHOKU SOUKOU GUYVER (2005),8
+LADIES VERSUS BUTLERS!,6
+MABURAHO,5
+MARIA†HOLIC,7
 MM!,7
-Mob Psycho 100,9
-Mob Psycho 100 II,10
-Nande Koko ni Sensei ga!?,8
-Needless,8
-Neon Genesis Evangelion,9
-Nyan Koi!,7
-Ouran Koukou Host Club,8
-Paniponi Dash!,9
-Rosario to Vampire,7
-Rosario to Vampire Capu2,7
-Seitokai Yakuindomo,8
-Shijou Saikyou no Deshi Kenichi,8
-Sunohara-sou no Kanrinin-san,7
-Tengen Toppa Gurren Lagann,9
-Toaru Kagaku no Accelerator,9
-Toaru Kagaku no Railgun,9
-Toaru Kagaku no Railgun S,9
-Toaru Majutsu no Index,8
-Toaru Majutsu no Index II,8
-Toaru Majutsu no Index III,7
-Uchuu no Kishi Tekkaman Blade,7
-Venus Versus Virus,6
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
-Yuru Camp△,8
-Yuru Yuri,8
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,10
+NANDE KOKO NI SENSEI GA!?,8
+NEEDLESS,8
+NEON GENESIS EVANGELION,9
+NYAN KOI!,7
+OURAN KOUKOU HOST CLUB,8
+PANIPONI DASH!,9
+ROSARIO TO VAMPIRE,7
+ROSARIO TO VAMPIRE CAPU2,7
+SEITOKAI YAKUINDOMO,8
+SHIJOU SAIKYOU NO DESHI KENICHI,8
+SUNOHARA-SOU NO KANRININ-SAN,7
+TENGEN TOPPA GURREN LAGANN,9
+TOARU KAGAKU NO ACCELERATOR,9
+TOARU KAGAKU NO RAILGUN,9
+TOARU KAGAKU NO RAILGUN S,9
+TOARU MAJUTSU NO INDEX,8
+TOARU MAJUTSU NO INDEX II,8
+TOARU MAJUTSU NO INDEX III,7
+UCHUU NO KISHI TEKKAMAN BLADE,7
+VENUS VERSUS VIRUS,6
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,8
+YURU CAMP△,8
+YURU YURI,8

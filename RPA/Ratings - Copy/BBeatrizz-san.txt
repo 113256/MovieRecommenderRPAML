@@ -1,27 +1,27 @@
-﻿Acchi Kocchi (TV),7
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,7
-Danna ga Nani wo Itteiru ka Wakaranai Ken,6
-Gabriel DropOut,8
-High Score Girl,8
-High Score Girl II,8
-Houseki no Kuni (TV),9
-Hunter x Hunter,10
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kakegurui,6
-Kakegurui××,5
-Karakai Jouzu no Takagi-san 2,8
-Kobayashi-san Chi no Maid Dragon,9
-Kotoura-san,6
-Nanatsu no Taizai,6
-Nanatsu no Taizai: Imashime no Fukkatsu,6
-Nichijou,8
-Osake wa Fuufu ni Natte kara,8
-Rifle Is Beautiful,6
-Rokudenashi Majutsu Koushi to Akashic Records,5
-Saiki Kusuo no Ψ-nan,8
-Sakura-sou no Pet na Kanojo,8
-Tsurezure Children,8
-Violet Evergarden,10
-Zero no Tsukaima,6
-Zero no Tsukaima: Futatsuki no Kishi,6
-Zero no Tsukaima: Princesses no Rondo,6
+﻿ACCHI KOCCHI (TV),7
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,7
+DANNA GA NANI WO ITTEIRU KA WAKARANAI KEN,6
+GABRIEL DROPOUT,8
+HIGH SCORE GIRL,8
+HIGH SCORE GIRL II,8
+HOUSEKI NO KUNI (TV),9
+HUNTER X HUNTER,10
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KAKEGURUI,6
+KAKEGURUI××,5
+KARAKAI JOUZU NO TAKAGI-SAN 2,8
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+KOTOURA-SAN,6
+NANATSU NO TAIZAI,6
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,6
+NICHIJOU,8
+OSAKE WA FUUFU NI NATTE KARA,8
+RIFLE IS BEAUTIFUL,6
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,5
+SAIKI KUSUO NO Ψ-NAN,8
+SAKURA-SOU NO PET NA KANOJO,8
+TSUREZURE CHILDREN,8
+VIOLET EVERGARDEN,10
+ZERO NO TSUKAIMA,6
+ZERO NO TSUKAIMA: FUTATSUKI NO KISHI,6
+ZERO NO TSUKAIMA: PRINCESSES NO RONDO,6

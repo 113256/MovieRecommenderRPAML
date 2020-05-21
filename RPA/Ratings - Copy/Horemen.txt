@@ -1,67 +1,30 @@
-Akame ga Kill!,10
-Amagi Brilliant Park,-
-Angel Beats!,-
-Another,-
-Ao no Exorcist,10
-Ao no Exorcist: Kyoto Fujouou-hen,10
-Boku wa Tomodachi ga Sukunai,10
-Boku wa Tomodachi ga Sukunai Next,10
-Chuunibyou demo Koi ga Shitai!,-
-Chuunibyou demo Koi ga Shitai! Ren,-
-Dakara Boku wa H ga Dekinai.,9
-Darling in the FranXX,-
-Darwin's Game,-
-Date A Live,10
-Date A Live II,-
-Date A Live III,-
-Dog Days,10
-Dog Days',10
-Dog Days'',10
-Dr. Stone,-
-Dumbbell Nan Kilo Moteru?,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,-
-Enen no Shouboutai,-
-Fullmetal Alchemist,10
-Gabriel DropOut,-
-Hataage! Kemono Michi,-
-High School DxD,10
-High School DxD BorN,10
-High School DxD Hero,10
-High School DxD New,10
-Isekai Cheat Magician,-
-Ishuzoku Reviewers,10
-Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?,-
-Kenja no Mago,-
-Kimetsu no Yaiba,10
-Kobayashi-san Chi no Maid Dragon,-
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,-
-Mob Psycho 100,9
-Mob Psycho 100 II,10
-Monster Musume no Iru Nichijou,-
-Motto To LOVE-Ru,10
-Naruto,8
-No Game No Life,10
-Noragami,-
-Noragami Aragoto,-
-One Punch Man,10
-One Punch Man 2nd Season,-
-Ore wo Suki nano wa Omae dake ka yo,-
-Overlord,-
-Overlord II,-
-Overlord III,-
-Re:Zero kara Hajimeru Isekai Seikatsu,-
-Sewayaki Kitsune no Senko-san,-
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,-
-Somali to Mori no Kamisama,-
-Sword Art Online,10
-Sword Art Online II,9
-Sword Art Online: Alicization,10
-Sword Art Online: Alicization - War of Underworld,-
-Tate no Yuusha no Nariagari,-
-Tejina-senpai,-
-To LOVE-Ru,10
-To LOVE-Ru Darkness,10
-To LOVE-Ru Darkness 2nd,10
-Trinity Seven,-
+﻿AKAME GA KILL!,10
+AO NO EXORCIST,10
+AO NO EXORCIST: KYOTO FUJOUOU-HEN,10
+BOKU WA TOMODACHI GA SUKUNAI,10
+BOKU WA TOMODACHI GA SUKUNAI NEXT,10
+DAKARA BOKU WA H GA DEKINAI.,9
+DATE A LIVE,10
+DOG DAYS,10
+DOG DAYS',10
+DOG DAYS'',10
+FULLMETAL ALCHEMIST,10
+HIGH SCHOOL DXD,10
+HIGH SCHOOL DXD BORN,10
+HIGH SCHOOL DXD HERO,10
+HIGH SCHOOL DXD NEW,10
+ISHUZOKU REVIEWERS,10
+KIMETSU NO YAIBA,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,10
+MOTTO TO LOVE-RU,10
+NARUTO,8
+NO GAME NO LIFE,10
+ONE PUNCH MAN,10
+SWORD ART ONLINE,10
+SWORD ART ONLINE II,9
+SWORD ART ONLINE: ALICIZATION,10
+TO LOVE-RU,10
+TO LOVE-RU DARKNESS,10
+TO LOVE-RU DARKNESS 2ND,10

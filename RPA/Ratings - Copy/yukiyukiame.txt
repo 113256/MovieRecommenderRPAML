@@ -1,43 +1,13 @@
-﻿Another,-
-Black★Rock Shooter (TV),-
-Boku no Hero Academia,10
-Boku no Hero Academia 2nd Season,10
-Boku wa Tomodachi ga Sukunai,-
-Free!,-
-Hataraku Maou-sama!,-
-Hyouka,-
-Itazura na Kiss,-
-Kakegurui,7
-Kami nomi zo Shiru Sekai,-
-Kaze no Stigma,-
-Kekkaishi (TV),-
-Kill la Kill,10
-Kimi ni Todoke,-
-Kimi ni Todoke 2nd Season,-
-Kobayashi-san Chi no Maid Dragon,10
-Kuroshitsuji,-
-Kuroshitsuji II,-
-Kuroshitsuji: Book of Circus,-
-Kyoukai no Kanata,-
-Made in Abyss,10
-Mahou Shoujo Madoka★Magica,10
-Neon Genesis Evangelion,7
-No Game No Life,10
-Nodame Cantabile,-
-Nodame Cantabile: Finale,-
-Nodame Cantabile: Paris-hen,-
-One Punch Man,-
-Sekirei,-
-Sekirei: Pure Engagement,-
-Shigatsu wa Kimi no Uso,-
-Shingeki no Kyojin,-
-Shinsekai yori,10
-Tegamibachi,-
-Tegamibachi Reverse,-
-Violet Evergarden,10
-Youjo Senki,10
-Yuri!!! on Ice,9
-Yuuki Yuuna wa Yuusha de Aru,-
-Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou,-
-Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou,-
-Zankyou no Terror,-
+﻿BOKU NO HERO ACADEMIA,10
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+KAKEGURUI,7
+KILL LA KILL,10
+KOBAYASHI-SAN CHI NO MAID DRAGON,10
+MADE IN ABYSS,10
+MAHOU SHOUJO MADOKA★MAGICA,10
+NEON GENESIS EVANGELION,7
+NO GAME NO LIFE,10
+SHINSEKAI YORI,10
+VIOLET EVERGARDEN,10
+YOUJO SENKI,10
+YURI!!! ON ICE,9

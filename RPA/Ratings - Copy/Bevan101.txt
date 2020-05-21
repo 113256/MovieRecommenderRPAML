@@ -1,21 +1,17 @@
-﻿Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,9
-Dr. Stone,8
-Enen no Shouboutai,7
-Hataraku Saibou (TV),6
-JoJo no Kimyou na Bouken (TV),-
-Kimetsu no Yaiba,8
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,7
-Mob Psycho 100,8
-Mob Psycho 100 II,9
-Naruto,7
-Naruto: Shippuuden,9
-One Punch Man,9
-One Punch Man 2nd Season,7
-Pokemon Sun & Moon,-
-Pokemon XY,-
-Pokemon XY&Z,-
-Samurai Champloo,7
+﻿BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,9
+DR. STONE,8
+ENEN NO SHOUBOUTAI,7
+HATARAKU SAIBOU (TV),6
+KIMETSU NO YAIBA,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,7
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,9
+NARUTO,7
+NARUTO: SHIPPUUDEN,9
+ONE PUNCH MAN,9
+ONE PUNCH MAN 2ND SEASON,7
+SAMURAI CHAMPLOO,7

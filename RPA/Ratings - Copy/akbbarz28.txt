@@ -1,15 +1,15 @@
-﻿Ansatsu Kyoushitsu,8
-Death Note,10
-Dr. Stone,10
-Dragon Ball Super,8
-Hikaru no Go,8
-Naruto,10
-NHK ni Youkoso!,8
-One Punch Man,10
-One Punch Man 2nd Season,10
-ReLIFE,10
-Sakamoto Desu ga?,8
-Sengoku Basara,10
-Sengoku Basara Two,10
-Tokyo Ghoul,10
-Tokyo Ghoul √A,10
+﻿ANSATSU KYOUSHITSU,8
+DEATH NOTE,10
+DR. STONE,10
+DRAGON BALL SUPER,8
+HIKARU NO GO,8
+NARUTO,10
+NHK NI YOUKOSO!,8
+ONE PUNCH MAN,10
+ONE PUNCH MAN 2ND SEASON,10
+RELIFE,10
+SAKAMOTO DESU GA?,8
+SENGOKU BASARA,10
+SENGOKU BASARA TWO,10
+TOKYO GHOUL,10
+TOKYO GHOUL √A,10

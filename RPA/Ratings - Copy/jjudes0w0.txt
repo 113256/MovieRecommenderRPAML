@@ -1,19 +1,19 @@
-﻿Ao Haru Ride,7
-Beastars,9
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,8
-Boku no Hero Academia 4th Season,9
-Kuzu no Honkai,10
-Orange,9
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,7
-Tokyo Ghoul,8
-Tokyo Ghoul √A,4
-Tokyo Ghoul:re,4
-Tokyo Ghoul:re 2nd Season,4
-Toradora!,8
-Watashi ga Motete Dousunda,8
-Yuri!!! on Ice,7
+﻿AO HARU RIDE,7
+BEASTARS,9
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BOKU NO HERO ACADEMIA 4TH SEASON,9
+KUZU NO HONKAI,10
+ORANGE,9
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,7
+TOKYO GHOUL,8
+TOKYO GHOUL √A,4
+TOKYO GHOUL:RE,4
+TOKYO GHOUL:RE 2ND SEASON,4
+TORADORA!,8
+WATASHI GA MOTETE DOUSUNDA,8
+YURI!!! ON ICE,7

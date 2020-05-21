@@ -1,61 +1,63 @@
-Acchi Kocchi (TV),5
-Akame ga Kill!,4
-Ao no Exorcist,5
-Boku no Hero Academia,3
-Boku no Hero Academia 2nd Season,5
-Boku no Hero Academia 3rd Season,7
-Captain Tsubasa (2018),6
-Dakara Boku wa H ga Dekinai.,3
-Darling in the FranXX,9
-Dragon Ball,6
-Dragon Ball Super,7
-Dragon Ball Z,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,6
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,3
-Fullmetal Alchemist,7
-Fullmetal Alchemist: Brotherhood,9
-Hajime no Ippo,9
-Hajime no Ippo: New Challenger,7
-Hajime no Ippo: Rising,8
-High School DxD,7
-High School DxD BorN,5
-High School DxD New,6
-Hunter x Hunter (2011),4
-Initial D Fifth Stage,5
-Initial D Final Stage,9
-Initial D First Stage,8
-Initial D Fourth Stage,8
-Initial D Second Stage,8
-JoJo no Kimyou na Bouken (TV),7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kiseijuu: Sei no Kakuritsu,6
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Kuroko no Basket,6
-Kuroko no Basket 2nd Season,8
-Naruto,8
-Naruto: Shippuuden,9
-Noragami,7
-Noragami Aragoto,7
-One Punch Man,6
-One Punch Man 2nd Season,6
-Prison School,8
-Re:Zero kara Hajimeru Isekai Seikatsu,7
-Sakura-sou no Pet na Kanojo,7
-Shingeki no Kyojin,7
-Shokugeki no Souma,8
-Shokugeki no Souma: Ni no Sara,6
-Shokugeki no Souma: San no Sara,6
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,7
-Shokugeki no Souma: Shin no Sara,8
-Soul Eater,6
-Sword Art Online,5
-Sword Art Online II,2
-Tokyo Ghoul,4
-Tokyo Ghoul √A,4
-Toradora!,4
-Yamada-kun to 7-nin no Majo (TV),5
+﻿ACCHI KOCCHI (TV),5
+AKAME GA KILL!,4
+AO NO EXORCIST,5
+BOKU NO HERO ACADEMIA,3
+BOKU NO HERO ACADEMIA 2ND SEASON,5
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+CAPTAIN TSUBASA (2018),6
+DAKARA BOKU WA H GA DEKINAI.,3
+DARLING IN THE FRANXX,8
+DRAGON BALL,6
+DRAGON BALL SUPER,7
+DRAGON BALL Z,8
+DUMBBELL NAN KILO MOTERU?,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,6
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,3
+FULLMETAL ALCHEMIST,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+HAJIME NO IPPO,10
+HAJIME NO IPPO: NEW CHALLENGER,7
+HAJIME NO IPPO: RISING,8
+HIGH SCHOOL DXD,7
+HIGH SCHOOL DXD BORN,5
+HIGH SCHOOL DXD NEW,6
+HUNTER X HUNTER (2011),4
+INITIAL D FIFTH STAGE,5
+INITIAL D FINAL STAGE,9
+INITIAL D FIRST STAGE,8
+INITIAL D FOURTH STAGE,8
+INITIAL D SECOND STAGE,8
+JOJO NO KIMYOU NA BOUKEN (TV),7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,8
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,10
+KISEIJUU: SEI NO KAKURITSU,6
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+KUROKO NO BASKET,6
+KUROKO NO BASKET 2ND SEASON,8
+NARUTO,6
+NARUTO: SHIPPUUDEN,7
+NEON GENESIS EVANGELION,5
+NORAGAMI,7
+NORAGAMI ARAGOTO,7
+ONE PUNCH MAN,6
+ONE PUNCH MAN 2ND SEASON,6
+PRISON SCHOOL,9
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,7
+SAKURA-SOU NO PET NA KANOJO,6
+SHINGEKI NO KYOJIN,7
+SHOKUGEKI NO SOUMA,8
+SHOKUGEKI NO SOUMA: NI NO SARA,6
+SHOKUGEKI NO SOUMA: SAN NO SARA,6
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,7
+SHOKUGEKI NO SOUMA: SHIN NO SARA,8
+SOUL EATER,6
+SWORD ART ONLINE,5
+SWORD ART ONLINE II,2
+TOKYO GHOUL,4
+TOKYO GHOUL √A,4
+TORADORA!,4
+YAMADA-KUN TO 7-NIN NO MAJO (TV),5

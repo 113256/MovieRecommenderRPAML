@@ -1,59 +1,60 @@
-﻿5-toubun no Hanayome,10
-Aho Girl,8
-Angel Beats!,8
-Ansatsu Kyoushitsu,7
-Ansatsu Kyoushitsu 2nd Season,7
-Araburu Kisetsu no Otome-domo yo.,8
-Boku dake ga Inai Machi,8
-Boku no Hero Academia,8
-Bokutachi wa Benkyou ga Dekinai,9
-Bokutachi wa Benkyou ga Dekinai!,8
-Cowboy Bebop,8
-Dagashi Kashi,9
-Deadman Wonderland,5
-Eizouken ni wa Te wo Dasu na!,9
-Fairy Tail,7
-Gabriel DropOut,8
-Hataraku Maou-sama!,8
-High School DxD,8
-Highschool of the Dead,10
-Hinamatsuri,10
-Hunter x Hunter (2011),10
-Ishuzoku Reviewers,8
-JoJo no Kimyou na Bouken (TV),7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,10
-Kill la Kill,8
-Kimi ni Todoke,10
-Kimi ni Todoke 2nd Season,10
-Kobayashi-san Chi no Maid Dragon,8
-Koi wa Ameagari no You ni,8
-Konjiki no Gash Bell!!,7
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Mahou Shoujo Madoka★Magica,7
+﻿5-TOUBUN NO HANAYOME,10
+AHO GIRL,8
+ANGEL BEATS!,8
+ANSATSU KYOUSHITSU,7
+ANSATSU KYOUSHITSU 2ND SEASON,7
+ARABURU KISETSU NO OTOME-DOMO YO.,8
+BOKU DAKE GA INAI MACHI,8
+BOKU NO HERO ACADEMIA,8
+BOKUTACHI WA BENKYOU GA DEKINAI,9
+BOKUTACHI WA BENKYOU GA DEKINAI!,8
+COWBOY BEBOP,8
+DAGASHI KASHI,9
+DEADMAN WONDERLAND,5
+EIZOUKEN NI WA TE WO DASU NA!,9
+FAIRY TAIL,7
+GABRIEL DROPOUT,8
+HATARAKU MAOU-SAMA!,8
+HIGH SCHOOL DXD,8
+HIGHSCHOOL OF THE DEAD,10
+HINAMATSURI,10
+HUNTER X HUNTER (2011),10
+ISHUZOKU REVIEWERS,8
+JOJO NO KIMYOU NA BOUKEN (TV),7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,9
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,9
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,10
+KILL LA KILL,8
+KIMI NI TODOKE,10
+KIMI NI TODOKE 2ND SEASON,10
+KOBAYASHI-SAN CHI NO MAID DRAGON,8
+KOI WA AMEAGARI NO YOU NI,8
+KONJIKI NO GASH BELL!!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+MAHOU SHOUJO MADOKA★MAGICA,7
 MÄR,7
-Monster Musume no Iru Nichijou,8
-Nanatsu no Taizai,7
-Naruto,9
-Naruto: Shippuuden,10
-One Punch Man,8
-Prison School,9
-Saiki Kusuo no Ψ-nan,10
-Shokugeki no Souma,9
-Sora yori mo Tooi Basho,9
-Space☆Dandy,9
-Space☆Dandy 2nd Season,8
-Steins;Gate,10
-Steins;Gate 0,8
-Tanaka-kun wa Itsumo Kedaruge,8
-Tengen Toppa Gurren Lagann,9
-Toradora!,7
-Tsurezure Children,10
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
-Yamada-kun to 7-nin no Majo (TV),9
-Yu☆Gi☆Oh!: Duel Monsters GX,9
+MONSTER MUSUME NO IRU NICHIJOU,8
+NANATSU NO TAIZAI,7
+NARUTO,9
+NARUTO: SHIPPUUDEN,10
+ONE PUNCH MAN,8
+PRISON SCHOOL,9
+SAIKI KUSUO NO Ψ-NAN,10
+SAIKI KUSUO NO Ψ-NAN 2,10
+SHOKUGEKI NO SOUMA,9
+SORA YORI MO TOOI BASHO,9
+SPACE☆DANDY,9
+SPACE☆DANDY 2ND SEASON,8
+STEINS;GATE,10
+STEINS;GATE 0,8
+TANAKA-KUN WA ITSUMO KEDARUGE,8
+TENGEN TOPPA GURREN LAGANN,9
+TORADORA!,7
+TSUREZURE CHILDREN,10
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,8
+YAMADA-KUN TO 7-NIN NO MAJO (TV),9
+YU☆GI☆OH!: DUEL MONSTERS GX,9

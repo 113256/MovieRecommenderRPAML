@@ -1,51 +1,52 @@
-﻿Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,9
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,10
-Code Geass: Hangyaku no Lelouch,10
-Code Geass: Hangyaku no Lelouch R2,10
-Deadman Wonderland,7
-Death Note,10
-Death Parade,10
-Domestic na Kanojo,10
-Dr. Stone,9
-Dragon Ball,8
-Dragon Ball GT,7
-Dragon Ball Z,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
-Elfen Lied,8
-Enen no Shouboutai,8
-Fullmetal Alchemist: Brotherhood,10
-Gamers!,5
-Haikyuu!!,9
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Hunter x Hunter (2011),9
-Kiseijuu: Sei no Kakuritsu,10
-Made in Abyss,9
-Mahoutsukai no Yome,7
-Mob Psycho 100,9
-Mob Psycho 100 II,9
-Monster,7
-Naruto,8
-No Game No Life,9
-One Punch Man,10
-One Punch Man 2nd Season,8
-Ookami to Koushinryou,8
-Ookami to Koushinryou II,8
-Psycho-Pass,8
-Re:Zero kara Hajimeru Isekai Seikatsu,10
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,7
-Shingeki no Kyojin Season 3 Part 2,9
-Shokugeki no Souma,9
-Shokugeki no Souma: Ni no Sara,8
-Steins;Gate,9
-Sword Art Online,6
-Tate no Yuusha no Nariagari,9
-Tengen Toppa Gurren Lagann,9
-Tokyo Ghoul,9
-Tokyo Ghoul √A,9
-Tokyo Ghoul:re,6
+﻿ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,9
+BEASTARS,9
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+CODE GEASS: HANGYAKU NO LELOUCH,10
+CODE GEASS: HANGYAKU NO LELOUCH R2,10
+DEADMAN WONDERLAND,7
+DEATH NOTE,10
+DEATH PARADE,10
+DOMESTIC NA KANOJO,10
+DR. STONE,9
+DRAGON BALL,8
+DRAGON BALL GT,7
+DRAGON BALL Z,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,8
+ELFEN LIED,8
+ENEN NO SHOUBOUTAI,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GAMERS!,5
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HUNTER X HUNTER (2011),9
+KISEIJUU: SEI NO KAKURITSU,10
+MADE IN ABYSS,9
+MAHOUTSUKAI NO YOME,7
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,9
+MONSTER,7
+NARUTO,8
+NO GAME NO LIFE,9
+ONE PUNCH MAN,10
+ONE PUNCH MAN 2ND SEASON,8
+OOKAMI TO KOUSHINRYOU,8
+OOKAMI TO KOUSHINRYOU II,8
+PSYCHO-PASS,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,7
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SHOKUGEKI NO SOUMA,9
+SHOKUGEKI NO SOUMA: NI NO SARA,8
+STEINS;GATE,10
+SWORD ART ONLINE,6
+TATE NO YUUSHA NO NARIAGARI,9
+TENGEN TOPPA GURREN LAGANN,9
+TOKYO GHOUL,9
+TOKYO GHOUL √A,9
+TOKYO GHOUL:RE,6

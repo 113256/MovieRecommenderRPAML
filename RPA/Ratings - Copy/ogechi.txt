@@ -1,8 +1,8 @@
-﻿Free!,7
-Free!: Eternal Summer,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,10
-Kyoukai no Kanata,8
-Ouran Koukou Host Club,10
-Shigatsu wa Kimi no Uso,8
-Violet Evergarden,9
-Watashi ga Motete Dousunda,6
+﻿FREE!,7
+FREE!: ETERNAL SUMMER,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,10
+KYOUKAI NO KANATA,8
+OURAN KOUKOU HOST CLUB,10
+SHIGATSU WA KIMI NO USO,8
+VIOLET EVERGARDEN,9
+WATASHI GA MOTETE DOUSUNDA,6

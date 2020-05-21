@@ -1,48 +1,48 @@
-﻿Accel World,7
-Akame ga Kill!,10
-Aku no Hana,8
-Angel Beats!,9
-Ao no Exorcist,7
-Asobi Asobase,8
-Bakemonogatari,10
-Black Bullet,7
-Black Lagoon,9
-Black Lagoon: The Second Barrage,7
-Boku dake ga Inai Machi,8
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,7
-Btooom!,6
-Charlotte,7
-Darling in the FranXX,9
-Deadman Wonderland,8
-Death Parade,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,5
-Fullmetal Alchemist,8
-Kekkai Sensen,8
-Kimetsu no Yaiba,6
-Kiseijuu: Sei no Kakuritsu,9
-Kore wa Zombie Desu ka?,5
-Made in Abyss,9
-Mirai Nikki,9
-Mob Psycho 100,8
-Mob Psycho 100 II,9
-Monogatari Series: Second Season,10
-Nekomonogatari: Kuro,10
-Nisemonogatari,10
-No Game No Life,8
-Noragami,8
-One Punch Man,7
-Owari no Seraph,7
-Pandora Hearts,7
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,10
-Shingeki no Kyojin Season 3,10
-Shingeki no Kyojin Season 3 Part 2,10
-Soul Eater,7
-Sword Art Online,7
-Tengen Toppa Gurren Lagann,10
-Tokyo Ghoul,9
-Zankyou no Terror,8
-Zetsuen no Tempest,7
+﻿ACCEL WORLD,7
+AKAME GA KILL!,10
+AKU NO HANA,8
+ANGEL BEATS!,9
+AO NO EXORCIST,7
+ASOBI ASOBASE,8
+BAKEMONOGATARI,10
+BLACK BULLET,7
+BLACK LAGOON,9
+BLACK LAGOON: THE SECOND BARRAGE,7
+BOKU DAKE GA INAI MACHI,8
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,7
+BTOOOM!,6
+CHARLOTTE,7
+DARLING IN THE FRANXX,9
+DEADMAN WONDERLAND,8
+DEATH PARADE,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,5
+FULLMETAL ALCHEMIST,8
+KEKKAI SENSEN,8
+KIMETSU NO YAIBA,6
+KISEIJUU: SEI NO KAKURITSU,9
+KORE WA ZOMBIE DESU KA?,5
+MADE IN ABYSS,9
+MIRAI NIKKI,9
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,9
+MONOGATARI SERIES: SECOND SEASON,10
+NEKOMONOGATARI: KURO,10
+NISEMONOGATARI,10
+NO GAME NO LIFE,8
+NORAGAMI,8
+ONE PUNCH MAN,7
+OWARI NO SERAPH,7
+PANDORA HEARTS,7
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,10
+SHINGEKI NO KYOJIN SEASON 3,10
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SOUL EATER,7
+SWORD ART ONLINE,7
+TENGEN TOPPA GURREN LAGANN,10
+TOKYO GHOUL,9
+ZANKYOU NO TERROR,8
+ZETSUEN NO TEMPEST,7

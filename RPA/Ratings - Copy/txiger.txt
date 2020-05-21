@@ -1,101 +1,101 @@
-Akame ga Kill!,7
-Aldnoah.Zero,7
-Aldnoah.Zero 2nd Season,7
-Angel Beats!,7
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Another,8
-Ansatsu Kyoushitsu,8
-Ao Haru Ride,7
-Boku dake ga Inai Machi,9
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,10
-Bokura ga Ita,7
-Brothers Conflict,5
-Bungou Stray Dogs,8
-Bungou Stray Dogs 2nd Season,8
-Captain Tsubasa,8
-Charlotte,6
-Citrus,7
-Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,8
-Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,7
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,8
-Darling in the FranXX,5
-Date A Live,7
-Deadman Wonderland,7
-Death Note,8
-Death Parade,8
-Elfen Lied,7
-Fairy Tail,9
-Fate/stay night: Unlimited Blade Works,9
-Fate/stay night: Unlimited Blade Works 2nd Season,9
-Fate/Zero,8
-Fate/Zero 2nd Season,8
-Free!,8
-Fukumenkei Noise,7
-Futari wa Precure,8
-Fuuka,7
-Gekkan Shoujo Nozaki-kun,7
-Guilty Crown,7
-Haikyuu!!,8
-Haikyuu!! Second Season,8
-High School DxD,6
-Highschool of the Dead,7
-Inazuma Eleven,7
-Kakegurui,7
-Kakumeiki Valvrave,7
-Kakumeiki Valvrave 2nd Season,6
-Karakai Jouzu no Takagi-san,7
-Kimetsu no Yaiba,9
-Kiznaiver,8
-Koi wa Ameagari no You ni,8
-Konohana Kitan,8
-Kuzu no Honkai,9
-Love Live! School Idol Project,7
-Love Live! School Idol Project 2nd Season,8
-Love Live! Sunshine!!,8
-Mahou Shoujo Madoka★Magica,10
-Marmalade Boy,7
-Masamune-kun no Revenge,7
-Mayoiga,4
-Mekakucity Actors,8
-Mermaid Melody Pichi Pichi Pitch,7
-Mirai Nikki,7
-Nana,10
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,7
-Noragami,8
-Omiai Aite wa Oshiego Tsuyoki na Mondaiji.,1
-Orange,6
-Owari no Seraph,8
-Owari no Seraph: Nagoya Kessen-hen,8
-Paradise Kiss,8
-Plastic Memories,8
-Prison School,9
-Pupa,1
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Sakamichi no Apollon,9
-School Days,7
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Selector Infected WIXOSS,9
-Shigatsu wa Kimi no Uso,8
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,8
-Steins;Gate,10
-Super Lovers,6
-Sword Art Online,7
-Sword Art Online II,6
-Tokyo Ghoul,8
-Tokyo Ghoul √A,5
-Tokyo Ghoul:re,6
-Toradora!,7
-Trinity Seven,7
-Uta no☆Prince-sama♪ Maji Love 1000%,7
-Uta no☆Prince-sama♪ Maji Love 2000%,7
-Uta no☆Prince-sama♪ Maji Love Legend Star,7
-Uta no☆Prince-sama♪ Maji Love Revolutions,7
-Violet Evergarden,8
-Watashi ga Motete Dousunda,6
-Yuri!!! on Ice,7
-Zankyou no Terror,8
-Zero no Tsukaima,8
+﻿AKAME GA KILL!,7
+ALDNOAH.ZERO,7
+ALDNOAH.ZERO 2ND SEASON,7
+ANGEL BEATS!,7
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+ANOTHER,8
+ANSATSU KYOUSHITSU,8
+AO HARU RIDE,7
+BOKU DAKE GA INAI MACHI,9
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+BOKURA GA ITA,7
+BROTHERS CONFLICT,5
+BUNGOU STRAY DOGS,8
+BUNGOU STRAY DOGS 2ND SEASON,8
+CAPTAIN TSUBASA,8
+CHARLOTTE,6
+CITRUS,7
+DANGANRONPA 3: THE END OF KIBOUGAMINE GAKUEN - MIRAI-HEN,8
+DANGANRONPA 3: THE END OF KIBOUGAMINE GAKUEN - ZETSUBOU-HEN,7
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,8
+DARLING IN THE FRANXX,5
+DATE A LIVE,7
+DEADMAN WONDERLAND,7
+DEATH NOTE,8
+DEATH PARADE,8
+ELFEN LIED,7
+FAIRY TAIL,9
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,9
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,9
+FATE/ZERO,8
+FATE/ZERO 2ND SEASON,8
+FREE!,8
+FUKUMENKEI NOISE,7
+FUTARI WA PRECURE,8
+FUUKA,7
+GEKKAN SHOUJO NOZAKI-KUN,7
+GUILTY CROWN,7
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,8
+HIGH SCHOOL DXD,6
+HIGHSCHOOL OF THE DEAD,7
+INAZUMA ELEVEN,7
+KAKEGURUI,7
+KAKUMEIKI VALVRAVE,7
+KAKUMEIKI VALVRAVE 2ND SEASON,6
+KARAKAI JOUZU NO TAKAGI-SAN,7
+KIMETSU NO YAIBA,9
+KIZNAIVER,8
+KOI WA AMEAGARI NO YOU NI,8
+KONOHANA KITAN,8
+KUZU NO HONKAI,9
+LOVE LIVE! SCHOOL IDOL PROJECT,7
+LOVE LIVE! SCHOOL IDOL PROJECT 2ND SEASON,8
+LOVE LIVE! SUNSHINE!!,8
+MAHOU SHOUJO MADOKA★MAGICA,10
+MARMALADE BOY,7
+MASAMUNE-KUN NO REVENGE,7
+MAYOIGA,4
+MEKAKUCITY ACTORS,8
+MERMAID MELODY PICHI PICHI PITCH,7
+MIRAI NIKKI,7
+NANA,10
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,7
+NORAGAMI,8
+OMIAI AITE WA OSHIEGO TSUYOKI NA MONDAIJI.,1
+ORANGE,6
+OWARI NO SERAPH,8
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,8
+PARADISE KISS,8
+PLASTIC MEMORIES,8
+PRISON SCHOOL,9
+PUPA,1
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+SAKAMICHI NO APOLLON,9
+SCHOOL DAYS,7
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SELECTOR INFECTED WIXOSS,9
+SHIGATSU WA KIMI NO USO,8
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,8
+STEINS;GATE,10
+SUPER LOVERS,6
+SWORD ART ONLINE,7
+SWORD ART ONLINE II,6
+TOKYO GHOUL,8
+TOKYO GHOUL √A,5
+TOKYO GHOUL:RE,6
+TORADORA!,7
+TRINITY SEVEN,7
+UTA NO☆PRINCE-SAMA♪ MAJI LOVE 1000%,7
+UTA NO☆PRINCE-SAMA♪ MAJI LOVE 2000%,7
+UTA NO☆PRINCE-SAMA♪ MAJI LOVE LEGEND STAR,7
+UTA NO☆PRINCE-SAMA♪ MAJI LOVE REVOLUTIONS,7
+VIOLET EVERGARDEN,8
+WATASHI GA MOTETE DOUSUNDA,6
+YURI!!! ON ICE,7
+ZANKYOU NO TERROR,8
+ZERO NO TSUKAIMA,8

@@ -1,18 +1,8 @@
-﻿After War Gundam X,8
-Blassreiter,-
-Girls & Panzer,-
-Kachou Ouji,-
-Kakumeiki Valvrave,3
-Kakumeiki Valvrave 2nd Season,3
-Kill la Kill,7
-Mobile Suit Gundam 00,8
-Mobile Suit Gundam 00 Second Season,-
-Mobile Suit Gundam Wing,-
-Mobile Suit Victory Gundam,8
-Neon Genesis Evangelion,-
-Schwarzesmarken,-
-Super Robot Taisen OG: The Inspector,-
-Sword Art Online,4
-Tengen Toppa Gurren Lagann,-
-Uchuu no Kishi Tekkaman Blade,-
-Yuusha-Ou GaoGaiGar,10
+﻿AFTER WAR GUNDAM X,8
+KAKUMEIKI VALVRAVE,3
+KAKUMEIKI VALVRAVE 2ND SEASON,3
+KILL LA KILL,7
+MOBILE SUIT GUNDAM 00,8
+MOBILE SUIT VICTORY GUNDAM,8
+SWORD ART ONLINE,4
+YUUSHA-OU GAOGAIGAR,10

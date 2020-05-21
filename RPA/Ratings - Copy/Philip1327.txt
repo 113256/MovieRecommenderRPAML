@@ -1,71 +1,70 @@
-Aho Girl,6
-Alice or Alice,-
-Anima Yell!,9
-Anne Happy♪,9
-BanG Dream!,10
-BanG Dream! 2nd Season,10
-BanG Dream! Garupa☆Pico,10
-Black★Rock Shooter (TV),10
-Blend S,10
-Boku wa Tomodachi ga Sukunai,9
-Boku wa Tomodachi ga Sukunai Next,9
-Comic Girls,10
-Dagashi Kashi,7
-Demi-chan wa Kataritai,8
-Eromanga-sensei,7
-Gabriel DropOut,10
-Gakkougurashi!,9
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,10
-Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,10
-Girls & Panzer,10
-Gochuumon wa Usagi Desu ka?,9
-Gochuumon wa Usagi Desu ka??,9
-Grisaia no Kajitsu,10
-Grisaia no Rakuen,10
-Harukana Receive,10
-Hello!! Kiniro Mosaic,8
-High School Fleet,8
-Himouto! Umaru-chan,7
-Inugami-san to Nekoyama-san,5
-Isekai Quartet,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
-K-On!,9
-K-On!!,9
-Kantai Collection: KanColle,9
-Keijo!!!!!!!!,9
-Kiniro Mosaic,8
-Kiss x Sis (TV),7
-Kono Bijutsubu ni wa Mondai ga Aru!,7
-Kono Subarashii Sekai ni Shukufuku wo!,10
-Kono Subarashii Sekai ni Shukufuku wo! 2,10
-Kuroko no Basket,7
-Love Lab,9
-Love Live! School Idol Project,8
-Love Live! School Idol Project 2nd Season,8
-Love Live! Sunshine!!,9
-Machikado Mazoku,9
-Million Doll,5
-New Game!,10
-New Game!!,10
-Nichijou,8
-No Game No Life,7
-Non Non Biyori,9
-Non Non Biyori Repeat,8
-Pastel Life,9
-Qualidea Code,8
-Sakura Trick,7
-Sakura-sou no Pet na Kanojo,10
-Shigatsu wa Kimi no Uso,10
-Slow Start,8
-Stella no Mahou,9
-Tachibanakan Triangle,6
-Tenshi no 3P!,7
-Tonari no Kyuuketsuki-san,9
-Urara Meirochou,7
-Youjo Senki,9
-Yumekui Merry,10
-Yuru Camp△,10
-Yuru Yuri,9
-Yuru Yuri San☆Hai!,10
-Yuru Yuri♪♪,9
-Yuyushiki,9
+﻿AHO GIRL,6
+ANIMA YELL!,9
+ANNE HAPPY♪,9
+BANG DREAM!,10
+BANG DREAM! 2ND SEASON,10
+BANG DREAM! GARUPA☆PICO,10
+BLACK★ROCK SHOOTER (TV),10
+BLEND S,10
+BOKU WA TOMODACHI GA SUKUNAI,9
+BOKU WA TOMODACHI GA SUKUNAI NEXT,9
+COMIC GIRLS,10
+DAGASHI KASHI,7
+DEMI-CHAN WA KATARITAI,8
+EROMANGA-SENSEI,7
+GABRIEL DROPOUT,10
+GAKKOUGURASHI!,9
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,10
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI 2ND SEASON,10
+GIRLS & PANZER,10
+GOCHUUMON WA USAGI DESU KA?,9
+GOCHUUMON WA USAGI DESU KA??,9
+GRISAIA NO KAJITSU,10
+GRISAIA NO RAKUEN,10
+HARUKANA RECEIVE,10
+HELLO!! KINIRO MOSAIC,8
+HIGH SCHOOL FLEET,8
+HIMOUTO! UMARU-CHAN,7
+INUGAMI-SAN TO NEKOYAMA-SAN,5
+ISEKAI QUARTET,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,9
+K-ON!,9
+K-ON!!,9
+KANTAI COLLECTION: KANCOLLE,9
+KEIJO!!!!!!!!,9
+KINIRO MOSAIC,8
+KISS X SIS (TV),7
+KONO BIJUTSUBU NI WA MONDAI GA ARU!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,10
+KUROKO NO BASKET,7
+LOVE LAB,9
+LOVE LIVE! SCHOOL IDOL PROJECT,8
+LOVE LIVE! SCHOOL IDOL PROJECT 2ND SEASON,8
+LOVE LIVE! SUNSHINE!!,9
+MACHIKADO MAZOKU,9
+MILLION DOLL,5
+NEW GAME!,10
+NEW GAME!!,10
+NICHIJOU,8
+NO GAME NO LIFE,7
+NON NON BIYORI,9
+NON NON BIYORI REPEAT,8
+PASTEL LIFE,9
+QUALIDEA CODE,8
+SAKURA TRICK,7
+SAKURA-SOU NO PET NA KANOJO,10
+SHIGATSU WA KIMI NO USO,10
+SLOW START,8
+STELLA NO MAHOU,9
+TACHIBANAKAN TRIANGLE,6
+TENSHI NO 3P!,7
+TONARI NO KYUUKETSUKI-SAN,9
+URARA MEIROCHOU,7
+YOUJO SENKI,9
+YUMEKUI MERRY,10
+YURU CAMP△,10
+YURU YURI,9
+YURU YURI SAN☆HAI!,10
+YURU YURI♪♪,9
+YUYUSHIKI,9

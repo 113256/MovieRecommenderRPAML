@@ -1,168 +1,154 @@
-Absolute Duo,8
-Aho Girl,-
-Akame ga Kill!,10
-Akaneiro ni Somaru Saka,8
-Akikan!,6
-Amaenaide yo!!,6
-Angel Beats!,10
-Ansatsu Kyoushitsu,-
-Ansatsu Kyoushitsu 2nd Season,-
-Asobi ni Iku yo!,6
-Ben-To,9
-Boku wa Tomodachi ga Sukunai,7
-Boku wa Tomodachi ga Sukunai Next,7
-Busou Shoujo Machiavellianism,-
-Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou,7
-Cheer Danshi!!,8
-Choujigen Game Neptune The Animation,7
-Clannad: After Story,10
-D-Frag!,7
-Dakara Boku wa H ga Dekinai.,8
-Danchigai,6
-Date A Live,9
-Date A Live II,8
-Denpa Kyoushi (TV),9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
-Eromanga-sensei,-
-Fairy Tail,9
-Fairy Tail (2014),9
-Freezing,7
-Freezing Vibration,7
-Gakusen Toshi Asterisk,9
-Gakusen Toshi Asterisk 2nd Season,6
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,-
-Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,-
-Girls & Panzer,8
-Girls Bravo: First Season,7
-Girls Bravo: Second Season,6
-Grisaia no Kajitsu,8
-Grisaia no Rakuen,7
-Hagure Yuusha no Aesthetica,8
-Happy☆Lesson (TV),5
-Hataraku Maou-sama!,9
-Hellsing,8
-Hentai Ouji to Warawanai Neko.,7
-Hidan no Aria,7
-High School DxD,9
-High School DxD BorN,9
-High School DxD New,9
-Highschool of the Dead,8
-Himouto! Umaru-chan,8
-Hoshizora e Kakaru Hashi,6
-Hundred,6
-Ichiban Ushiro no Daimaou,7
-IS: Infinite Stratos,8
-IS: Infinite Stratos 2,8
-Isekai wa Smartphone to Tomo ni.,-
-Jitsu wa Watashi wa,7
-Juuou Mujin no Fafnir,6
+﻿ABSOLUTE DUO,8
+AKAME GA KILL!,10
+AKANEIRO NI SOMARU SAKA,8
+AKIKAN!,6
+AMAENAIDE YO!!,6
+ANGEL BEATS!,10
+ASOBI NI IKU YO!,6
+BEN-TO,9
+BOKU WA TOMODACHI GA SUKUNAI,7
+BOKU WA TOMODACHI GA SUKUNAI NEXT,7
+CAMPIONE!: MATSUROWANU KAMIGAMI TO KAMIGOROSHI NO MAOU,7
+CHEER DANSHI!!,8
+CHOUJIGEN GAME NEPTUNE THE ANIMATION,7
+CLANNAD: AFTER STORY,10
+D-FRAG!,7
+DAKARA BOKU WA H GA DEKINAI.,8
+DANCHIGAI,6
+DATE A LIVE,9
+DATE A LIVE II,8
+DENPA KYOUSHI (TV),9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,9
+FAIRY TAIL,9
+FAIRY TAIL (2014),9
+FREEZING,7
+FREEZING VIBRATION,7
+GAKUSEN TOSHI ASTERISK,9
+GAKUSEN TOSHI ASTERISK 2ND SEASON,6
+GIRLS & PANZER,8
+GIRLS BRAVO: FIRST SEASON,7
+GIRLS BRAVO: SECOND SEASON,6
+GRISAIA NO KAJITSU,8
+GRISAIA NO RAKUEN,7
+HAGURE YUUSHA NO AESTHETICA,8
+HAPPY☆LESSON (TV),5
+HATARAKU MAOU-SAMA!,9
+HELLSING,8
+HENTAI OUJI TO WARAWANAI NEKO.,7
+HIDAN NO ARIA,7
+HIGH SCHOOL DXD,9
+HIGH SCHOOL DXD BORN,9
+HIGH SCHOOL DXD NEW,9
+HIGHSCHOOL OF THE DEAD,8
+HIMOUTO! UMARU-CHAN,8
+HOSHIZORA E KAKARU HASHI,6
+HUNDRED,6
+ICHIBAN USHIRO NO DAIMAOU,7
+IS: INFINITE STRATOS,8
+IS: INFINITE STRATOS 2,8
+JITSU WA WATASHI WA,7
+JUUOU MUJIN NO FAFNIR,6
 K,9
-Kami nomi zo Shiru Sekai,8
-Kami nomi zo Shiru Sekai II,7
-Kami nomi zo Shiru Sekai: Megami-hen,7
-Kanojo ga Flag wo Oraretara,6
-Kämpfer,4
-Kimi ga Aruji de Shitsuji ga Ore de,8
-Kiseijuu: Sei no Kakuritsu,8
-Kiss x Sis (TV),8
-Knight's & Magic,-
-Kono Naka ni Hitori Imouto ga Iru!,7
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kore wa Zombie Desu ka?,8
-Kore wa Zombie Desu ka? of the Dead,8
-Koutetsujou no Kabaneri,-
-Kuusen Madoushi Kouhosei no Kyoukan,7
-Ladies versus Butlers!,5
-Log Horizon,9
-Log Horizon 2nd Season,8
-Love Live! School Idol Project,7
-Love Live! School Idol Project 2nd Season,9
-Love Live! Sunshine!!,7
-Lucky☆Star,9
-Mahou Shoujo Madoka★Magica,8
-Mahouka Koukou no Rettousei,7
-Maji de Watashi ni Koi Shinasai!,6
-Maken-Ki!,7
-Maken-Ki! Two,7
-Mangaka-san to Assistant-san to The Animation,8
-Mashiro-iro Symphony: The Color of Lovers,6
-Masou Gakuen HxH,6
-Mayo Chiki!,7
-Mayoi Neko Overrun!,7
-Mirai Nikki,9
+KAMI NOMI ZO SHIRU SEKAI,8
+KAMI NOMI ZO SHIRU SEKAI II,7
+KAMI NOMI ZO SHIRU SEKAI: MEGAMI-HEN,7
+KANOJO GA FLAG WO ORARETARA,6
+KÄMPFER,4
+KIMI GA ARUJI DE SHITSUJI GA ORE DE,8
+KISEIJUU: SEI NO KAKURITSU,8
+KISS X SIS (TV),8
+KONO NAKA NI HITORI IMOUTO GA IRU!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KORE WA ZOMBIE DESU KA?,8
+KORE WA ZOMBIE DESU KA? OF THE DEAD,8
+KUUSEN MADOUSHI KOUHOSEI NO KYOUKAN,7
+LADIES VERSUS BUTLERS!,5
+LOG HORIZON,9
+LOG HORIZON 2ND SEASON,8
+LOVE LIVE! SCHOOL IDOL PROJECT,7
+LOVE LIVE! SCHOOL IDOL PROJECT 2ND SEASON,9
+LOVE LIVE! SUNSHINE!!,7
+LUCKY☆STAR,9
+MAHOU SHOUJO MADOKA★MAGICA,8
+MAHOUKA KOUKOU NO RETTOUSEI,7
+MAJI DE WATASHI NI KOI SHINASAI!,6
+MAKEN-KI!,7
+MAKEN-KI! TWO,7
+MANGAKA-SAN TO ASSISTANT-SAN TO THE ANIMATION,8
+MASHIRO-IRO SYMPHONY: THE COLOR OF LOVERS,6
+MASOU GAKUEN HXH,6
+MAYO CHIKI!,7
+MAYOI NEKO OVERRUN!,7
+MIRAI NIKKI,9
 MM!,6
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,7
-Monster Musume no Iru Nichijou,7
-Motto To LOVE-Ru,7
-Naruto,8
-Netoge no Yome wa Onnanoko ja Nai to Omotta?,7
-Nisekoi,10
-Nisekoi:,10
-No Game No Life,10
-Okusama ga Seitokaichou!,6
-Okusama ga Seitokaichou!+!,6
-Omamori Himari,8
-One Punch Man,9
-Onegai☆Twins,5
-Oniichan dakedo Ai sae Areba Kankeinai yo ne!,7
-Ore ga Ojousama Gakkou ni Shomin Sample Toshite Gets♥Sareta Ken,7
-Ore no Imouto ga Konnani Kawaii Wake ga Nai,7
-Ore Twintail ni Narimasu.,6
-Overlord,9
-Owari no Seraph,8
-Owari no Seraph: Nagoya Kessen-hen,8
-Pandora Hearts,10
-Plastic Memories,10
-Princess Lover!,6
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,7
+MONSTER MUSUME NO IRU NICHIJOU,7
+MOTTO TO LOVE-RU,7
+NARUTO,8
+NETOGE NO YOME WA ONNANOKO JA NAI TO OMOTTA?,7
+NISEKOI,10
+NISEKOI:,10
+NO GAME NO LIFE,10
+OKUSAMA GA SEITOKAICHOU!,6
+OKUSAMA GA SEITOKAICHOU!+!,6
+OMAMORI HIMARI,8
+ONE PUNCH MAN,9
+ONEGAI☆TWINS,5
+ONIICHAN DAKEDO AI SAE AREBA KANKEINAI YO NE!,7
+ORE GA OJOUSAMA GAKKOU NI SHOMIN SAMPLE TOSHITE GETS♥SARETA KEN,7
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI,7
+ORE TWINTAIL NI NARIMASU.,6
+OVERLORD,9
+OWARI NO SERAPH,8
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,8
+PANDORA HEARTS,10
+PLASTIC MEMORIES,10
+PRINCESS LOVER!,6
 R-15,5
-Rakudai Kishi no Cavalry,7
-Rewrite,8
-Ro-Kyu-Bu!,8
-Ro-Kyu-Bu! SS,8
-Rokka no Yuusha,7
-Rokujouma no Shinryakusha!? (TV),6
-Rosario to Vampire,8
-Rosario to Vampire Capu2,7
-Saenai Heroine no Sodatekata ♭,-
-Saijaku Muhai no Bahamut,8
-Sakamichi no Apollon,8
-Sakura-sou no Pet na Kanojo,10
-Seiken Tsukai no World Break,7
-Seikon no Qwaser,7
-Seireitsukai no Blade Dance,7
-Seitokai no Ichizon,8
-Seitokai Yakuindomo,9
-Seitokai Yakuindomo*,9
-Shingeki no Kyojin,7
-Shinmai Maou no Testament,8
-Shinmai Maou no Testament Burst,6
-Shokugeki no Souma,10
-Shuffle!,7
-Shuffle! Memories,6
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,-
-Sister Princess,6
-Strike the Blood,7
-Sword Art Online,9
-Sword Art Online II,7
-Taimadou Gakuen 35 Shiken Shoutai,7
-Tayutama: Kiss on My Deity,6
-To LOVE-Ru,8
-To LOVE-Ru Darkness,8
-To LOVE-Ru Darkness 2nd,8
-Tokyo Ghoul,10
-Tokyo Ghoul √A,-
-Tonari no Kaibutsu-kun,7
-Toradora!,8
-Trinity Seven,8
-Working!!,8
-Working!!!,8
-Working'!!,8
-WWW.Working!!,-
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
-Yamada-kun to 7-nin no Majo (TV),7
-Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.,7
-Zero no Tsukaima,9
-Zero no Tsukaima F,8
-Zero no Tsukaima: Futatsuki no Kishi,8
-Zero no Tsukaima: Princesses no Rondo,8
+RAKUDAI KISHI NO CAVALRY,7
+REWRITE,8
+RO-KYU-BU!,8
+RO-KYU-BU! SS,8
+ROKKA NO YUUSHA,7
+ROKUJOUMA NO SHINRYAKUSHA!? (TV),6
+ROSARIO TO VAMPIRE,8
+ROSARIO TO VAMPIRE CAPU2,7
+SAIJAKU MUHAI NO BAHAMUT,8
+SAKAMICHI NO APOLLON,8
+SAKURA-SOU NO PET NA KANOJO,10
+SEIKEN TSUKAI NO WORLD BREAK,7
+SEIKON NO QWASER,7
+SEIREITSUKAI NO BLADE DANCE,7
+SEITOKAI NO ICHIZON,8
+SEITOKAI YAKUINDOMO,9
+SEITOKAI YAKUINDOMO*,9
+SHINGEKI NO KYOJIN,7
+SHINMAI MAOU NO TESTAMENT,8
+SHINMAI MAOU NO TESTAMENT BURST,6
+SHOKUGEKI NO SOUMA,10
+SHUFFLE!,7
+SHUFFLE! MEMORIES,6
+SISTER PRINCESS,6
+STRIKE THE BLOOD,7
+SWORD ART ONLINE,9
+SWORD ART ONLINE II,7
+TAIMADOU GAKUEN 35 SHIKEN SHOUTAI,7
+TAYUTAMA: KISS ON MY DEITY,6
+TO LOVE-RU,8
+TO LOVE-RU DARKNESS,8
+TO LOVE-RU DARKNESS 2ND,8
+TOKYO GHOUL,10
+TONARI NO KAIBUTSU-KUN,7
+TORADORA!,8
+TRINITY SEVEN,8
+WORKING!!,8
+WORKING!!!,8
+WORKING'!!,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,8
+YAMADA-KUN TO 7-NIN NO MAJO (TV),7
+YUUSHA NI NARENAKATTA ORE WA SHIBUSHIBU SHUUSHOKU WO KETSUI SHIMASHITA.,7
+ZERO NO TSUKAIMA,9
+ZERO NO TSUKAIMA F,8
+ZERO NO TSUKAIMA: FUTATSUKI NO KISHI,8
+ZERO NO TSUKAIMA: PRINCESSES NO RONDO,8

@@ -1,81 +1,80 @@
-﻿30-sai no Hoken Taiiku,10
-3D Kanojo: Real Girl,10
-3D Kanojo: Real Girl 2nd Season,10
-Absolute Duo,9
-Accel World,10
-Ansatsu Kyoushitsu,8
-Arifureta Shokugyou de Sekai Saikyou,6
-Baka to Test to Shoukanjuu,10
-Baka to Test to Shoukanjuu Ni!,10
-Big Order (TV),10
-Blend S,9
-Boku dake ga Inai Machi,10
-Boku no Hero Academia,10
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,10
-Chuunibyou demo Koi ga Shitai!,9
-Chuunibyou demo Koi ga Shitai! Ren,8
-Clannad,10
-Clannad: After Story,10
-D-Frag!,10
-Danshi Koukousei no Nichijou,10
-Date A Live,7
-Demi-chan wa Kataritai,8
-Dororo,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,7
-Enen no Shouboutai,10
-Fruits Basket,10
-Fullmetal Alchemist: Brotherhood,10
-Gamers!,8
-Golden Time,8
-Hagure Yuusha no Aesthetica,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,10
-Karakai Jouzu no Takagi-san,9
-Karakai Jouzu no Takagi-san 2,10
-Kimi ni Todoke,10
-Kimi ni Todoke 2nd Season,10
-Koi to Senkyo to Chocolate,9
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,10
-Lovely★Complex,10
-Machine-Doll wa Kizutsukanai,10
-Maken-Ki!,7
-Mayo Chiki!,8
-Mikakunin de Shinkoukei,10
+﻿30-SAI NO HOKEN TAIIKU,10
+3D KANOJO: REAL GIRL,10
+3D KANOJO: REAL GIRL 2ND SEASON,10
+ABSOLUTE DUO,9
+ACCEL WORLD,10
+ANSATSU KYOUSHITSU,8
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,6
+BAKA TO TEST TO SHOUKANJUU,10
+BAKA TO TEST TO SHOUKANJUU NI!,10
+BIG ORDER (TV),10
+BLEND S,9
+BOKU DAKE GA INAI MACHI,10
+BOKU NO HERO ACADEMIA,10
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+CHUUNIBYOU DEMO KOI GA SHITAI!,9
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,8
+CLANNAD,10
+CLANNAD: AFTER STORY,10
+D-FRAG!,10
+DANSHI KOUKOUSEI NO NICHIJOU,10
+DATE A LIVE,7
+DEMI-CHAN WA KATARITAI,8
+DORORO,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,7
+ENEN NO SHOUBOUTAI,10
+FRUITS BASKET,10
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GAMERS!,8
+GOLDEN TIME,8
+HAGURE YUUSHA NO AESTHETICA,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,10
+KARAKAI JOUZU NO TAKAGI-SAN,9
+KARAKAI JOUZU NO TAKAGI-SAN 2,10
+KIMI NI TODOKE,10
+KIMI NI TODOKE 2ND SEASON,10
+KOI TO SENKYO TO CHOCOLATE,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,10
+LOVELY★COMPLEX,10
+MACHINE-DOLL WA KIZUTSUKANAI,10
+MAKEN-KI!,7
+MAYO CHIKI!,8
+MIKAKUNIN DE SHINKOUKEI,10
 MM!,9
-Naruto,10
-Naruto: Shippuuden,10
-Netoge no Yome wa Onnanoko ja Nai to Omotta?,10
-No Game No Life,9
-Noragami,10
-Noragami Aragoto,10
-One Punch Man,10
-One Punch Man 2nd Season,10
-Ore Monogatari!!,-
-Ore wo Suki nano wa Omae dake ka yo,10
-Osake wa Fuufu ni Natte kara,10
-Plastic Memories,9
-Princess Lover!,7
-Rakudai Kishi no Cavalry,10
-Re:Zero kara Hajimeru Isekai Seikatsu,10
-ReLIFE,9
-Saenai Heroine no Sodatekata,9
-Sakura-sou no Pet na Kanojo,10
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Sekirei,6
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,10
-Shingeki no Kyojin,7
-Steins;Gate,8
-Sword Art Online,10
-Sword Art Online II,8
-Tate no Yuusha no Nariagari,10
-Tokyo Ghoul,10
-Tokyo Ghoul √A,10
-Tokyo Ghoul:re,4
-Tonari no Kaibutsu-kun,8
-Toradora!,10
-Tsurezure Children,8
-Wotaku ni Koi wa Muzukashii,10
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
-Zero no Tsukaima,9
+NARUTO,10
+NARUTO: SHIPPUUDEN,10
+NETOGE NO YOME WA ONNANOKO JA NAI TO OMOTTA?,10
+NO GAME NO LIFE,9
+NORAGAMI,10
+NORAGAMI ARAGOTO,10
+ONE PUNCH MAN,10
+ONE PUNCH MAN 2ND SEASON,10
+ORE WO SUKI NANO WA OMAE DAKE KA YO,10
+OSAKE WA FUUFU NI NATTE KARA,10
+PLASTIC MEMORIES,9
+PRINCESS LOVER!,7
+RAKUDAI KISHI NO CAVALRY,10
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+RELIFE,9
+SAENAI HEROINE NO SODATEKATA,9
+SAKURA-SOU NO PET NA KANOJO,10
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SEKIREI,6
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,10
+SHINGEKI NO KYOJIN,7
+STEINS;GATE,8
+SWORD ART ONLINE,10
+SWORD ART ONLINE II,8
+TATE NO YUUSHA NO NARIAGARI,10
+TOKYO GHOUL,10
+TOKYO GHOUL √A,10
+TOKYO GHOUL:RE,4
+TONARI NO KAIBUTSU-KUN,8
+TORADORA!,10
+TSUREZURE CHILDREN,8
+WOTAKU NI KOI WA MUZUKASHII,10
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,8
+ZERO NO TSUKAIMA,9

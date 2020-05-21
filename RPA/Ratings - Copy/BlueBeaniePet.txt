@@ -1,135 +1,91 @@
-﻿91 Days,9
-Afro Samurai,-
-Akame ga Kill!,8
-Angel Beats!,10
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
-Another,8
-Ansatsu Kyoushitsu,10
-Ansatsu Kyoushitsu 2nd Season,9
-Ao Haru Ride,-
-Beelzebub,10
-Binbougami ga!,8
-Black★Rock Shooter (TV),8
-Blood Lad,8
-Blood-C,6
-Boku dake ga Inai Machi,7
-Boku no Hero Academia,10
-Boku no Hero Academia 2nd Season,9
-Btooom!,6
-Bungou Stray Dogs,8
-Clannad,8
-Clannad: After Story,10
-Code:Breaker,-
-Coppelion,8
-Cowboy Bebop,10
-Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,-
-Danshi Koukousei no Nichijou,9
-Darling in the FranXX,-
-Deadman Wonderland,8
-Death Note,10
-Death Parade,8
-Dimension W,-
-Durarara!!,10
-Elfen Lied,9
-Ergo Proxy,9
-Gakkougurashi!,8
-Gintama,10
-Gintama',10
-Gintama.,10
-Gintama°,-
-Golden Kamuy,-
-Golden Time,-
-Gosick,7
-Grand Blue,-
-Great Teacher Onizuka,9
-Gugure! Kokkuri-san,-
-Haikyuu!!,8
-Handa-kun,-
-Hellsing,-
-High School DxD,8
-Highschool of the Dead,9
-Higurashi no Naku Koro ni,8
-Hinamatsuri,-
-Imouto sae Ireba Ii.,-
-Inuyashiki,8
-Itou Junji: Collection,7
-Jigoku Shoujo,9
-Jigoku Shoujo: Yoi no Togi,-
-Joker Game,8
-Jormungand,-
-Juuni Taisen,-
-K,-
-K: Return of Kings,7
-Kakegurui,8
-Kekkai Sensen,-
-Kekkai Sensen & Beyond,-
-Kill la Kill,9
-Kimi ni Todoke,-
-Kino no Tabi: The Beautiful World - The Animated Series,-
-Kiseijuu: Sei no Kakuritsu,-
-Kiss x Sis (TV),8
-Kiznaiver,8
-Koutetsujou no Kabaneri,8
-Kujira no Kora wa Sajou ni Utau,-
-Kuroshitsuji,8
-Kuroshitsuji II,-
-Kuzu no Honkai,-
-Kyoukai no Kanata,8
-Lucky☆Star,10
-Made in Abyss,10
-Mahou Shoujo Ikusei Keikaku,-
-Mahou Shoujo Madoka★Magica,10
-Mahoutsukai no Yome,-
-Mayoiga,6
-Megalo Box,-
-Mirai Nikki,8
-Mob Psycho 100,9
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,7
-Monster Musume no Iru Nichijou,7
-Mousou Dairinin,9
-Nanbaka,8
-Neon Genesis Evangelion,-
-Nichijou,-
-No Game No Life,10
-Noragami,9
-Noragami Aragoto,9
-Occultic;Nine,8
-One Punch Man,9
-Ookami to Koushinryou II,-
-Orange,7
-Ore Monogatari!!,-
-Ouran Koukou Host Club,8
-Poputepipikku,10
-Psycho-Pass,9
-Re:Creators,10
-Re:Zero kara Hajimeru Isekai Seikatsu,7
-Rokka no Yuusha,-
-Saiki Kusuo no Ψ-nan,8
-Saiki Kusuo no Ψ-nan 2,9
-Sakamoto Desu ga?,9
-Samurai Champloo,10
-Sayonara Zetsubou Sensei,10
-School Days,6
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,8
-Shokugeki no Souma,8
-Shoujo Shuumatsu Ryokou,9
-Shouwa Genroku Rakugo Shinjuu,8
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,9
-Steins;Gate,9
-Suzumiya Haruhi no Yuuutsu,-
-Tenjou Tenge,-
-To LOVE-Ru,-
-Tokyo ESP,-
-Tokyo Ghoul,6
-Tokyo Magnitude 8.0,9
-Tokyo Ravens,-
-Tonari no Kaibutsu-kun,-
-Trigun,-
+﻿91 DAYS,9
+AKAME GA KILL!,8
+ANGEL BEATS!,10
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,8
+ANOTHER,8
+ANSATSU KYOUSHITSU,10
+ANSATSU KYOUSHITSU 2ND SEASON,9
+BEELZEBUB,10
+BINBOUGAMI GA!,8
+BLACK★ROCK SHOOTER (TV),8
+BLOOD LAD,8
+BLOOD-C,6
+BOKU DAKE GA INAI MACHI,7
+BOKU NO HERO ACADEMIA,10
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BTOOOM!,6
+BUNGOU STRAY DOGS,8
+CLANNAD,8
+CLANNAD: AFTER STORY,10
+COPPELION,8
+COWBOY BEBOP,10
+DANSHI KOUKOUSEI NO NICHIJOU,9
+DEADMAN WONDERLAND,8
+DEATH NOTE,10
+DEATH PARADE,8
+DURARARA!!,10
+ELFEN LIED,9
+ERGO PROXY,9
+GAKKOUGURASHI!,8
+GINTAMA,10
+GINTAMA',10
+GINTAMA.,10
+GOSICK,7
+GREAT TEACHER ONIZUKA,9
+HAIKYUU!!,8
+HIGH SCHOOL DXD,8
+HIGHSCHOOL OF THE DEAD,9
+HIGURASHI NO NAKU KORO NI,8
+INUYASHIKI,8
+ITOU JUNJI: COLLECTION,7
+JIGOKU SHOUJO,9
+JOKER GAME,8
+K: RETURN OF KINGS,7
+KAKEGURUI,8
+KILL LA KILL,9
+KISS X SIS (TV),8
+KIZNAIVER,8
+KOUTETSUJOU NO KABANERI,8
+KUROSHITSUJI,8
+KYOUKAI NO KANATA,8
+LUCKY☆STAR,10
+MADE IN ABYSS,10
+MAHOU SHOUJO MADOKA★MAGICA,10
+MAYOIGA,6
+MIRAI NIKKI,8
+MOB PSYCHO 100,9
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,7
+MONSTER MUSUME NO IRU NICHIJOU,7
+MOUSOU DAIRININ,9
+NANBAKA,8
+NO GAME NO LIFE,10
+NORAGAMI,9
+NORAGAMI ARAGOTO,9
+OCCULTIC;NINE,8
+ONE PUNCH MAN,9
+ORANGE,7
+OURAN KOUKOU HOST CLUB,8
+POPUTEPIPIKKU,10
+PSYCHO-PASS,9
+RE:CREATORS,10
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,7
+SAIKI KUSUO NO Ψ-NAN,8
+SAIKI KUSUO NO Ψ-NAN 2,9
+SAKAMOTO DESU GA?,9
+SAMURAI CHAMPLOO,10
+SAYONARA ZETSUBOU SENSEI,10
+SCHOOL DAYS,6
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,8
+SHOKUGEKI NO SOUMA,8
+SHOUJO SHUUMATSU RYOKOU,9
+SHOUWA GENROKU RAKUGO SHINJUU,8
+SHUUMATSU NANI SHITEMASU KA? ISOGASHII DESU KA? SUKUTTE MORATTE II DESU KA?,9
+STEINS;GATE,9
+TOKYO GHOUL,6
+TOKYO MAGNITUDE 8.0,9
 UN-GO,8
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,-
-Yami Shibai 4,5
-Youjo Senki,8
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),-
-Zankyou no Terror,10
-Zero kara Hajimeru Mahou no Sho,7
+YAMI SHIBAI 4,5
+YOUJO SENKI,8
+ZANKYOU NO TERROR,10
+ZERO KARA HAJIMERU MAHOU NO SHO,7

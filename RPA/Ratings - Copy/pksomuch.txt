@@ -1,96 +1,98 @@
-﻿91 Days,8
-Ajin,7
-Akame ga Kill!,8
-Ansatsu Kyoushitsu,8
-Ansatsu Kyoushitsu 2nd Season,9
-Arifureta Shokugyou de Sekai Saikyou,6
-Arslan Senki (TV),8
-Bakuman.,8
-Bakuman. 2nd Season,8
-Bakuman. 3rd Season,9
-Big Order (TV),6
-Black Lagoon,9
-Black Lagoon: The Second Barrage,9
-Bleach,8
-Boku no Hero Academia,10
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,-
-Break Blade,8
-D.Gray-man,9
-Dororo,10
-Drifters,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
-Eyeshield 21,9
-Fairy Tail,9
-Fairy Tail (2014),9
-Fullmetal Alchemist,8
-Fullmetal Alchemist: Brotherhood,10
-Gantz,8
-Grancrest Senki,8
-Haikyuu!!,10
-Haikyuu!! Second Season,10
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,10
-Hajime no Ippo,9
-Hajime no Ippo: New Challenger,10
-Hajime no Ippo: Rising,10
-Hellsing,7
-Higashi no Eden,7
-Hunter x Hunter (2011),9
-Initial D Fifth Stage,9
-Initial D Final Stage,9
-Initial D First Stage,10
-Initial D Fourth Stage,9
-Initial D Second Stage,9
-JoJo no Kimyou na Bouken (TV),8
-Katsute Kami Datta Kemono-tachi e,6
-Kaze ga Tsuyoku Fuiteiru,10
-Kekkai Sensen,7
-Kill la Kill,8
-Kingdom,9
-Kingdom 2nd Season,9
-Kiseijuu: Sei no Kakuritsu,10
-Koutetsujou no Kabaneri,10
-Kuroko no Basket,9
-Kuroko no Basket 2nd Season,9
-Kuroko no Basket 3rd Season,9
-Magi: Sinbad no Bouken (TV),9
-Mob Psycho 100,9
-Mob Psycho 100 II,9
-Mobile Suit Gundam,10
-Mobile Suit Gundam 00,9
-Mobile Suit Gundam 00 Second Season,9
-Mobile Suit Gundam AGE,6
-Mobile Suit Gundam SEED,8
-Mobile Suit Gundam SEED Destiny,8
-Mobile Suit Gundam Wing,8
-Mobile Suit Gundam ZZ,7
-Mobile Suit Zeta Gundam,8
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,9
-Naruto,9
-Naruto: Shippuuden,9
-One Punch Man,9
-Re:Zero kara Hajimeru Isekai Seikatsu,5
-Senjou no Valkyria,9
-Shigatsu wa Kimi no Uso,9
-Shingeki no Kyojin Season 3 Part 2,10
-Shokugeki no Souma,9
-Shokugeki no Souma: Ni no Sara,9
-Shokugeki no Souma: San no Sara,9
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,9
-Strike the Blood,8
-Sunabouzu,7
-Sword Art Online,8
-Sword Art Online II,7
-Sword Art Online: Alicization,9
-Taboo Tattoo,6
-Tengen Toppa Gurren Lagann,8
-Tennis no Ouji-sama,8
-Tensei shitara Slime Datta Ken,8
-Toaru Majutsu no Index,7
-Trigun,8
-Turn A Gundam,7
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
-Yakusoku no Neverland,10
-Zetman,7
+﻿91 DAYS,8
+AJIN,7
+AKAME GA KILL!,8
+ANSATSU KYOUSHITSU,8
+ANSATSU KYOUSHITSU 2ND SEASON,9
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,6
+ARSLAN SENKI (TV),8
+BAKUMAN.,8
+BAKUMAN. 2ND SEASON,8
+BAKUMAN. 3RD SEASON,9
+BIG ORDER (TV),6
+BLACK LAGOON,9
+BLACK LAGOON: THE SECOND BARRAGE,9
+BLEACH,8
+BOKU NO HERO ACADEMIA,10
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BREAK BLADE,8
+D.GRAY-MAN,9
+DORORO,10
+DRIFTERS,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,8
+EYESHIELD 21,9
+FAIRY TAIL,9
+FAIRY TAIL (2014),9
+FULLMETAL ALCHEMIST,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GANTZ,8
+GOLDEN KAMUY,9
+GOLDEN KAMUY 2ND SEASON,9
+GRANCREST SENKI,8
+HAIKYUU!!,10
+HAIKYUU!! SECOND SEASON,10
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,10
+HAJIME NO IPPO,9
+HAJIME NO IPPO: NEW CHALLENGER,10
+HAJIME NO IPPO: RISING,10
+HELLSING,7
+HIGASHI NO EDEN,7
+HUNTER X HUNTER (2011),9
+INITIAL D FIFTH STAGE,9
+INITIAL D FINAL STAGE,9
+INITIAL D FIRST STAGE,10
+INITIAL D FOURTH STAGE,9
+INITIAL D SECOND STAGE,9
+JOJO NO KIMYOU NA BOUKEN (TV),8
+KARAKAI JOUZU NO TAKAGI-SAN,8
+KATSUTE KAMI DATTA KEMONO-TACHI E,6
+KAZE GA TSUYOKU FUITEIRU,10
+KEKKAI SENSEN,7
+KILL LA KILL,8
+KINGDOM,9
+KINGDOM 2ND SEASON,9
+KISEIJUU: SEI NO KAKURITSU,10
+KOUTETSUJOU NO KABANERI,10
+KUROKO NO BASKET,9
+KUROKO NO BASKET 2ND SEASON,9
+KUROKO NO BASKET 3RD SEASON,9
+MAGI: SINBAD NO BOUKEN (TV),9
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,9
+MOBILE SUIT GUNDAM,10
+MOBILE SUIT GUNDAM 00,9
+MOBILE SUIT GUNDAM 00 SECOND SEASON,9
+MOBILE SUIT GUNDAM AGE,6
+MOBILE SUIT GUNDAM SEED,8
+MOBILE SUIT GUNDAM SEED DESTINY,8
+MOBILE SUIT GUNDAM WING,8
+MOBILE SUIT GUNDAM ZZ,7
+MOBILE SUIT ZETA GUNDAM,8
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,9
+NARUTO,9
+NARUTO: SHIPPUUDEN,9
+ONE PUNCH MAN,9
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,5
+SENJOU NO VALKYRIA,9
+SHIGATSU WA KIMI NO USO,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SHOKUGEKI NO SOUMA,9
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,9
+STRIKE THE BLOOD,8
+SUNABOUZU,7
+SWORD ART ONLINE,8
+SWORD ART ONLINE II,7
+SWORD ART ONLINE: ALICIZATION,9
+TABOO TATTOO,6
+TENGEN TOPPA GURREN LAGANN,8
+TENNIS NO OUJI-SAMA,8
+TENSEI SHITARA SLIME DATTA KEN,8
+TOARU MAJUTSU NO INDEX,7
+TRIGUN,8
+TURN A GUNDAM,7
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,8
+YAKUSOKU NO NEVERLAND,10
+ZETMAN,7

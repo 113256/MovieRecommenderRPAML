@@ -1,61 +1,61 @@
-﻿Aldnoah.Zero,8
-Aldnoah.Zero 2nd Season,8
-Ansatsu Kyoushitsu,7
-Ansatsu Kyoushitsu 2nd Season,7
-Ao no Exorcist,7
-Ao no Exorcist: Kyoto Fujouou-hen,8
-Beastars,7
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,8
-Boku no Hero Academia 4th Season,8
-Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,9
-Darling in the FranXX,6
-Digimon Xros Wars,6
-Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku,6
-Dumbbell Nan Kilo Moteru?,7
-Enen no Shouboutai,8
-Fullmetal Alchemist,9
-Hisone to Maso-tan,7
-Ishuzoku Reviewers,10
-JoJo no Kimyou na Bouken (TV),8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
-Juushinki Pandora,6
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kakegurui,7
-Kakegurui××,7
-Kimetsu no Yaiba,8
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Koukyoushihen Eureka Seven,7
-Kuromukuro,10
-Magi: Sinbad no Bouken (TV),8
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,9
-Nanatsu no Taizai: Kamigami no Gekirin,6
-Nanatsu no Taizai: Seisen no Shirushi,5
-Neon Genesis Evangelion,8
-One Punch Man,8
-One Punch Man 2nd Season,8
-Overlord,8
-Overlord II,8
-Overlord III,8
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,9
-Sword Art Online,7
-Sword Art Online II,7
-Sword Art Online: Alicization,8
-Sword Art Online: Alicization - War of Underworld,7
-Tokyo Ghoul,7
-Tokyo Ghoul √A,7
-Tokyo Ghoul:re,7
-Tokyo Ghoul:re 2nd Season,7
-Trigun,8
-Vampire Knight,4
-Vampire Knight: Guilty,4
-Yu☆Gi☆Oh! Duel Monsters,8
+﻿ALDNOAH.ZERO,8
+ALDNOAH.ZERO 2ND SEASON,8
+ANSATSU KYOUSHITSU,7
+ANSATSU KYOUSHITSU 2ND SEASON,7
+AO NO EXORCIST,7
+AO NO EXORCIST: KYOTO FUJOUOU-HEN,8
+BEASTARS,7
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BOKU NO HERO ACADEMIA 4TH SEASON,8
+CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,9
+DARLING IN THE FRANXX,6
+DIGIMON XROS WARS,6
+DIGIMON XROS WARS: AKU NO DEATH GENERAL TO NANATSU NO OUKOKU,6
+DUMBBELL NAN KILO MOTERU?,7
+ENEN NO SHOUBOUTAI,8
+FULLMETAL ALCHEMIST,9
+HISONE TO MASO-TAN,7
+ISHUZOKU REVIEWERS,10
+JOJO NO KIMYOU NA BOUKEN (TV),8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,8
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,8
+JUUSHINKI PANDORA,6
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KAKEGURUI,7
+KAKEGURUI××,7
+KIMETSU NO YAIBA,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KOUKYOUSHIHEN EUREKA SEVEN,7
+KUROMUKURO,10
+MAGI: SINBAD NO BOUKEN (TV),8
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,9
+NANATSU NO TAIZAI: KAMIGAMI NO GEKIRIN,6
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,5
+NEON GENESIS EVANGELION,8
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,8
+OVERLORD,8
+OVERLORD II,8
+OVERLORD III,8
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SWORD ART ONLINE,7
+SWORD ART ONLINE II,7
+SWORD ART ONLINE: ALICIZATION,8
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,7
+TOKYO GHOUL,7
+TOKYO GHOUL √A,7
+TOKYO GHOUL:RE,7
+TOKYO GHOUL:RE 2ND SEASON,7
+TRIGUN,8
+VAMPIRE KNIGHT,4
+VAMPIRE KNIGHT: GUILTY,4
+YU☆GI☆OH! DUEL MONSTERS,8

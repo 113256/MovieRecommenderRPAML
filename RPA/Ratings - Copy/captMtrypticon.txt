@@ -1,86 +1,35 @@
-﻿Accel World,10
-Akuma no Riddle,8
-Aldnoah.Zero,10
-Aldnoah.Zero 2nd Season,10
-Another,-
-Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,10
-Aoharu x Kikanjuu,-
-ēlDLIVE,-
-Baccano!,9
-Black Bullet,8
-Black Lagoon,8
-Boku no Hero Academia,-
-Boku no Hero Academia 2nd Season,-
-Boku no Hero Academia 3rd Season,-
-Boku no Hero Academia 4th Season,-
-Classroom☆Crisis,-
-Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,10
-Cowboy Bebop,10
-Darling in the FranXX,-
-Death Note,-
-Death Parade,10
-Durarara!!,-
-Durarara!!x2 Ketsu,-
-Durarara!!x2 Shou,-
-Durarara!!x2 Ten,-
-Gakkougurashi!,10
-Gangsta.,-
-Ginga Eiyuu Densetsu: Die Neue These - Kaikou,10
-Girls & Panzer,10
-Guilty Crown,10
-Hidan no Aria,-
-Hidan no Aria AA,-
-High School Fleet,7
-Inuyashiki,-
-IS: Infinite Stratos,7
-IS: Infinite Stratos 2,7
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,-
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,-
-Kaichou wa Maid-sama!,-
-Kokoro Connect,-
-Kotoura-san,-
-Koutetsujou no Kabaneri,-
-Kyoto Teramachi Sanjou no Holmes,-
-Last Exile: Ginyoku no Fam,-
-Log Horizon,10
-Nazo no Kanojo X,10
-Nejimaki Seirei Senki: Tenkyou no Alderamin,7
-Nijuu Mensou no Musume,-
-Okusama ga Seitokaichou!,-
-One Punch Man,-
-Panty & Stocking with Garterbelt,-
-Planetes,10
-Princess Principal,9
-Psycho-Pass,-
-Psycho-Pass 2,10
-Psycho-Pass 3,-
-RideBack,-
-Rifle Is Beautiful,-
-Senjou no Valkyria,-
-Shingeki no Kyojin,7
-Shingeki no Kyojin Season 2,-
-Shingeki no Kyojin Season 3,-
-Shingeki no Kyojin Season 3 Part 2,-
-Steins;Gate,10
-Steins;Gate 0,-
-Sword Art Online,10
-Sword Art Online Alternative: Gun Gale Online,-
-Sword Art Online II,10
-Toaru Kagaku no Accelerator,-
-Toaru Kagaku no Railgun,10
-Toaru Kagaku no Railgun S,10
-Toaru Majutsu no Index,6
-Toaru Majutsu no Index II,5
-Toaru Majutsu no Index III,-
-Tokyo ESP,-
-Tokyo Ghoul,-
-Tokyo Ghoul √A,-
-Tokyo Ghoul:re,-
-Tokyo Ghoul:re 2nd Season,-
-Tokyo Magnitude 8.0,-
-Violet Evergarden,10
-Wotaku ni Koi wa Muzukashii,-
-Yakusoku no Neverland,-
-Zankyou no Terror,-
+﻿ACCEL WORLD,10
+AKUMA NO RIDDLE,8
+ALDNOAH.ZERO,10
+ALDNOAH.ZERO 2ND SEASON,10
+ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,10
+BACCANO!,9
+BLACK BULLET,8
+BLACK LAGOON,8
+CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,10
+COWBOY BEBOP,10
+DEATH PARADE,10
+GAKKOUGURASHI!,10
+GINGA EIYUU DENSETSU: DIE NEUE THESE - KAIKOU,10
+GIRLS & PANZER,10
+GUILTY CROWN,10
+HIGH SCHOOL FLEET,7
+IS: INFINITE STRATOS,7
+IS: INFINITE STRATOS 2,7
+LOG HORIZON,10
+NAZO NO KANOJO X,10
+NEJIMAKI SEIREI SENKI: TENKYOU NO ALDERAMIN,7
+PLANETES,10
+PRINCESS PRINCIPAL,9
+PSYCHO-PASS 2,10
+SHINGEKI NO KYOJIN,7
+STEINS;GATE,10
+SWORD ART ONLINE,10
+SWORD ART ONLINE II,10
+TOARU KAGAKU NO RAILGUN,10
+TOARU KAGAKU NO RAILGUN S,10
+TOARU MAJUTSU NO INDEX,6
+TOARU MAJUTSU NO INDEX II,5
+VIOLET EVERGARDEN,10

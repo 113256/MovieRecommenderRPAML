@@ -1,17 +1,17 @@
-Another,9
-Diabolik Lovers,2
-Diabolik Lovers MoreBlood,2
-Gabriel DropOut,6
-Given,9
-Kakegurui,8
-Kakegurui××,7
-Kobayashi-san Chi no Maid Dragon,7
-Koi to Uso,2
-Konohana Kitan,7
-Lovely★Complex,7
-Maria-sama ga Miteru,6
-Midara na Ao-chan wa Benkyou ga Dekinai,6
-Netsuzou TRap,3
-Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,3
-Peach Girl,6
-Yuri!!! on Ice,9
+﻿ANOTHER,9
+DIABOLIK LOVERS,2
+DIABOLIK LOVERS MOREBLOOD,2
+GABRIEL DROPOUT,6
+GIVEN,9
+KAKEGURUI,8
+KAKEGURUI××,7
+KOBAYASHI-SAN CHI NO MAID DRAGON,7
+KOI TO USO,2
+KONOHANA KITAN,7
+LOVELY★COMPLEX,7
+MARIA-SAMA GA MITERU,6
+MIDARA NA AO-CHAN WA BENKYOU GA DEKINAI,6
+NETSUZOU TRAP,3
+ORE NO NOUNAI SENTAKUSHI GA GAKUEN LOVE COMEDY WO ZENRYOKU DE JAMA SHITEIRU,3
+PEACH GIRL,6
+YURI!!! ON ICE,9

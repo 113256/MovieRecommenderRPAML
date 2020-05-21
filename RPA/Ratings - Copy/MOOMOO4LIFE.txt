@@ -1,13 +1,14 @@
-﻿Ansatsu Kyoushitsu,8
-Ao no Exorcist,10
-Ao no Exorcist: Kyoto Fujouou-hen,4
-Azumanga Daioh,10
-Conception,1
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,6
-Hataraku Maou-sama!,9
-Kakegurui,2
-Kyoukai no Kanata,8
-Mahou Shoujo Madoka★Magica,10
-Nekopara,8
-Persona 5 the Animation,6
-Yakusoku no Neverland,9
+﻿ANSATSU KYOUSHITSU,8
+AO NO EXORCIST,10
+AO NO EXORCIST: KYOTO FUJOUOU-HEN,4
+AZUMANGA DAIOH,10
+BANANYA,8
+CONCEPTION,1
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,6
+HATARAKU MAOU-SAMA!,9
+KAKEGURUI,2
+KYOUKAI NO KANATA,8
+MAHOU SHOUJO MADOKA★MAGICA,10
+NEKOPARA,8
+PERSONA 5 THE ANIMATION,6
+YAKUSOKU NO NEVERLAND,9

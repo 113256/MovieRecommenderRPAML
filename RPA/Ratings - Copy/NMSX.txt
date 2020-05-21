@@ -1,129 +1,129 @@
-3-gatsu no Lion,8
-3-gatsu no Lion 2nd Season,9
-91 Days,7
-Aho Girl,6
-Aku no Hana,8
-Angel Beats!,8
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
-Another,7
-Ao Haru Ride,8
-Ao no Exorcist,7
-Araburu Kisetsu no Otome-domo yo.,8
-Asobi Asobase,8
-Baccano!,8
-Bakemonogatari,10
-Banana Fish,7
-Barakamon,8
-Blood+,8
-Boku dake ga Inai Machi,9
-Bungou Stray Dogs,7
-C: The Money of Soul and Possibility Control,6
-Canaan,7
-Chuunibyou demo Koi ga Shitai!,7
-Citrus,6
-Clannad,7
-Clannad: After Story,9
-Claymore,7
-Danshi Koukousei no Nichijou,7
-Darling in the FranXX,7
-Deadman Wonderland,6
-Death Note,7
-Death Parade,7
-Drifters,5
-ef: A Tale of Melodies.,8
-ef: A Tale of Memories.,8
-Ergo Proxy,8
-Fate/stay night: Unlimited Blade Works,8
-Fate/stay night: Unlimited Blade Works 2nd Season,8
-Fate/Zero,8
-Fate/Zero 2nd Season,8
-Fullmetal Alchemist: Brotherhood,9
-God Eater,5
-Gosick,7
-Hanamonogatari,8
-Hibike! Euphonium,8
-Hibike! Euphonium 2,10
-Highschool of the Dead,5
-Himouto! Umaru-chan,6
-Hinamatsuri,8
-IS: Infinite Stratos,6
-Itsudatte Bokura no Koi wa 10 cm Datta.,7
-Just Because!,7
-Juuni Taisen,6
-K-On!,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Karakai Jouzu no Takagi-san,7
-Katanagatari,9
-Kill la Kill,8
-Kimetsu no Yaiba,8
-Kiseijuu: Sei no Kakuritsu,8
-Koi to Uso,5
-Koi wa Ameagari no You ni,7
-Kokoro Connect,8
-Kuzu no Honkai,6
-Kyoukai no Kanata,6
-Made in Abyss,9
-Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV),7
-Mahou Shoujo Madoka★Magica,8
-Mahoutsukai no Yome,7
-Mawaru Penguindrum,8
-Megalo Box,8
-Mirai Nikki,6
-Monogatari Series: Second Season,9
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Imashime no Fukkatsu,7
-Nanatsu no Taizai: Seisen no Shirushi,7
-Nekomonogatari: Kuro,8
-Neon Genesis Evangelion,9
-Netsuzou TRap,5
-NHK ni Youkoso!,8
-Nisemonogatari,8
-No Game No Life,5
-Nodame Cantabile,9
-Nodame Cantabile: Finale,8
-Nodame Cantabile: Paris-hen,8
-Ookami to Koushinryou,8
-Ookami to Koushinryou II,8
-Owarimonogatari,9
-Owarimonogatari 2nd Season,10
-Plastic Memories,8
-Rainbow: Nisha Rokubou no Shichinin,9
-Re:Zero kara Hajimeru Isekai Seikatsu,6
-ReLIFE,8
-Sakamichi no Apollon,7
-Sakura-sou no Pet na Kanojo,7
-Saraiya Goyou,7
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Shigatsu wa Kimi no Uso,9
-Shingeki no Kyojin,7
-Shingeki no Kyojin Season 2,7
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,9
-Shinsekai yori,8
-Shoujo Shuumatsu Ryokou,8
-Shoujo☆Kageki Revue Starlight,7
-Shouwa Genroku Rakugo Shinjuu,9
-Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,9
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,7
-Sora yori mo Tooi Basho,8
-Soul Eater,8
-Steins;Gate,10
-Steins;Gate 0,10
-Sword Art Online,6
-Tate no Yuusha no Nariagari,6
-Tokyo Ghoul,6
-Tokyo Magnitude 8.0,8
-Tsuki ga Kirei,9
-Tsukimonogatari,9
-Tsurezure Children,8
-Uchouten Kazoku,8
-Uchouten Kazoku 2,9
-Usagi Drop,9
-Violet Evergarden,9
-White Album 2,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,8
-Yakusoku no Neverland,8
-Yosuga no Sora: In Solitude Where We Are Least Alone.,5
-Zankyou no Terror,8
-Zetsuen no Tempest,8
+﻿3-GATSU NO LION,8
+3-GATSU NO LION 2ND SEASON,9
+91 DAYS,7
+AHO GIRL,6
+AKU NO HANA,8
+ANGEL BEATS!,8
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,8
+ANOTHER,7
+AO HARU RIDE,8
+AO NO EXORCIST,7
+ARABURU KISETSU NO OTOME-DOMO YO.,8
+ASOBI ASOBASE,8
+BACCANO!,8
+BAKEMONOGATARI,10
+BANANA FISH,7
+BARAKAMON,8
+BLOOD+,8
+BOKU DAKE GA INAI MACHI,9
+BUNGOU STRAY DOGS,7
+C: THE MONEY OF SOUL AND POSSIBILITY CONTROL,6
+CANAAN,7
+CHUUNIBYOU DEMO KOI GA SHITAI!,7
+CITRUS,6
+CLANNAD,7
+CLANNAD: AFTER STORY,9
+CLAYMORE,7
+DANSHI KOUKOUSEI NO NICHIJOU,7
+DARLING IN THE FRANXX,7
+DEADMAN WONDERLAND,6
+DEATH NOTE,7
+DEATH PARADE,7
+DRIFTERS,5
+EF: A TALE OF MELODIES.,8
+EF: A TALE OF MEMORIES.,8
+ERGO PROXY,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,8
+FATE/ZERO,8
+FATE/ZERO 2ND SEASON,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+GOD EATER,5
+GOSICK,7
+HANAMONOGATARI,8
+HIBIKE! EUPHONIUM,8
+HIBIKE! EUPHONIUM 2,10
+HIGHSCHOOL OF THE DEAD,5
+HIMOUTO! UMARU-CHAN,6
+HINAMATSURI,8
+IS: INFINITE STRATOS,6
+ITSUDATTE BOKURA NO KOI WA 10 CM DATTA.,7
+JUST BECAUSE!,7
+JUUNI TAISEN,6
+K-ON!,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KARAKAI JOUZU NO TAKAGI-SAN,7
+KATANAGATARI,9
+KILL LA KILL,8
+KIMETSU NO YAIBA,8
+KISEIJUU: SEI NO KAKURITSU,8
+KOI TO USO,5
+KOI WA AMEAGARI NO YOU NI,7
+KOKORO CONNECT,8
+KUZU NO HONKAI,6
+KYOUKAI NO KANATA,6
+MADE IN ABYSS,9
+MAGIA RECORD: MAHOU SHOUJO MADOKA☆MAGICA GAIDEN (TV),7
+MAHOU SHOUJO MADOKA★MAGICA,8
+MAHOUTSUKAI NO YOME,7
+MAWARU PENGUINDRUM,8
+MEGALO BOX,8
+MIRAI NIKKI,6
+MONOGATARI SERIES: SECOND SEASON,9
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,7
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,7
+NEKOMONOGATARI: KURO,8
+NEON GENESIS EVANGELION,9
+NETSUZOU TRAP,5
+NHK NI YOUKOSO!,8
+NISEMONOGATARI,8
+NO GAME NO LIFE,5
+NODAME CANTABILE,9
+NODAME CANTABILE: FINALE,8
+NODAME CANTABILE: PARIS-HEN,8
+OOKAMI TO KOUSHINRYOU,8
+OOKAMI TO KOUSHINRYOU II,8
+OWARIMONOGATARI,9
+OWARIMONOGATARI 2ND SEASON,10
+PLASTIC MEMORIES,8
+RAINBOW: NISHA ROKUBOU NO SHICHININ,9
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,6
+RELIFE,8
+SAKAMICHI NO APOLLON,7
+SAKURA-SOU NO PET NA KANOJO,7
+SARAIYA GOYOU,7
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SHIGATSU WA KIMI NO USO,9
+SHINGEKI NO KYOJIN,7
+SHINGEKI NO KYOJIN SEASON 2,7
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SHINSEKAI YORI,8
+SHOUJO SHUUMATSU RYOKOU,8
+SHOUJO☆KAGEKI REVUE STARLIGHT,7
+SHOUWA GENROKU RAKUGO SHINJUU,9
+SHOUWA GENROKU RAKUGO SHINJUU: SUKEROKU FUTATABI-HEN,9
+SHUUMATSU NANI SHITEMASU KA? ISOGASHII DESU KA? SUKUTTE MORATTE II DESU KA?,7
+SORA YORI MO TOOI BASHO,8
+SOUL EATER,8
+STEINS;GATE,10
+STEINS;GATE 0,10
+SWORD ART ONLINE,6
+TATE NO YUUSHA NO NARIAGARI,6
+TOKYO GHOUL,6
+TOKYO MAGNITUDE 8.0,8
+TSUKI GA KIREI,9
+TSUKIMONOGATARI,9
+TSUREZURE CHILDREN,8
+UCHOUTEN KAZOKU,8
+UCHOUTEN KAZOKU 2,9
+USAGI DROP,9
+VIOLET EVERGARDEN,9
+WHITE ALBUM 2,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,8
+YAKUSOKU NO NEVERLAND,8
+YOSUGA NO SORA: IN SOLITUDE WHERE WE ARE LEAST ALONE.,5
+ZANKYOU NO TERROR,8
+ZETSUEN NO TEMPEST,8

@@ -1,48 +1,48 @@
-﻿Amnesia,7
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,10
-Another,8
-Blend S,6
-Blood-C,6
-Boku dake ga Inai Machi,9
-Dance with Devils,7
-Death Note,8
-Death Parade,10
-Devils Line,7
-Elfen Lied,7
-Evil or Live,6
-Gakkougurashi!,10
-God Eater,8
-Haibane Renmei,10
-Happy Sugar Life,10
-Higashi no Eden,10
-Higurashi no Naku Koro ni,7
-Itou Junji: Collection,5
-Jigoku Shoujo,8
-Jigoku Shoujo Futakomori,8
-Jigoku Shoujo Mitsuganae,8
-Jigoku Shoujo: Yoi no Togi,8
-Jinrui wa Suitai Shimashita,9
-Mahou Shoujo Madoka★Magica,9
-Mayoiga,7
-Moetan,8
-Monster,10
-Nagato Yuki-chan no Shoushitsu,7
-No.6,8
-One Punch Man,9
-Orange,10
-Psycho-Pass,9
-Psycho-Pass 2,9
-Pupa,3
-ReLIFE,9
-School Days,4
-Senki Zesshou Symphogear,6
-Serial Experiments Lain,9
-Skip Beat!,8
-Soul Eater,9
-Sukitte Ii na yo.,9
-Suzumiya Haruhi no Yuuutsu,7
-Tokyo Ghoul,9
-Toradora!,9
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,10
-Yuri!!! on Ice,8
-Zankyou no Terror,9
+﻿AMNESIA,7
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,10
+ANOTHER,8
+BLEND S,6
+BLOOD-C,6
+BOKU DAKE GA INAI MACHI,9
+DANCE WITH DEVILS,7
+DEATH NOTE,8
+DEATH PARADE,10
+DEVILS LINE,7
+ELFEN LIED,7
+EVIL OR LIVE,6
+GAKKOUGURASHI!,10
+GOD EATER,8
+HAIBANE RENMEI,10
+HAPPY SUGAR LIFE,10
+HIGASHI NO EDEN,10
+HIGURASHI NO NAKU KORO NI,7
+ITOU JUNJI: COLLECTION,5
+JIGOKU SHOUJO,8
+JIGOKU SHOUJO FUTAKOMORI,8
+JIGOKU SHOUJO MITSUGANAE,8
+JIGOKU SHOUJO: YOI NO TOGI,8
+JINRUI WA SUITAI SHIMASHITA,9
+MAHOU SHOUJO MADOKA★MAGICA,9
+MAYOIGA,7
+MOETAN,8
+MONSTER,10
+NAGATO YUKI-CHAN NO SHOUSHITSU,7
+NO.6,8
+ONE PUNCH MAN,9
+ORANGE,10
+PSYCHO-PASS,9
+PSYCHO-PASS 2,9
+PUPA,3
+RELIFE,9
+SCHOOL DAYS,4
+SENKI ZESSHOU SYMPHOGEAR,6
+SERIAL EXPERIMENTS LAIN,9
+SKIP BEAT!,8
+SOUL EATER,9
+SUKITTE II NA YO.,9
+SUZUMIYA HARUHI NO YUUUTSU,7
+TOKYO GHOUL,9
+TORADORA!,9
+WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,10
+YURI!!! ON ICE,8
+ZANKYOU NO TERROR,9

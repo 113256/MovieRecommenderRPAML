@@ -1,84 +1,56 @@
-﻿Akagami no Shirayuki-hime,7
-Akatsuki no Yona,-
-Ao Haru Ride,8
-Ao no Exorcist,8
-Blood Lad,8
-Boku dake ga Inai Machi,8
-Bungou Stray Dogs,-
-Dakaretai Otoko 1-i ni Odosarete Imasu.,-
-Death Parade,-
-Devils Line,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,7
-Fairy Tail,10
-Fairy Tail (2014),10
-Fairy Tail: Final Series,10
-Free!,7
-Fukumenkei Noise,-
-Gekkan Shoujo Nozaki-kun,8
-Given,10
-Groove Adventure Rave,8
-Haikyuu!!,9
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Haikyuu!!: To the Top,9
-Housekishou Richard-shi no Nazo Kantei,-
-Hyouka,9
-Inu x Boku SS,8
-InuYasha (TV),9
-Jibaku Shounen Hanako-kun,9
-Just Because!,-
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,-
-Kaichou wa Maid-sama!,8
-Kakegurui,9
-Kamisama Hajimemashita,-
-Kamisama Hajimemashita◎,-
-Kenka Banchou Otome: Girl Beats Boys,9
-Kimi ni Todoke,-
-Kimi ni Todoke 2nd Season,-
-Kiznaiver,8
-Kono Oto Tomare!,-
-Kono Oto Tomare! 2nd Season,-
-Kuroko no Basket,-
-Kuroko no Basket 2nd Season,-
-Kuroko no Basket 3rd Season,-
-Kuroshitsuji,8
-Kuzu no Honkai,-
-Love Stage!!,-
-Lovely★Complex,-
-Mahouka Koukou no Rettousei,-
-Masamune-kun no Revenge,8
-Mekakucity Actors,8
-Midara na Ao-chan wa Benkyou ga Dekinai,-
-Mikagura Gakuen Kumikyoku (TV),8
-Mikakunin de Shinkoukei,7
-Musaigen no Phantom World,8
-Naruto,9
-Naruto: Shippuuden,9
-Nijiiro Days,8
-Nisekoi,4
-No Game No Life,9
-Noragami,8
-Noragami Aragoto,8
-Ookami Shoujo to Kuro Ouji,9
-Orange,9
-Ouran Koukou Host Club,9
-Owari no Seraph,8
-Psycho-Pass,9
-Sakura-sou no Pet na Kanojo,5
-Sankarea,8
-Senryuu Shoujo,-
-Shingeki no Kyojin,-
-Sukitte Ii na yo.,7
-Sword Art Online,7
-Tokyo Ghoul,-
-Tokyo Ghoul √A,-
-Tonari no Kaibutsu-kun,7
-Tsurezure Children,8
-Vampire Knight: Guilty,-
-Watashi ga Motete Dousunda,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,7
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,7
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),10
-Zankyou no Terror,-
-Zetsuen no Tempest,8
+﻿AKAGAMI NO SHIRAYUKI-HIME,7
+AO HARU RIDE,8
+AO NO EXORCIST,8
+BLOOD LAD,8
+BOKU DAKE GA INAI MACHI,8
+DEVILS LINE,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA GAIDEN: SWORD ORATORIA,7
+FAIRY TAIL,10
+FAIRY TAIL (2014),10
+FAIRY TAIL: FINAL SERIES,10
+FREE!,7
+GEKKAN SHOUJO NOZAKI-KUN,8
+GIVEN,10
+GROOVE ADVENTURE RAVE,8
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HAIKYUU!!: TO THE TOP,9
+HYOUKA,9
+INU X BOKU SS,8
+INUYASHA (TV),9
+JIBAKU SHOUNEN HANAKO-KUN,9
+KAICHOU WA MAID-SAMA!,8
+KAKEGURUI,9
+KENKA BANCHOU OTOME: GIRL BEATS BOYS,9
+KIZNAIVER,8
+KUROSHITSUJI,8
+MASAMUNE-KUN NO REVENGE,8
+MEKAKUCITY ACTORS,8
+MIKAGURA GAKUEN KUMIKYOKU (TV),8
+MIKAKUNIN DE SHINKOUKEI,7
+MUSAIGEN NO PHANTOM WORLD,8
+NARUTO,9
+NARUTO: SHIPPUUDEN,9
+NIJIIRO DAYS,8
+NISEKOI,4
+NO GAME NO LIFE,9
+NORAGAMI,8
+NORAGAMI ARAGOTO,8
+OOKAMI SHOUJO TO KURO OUJI,9
+ORANGE,9
+OURAN KOUKOU HOST CLUB,9
+OWARI NO SERAPH,8
+PSYCHO-PASS,9
+SAKURA-SOU NO PET NA KANOJO,5
+SANKAREA,8
+SUKITTE II NA YO.,7
+SWORD ART ONLINE,7
+TONARI NO KAIBUTSU-KUN,7
+TSUREZURE CHILDREN,8
+WATASHI GA MOTETE DOUSUNDA,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,7
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,7
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),10
+ZETSUEN NO TEMPEST,8

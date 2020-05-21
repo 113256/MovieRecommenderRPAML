@@ -1,232 +1,232 @@
-﻿07-Ghost,6
-Accel World,7
-Aldnoah.Zero,8
-Aldnoah.Zero 2nd Season,8
-Amagi Brilliant Park,7
-Angel Beats!,9
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Ano Natsu de Matteru,8
-Ao Haru Ride,8
-Ao no Exorcist,8
-Area no Kishi,8
-Baby Steps,8
-Baby Steps 2nd Season,9
-Baccano!,8
-Barakamon,10
-Black Bullet,7
-Bleach,9
-Boku dake ga Inai Machi,9
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Boku wa Tomodachi ga Sukunai,9
-Boku wa Tomodachi ga Sukunai Next,8
-Bokura wa Minna Kawai-sou,7
-Break Blade,7
-Buddy Complex,8
-Cardcaptor Sakura,8
-Charlotte,7
-Chihayafuru,9
-Chihayafuru 2,9
-Chuunibyou demo Koi ga Shitai!,9
-Chuunibyou demo Koi ga Shitai! Ren,8
-Code Geass: Hangyaku no Lelouch,10
-Code Geass: Hangyaku no Lelouch R2,10
-D-Frag!,8
-D.Gray-man,8
-D.N.Angel,9
-Deadman Wonderland,8
-Death Note,9
-Death Parade,8
-Demashita! Powerpuff Girls Z,7
-Diamond no Ace,9
-Diamond no Ace: Second Season,9
-Digimon Adventure,8
-Digimon Adventure 02,7
-Digimon Frontier,7
-Digimon Savers,7
-Digimon Tamers,7
-Dragon Ball,7
-Dragon Ball GT,8
-Dragon Ball Z,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
-Durarara!!,9
-Durarara!!x2 Shou,8
-Durarara!!x2 Ten,8
-Fairy Tail,9
-Fate/stay night: Unlimited Blade Works,8
-Fate/stay night: Unlimited Blade Works 2nd Season,8
-Fate/Zero,9
-Fate/Zero 2nd Season,9
-Free!,8
-Free!: Eternal Summer,8
-Fruits Basket,8
-Fullmetal Alchemist,9
-Fullmetal Alchemist: Brotherhood,10
-Gakkougurashi!,7
-Gakuen Alice,7
-Gakusen Toshi Asterisk,7
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,7
-Gekkan Shoujo Nozaki-kun,9
-Gin no Saji,8
-Gin no Saji 2nd Season,8
-Gintama,9
-Gintama',9
-Gintama': Enchousen,9
-Gokukoku no Brynhildr,7
-Grisaia no Kajitsu,7
-Gundam Build Fighters,9
-Gundam Build Fighters Try,9
-Haikyuu!!,8
-Hataraku Maou-sama!,7
-Hentai Ouji to Warawanai Neko.,7
-Hibike! Euphonium,8
-Higashi no Eden,8
-Higurashi no Naku Koro ni,7
-Hitsugi no Chaika,8
-Hitsugi no Chaika: Avenging Battle,7
-Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,8
-Hunter x Hunter (2011),9
-Hyouka,8
-Inari Konkon Koi Iroha.,7
-Inou-Battle wa Nichijou-kei no Naka de,7
-InuYasha (TV),10
-InuYasha (TV): Kanketsu-hen,8
-IS: Infinite Stratos,7
-Isshuukan Friends.,9
-Jitsu wa Watashi wa,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kakumeiki Valvrave,7
-Kami nomi zo Shiru Sekai,9
-Kami nomi zo Shiru Sekai II,8
-Kami nomi zo Shiru Sekai: Megami-hen,8
-Kamisama Hajimemashita,7
-Katekyo Hitman Reborn!,8
-Kekkai Sensen,6
-Kill la Kill,7
-Kimetsu no Yaiba,8
-Kimi ni Todoke,8
-Kimi ni Todoke 2nd Season,8
-Kingdom,8
-Kingdom 2nd Season,9
-Kiseijuu: Sei no Kakuritsu,9
-Kobayashi-san Chi no Maid Dragon,9
-Konjiki no Gash Bell!!,7
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Kotoura-san,6
-Koukyoushihen Eureka Seven,8
-Kyoukai no Kanata,7
-Log Horizon,9
-Log Horizon 2nd Season,7
-Machine-Doll wa Kizutsukanai,7
-Mahouka Koukou no Rettousei,8
+﻿07-GHOST,6
+ACCEL WORLD,7
+ALDNOAH.ZERO,8
+ALDNOAH.ZERO 2ND SEASON,8
+AMAGI BRILLIANT PARK,7
+ANGEL BEATS!,9
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+ANO NATSU DE MATTERU,8
+AO HARU RIDE,8
+AO NO EXORCIST,8
+AREA NO KISHI,8
+BABY STEPS,8
+BABY STEPS 2ND SEASON,9
+BACCANO!,8
+BARAKAMON,10
+BLACK BULLET,7
+BLEACH,9
+BOKU DAKE GA INAI MACHI,9
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU WA TOMODACHI GA SUKUNAI,9
+BOKU WA TOMODACHI GA SUKUNAI NEXT,8
+BOKURA WA MINNA KAWAI-SOU,7
+BREAK BLADE,7
+BUDDY COMPLEX,8
+CARDCAPTOR SAKURA,8
+CHARLOTTE,7
+CHIHAYAFURU,9
+CHIHAYAFURU 2,9
+CHUUNIBYOU DEMO KOI GA SHITAI!,9
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,8
+CODE GEASS: HANGYAKU NO LELOUCH,10
+CODE GEASS: HANGYAKU NO LELOUCH R2,10
+D-FRAG!,8
+D.GRAY-MAN,8
+D.N.ANGEL,9
+DEADMAN WONDERLAND,8
+DEATH NOTE,9
+DEATH PARADE,8
+DEMASHITA! POWERPUFF GIRLS Z,7
+DIAMOND NO ACE,9
+DIAMOND NO ACE: SECOND SEASON,9
+DIGIMON ADVENTURE,8
+DIGIMON ADVENTURE 02,7
+DIGIMON FRONTIER,7
+DIGIMON SAVERS,7
+DIGIMON TAMERS,7
+DRAGON BALL,7
+DRAGON BALL GT,8
+DRAGON BALL Z,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,8
+DURARARA!!,9
+DURARARA!!X2 SHOU,8
+DURARARA!!X2 TEN,8
+FAIRY TAIL,9
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,8
+FATE/ZERO,9
+FATE/ZERO 2ND SEASON,9
+FREE!,8
+FREE!: ETERNAL SUMMER,8
+FRUITS BASKET,8
+FULLMETAL ALCHEMIST,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GAKKOUGURASHI!,7
+GAKUEN ALICE,7
+GAKUSEN TOSHI ASTERISK,7
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,7
+GEKKAN SHOUJO NOZAKI-KUN,9
+GIN NO SAJI,8
+GIN NO SAJI 2ND SEASON,8
+GINTAMA,9
+GINTAMA',9
+GINTAMA': ENCHOUSEN,9
+GOKUKOKU NO BRYNHILDR,7
+GRISAIA NO KAJITSU,7
+GUNDAM BUILD FIGHTERS,9
+GUNDAM BUILD FIGHTERS TRY,9
+HAIKYUU!!,8
+HATARAKU MAOU-SAMA!,7
+HENTAI OUJI TO WARAWANAI NEKO.,7
+HIBIKE! EUPHONIUM,8
+HIGASHI NO EDEN,8
+HIGURASHI NO NAKU KORO NI,7
+HITSUGI NO CHAIKA,8
+HITSUGI NO CHAIKA: AVENGING BATTLE,7
+HONZUKI NO GEKOKUJOU: SHISHO NI NARU TAME NI WA SHUDAN WO ERANDEIRAREMASEN,8
+HUNTER X HUNTER (2011),9
+HYOUKA,8
+INARI KONKON KOI IROHA.,7
+INOU-BATTLE WA NICHIJOU-KEI NO NAKA DE,7
+INUYASHA (TV),10
+INUYASHA (TV): KANKETSU-HEN,8
+IS: INFINITE STRATOS,7
+ISSHUUKAN FRIENDS.,9
+JITSU WA WATASHI WA,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KAKUMEIKI VALVRAVE,7
+KAMI NOMI ZO SHIRU SEKAI,9
+KAMI NOMI ZO SHIRU SEKAI II,8
+KAMI NOMI ZO SHIRU SEKAI: MEGAMI-HEN,8
+KAMISAMA HAJIMEMASHITA,7
+KATEKYO HITMAN REBORN!,8
+KEKKAI SENSEN,6
+KILL LA KILL,7
+KIMETSU NO YAIBA,8
+KIMI NI TODOKE,8
+KIMI NI TODOKE 2ND SEASON,8
+KINGDOM,8
+KINGDOM 2ND SEASON,9
+KISEIJUU: SEI NO KAKURITSU,9
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+KONJIKI NO GASH BELL!!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+KOTOURA-SAN,6
+KOUKYOUSHIHEN EUREKA SEVEN,8
+KYOUKAI NO KANATA,7
+LOG HORIZON,9
+LOG HORIZON 2ND SEASON,7
+MACHINE-DOLL WA KIZUTSUKANAI,7
+MAHOUKA KOUKOU NO RETTOUSEI,8
 MÄR,8
-Medarot,8
-Mermaid Melody Pichi Pichi Pitch,8
-Mermaid Melody Pichi Pichi Pitch Pure,8
-Mikakunin de Shinkoukei,8
-Mob Psycho 100,9
-Mob Psycho 100 II,9
-Mobile Suit Gundam 00,9
-Mobile Suit Gundam 00 Second Season,8
-Mobile Suit Gundam AGE,7
-Mobile Suit Gundam SEED,9
-Mobile Suit Gundam SEED Destiny,8
-Mobile Suit Gundam: Iron-Blooded Orphans,8
-Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season,9
-Myself; Yourself,8
-Nanatsu no Taizai,9
-Naruto,9
-Negima!?,7
-Nisekoi,9
-No Game No Life,7
-Noragami,8
-Nurarihyon no Mago,8
-Nurarihyon no Mago: Sennen Makyou,8
-Oda Nobuna no Yabou,7
-One Punch Man,8
-Ookami Shoujo to Kuro Ouji,7
-Ore no Imouto ga Konnani Kawaii Wake ga Nai,8
-Ore no Imouto ga Konnani Kawaii Wake ga Nai.,7
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,7
-Ouran Koukou Host Club,8
-Outbreak Company,8
-Overlord,8
-Overlord II,8
-Overlord III,8
-Ping Pong the Animation,9
-Plastic Memories,8
-Pokemon,8
-Psycho-Pass,9
-Psycho-Pass 2,9
-Rakudai Kishi no Cavalry,7
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Rockman.EXE,9
-Rockman.EXE Stream,8
-Rokka no Yuusha,8
-Rokujouma no Shinryakusha!? (TV),8
-Rosario to Vampire,7
-Ryuugajou Nanana no Maizoukin (TV),7
-Saenai Heroine no Sodatekata,8
-Saiki Kusuo no Ψ-nan,8
-Saiki Kusuo no Ψ-nan 2,8
-Sakura-sou no Pet na Kanojo,9
-Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,7
-SD Gundam Force,5
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Servant x Service,7
-Shakugan no Shana,9
-Shakugan no Shana II (Second),9
-Shaman King,9
-Shigatsu wa Kimi no Uso,9
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,7
-Shingeki no Bahamut: Genesis,8
-Shingeki no Kyojin,8
-Shinrei Tantei Yakumo,8
-Shirobako,9
-Shugo Chara!,8
-Shugo Chara!! Doki,8
-Sidonia no Kishi,9
-Skip Beat!,9
-Soul Eater,8
-Special A,8
-Spider Riders: Oracle no Yuusha-tachi,7
-Steins;Gate,9
-Strike the Blood,7
-Suisei no Gargantia,7
-Sukitte Ii na yo.,7
-Super GALS! Kotobuki Ran,9
-Sword Art Online,8
-Sword Art Online II,8
-Tengen Toppa Gurren Lagann,10
-Tensei shitara Slime Datta Ken,8
-Tenshi na Konamaiki,8
-Toaru Kagaku no Railgun,9
-Toaru Kagaku no Railgun S,9
-Toaru Majutsu no Index,9
-Toaru Majutsu no Index II,9
-Tokyo Ghoul,7
-Tonari no Kaibutsu-kun,7
-Toradora!,9
-Tsubasa Chronicle,8
-Ushio to Tora (TV),7
-Utawarerumono,7
-Vampire Knight,8
-Vampire Knight: Guilty,8
-Witch Craft Works,6
-Working!!,9
-Working!!!,9
-Working'!!,9
-xxxHOLiC,7
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,9
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,9
-Youjo Senki,8
-Yowamushi Pedal,8
-Yowamushi Pedal: Grande Road,8
-Yu☆Gi☆Oh!,7
-Yu☆Gi☆Oh! 5D's,8
-Yu☆Gi☆Oh! Duel Monsters,7
-Yu☆Gi☆Oh!: Duel Monsters GX,7
-Zankyou no Terror,7
-Zetman,7
+MEDAROT,8
+MERMAID MELODY PICHI PICHI PITCH,8
+MERMAID MELODY PICHI PICHI PITCH PURE,8
+MIKAKUNIN DE SHINKOUKEI,8
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,9
+MOBILE SUIT GUNDAM 00,9
+MOBILE SUIT GUNDAM 00 SECOND SEASON,8
+MOBILE SUIT GUNDAM AGE,7
+MOBILE SUIT GUNDAM SEED,9
+MOBILE SUIT GUNDAM SEED DESTINY,8
+MOBILE SUIT GUNDAM: IRON-BLOODED ORPHANS,8
+MOBILE SUIT GUNDAM: IRON-BLOODED ORPHANS 2ND SEASON,9
+MYSELF; YOURSELF,8
+NANATSU NO TAIZAI,9
+NARUTO,9
+NEGIMA!?,7
+NISEKOI,9
+NO GAME NO LIFE,7
+NORAGAMI,8
+NURARIHYON NO MAGO,8
+NURARIHYON NO MAGO: SENNEN MAKYOU,8
+ODA NOBUNA NO YABOU,7
+ONE PUNCH MAN,8
+OOKAMI SHOUJO TO KURO OUJI,7
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI,8
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI.,7
+ORE NO KANOJO TO OSANANAJIMI GA SHURABA SUGIRU,7
+OURAN KOUKOU HOST CLUB,8
+OUTBREAK COMPANY,8
+OVERLORD,8
+OVERLORD II,8
+OVERLORD III,8
+PING PONG THE ANIMATION,9
+PLASTIC MEMORIES,8
+POKEMON,8
+PSYCHO-PASS,9
+PSYCHO-PASS 2,9
+RAKUDAI KISHI NO CAVALRY,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+ROCKMAN.EXE,9
+ROCKMAN.EXE STREAM,8
+ROKKA NO YUUSHA,8
+ROKUJOUMA NO SHINRYAKUSHA!? (TV),8
+ROSARIO TO VAMPIRE,7
+RYUUGAJOU NANANA NO MAIZOUKIN (TV),7
+SAENAI HEROINE NO SODATEKATA,8
+SAIKI KUSUO NO Ψ-NAN,8
+SAIKI KUSUO NO Ψ-NAN 2,8
+SAKURA-SOU NO PET NA KANOJO,9
+SAKURAKO-SAN NO ASHIMOTO NI WA SHITAI GA UMATTEIRU,7
+SD GUNDAM FORCE,5
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SERVANT X SERVICE,7
+SHAKUGAN NO SHANA,9
+SHAKUGAN NO SHANA II (SECOND),9
+SHAMAN KING,9
+SHIGATSU WA KIMI NO USO,9
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,7
+SHINGEKI NO BAHAMUT: GENESIS,8
+SHINGEKI NO KYOJIN,8
+SHINREI TANTEI YAKUMO,8
+SHIROBAKO,9
+SHUGO CHARA!,8
+SHUGO CHARA!! DOKI,8
+SIDONIA NO KISHI,9
+SKIP BEAT!,9
+SOUL EATER,8
+SPECIAL A,8
+SPIDER RIDERS: ORACLE NO YUUSHA-TACHI,7
+STEINS;GATE,9
+STRIKE THE BLOOD,7
+SUISEI NO GARGANTIA,7
+SUKITTE II NA YO.,7
+SUPER GALS! KOTOBUKI RAN,9
+SWORD ART ONLINE,8
+SWORD ART ONLINE II,8
+TENGEN TOPPA GURREN LAGANN,10
+TENSEI SHITARA SLIME DATTA KEN,8
+TENSHI NA KONAMAIKI,8
+TOARU KAGAKU NO RAILGUN,9
+TOARU KAGAKU NO RAILGUN S,9
+TOARU MAJUTSU NO INDEX,9
+TOARU MAJUTSU NO INDEX II,9
+TOKYO GHOUL,7
+TONARI NO KAIBUTSU-KUN,7
+TORADORA!,9
+TSUBASA CHRONICLE,8
+USHIO TO TORA (TV),7
+UTAWARERUMONO,7
+VAMPIRE KNIGHT,8
+VAMPIRE KNIGHT: GUILTY,8
+WITCH CRAFT WORKS,6
+WORKING!!,9
+WORKING!!!,9
+WORKING'!!,9
+XXXHOLIC,7
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,9
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,9
+YOUJO SENKI,8
+YOWAMUSHI PEDAL,8
+YOWAMUSHI PEDAL: GRANDE ROAD,8
+YU☆GI☆OH!,7
+YU☆GI☆OH! 5D'S,8
+YU☆GI☆OH! DUEL MONSTERS,7
+YU☆GI☆OH!: DUEL MONSTERS GX,7
+ZANKYOU NO TERROR,7
+ZETMAN,7

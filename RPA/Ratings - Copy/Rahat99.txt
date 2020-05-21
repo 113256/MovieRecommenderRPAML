@@ -1,140 +1,140 @@
-91 Days,8
-Accel World,6
-Air,4
-Akagami no Shirayuki-hime,6
-Akame ga Kill!,5
-Angel Beats!,5
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Ano Natsu de Matteru,6
-Another,7
-Ao Haru Ride,7
-Ao no Exorcist,5
-Bakemonogatari,7
-Black Bullet,6
-Bleach,6
-Blood Lad,7
-Boku dake ga Inai Machi,6
-Boku no Hero Academia,8
-Bokura ga Ita,7
-Bokura wa Minna Kawai-sou,5
-Btooom!,7
-Charlotte,6
-ChäoS;HEAd,1
-Clannad,8
-Clannad: After Story,10
-Code Geass: Hangyaku no Lelouch,7
-Code Geass: Hangyaku no Lelouch R2,7
-Dakara Boku wa H ga Dekinai.,6
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,8
-Deadman Wonderland,6
-Death Note,9
-Death Parade,7
-Donten ni Warau,7
-Dragon Ball,7
-Dragon Ball GT,6
-Dragon Ball Kai,9
-Dragon Ball Z,9
-Durarara!!,8
-ef: A Tale of Memories.,6
-Elfen Lied,8
-Fairy Tail,7
-Fate/stay night: Unlimited Blade Works,8
-Fate/stay night: Unlimited Blade Works 2nd Season,7
-Fate/Zero,10
-Fate/Zero 2nd Season,10
-Fullmetal Alchemist: Brotherhood,10
-Fuuka,6
-Glasslip,3
-God Eater,7
-Gokukoku no Brynhildr,6
-Golden Time,9
-Groove Adventure Rave,9
-Guilty Crown,8
-Hai to Gensou no Grimgar,6
-Hamatora The Animation,6
-Hanamonogatari,5
-Hataraku Maou-sama!,7
-Higashi no Eden,7
-High School DxD,7
-High School DxD New,7
-Highschool of the Dead,5
-Higurashi no Naku Koro ni,7
-Higurashi no Naku Koro ni Kai,5
-Hunter x Hunter (2011),8
-Hyouka,7
-Itazura na Kiss,8
-Kaichou wa Maid-sama!,5
-Kanon (2006),8
-Kämpfer,4
-Kenpuu Denki Berserk,8
-Kill la Kill,9
-Kimi ga Nozomu Eien,8
-Kiseijuu: Sei no Kakuritsu,9
-Kiss x Sis (TV),6
-Kiznaiver,6
-Kokoro Connect,8
-Kyoukai no Kanata,6
-Magi: The Kingdom of Magic,8
-Magi: The Labyrinth of Magic,8
-Maken-Ki!,5
-Mayo Chiki!,5
-Mirai Nikki,8
-Monogatari Series: Second Season,8
-Myself; Yourself,9
-Naruto,7
-Nekomonogatari: Kuro,7
-Nisekoi,5
-Nisemonogatari,8
-No Game No Life,6
-Noragami,7
-Noragami Aragoto,7
-Omamori Himari,6
-One Punch Man,7
-Ookami Shoujo to Kuro Ouji,5
-Ore Monogatari!!,6
-Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,8
-Owari no Seraph,8
-Plastic Memories,8
-Pokemon,6
-Psycho-Pass,8
-Psycho-Pass 2,8
-Pupa,4
-Re:Zero kara Hajimeru Isekai Seikatsu,7
-Rokka no Yuusha,7
-Rosario to Vampire,5
-Rurouni Kenshin: Meiji Kenkaku Romantan,8
-Sakamichi no Apollon,5
-Sakura Trick,4
-Sakura-sou no Pet na Kanojo,9
-School Days,8
-Sekirei,6
-Serial Experiments Lain,7
-Shakugan no Shana,6
-Shaman King,8
-Shigatsu wa Kimi no Uso,9
-Shiki,8
-Shingeki no Kyojin,9
-Shinrei Tantei Yakumo,7
-Skip Beat!,7
-Special A,6
-Steins;Gate,9
-Sukitte Ii na yo.,7
-Sword Art Online,7
-Sword Art Online II,7
-Tales of Zestiria the Cross,7
-Terra Formars,5
-Tokyo Ghoul,3
-Tokyo Ghoul √A,1
-Tonari no Kaibutsu-kun,7
-Toradora!,7
-True Tears,7
-Umineko no Naku Koro ni,6
-White Album,8
-White Album 2,9
-White Album 2nd Season,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,7
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,6
-Zankyou no Terror,9
-Zero no Tsukaima,6
-Zero no Tsukaima: Futatsuki no Kishi,6
-Zetsuen no Tempest,8
+﻿91 DAYS,8
+ACCEL WORLD,6
+AIR,4
+AKAGAMI NO SHIRAYUKI-HIME,6
+AKAME GA KILL!,5
+ANGEL BEATS!,5
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+ANO NATSU DE MATTERU,6
+ANOTHER,7
+AO HARU RIDE,7
+AO NO EXORCIST,5
+BAKEMONOGATARI,7
+BLACK BULLET,6
+BLEACH,6
+BLOOD LAD,7
+BOKU DAKE GA INAI MACHI,6
+BOKU NO HERO ACADEMIA,8
+BOKURA GA ITA,7
+BOKURA WA MINNA KAWAI-SOU,5
+BTOOOM!,7
+CHARLOTTE,6
+CHÄOS;HEAD,1
+CLANNAD,8
+CLANNAD: AFTER STORY,10
+CODE GEASS: HANGYAKU NO LELOUCH,7
+CODE GEASS: HANGYAKU NO LELOUCH R2,7
+DAKARA BOKU WA H GA DEKINAI.,6
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,8
+DEADMAN WONDERLAND,6
+DEATH NOTE,9
+DEATH PARADE,7
+DONTEN NI WARAU,7
+DRAGON BALL,7
+DRAGON BALL GT,6
+DRAGON BALL KAI,9
+DRAGON BALL Z,9
+DURARARA!!,8
+EF: A TALE OF MEMORIES.,6
+ELFEN LIED,8
+FAIRY TAIL,7
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,7
+FATE/ZERO,10
+FATE/ZERO 2ND SEASON,10
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+FUUKA,6
+GLASSLIP,3
+GOD EATER,7
+GOKUKOKU NO BRYNHILDR,6
+GOLDEN TIME,9
+GROOVE ADVENTURE RAVE,9
+GUILTY CROWN,8
+HAI TO GENSOU NO GRIMGAR,6
+HAMATORA THE ANIMATION,6
+HANAMONOGATARI,5
+HATARAKU MAOU-SAMA!,7
+HIGASHI NO EDEN,7
+HIGH SCHOOL DXD,7
+HIGH SCHOOL DXD NEW,7
+HIGHSCHOOL OF THE DEAD,5
+HIGURASHI NO NAKU KORO NI,7
+HIGURASHI NO NAKU KORO NI KAI,5
+HUNTER X HUNTER (2011),8
+HYOUKA,7
+ITAZURA NA KISS,8
+KAICHOU WA MAID-SAMA!,5
+KANON (2006),8
+KÄMPFER,4
+KENPUU DENKI BERSERK,8
+KILL LA KILL,9
+KIMI GA NOZOMU EIEN,8
+KISEIJUU: SEI NO KAKURITSU,9
+KISS X SIS (TV),6
+KIZNAIVER,6
+KOKORO CONNECT,8
+KYOUKAI NO KANATA,6
+MAGI: THE KINGDOM OF MAGIC,8
+MAGI: THE LABYRINTH OF MAGIC,8
+MAKEN-KI!,5
+MAYO CHIKI!,5
+MIRAI NIKKI,8
+MONOGATARI SERIES: SECOND SEASON,8
+MYSELF; YOURSELF,9
+NARUTO,7
+NEKOMONOGATARI: KURO,7
+NISEKOI,5
+NISEMONOGATARI,8
+NO GAME NO LIFE,6
+NORAGAMI,7
+NORAGAMI ARAGOTO,7
+OMAMORI HIMARI,6
+ONE PUNCH MAN,7
+OOKAMI SHOUJO TO KURO OUJI,5
+ORE MONOGATARI!!,6
+ORE NO NOUNAI SENTAKUSHI GA GAKUEN LOVE COMEDY WO ZENRYOKU DE JAMA SHITEIRU,8
+OWARI NO SERAPH,8
+PLASTIC MEMORIES,8
+POKEMON,6
+PSYCHO-PASS,8
+PSYCHO-PASS 2,8
+PUPA,4
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,7
+ROKKA NO YUUSHA,7
+ROSARIO TO VAMPIRE,5
+RUROUNI KENSHIN: MEIJI KENKAKU ROMANTAN,8
+SAKAMICHI NO APOLLON,5
+SAKURA TRICK,4
+SAKURA-SOU NO PET NA KANOJO,9
+SCHOOL DAYS,8
+SEKIREI,6
+SERIAL EXPERIMENTS LAIN,7
+SHAKUGAN NO SHANA,6
+SHAMAN KING,8
+SHIGATSU WA KIMI NO USO,9
+SHIKI,8
+SHINGEKI NO KYOJIN,9
+SHINREI TANTEI YAKUMO,7
+SKIP BEAT!,7
+SPECIAL A,6
+STEINS;GATE,9
+SUKITTE II NA YO.,7
+SWORD ART ONLINE,7
+SWORD ART ONLINE II,7
+TALES OF ZESTIRIA THE CROSS,7
+TERRA FORMARS,5
+TOKYO GHOUL,3
+TOKYO GHOUL √A,1
+TONARI NO KAIBUTSU-KUN,7
+TORADORA!,7
+TRUE TEARS,7
+UMINEKO NO NAKU KORO NI,6
+WHITE ALBUM,8
+WHITE ALBUM 2,9
+WHITE ALBUM 2ND SEASON,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,7
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,6
+ZANKYOU NO TERROR,9
+ZERO NO TSUKAIMA,6
+ZERO NO TSUKAIMA: FUTATSUKI NO KISHI,6
+ZETSUEN NO TEMPEST,8

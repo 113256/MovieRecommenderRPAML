@@ -1,48 +1,48 @@
-﻿Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Ansatsu Kyoushitsu,6
-Ansatsu Kyoushitsu 2nd Season,7
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,8
-Boku no Hero Academia 4th Season,7
-Bungou Stray Dogs 2nd Season,7
-Clannad,9
-Clannad: After Story,9
-Code Geass: Hangyaku no Lelouch,7
-Dragon Ball Z,6
-Fairy Tail (2014),6
-Fate/stay night: Unlimited Blade Works,8
-Fate/stay night: Unlimited Blade Works 2nd Season,8
-Fullmetal Alchemist: Brotherhood,10
-Gundam Build Fighters,8
-Haikyuu!!,7
-Haikyuu!! Second Season,7
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8
-Hunter x Hunter (2011),10
-Katekyo Hitman Reborn!,10
-Kimetsu no Yaiba,7
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Kuroko no Basket 2nd Season,7
-Log Horizon,5
-Magi: The Kingdom of Magic,9
-Magi: The Labyrinth of Magic,9
-Mob Psycho 100,10
-Mob Psycho 100 II,10
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Imashime no Fukkatsu,7
-Naruto,7
-Naruto: Shippuuden,7
-No Game No Life,6
-Noragami,7
-Noragami Aragoto,7
-One Punch Man,6
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Shigatsu wa Kimi no Uso,9
-Soul Eater,7
-Tate no Yuusha no Nariagari,7
-Tengen Toppa Gurren Lagann,7
-Tokyo Ghoul,7
-Violet Evergarden,8
-Yakusoku no Neverland,8
-Zetsuen no Tempest,7
+﻿ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+ANSATSU KYOUSHITSU,6
+ANSATSU KYOUSHITSU 2ND SEASON,7
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BOKU NO HERO ACADEMIA 4TH SEASON,7
+BUNGOU STRAY DOGS 2ND SEASON,7
+CLANNAD,9
+CLANNAD: AFTER STORY,9
+CODE GEASS: HANGYAKU NO LELOUCH,7
+DRAGON BALL Z,6
+FAIRY TAIL (2014),6
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GUNDAM BUILD FIGHTERS,8
+HAIKYUU!!,7
+HAIKYUU!! SECOND SEASON,7
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,8
+HUNTER X HUNTER (2011),10
+KATEKYO HITMAN REBORN!,10
+KIMETSU NO YAIBA,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+KUROKO NO BASKET 2ND SEASON,7
+LOG HORIZON,5
+MAGI: THE KINGDOM OF MAGIC,9
+MAGI: THE LABYRINTH OF MAGIC,9
+MOB PSYCHO 100,10
+MOB PSYCHO 100 II,10
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,7
+NARUTO,7
+NARUTO: SHIPPUUDEN,7
+NO GAME NO LIFE,6
+NORAGAMI,7
+NORAGAMI ARAGOTO,7
+ONE PUNCH MAN,6
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+SHIGATSU WA KIMI NO USO,9
+SOUL EATER,7
+TATE NO YUUSHA NO NARIAGARI,7
+TENGEN TOPPA GURREN LAGANN,7
+TOKYO GHOUL,7
+VIOLET EVERGARDEN,8
+YAKUSOKU NO NEVERLAND,8
+ZETSUEN NO TEMPEST,7

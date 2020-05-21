@@ -1,43 +1,25 @@
-﻿Black Lagoon,8
-Boku no Hero Academia,-
-Boku no Hero Academia 2nd Season,-
-Boku no Hero Academia 3rd Season,-
-Claymore,8
-Code Geass: Hangyaku no Lelouch,-
-Code Geass: Hangyaku no Lelouch R2,-
-Cowboy Bebop,-
-Death Note,9
-Devil May Cry,-
-Dragon Ball Z,-
-Drifters,7
-Fate/Zero,8
-Fullmetal Alchemist: Brotherhood,10
-Grappler Baki (TV),7
-Highschool of the Dead,7
-Initial D Final Stage,-
-Initial D First Stage,8
-JoJo no Kimyou na Bouken (TV),10
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,10
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,10
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,10
-Kenpuu Denki Berserk,10
-Kill la Kill,9
-Kiseijuu: Sei no Kakuritsu,8
-Mob Psycho 100,9
-Mobile Suit Gundam 00,9
-Mobile Suit Gundam 00 Second Season,-
-Naruto,8
-Naruto: Shippuuden,8
-One Punch Man,9
-Samurai Champloo,9
-Shingeki no Kyojin,-
-Shingeki no Kyojin Season 2,-
-Shokugeki no Souma,-
-Shokugeki no Souma: Ni no Sara,-
-Shokugeki no Souma: San no Sara,-
-Soul Eater,9
-Tokyo Ghoul,-
-Tokyo Ghoul √A,-
-Watashi ga Motete Dousunda,-
-Yu☆Gi☆Oh! Duel Monsters,7
-Zankyou no Terror,9
+﻿BLACK LAGOON,8
+CLAYMORE,8
+DEATH NOTE,9
+DRIFTERS,7
+FATE/ZERO,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GRAPPLER BAKI (TV),7
+HIGHSCHOOL OF THE DEAD,7
+INITIAL D FIRST STAGE,8
+JOJO NO KIMYOU NA BOUKEN (TV),10
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,10
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,10
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,10
+KENPUU DENKI BERSERK,10
+KILL LA KILL,9
+KISEIJUU: SEI NO KAKURITSU,8
+MOB PSYCHO 100,9
+MOBILE SUIT GUNDAM 00,9
+NARUTO,8
+NARUTO: SHIPPUUDEN,8
+ONE PUNCH MAN,9
+SAMURAI CHAMPLOO,9
+SOUL EATER,9
+YU☆GI☆OH! DUEL MONSTERS,7
+ZANKYOU NO TERROR,9

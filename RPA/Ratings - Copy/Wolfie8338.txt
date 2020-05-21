@@ -1,68 +1,68 @@
-5-toubun no Hanayome,9
-Akagami no Shirayuki-hime,7
-Akaneiro ni Somaru Saka,6
-Angel Beats!,9
-Blend S,8
-Charlotte,10
-Cross Fight B-Daman,8
-Cross Fight B-Daman eS,6
-Dragon Ball,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,6
-Eromanga-sensei,7
-Fruits Basket,8
-Future Card Buddyfight,7
-Future Card Buddyfight Battsu,6
-Future Card Buddyfight Hundred,8
-Future Card Buddyfight Triple D,6
-Fuuka,5
-Haikyuu!!,8
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Haikyuu!!: To the Top,9
-Isekai Quartet,7
-Isekai wa Smartphone to Tomo ni.,6
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kaichou wa Maid-sama!,8
-Karakai Jouzu no Takagi-san,9
-Karakai Jouzu no Takagi-san 2,10
-Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?,5
-Kimetsu no Yaiba,9
-Kiss x Sis (TV),6
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Lucky☆Star,9
-Masamune-kun no Revenge,7
-Mayo Chiki!,9
-Midara na Ao-chan wa Benkyou ga Dekinai,7
-Nande Koko ni Sensei ga!?,6
-Naruto,8
-Nisekoi,8
-Nisekoi:,7
-No Game No Life,9
-Okusama ga Seitokaichou!,6
-Okusama ga Seitokaichou!+!,6
-Ore no Imouto ga Konnani Kawaii Wake ga Nai,7
-Ore no Imouto ga Konnani Kawaii Wake ga Nai.,7
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,6
-Osake wa Fuufu ni Natte kara,7
-Plastic Memories,10
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Ryuuou no Oshigoto!,6
-Saikin Imouto no Yousu ga Chotto Okashiinda ga.,6
-Sakura-sou no Pet na Kanojo,9
-Shigatsu wa Kimi no Uso,10
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,8
-Shingeki! Kyojin Chuugakkou,7
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,7
-Steins;Gate,10
-Sword Art Online,8
-Sword Art Online II,8
-Sword Art Online: Alicization,7
-Sword Art Online: Alicization - War of Underworld,8
-Toradora!,8
-Tsurezure Children,8
-Yosuga no Sora: In Solitude Where We Are Least Alone.,5
+﻿5-TOUBUN NO HANAYOME,9
+AKAGAMI NO SHIRAYUKI-HIME,7
+AKANEIRO NI SOMARU SAKA,6
+ANGEL BEATS!,9
+BLEND S,8
+CHARLOTTE,10
+CROSS FIGHT B-DAMAN,8
+CROSS FIGHT B-DAMAN ES,6
+DRAGON BALL,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA GAIDEN: SWORD ORATORIA,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,6
+EROMANGA-SENSEI,7
+FRUITS BASKET,8
+FUTURE CARD BUDDYFIGHT,7
+FUTURE CARD BUDDYFIGHT BATTSU,6
+FUTURE CARD BUDDYFIGHT HUNDRED,8
+FUTURE CARD BUDDYFIGHT TRIPLE D,6
+FUUKA,5
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HAIKYUU!!: TO THE TOP,9
+ISEKAI QUARTET,7
+ISEKAI WA SMARTPHONE TO TOMO NI.,6
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KAICHOU WA MAID-SAMA!,8
+KARAKAI JOUZU NO TAKAGI-SAN,9
+KARAKAI JOUZU NO TAKAGI-SAN 2,10
+KAWAIKEREBA HENTAI DEMO SUKI NI NATTE KUREMASU KA?,5
+KIMETSU NO YAIBA,9
+KISS X SIS (TV),6
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+LUCKY☆STAR,9
+MASAMUNE-KUN NO REVENGE,7
+MAYO CHIKI!,9
+MIDARA NA AO-CHAN WA BENKYOU GA DEKINAI,7
+NANDE KOKO NI SENSEI GA!?,6
+NARUTO,8
+NISEKOI,8
+NISEKOI:,7
+NO GAME NO LIFE,9
+OKUSAMA GA SEITOKAICHOU!,6
+OKUSAMA GA SEITOKAICHOU!+!,6
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI,7
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI.,7
+ORE NO KANOJO TO OSANANAJIMI GA SHURABA SUGIRU,6
+OSAKE WA FUUFU NI NATTE KARA,7
+PLASTIC MEMORIES,10
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+RYUUOU NO OSHIGOTO!,6
+SAIKIN IMOUTO NO YOUSU GA CHOTTO OKASHIINDA GA.,6
+SAKURA-SOU NO PET NA KANOJO,9
+SHIGATSU WA KIMI NO USO,10
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,8
+SHINGEKI! KYOJIN CHUUGAKKOU,7
+SHUUMATSU NANI SHITEMASU KA? ISOGASHII DESU KA? SUKUTTE MORATTE II DESU KA?,7
+STEINS;GATE,10
+SWORD ART ONLINE,8
+SWORD ART ONLINE II,8
+SWORD ART ONLINE: ALICIZATION,7
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,8
+TORADORA!,8
+TSUREZURE CHILDREN,8
+YOSUGA NO SORA: IN SOLITUDE WHERE WE ARE LEAST ALONE.,5

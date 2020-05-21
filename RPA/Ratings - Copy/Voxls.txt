@@ -1,31 +1,31 @@
-﻿Angel Beats!,6
-Ansatsu Kyoushitsu,9
-Ansatsu Kyoushitsu 2nd Season,10
-Ao no Exorcist,8
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,7
-Boku no Hero Academia 4th Season,8
-Code Geass: Hangyaku no Lelouch,10
-Death Note,10
-Fullmetal Alchemist: Brotherhood,10
-Haikyuu!!,8
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,7
-Hunter x Hunter (2011),10
-Kakegurui,2
-Kakegurui××,1
-Nanatsu no Taizai,8
-Nanatsu no Taizai: Imashime no Fukkatsu,8
-Naruto,7
-Naruto: Shippuuden,10
-Noragami,8
-Noragami Aragoto,9
-One Punch Man,6
-Shingeki no Kyojin,7
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,9
-Tokyo Ghoul,9
-Tokyo Ghoul √A,7
-Yu☆Gi☆Oh! Duel Monsters,10
-Yu☆Gi☆Oh! Zexal,8
+﻿ANGEL BEATS!,6
+ANSATSU KYOUSHITSU,9
+ANSATSU KYOUSHITSU 2ND SEASON,10
+AO NO EXORCIST,8
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+BOKU NO HERO ACADEMIA 4TH SEASON,8
+CODE GEASS: HANGYAKU NO LELOUCH,10
+DEATH NOTE,10
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,7
+HUNTER X HUNTER (2011),10
+KAKEGURUI,2
+KAKEGURUI××,1
+NANATSU NO TAIZAI,8
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,8
+NARUTO,7
+NARUTO: SHIPPUUDEN,10
+NORAGAMI,8
+NORAGAMI ARAGOTO,9
+ONE PUNCH MAN,6
+SHINGEKI NO KYOJIN,7
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,9
+TOKYO GHOUL,9
+TOKYO GHOUL √A,7
+YU☆GI☆OH! DUEL MONSTERS,10
+YU☆GI☆OH! ZEXAL,8

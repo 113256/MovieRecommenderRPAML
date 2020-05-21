@@ -1,15 +1,15 @@
-﻿Cowboy Bebop,10
-Devils Line,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
-Golden Time,9
-Hataraku Maou-sama!,9
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kenpuu Denki Berserk,10
-Masamune-kun no Revenge,6
-One Punch Man,8
-Orange,9
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Tokyo Ghoul,9
-White Album 2,8
-Wotaku ni Koi wa Muzukashii,7
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,8
+﻿COWBOY BEBOP,10
+DEVILS LINE,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,8
+GOLDEN TIME,9
+HATARAKU MAOU-SAMA!,9
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KENPUU DENKI BERSERK,10
+MASAMUNE-KUN NO REVENGE,6
+ONE PUNCH MAN,8
+ORANGE,9
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+TOKYO GHOUL,9
+WHITE ALBUM 2,8
+WOTAKU NI KOI WA MUZUKASHII,7
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,8

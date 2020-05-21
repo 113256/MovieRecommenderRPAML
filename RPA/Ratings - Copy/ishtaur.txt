@@ -1,48 +1,48 @@
-Akame ga Kill!,9
-Akatsuki no Yona,7
-Angel Beats!,10
-Arifureta Shokugyou de Sekai Saikyou,6
-Boku dake ga Inai Machi,10
-Charlotte,9
-Chuunibyou demo Koi ga Shitai!,8
-Chuunibyou demo Koi ga Shitai! Ren,9
-Darling in the FranXX,8
-Date A Live,7
-Date A Live II,6
-Date A Live III,8
-Deadman Wonderland,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria,5
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,8
-Eromanga-sensei,5
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,7
-Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,8
-Gosick,10
-Himouto! Umaru-chan,5
-Himouto! Umaru-chan R,6
-Hyouka,9
-K-On!,7
-K-On!!,9
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kiznaiver,7
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Koutetsujou no Kabaneri,8
-Neon Genesis Evangelion,8
-No Game No Life,8
-Rakudai Kishi no Cavalry,5
-Re:Zero kara Hajimeru Isekai Seikatsu,10
-Saenai Heroine no Sodatekata,6
-Saenai Heroine no Sodatekata ♭,7
-Sakura-sou no Pet na Kanojo,9
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Sewayaki Kitsune no Senko-san,6
-Shoujo Shuumatsu Ryokou,8
-SSSS.Gridman,8
-Tate no Yuusha no Nariagari,8
-Tengen Toppa Gurren Lagann,9
-Toradora!,8
-Tsuki ga Kirei,10
-Tsurezure Children,8
-Violet Evergarden,9
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),2
+﻿AKAME GA KILL!,9
+AKATSUKI NO YONA,7
+ANGEL BEATS!,10
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,6
+BOKU DAKE GA INAI MACHI,10
+CHARLOTTE,9
+CHUUNIBYOU DEMO KOI GA SHITAI!,8
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,9
+DARLING IN THE FRANXX,8
+DATE A LIVE,7
+DATE A LIVE II,6
+DATE A LIVE III,8
+DEADMAN WONDERLAND,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA GAIDEN: SWORD ORATORIA,5
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,8
+EROMANGA-SENSEI,5
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,7
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI 2ND SEASON,8
+GOSICK,10
+HIMOUTO! UMARU-CHAN,5
+HIMOUTO! UMARU-CHAN R,6
+HYOUKA,9
+K-ON!,7
+K-ON!!,9
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KIZNAIVER,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+KOUTETSUJOU NO KABANERI,8
+NEON GENESIS EVANGELION,8
+NO GAME NO LIFE,8
+RAKUDAI KISHI NO CAVALRY,5
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+SAENAI HEROINE NO SODATEKATA,6
+SAENAI HEROINE NO SODATEKATA ♭,7
+SAKURA-SOU NO PET NA KANOJO,9
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SEWAYAKI KITSUNE NO SENKO-SAN,6
+SHOUJO SHUUMATSU RYOKOU,8
+SSSS.GRIDMAN,8
+TATE NO YUUSHA NO NARIAGARI,8
+TENGEN TOPPA GURREN LAGANN,9
+TORADORA!,8
+TSUKI GA KIREI,10
+TSUREZURE CHILDREN,8
+VIOLET EVERGARDEN,9
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),2

@@ -1,43 +1,36 @@
-﻿Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,6
-Another,6
-Ansatsu Kyoushitsu,8
-Ansatsu Kyoushitsu 2nd Season,9
-Blood-C,-
-Boku dake ga Inai Machi,7
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,6
-Boku no Hero Academia 4th Season,7
-Carole & Tuesday,6
-Charlotte,-
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,7
-Darling in the FranXX,5
-Death Parade,-
-Domestic na Kanojo,5
-Free!,6
-Fruits Basket 1st Season,7
-Fullmetal Alchemist: Brotherhood,10
-Given,8
-Haikyuu!!,-
-Haikyuu!! Second Season,-
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,-
-Hataraku Maou-sama!,6
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,7
-Kanojo to Kanojo no Neko: Everything Flows,7
-Kobayashi-san Chi no Maid Dragon,7
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kuzu no Honkai,6
-Kyoukai no Kanata,7
-Mahou Shoujo Madoka★Magica,-
-Mirai Nikki,7
-Nisekoi,6
-Noragami,7
-Noragami Aragoto,6
-Ouran Koukou Host Club,7
-Owari no Seraph,6
-Soul Eater,7
-Tokyo Ghoul,6
-Wotaku ni Koi wa Muzukashii,7
-Yakusoku no Neverland,8
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV),5
-Zankyou no Terror,8
+﻿ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,6
+ANOTHER,6
+ANSATSU KYOUSHITSU,8
+ANSATSU KYOUSHITSU 2ND SEASON,9
+BOKU DAKE GA INAI MACHI,7
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,6
+BOKU NO HERO ACADEMIA 4TH SEASON,7
+CAROLE & TUESDAY,6
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,7
+DARLING IN THE FRANXX,5
+DOMESTIC NA KANOJO,5
+FREE!,6
+FRUITS BASKET 1ST SEASON,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GIVEN,8
+HATARAKU MAOU-SAMA!,6
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,7
+KANOJO TO KANOJO NO NEKO: EVERYTHING FLOWS,7
+KOBAYASHI-SAN CHI NO MAID DRAGON,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KUZU NO HONKAI,6
+KYOUKAI NO KANATA,7
+MIRAI NIKKI,7
+NISEKOI,6
+NORAGAMI,7
+NORAGAMI ARAGOTO,6
+OURAN KOUKOU HOST CLUB,7
+OWARI NO SERAPH,6
+SOUL EATER,7
+TOKYO GHOUL,6
+WOTAKU NI KOI WA MUZUKASHII,7
+YAKUSOKU NO NEVERLAND,8
+YOUKOSO JITSURYOKU SHIJOU SHUGI NO KYOUSHITSU E (TV),5
+ZANKYOU NO TERROR,8

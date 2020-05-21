@@ -1,26 +1,24 @@
-﻿A-Channel,10
-Charlotte,9
-GA: Geijutsuka Art Design Class,8
-Gakkougurashi!,7
-Gochuumon wa Usagi Desu ka?,-
-Haitai Nanafa,7
-Heya Camp△,10
-Hidamari Sketch,9
-IS: Infinite Stratos,10
-IS: Infinite Stratos 2,9
-JoJo no Kimyou na Bouken (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,-
-Karakai Jouzu no Takagi-san,9
-Karakai Jouzu no Takagi-san 2,9
-Koisuru Asteroid,10
-Kyoukai no Kanata,10
-Love Live! School Idol Project,8
-Love Live! School Idol Project 2nd Season,10
-Love Live! Sunshine!!,10
-Love Live! Sunshine!! 2nd Season,10
-One Room,10
-One Room Second Season,10
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,-
-Shigatsu wa Kimi no Uso,10
-Watashi ni Tenshi ga Maiorita!,10
-Yuru Camp△,10
+﻿A-CHANNEL,10
+CHARLOTTE,9
+GA: GEIJUTSUKA ART DESIGN CLASS,8
+GAKKOUGURASHI!,7
+HAITAI NANAFA,7
+HEYA CAMP△,10
+HIDAMARI SKETCH,9
+IS: INFINITE STRATOS,10
+IS: INFINITE STRATOS 2,9
+JOJO NO KIMYOU NA BOUKEN (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+KARAKAI JOUZU NO TAKAGI-SAN,9
+KARAKAI JOUZU NO TAKAGI-SAN 2,9
+KOISURU ASTEROID,10
+KYOUKAI NO KANATA,10
+LOVE LIVE! SCHOOL IDOL PROJECT,8
+LOVE LIVE! SCHOOL IDOL PROJECT 2ND SEASON,10
+LOVE LIVE! SUNSHINE!!,10
+LOVE LIVE! SUNSHINE!! 2ND SEASON,10
+ONE ROOM,10
+ONE ROOM SECOND SEASON,10
+SHIGATSU WA KIMI NO USO,10
+WATASHI NI TENSHI GA MAIORITA!,10
+YURU CAMP△,10

@@ -1,36 +1,33 @@
-﻿Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,-
-Btooom!,7
-Code Geass: Hangyaku no Lelouch,10
-Code Geass: Hangyaku no Lelouch R2,10
-Cowboy Bebop,8
-Death Note,10
-Death Parade,9
-Fullmetal Alchemist: Brotherhood,9
-God Eater,5
-Hunter x Hunter (2011),9
-Kimetsu no Yaiba,-
-Kiseijuu: Sei no Kakuritsu,9
-Nanatsu no Taizai,6
-Nanatsu no Taizai: Imashime no Fukkatsu,6
-Nanatsu no Taizai: Seisen no Shirushi,5
-Naruto,-
-One Punch Man,7
-One Punch Man 2nd Season,6
-Psycho-Pass,8
-Psycho-Pass 2,7
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,9
-Steins;Gate,9
-Steins;Gate 0,8
-Tokyo Ghoul,7
-Tokyo Ghoul √A,6
-Tokyo Ghoul:re,6
-Tokyo Ghoul:re 2nd Season,7
-Violet Evergarden,8
-Yakusoku no Neverland,9
-Youjo Senki,6
+﻿BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BTOOOM!,7
+CODE GEASS: HANGYAKU NO LELOUCH,10
+CODE GEASS: HANGYAKU NO LELOUCH R2,10
+COWBOY BEBOP,8
+DEATH NOTE,10
+DEATH PARADE,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+GOD EATER,5
+HUNTER X HUNTER (2011),9
+KISEIJUU: SEI NO KAKURITSU,9
+NANATSU NO TAIZAI,6
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,6
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,5
+ONE PUNCH MAN,7
+ONE PUNCH MAN 2ND SEASON,6
+PSYCHO-PASS,8
+PSYCHO-PASS 2,7
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+STEINS;GATE,9
+STEINS;GATE 0,8
+TOKYO GHOUL,7
+TOKYO GHOUL √A,6
+TOKYO GHOUL:RE,6
+TOKYO GHOUL:RE 2ND SEASON,7
+VIOLET EVERGARDEN,8
+YAKUSOKU NO NEVERLAND,9
+YOUJO SENKI,6

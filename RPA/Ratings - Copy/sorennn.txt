@@ -1,21 +1,20 @@
-﻿Boku dake ga Inai Machi,8
-Eizouken ni wa Te wo Dasu na!,9
-Gabriel DropOut,8
-JoJo no Kimyou na Bouken (TV),7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,7
-K-On!,10
-Kobayashi-san Chi no Maid Dragon,8
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,7
-Neon Genesis Evangelion,10
-Pokemon,-
-Serial Experiments Lain,10
-Sewayaki Kitsune no Senko-san,8
-Sword Art Online,5
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,9
-Yuru Yuri,9
-Yuru Yuri San☆Hai!,9
-Yuru Yuri♪♪,9
+﻿BOKU DAKE GA INAI MACHI,8
+EIZOUKEN NI WA TE WO DASU NA!,9
+GABRIEL DROPOUT,8
+JOJO NO KIMYOU NA BOUKEN (TV),7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,9
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,7
+K-ON!,10
+KOBAYASHI-SAN CHI NO MAID DRAGON,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,7
+NEON GENESIS EVANGELION,10
+SERIAL EXPERIMENTS LAIN,10
+SEWAYAKI KITSUNE NO SENKO-SAN,8
+SWORD ART ONLINE,5
+WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,9
+YURU YURI,9
+YURU YURI SAN☆HAI!,9
+YURU YURI♪♪,9

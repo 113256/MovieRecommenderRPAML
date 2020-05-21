@@ -1,58 +1,56 @@
-Akame ga Kill!,4
-Angel Beats!,3
-Code Geass: Hangyaku no Lelouch,10
-Code Geass: Hangyaku no Lelouch R2,10
-Darling in the FranXX,6
-Fate/stay night: Unlimited Blade Works,5
-Fate/Zero,1
-Fate/Zero 2nd Season,1
-Fullmetal Alchemist: Brotherhood,5
-Gate: Jieitai Kanochi nite Kaku Tatakaeri,7
-Gate: Jieitai Kanochi nite Kaku Tatakaeri 2nd Season,5
-Girls & Panzer,4
-Golden Time,7
-Hataraku Maou-sama!,8
-Hinamatsuri,7
-Hitsugi no Chaika,7
-Hitsugi no Chaika: Avenging Battle,7
-Initial D Fifth Stage,8
-Initial D Final Stage,8
-Initial D First Stage,8
-Initial D Fourth Stage,8
-Initial D Second Stage,8
-Kami nomi zo Shiru Sekai,5
-Kekkai Sensen,5
-Kill la Kill,6
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,7
-Lucky☆Star,8
-Macross,8
-Macross 7,8
-Macross F,10
-Macross Δ,10
-Made in Abyss,9
-Mahou Shoujo Madoka★Magica,6
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?,7
-Neon Genesis Evangelion,4
-No Game No Life,4
-One Punch Man,9
-Ookami to Koushinryou,9
-Ookami to Koushinryou II,9
-Overlord,7
-Overlord II,6
-Overlord III,5
-Panty & Stocking with Garterbelt,7
-Princess Principal,7
-Psycho-Pass,10
-Psycho-Pass 2,4
-Psycho-Pass 3,5
-Re:Zero kara Hajimeru Isekai Seikatsu,-
-Sidonia no Kishi,7
-Sidonia no Kishi: Daikyuu Wakusei Seneki,8
-Steins;Gate,6
-Taiho Shichau zo (TV),7
-Taiho Shichau zo Special,6
-Taiho Shichau zo: Second Season,-
-Tate no Yuusha no Nariagari,3
-Tengen Toppa Gurren Lagann,6
-Wangan Midnight,7
+﻿AKAME GA KILL!,4
+ANGEL BEATS!,3
+CODE GEASS: HANGYAKU NO LELOUCH,10
+CODE GEASS: HANGYAKU NO LELOUCH R2,10
+DARLING IN THE FRANXX,6
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,5
+FATE/ZERO,1
+FATE/ZERO 2ND SEASON,1
+FULLMETAL ALCHEMIST: BROTHERHOOD,5
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI,7
+GATE: JIEITAI KANOCHI NITE KAKU TATAKAERI 2ND SEASON,5
+GIRLS & PANZER,4
+GOLDEN TIME,7
+HATARAKU MAOU-SAMA!,8
+HINAMATSURI,7
+HITSUGI NO CHAIKA,7
+HITSUGI NO CHAIKA: AVENGING BATTLE,7
+INITIAL D FIFTH STAGE,8
+INITIAL D FINAL STAGE,8
+INITIAL D FIRST STAGE,8
+INITIAL D FOURTH STAGE,8
+INITIAL D SECOND STAGE,8
+KAMI NOMI ZO SHIRU SEKAI,5
+KEKKAI SENSEN,5
+KILL LA KILL,6
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,7
+LUCKY☆STAR,8
+MACROSS,8
+MACROSS 7,8
+MACROSS F,10
+MACROSS Δ,10
+MADE IN ABYSS,9
+MAHOU SHOUJO MADOKA★MAGICA,6
+MONDAIJI-TACHI GA ISEKAI KARA KURU SOU DESU YO?,7
+NEON GENESIS EVANGELION,4
+NO GAME NO LIFE,4
+ONE PUNCH MAN,9
+OOKAMI TO KOUSHINRYOU,9
+OOKAMI TO KOUSHINRYOU II,9
+OVERLORD,7
+OVERLORD II,6
+OVERLORD III,5
+PANTY & STOCKING WITH GARTERBELT,7
+PRINCESS PRINCIPAL,7
+PSYCHO-PASS,10
+PSYCHO-PASS 2,4
+PSYCHO-PASS 3,5
+SIDONIA NO KISHI,7
+SIDONIA NO KISHI: DAIKYUU WAKUSEI SENEKI,8
+STEINS;GATE,6
+TAIHO SHICHAU ZO (TV),7
+TAIHO SHICHAU ZO SPECIAL,6
+TATE NO YUUSHA NO NARIAGARI,3
+TENGEN TOPPA GURREN LAGANN,6
+WANGAN MIDNIGHT,7

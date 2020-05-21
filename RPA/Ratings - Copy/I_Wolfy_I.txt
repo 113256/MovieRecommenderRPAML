@@ -1,13 +1,9 @@
-﻿Boku no Hero Academia,-
-Boku no Hero Academia 2nd Season,-
-Boku no Hero Academia 3rd Season,-
-Boku no Hero Academia 4th Season,-
-Carole & Tuesday,9
-Death Note,7
-Fullmetal Alchemist: Brotherhood,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,7
-Kimetsu no Yaiba,7
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,7
-Shingeki no Kyojin,8
-Sora yori mo Tooi Basho,10
-Steins;Gate,8
+﻿CAROLE & TUESDAY,9
+DEATH NOTE,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,7
+KIMETSU NO YAIBA,7
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,7
+SHINGEKI NO KYOJIN,8
+SORA YORI MO TOOI BASHO,10
+STEINS;GATE,8

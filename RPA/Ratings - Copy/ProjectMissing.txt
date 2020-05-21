@@ -1,72 +1,72 @@
-﻿3D Kanojo: Real Girl,7
-3D Kanojo: Real Girl 2nd Season,8
-Absolute Duo,6
-Ansatsu Kyoushitsu,10
-Ansatsu Kyoushitsu 2nd Season,10
-Blend S,7
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,8
-Boku no Hero Academia 4th Season,9
-Charlotte,8
-Conception,7
-Death Parade,8
-Domestic na Kanojo,8
-Dr. Stone,10
-Eromanga-sensei,7
-Gakusen Toshi Asterisk,7
-Gakusen Toshi Asterisk 2nd Season,7
-Happy Sugar Life,9
-Hataraku Maou-sama!,7
-High School DxD,8
-High School DxD BorN,8
-High School DxD Hero,9
-High School DxD New,7
-Himegoto,5
-Himouto! Umaru-chan,8
-Himouto! Umaru-chan R,7
-Hitoribocchi no Marumaru Seikatsu,7
-Hoshi no Kirby,10
-Hunter x Hunter (2011),9
-Isekai Quartet,9
-Isekai Quartet 2,9
-Isekai wa Smartphone to Tomo ni.,7
-JoJo no Kimyou na Bouken (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kaichou wa Maid-sama!,8
-Kimetsu no Yaiba,10
-Kobayashi-san Chi no Maid Dragon,7
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,10
-Mayo Chiki!,7
-Mob Psycho 100,9
-Mob Psycho 100 II,10
-Monster Musume no Iru Nichijou,1
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,9
-Nanatsu no Taizai: Kamigami no Gekirin,7
-Nanatsu no Taizai: Seisen no Shirushi,8
-Nekopara,8
-No Game No Life,9
-Noragami,9
-Noragami Aragoto,9
-One Punch Man,8
-One Punch Man 2nd Season,8
-Ore ga Suki nano wa Imouto dakedo Imouto ja Nai,7
-Ore Monogatari!!,8
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,7
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Sewayaki Kitsune no Senko-san,9
-Sunohara-sou no Kanrinin-san,7
-Sword Art Online,8
-Sword Art Online II,7
-Sword Art Online: Alicization,9
-Sword Art Online: Alicization - War of Underworld,8
-Tate no Yuusha no Nariagari,10
-Tensei shitara Slime Datta Ken,10
-Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?,4
+﻿3D KANOJO: REAL GIRL,7
+3D KANOJO: REAL GIRL 2ND SEASON,8
+ABSOLUTE DUO,6
+ANSATSU KYOUSHITSU,10
+ANSATSU KYOUSHITSU 2ND SEASON,10
+BLEND S,7
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BOKU NO HERO ACADEMIA 4TH SEASON,9
+CHARLOTTE,8
+CONCEPTION,7
+DEATH PARADE,8
+DOMESTIC NA KANOJO,8
+DR. STONE,10
+EROMANGA-SENSEI,7
+GAKUSEN TOSHI ASTERISK,7
+GAKUSEN TOSHI ASTERISK 2ND SEASON,7
+HAPPY SUGAR LIFE,9
+HATARAKU MAOU-SAMA!,7
+HIGH SCHOOL DXD,8
+HIGH SCHOOL DXD BORN,8
+HIGH SCHOOL DXD HERO,9
+HIGH SCHOOL DXD NEW,7
+HIMEGOTO,5
+HIMOUTO! UMARU-CHAN,8
+HIMOUTO! UMARU-CHAN R,7
+HITORIBOCCHI NO MARUMARU SEIKATSU,7
+HOSHI NO KIRBY,10
+HUNTER X HUNTER (2011),9
+ISEKAI QUARTET,9
+ISEKAI QUARTET 2,9
+ISEKAI WA SMARTPHONE TO TOMO NI.,7
+JOJO NO KIMYOU NA BOUKEN (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,8
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,9
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KAICHOU WA MAID-SAMA!,8
+KIMETSU NO YAIBA,10
+KOBAYASHI-SAN CHI NO MAID DRAGON,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,10
+MAYO CHIKI!,7
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,10
+MONSTER MUSUME NO IRU NICHIJOU,1
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,9
+NANATSU NO TAIZAI: KAMIGAMI NO GEKIRIN,7
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,8
+NEKOPARA,8
+NO GAME NO LIFE,9
+NORAGAMI,9
+NORAGAMI ARAGOTO,9
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,8
+ORE GA SUKI NANO WA IMOUTO DAKEDO IMOUTO JA NAI,7
+ORE MONOGATARI!!,8
+ORE NO KANOJO TO OSANANAJIMI GA SHURABA SUGIRU,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SEWAYAKI KITSUNE NO SENKO-SAN,9
+SUNOHARA-SOU NO KANRININ-SAN,7
+SWORD ART ONLINE,8
+SWORD ART ONLINE II,7
+SWORD ART ONLINE: ALICIZATION,9
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,8
+TATE NO YUUSHA NO NARIAGARI,10
+TENSEI SHITARA SLIME DATTA KEN,10
+TSUUJOU KOUGEKI GA ZENTAI KOUGEKI DE NI-KAI KOUGEKI NO OKAASAN WA SUKI DESU KA?,4

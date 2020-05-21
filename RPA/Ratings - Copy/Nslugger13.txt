@@ -1,48 +1,48 @@
-﻿Ao no Exorcist,8
-Ao no Exorcist: Kyoto Fujouou-hen,8
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,8
-Darling in the FranXX,9
-Dr. Stone,9
-Durarara!!,8
-Durarara!!x2 Ketsu,7
-Durarara!!x2 Shou,7
-Durarara!!x2 Ten,7
-Eizouken ni wa Te wo Dasu na!,8
-Hinamatsuri,9
-Hunter x Hunter (2011),9
-JoJo no Kimyou na Bouken (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,7
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
-Kimetsu no Yaiba,9
-Kobayashi-san Chi no Maid Dragon,7
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Mob Psycho 100,9
-Mob Psycho 100 II,9
-No Game No Life,9
-Noragami,9
-Noragami Aragoto,9
-One Punch Man,10
-One Punch Man 2nd Season,8
-Overlord,9
-Poputepipikku,9
-Psycho-Pass,9
-Psycho-Pass 2,7
-Psycho-Pass 3,9
-Steins;Gate,8
-Steins;Gate 0,9
-Toaru Kagaku no Accelerator,7
-Toaru Kagaku no Railgun,9
-Toaru Kagaku no Railgun S,9
-Toaru Majutsu no Index,9
-Toaru Majutsu no Index II,9
-Toaru Majutsu no Index III,7
-Tokyo Ghoul,9
-Tokyo Ghoul √A,8
-Tokyo Ghoul:re,7
-Tokyo Ghoul:re 2nd Season,9
+﻿AO NO EXORCIST,8
+AO NO EXORCIST: KYOTO FUJOUOU-HEN,8
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,8
+DARLING IN THE FRANXX,9
+DR. STONE,9
+DURARARA!!,8
+DURARARA!!X2 KETSU,7
+DURARARA!!X2 SHOU,7
+DURARARA!!X2 TEN,7
+EIZOUKEN NI WA TE WO DASU NA!,8
+HINAMATSURI,9
+HUNTER X HUNTER (2011),9
+JOJO NO KIMYOU NA BOUKEN (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,7
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,8
+KIMETSU NO YAIBA,9
+KOBAYASHI-SAN CHI NO MAID DRAGON,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,9
+NO GAME NO LIFE,9
+NORAGAMI,9
+NORAGAMI ARAGOTO,9
+ONE PUNCH MAN,10
+ONE PUNCH MAN 2ND SEASON,8
+OVERLORD,9
+POPUTEPIPIKKU,9
+PSYCHO-PASS,9
+PSYCHO-PASS 2,7
+PSYCHO-PASS 3,9
+STEINS;GATE,8
+STEINS;GATE 0,9
+TOARU KAGAKU NO ACCELERATOR,7
+TOARU KAGAKU NO RAILGUN,9
+TOARU KAGAKU NO RAILGUN S,9
+TOARU MAJUTSU NO INDEX,9
+TOARU MAJUTSU NO INDEX II,9
+TOARU MAJUTSU NO INDEX III,7
+TOKYO GHOUL,9
+TOKYO GHOUL √A,8
+TOKYO GHOUL:RE,7
+TOKYO GHOUL:RE 2ND SEASON,9

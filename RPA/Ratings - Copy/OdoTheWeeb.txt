@@ -1,44 +1,44 @@
-﻿5-toubun no Hanayome,7
-Akame ga Kill!,10
-Angel Beats!,8
-Boku no Hero Academia,10
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,10
-Darling in the FranXX,10
-Date A Live,8
-Date A Live II,8
-Date A Live III,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,9
-Eromanga-sensei,7
-High School DxD,8
-High School DxD BorN,8
-High School DxD Hero,7
-High School DxD New,8
-IS: Infinite Stratos,7
-IS: Infinite Stratos 2,7
-Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?,7
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Masou Gakuen HxH,5
-Nanatsu no Taizai,9
-One Punch Man,9
-One Punch Man 2nd Season,7
-Oniichan dakedo Ai sae Areba Kankeinai yo ne!,6
-Ore ga Suki nano wa Imouto dakedo Imouto ja Nai,5
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,7
-Sakura-sou no Pet na Kanojo,9
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,7
-Shokugeki no Souma,9
-Shokugeki no Souma: Ni no Sara,9
-Shokugeki no Souma: San no Sara,9
-Shokugeki no Souma: Shin no Sara,8
-Sword Art Online,10
-Sword Art Online II,10
-Sword Art Online: Alicization,9
-Sword Art Online: Alicization - War of Underworld,8
-Tate no Yuusha no Nariagari,8
-Tejina-senpai,7
-Vinland Saga,9
-Walkure Romanze,8
+﻿5-TOUBUN NO HANAYOME,7
+AKAME GA KILL!,10
+ANGEL BEATS!,8
+BOKU NO HERO ACADEMIA,10
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+DARLING IN THE FRANXX,10
+DATE A LIVE,8
+DATE A LIVE II,8
+DATE A LIVE III,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,9
+EROMANGA-SENSEI,7
+HIGH SCHOOL DXD,8
+HIGH SCHOOL DXD BORN,8
+HIGH SCHOOL DXD HERO,7
+HIGH SCHOOL DXD NEW,8
+IS: INFINITE STRATOS,7
+IS: INFINITE STRATOS 2,7
+KAWAIKEREBA HENTAI DEMO SUKI NI NATTE KUREMASU KA?,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+MASOU GAKUEN HXH,5
+NANATSU NO TAIZAI,9
+ONE PUNCH MAN,9
+ONE PUNCH MAN 2ND SEASON,7
+ONIICHAN DAKEDO AI SAE AREBA KANKEINAI YO NE!,6
+ORE GA SUKI NANO WA IMOUTO DAKEDO IMOUTO JA NAI,5
+ORE NO KANOJO TO OSANANAJIMI GA SHURABA SUGIRU,7
+SAKURA-SOU NO PET NA KANOJO,9
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,7
+SHOKUGEKI NO SOUMA,9
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA,9
+SHOKUGEKI NO SOUMA: SHIN NO SARA,8
+SWORD ART ONLINE,10
+SWORD ART ONLINE II,10
+SWORD ART ONLINE: ALICIZATION,9
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,8
+TATE NO YUUSHA NO NARIAGARI,8
+TEJINA-SENPAI,7
+VINLAND SAGA,9
+WALKURE ROMANZE,8

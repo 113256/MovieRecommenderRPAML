@@ -1,102 +1,103 @@
-5-toubun no Hanayome,8
-Absolute Duo,7
-Azur Lane,7
-Banana Fish,9
-Blend S,7
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,9
-Boku wa Tomodachi ga Sukunai,8
-Boku wa Tomodachi ga Sukunai Next,8
-Boogiepop wa Warawanai (2019),7
-Brave Witches,6
-Chobits,7
-Clockwork Planet,6
-Danna ga Nani wo Itteiru ka Wakaranai Ken,7
-Darling in the FranXX,6
-Death Note,8
-Domestic na Kanojo,7
-Dororo,8
-Doukyonin wa Hiza Tokidoki Atama no Ue.,7
-Dr. Stone,9
-Dragon Ball,8
-Dragon Ball GT,5
-Dragon Ball Super,8
-Dumbbell Nan Kilo Moteru?,8
-Egao no Daika,7
-Endro~!,7
-Eromanga-sensei,8
-Fairy Tail,8
-Fairy Tail (2014),8
-Fairy Tail: Final Series,7
-Fate/Apocrypha,8
-Fate/stay night,8
-Fate/stay night: Unlimited Blade Works,9
-Fate/stay night: Unlimited Blade Works 2nd Season,9
-Fate/Zero,7
-Fate/Zero 2nd Season,8
-Frame Arms Girl,5
-Fuuka,7
-Gakusen Toshi Asterisk,7
-Gakusen Toshi Asterisk 2nd Season,7
-Gamers!,8
-Girly Air Force,6
-Given,8
-Goblin Slayer,7
-Grimms Notes The Animation,5
-Himegoto,8
-Hunter x Hunter (2011),9
-Inuyashiki,8
-Ishuzoku Reviewers,8
-JoJo no Kimyou na Bouken (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Kimetsu no Yaiba,9
-Kobayashi-san Chi no Maid Dragon,9
-Kouya no Kotobuki Hikoutai,6
-Mahou Shoujo Tokushusen Asuka,6
-Manaria Friends,6
-Maria†Holic,8
-Maria†Holic Alive,7
-Mayonaka no Occult Koumuin,7
-Meiji Tokyo Renka,7
-Nanatsu no Taizai,8
-Nanatsu no Taizai: Imashime no Fukkatsu,8
-Nanatsu no Taizai: Seisen no Shirushi,7
-Naruto,8
-Naruto: Shippuuden,8
-One Punch Man,8
-One Punch Man 2nd Season,8
-Ouran Koukou Host Club,8
-Pupa,5
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Sakura-sou no Pet na Kanojo,9
-Seitokai Yakuindomo,8
-Seitokai Yakuindomo*,8
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,8
-Sin: Nanatsu no Taizai,6
-Sword Art Online,7
-Sword Art Online Alternative: Gun Gale Online,7
-Sword Art Online II,7
-Sword Art Online: Alicization,8
-Sword Art Online: Alicization - War of Underworld,8
-Tate no Yuusha no Nariagari,8
-Tengen Toppa Gurren Lagann,8
-Tokyo Ghoul,8
-Tokyo Ghoul √A,7
-Tokyo Ghoul:re,6
-Tokyo Ghoul:re 2nd Season,6
-Ueno-san wa Bukiyou,7
-Valkyrie Drive: Mermaid,7
-Vinland Saga,9
-Violet Evergarden,9
-Watashi ni Tenshi ga Maiorita!,8
-Yakusoku no Neverland,9
-Yuu☆Yuu☆Hakusho,8
+﻿5-TOUBUN NO HANAYOME,8
+ABSOLUTE DUO,7
+AZUR LANE,7
+BANANA FISH,9
+BLEND S,7
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,9
+BOKU WA TOMODACHI GA SUKUNAI,8
+BOKU WA TOMODACHI GA SUKUNAI NEXT,8
+BOOGIEPOP WA WARAWANAI (2019),7
+BRAVE WITCHES,6
+CHOBITS,7
+CLOCKWORK PLANET,6
+DANNA GA NANI WO ITTEIRU KA WAKARANAI KEN,7
+DARLING IN THE FRANXX,6
+DEATH NOTE,8
+DOMESTIC NA KANOJO,7
+DORORO,8
+DOUKYONIN WA HIZA TOKIDOKI ATAMA NO UE.,7
+DR. STONE,9
+DRAGON BALL,8
+DRAGON BALL GT,5
+DRAGON BALL SUPER,8
+DUMBBELL NAN KILO MOTERU?,8
+EGAO NO DAIKA,7
+ENDRO~!,7
+EROMANGA-SENSEI,8
+FAIRY TAIL,8
+FAIRY TAIL (2014),8
+FAIRY TAIL: FINAL SERIES,7
+FATE/APOCRYPHA,8
+FATE/STAY NIGHT,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,9
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,9
+FATE/ZERO,7
+FATE/ZERO 2ND SEASON,8
+FRAME ARMS GIRL,5
+FUUKA,7
+GAKUSEN TOSHI ASTERISK,7
+GAKUSEN TOSHI ASTERISK 2ND SEASON,7
+GAMERS!,8
+GIRLY AIR FORCE,6
+GIVEN,8
+GOBLIN SLAYER,7
+GRIMMS NOTES THE ANIMATION,5
+HIMEGOTO,8
+HUNTER X HUNTER (2011),9
+INUYASHIKI,8
+ISHUZOKU REVIEWERS,8
+JOJO NO KIMYOU NA BOUKEN (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,9
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KEMURIKUSA (TV),6
+KIMETSU NO YAIBA,9
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+KOUYA NO KOTOBUKI HIKOUTAI,6
+MAHOU SHOUJO TOKUSHUSEN ASUKA,6
+MANARIA FRIENDS,6
+MARIA†HOLIC,8
+MARIA†HOLIC ALIVE,7
+MAYONAKA NO OCCULT KOUMUIN,7
+MEIJI TOKYO RENKA,7
+NANATSU NO TAIZAI,8
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,8
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,7
+NARUTO,8
+NARUTO: SHIPPUUDEN,8
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,8
+OURAN KOUKOU HOST CLUB,8
+PUPA,5
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+SAKURA-SOU NO PET NA KANOJO,9
+SEITOKAI YAKUINDOMO,8
+SEITOKAI YAKUINDOMO*,8
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,8
+SIN: NANATSU NO TAIZAI,6
+SWORD ART ONLINE,7
+SWORD ART ONLINE ALTERNATIVE: GUN GALE ONLINE,7
+SWORD ART ONLINE II,7
+SWORD ART ONLINE: ALICIZATION,8
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,8
+TATE NO YUUSHA NO NARIAGARI,8
+TENGEN TOPPA GURREN LAGANN,8
+TOKYO GHOUL,8
+TOKYO GHOUL √A,7
+TOKYO GHOUL:RE,6
+TOKYO GHOUL:RE 2ND SEASON,6
+UENO-SAN WA BUKIYOU,7
+VALKYRIE DRIVE: MERMAID,7
+VINLAND SAGA,9
+VIOLET EVERGARDEN,9
+WATASHI NI TENSHI GA MAIORITA!,8
+YAKUSOKU NO NEVERLAND,9
+YUU☆YUU☆HAKUSHO,8

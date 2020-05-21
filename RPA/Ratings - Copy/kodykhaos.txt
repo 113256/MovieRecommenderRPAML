@@ -1,180 +1,180 @@
-Ajin,9
-Ajin 2nd Season,10
-Amaama to Inazuma,10
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,10
-Another,10
-Ao Oni The Animation,2
-Azur Lane,10
-Baka to Test to Shoukanjuu,10
-Baka to Test to Shoukanjuu Ni!,9
-Bananya,2
-Barakamon,9
-Bishoujo Senshi Sailor Moon,10
-Bishoujo Senshi Sailor Moon Crystal Season III,10
-Bishoujo Senshi Sailor Moon R,10
-Bishoujo Senshi Sailor Moon S,8
-Bishoujo Senshi Sailor Moon SuperS,10
-Bishoujo Senshi Sailor Moon: Sailor Stars,9
-Black★Rock Shooter (TV),9
-Blend S,10
-Bloodivores,9
-Boku dake ga Inai Machi,10
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,10
-Boku wa Tomodachi ga Sukunai,8
-Boku wa Tomodachi ga Sukunai Next,7
-Brothers Conflict,2
-Charlotte,10
-ChäoS;Child,10
-ChäoS;HEAd,10
-Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!,6
-Chuunibyou demo Koi ga Shitai!,10
-Chuunibyou demo Koi ga Shitai! Ren,9
-Citrus,10
-Code Geass: Hangyaku no Lelouch,10
-Code Geass: Hangyaku no Lelouch R2,10
-Dance in the Vampire Bund,10
-Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,9
-Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,10
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,9
-Danna ga Nani wo Itteiru ka Wakaranai Ken,6
-Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me,8
-Deadman Wonderland,10
-Death Note,10
-Death Parade,10
-Demi-chan wa Kataritai,6
-Diabolik Lovers,6
-Domestic na Kanojo,1
-Doukyonin wa Hiza Tokidoki Atama no Ue.,10
-Dr. Stone,10
-DRAMAtical Murder,5
-Elfen Lied,10
-Eromanga-sensei,10
-Free!,10
-Free!: Eternal Summer,10
-Gabriel DropOut,10
-Gakkougurashi!,10
-Gekkan Shoujo Nozaki-kun,8
-Given,10
-Gravitation,4
-Handa-kun,10
-Happy Sugar Life,10
-Hataraku Maou-sama!,9
-Hataraku Saibou (TV),9
-Hentai Ouji to Warawanai Neko.,10
-High School DxD,7
-High School DxD BorN,10
-High School DxD New,10
-Higurashi no Naku Koro ni,1
-Himegoto,9
-Himouto! Umaru-chan,9
-Himouto! Umaru-chan R,9
-Hitorijime My Hero,10
-Hyouka,9
-Id:Invaded,10
-Imouto sae Ireba Ii.,10
-Inu x Boku SS,10
-Ishuzoku Reviewers,10
-Itou Junji: Collection,10
-Junjou Romantica,10
-Junjou Romantica 2,10
-Junjou Romantica 3,10
-Kakegurui,10
-Kakegurui××,10
-Kami nomi zo Shiru Sekai,4
-Kami nomi zo Shiru Sekai II,8
-Kami nomi zo Shiru Sekai: Megami-hen,10
-Kamisama no Memochou,9
-Kannazuki no Miko,4
-Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?,10
-Keijo!!!!!!!!,10
-Kimetsu no Yaiba,10
-Kiss x Sis (TV),5
-Kobayashi-san Chi no Maid Dragon,10
-Kono Danshi Mahou ga Oshigoto Desu.,8
-Kono Subarashii Sekai ni Shukufuku wo!,6
-Kono Subarashii Sekai ni Shukufuku wo! 2,10
-Kuragehime,10
-Kuroshitsuji,10
-Kuroshitsuji II,8
-Kuroshitsuji: Book of Circus,10
-Kyoukai no Kanata,10
-Love Stage!!,8
-Lovely★Complex,10
-Lucky☆Star,9
-Mangaka-san to Assistant-san to The Animation,5
-Maria†Holic,10
-Masamune-kun no Revenge,10
-Mayo Chiki!,9
-Mayonaka no Occult Koumuin,10
-Mirai Nikki,10
+﻿AJIN,9
+AJIN 2ND SEASON,10
+AMAAMA TO INAZUMA,10
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,10
+ANOTHER,10
+AO ONI THE ANIMATION,2
+AZUR LANE,10
+BAKA TO TEST TO SHOUKANJUU,10
+BAKA TO TEST TO SHOUKANJUU NI!,9
+BANANYA,2
+BARAKAMON,9
+BISHOUJO SENSHI SAILOR MOON,10
+BISHOUJO SENSHI SAILOR MOON CRYSTAL SEASON III,10
+BISHOUJO SENSHI SAILOR MOON R,10
+BISHOUJO SENSHI SAILOR MOON S,8
+BISHOUJO SENSHI SAILOR MOON SUPERS,10
+BISHOUJO SENSHI SAILOR MOON: SAILOR STARS,9
+BLACK★ROCK SHOOTER (TV),9
+BLEND S,10
+BLOODIVORES,9
+BOKU DAKE GA INAI MACHI,10
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+BOKU WA TOMODACHI GA SUKUNAI,8
+BOKU WA TOMODACHI GA SUKUNAI NEXT,7
+BROTHERS CONFLICT,2
+CHARLOTTE,10
+CHÄOS;CHILD,10
+CHÄOS;HEAD,10
+CHOUJIN KOUKOUSEI-TACHI WA ISEKAI DEMO YOYUU DE IKINUKU YOU DESU!,6
+CHUUNIBYOU DEMO KOI GA SHITAI!,10
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,9
+CITRUS,10
+CODE GEASS: HANGYAKU NO LELOUCH,10
+CODE GEASS: HANGYAKU NO LELOUCH R2,10
+DANCE IN THE VAMPIRE BUND,10
+DANGANRONPA 3: THE END OF KIBOUGAMINE GAKUEN - MIRAI-HEN,9
+DANGANRONPA 3: THE END OF KIBOUGAMINE GAKUEN - ZETSUBOU-HEN,10
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,9
+DANNA GA NANI WO ITTEIRU KA WAKARANAI KEN,6
+DANNA GA NANI WO ITTEIRU KA WAKARANAI KEN 2 SURE-ME,8
+DEADMAN WONDERLAND,10
+DEATH NOTE,10
+DEATH PARADE,10
+DEMI-CHAN WA KATARITAI,6
+DIABOLIK LOVERS,6
+DOMESTIC NA KANOJO,1
+DOUKYONIN WA HIZA TOKIDOKI ATAMA NO UE.,10
+DR. STONE,10
+DRAMATICAL MURDER,5
+ELFEN LIED,10
+EROMANGA-SENSEI,10
+FREE!,10
+FREE!: ETERNAL SUMMER,10
+GABRIEL DROPOUT,10
+GAKKOUGURASHI!,10
+GEKKAN SHOUJO NOZAKI-KUN,8
+GIVEN,10
+GRAVITATION,4
+HANDA-KUN,10
+HAPPY SUGAR LIFE,10
+HATARAKU MAOU-SAMA!,9
+HATARAKU SAIBOU (TV),9
+HENTAI OUJI TO WARAWANAI NEKO.,10
+HIGH SCHOOL DXD,7
+HIGH SCHOOL DXD BORN,10
+HIGH SCHOOL DXD NEW,10
+HIGURASHI NO NAKU KORO NI,1
+HIMEGOTO,9
+HIMOUTO! UMARU-CHAN,9
+HIMOUTO! UMARU-CHAN R,9
+HITORIJIME MY HERO,10
+HYOUKA,9
+ID:INVADED,10
+IMOUTO SAE IREBA II.,10
+INU X BOKU SS,10
+ISHUZOKU REVIEWERS,10
+ITOU JUNJI: COLLECTION,10
+JUNJOU ROMANTICA,10
+JUNJOU ROMANTICA 2,10
+JUNJOU ROMANTICA 3,10
+KAKEGURUI,10
+KAKEGURUI××,10
+KAMI NOMI ZO SHIRU SEKAI,4
+KAMI NOMI ZO SHIRU SEKAI II,8
+KAMI NOMI ZO SHIRU SEKAI: MEGAMI-HEN,10
+KAMISAMA NO MEMOCHOU,9
+KANNAZUKI NO MIKO,4
+KAWAIKEREBA HENTAI DEMO SUKI NI NATTE KUREMASU KA?,10
+KEIJO!!!!!!!!,10
+KIMETSU NO YAIBA,10
+KISS X SIS (TV),5
+KOBAYASHI-SAN CHI NO MAID DRAGON,10
+KONO DANSHI MAHOU GA OSHIGOTO DESU.,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,6
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,10
+KURAGEHIME,10
+KUROSHITSUJI,10
+KUROSHITSUJI II,8
+KUROSHITSUJI: BOOK OF CIRCUS,10
+KYOUKAI NO KANATA,10
+LOVE STAGE!!,8
+LOVELY★COMPLEX,10
+LUCKY☆STAR,9
+MANGAKA-SAN TO ASSISTANT-SAN TO THE ANIMATION,5
+MARIA†HOLIC,10
+MASAMUNE-KUN NO REVENGE,10
+MAYO CHIKI!,9
+MAYONAKA NO OCCULT KOUMUIN,10
+MIRAI NIKKI,10
 MM!,10
-Mousou Dairinin,5
-Murenase! Seton Gakuen,10
-Nagi no Asu kara,10
-Naruto,7
-Nekopara,8
-Netoge no Yome wa Onnanoko ja Nai to Omotta?,7
-New Game!,4
-NHK ni Youkoso!,7
-Nijiiro Days,10
-Nisekoi,10
-Nisekoi:,6
-No Game No Life,9
-No.6,8
-Noragami,9
-Noragami Aragoto,10
-Occultic;Nine,10
-Ojamajo Doremi,6
-One Punch Man,9
-Orange,10
-Ore no Imouto ga Konnani Kawaii Wake ga Nai,10
-Ore no Imouto ga Konnani Kawaii Wake ga Nai.,10
-Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,10
-Ore wo Suki nano wa Omae dake ka yo,10
-Oshi ga Budoukan Ittekuretara Shinu,10
-Ouran Koukou Host Club,10
-Papa datte Shitai,10
-Ranpo Kitan: Game of Laplace,10
-Re:Zero kara Hajimeru Isekai Seikatsu,10
-ReLIFE,10
-Renai Boukun,10
-Runway de Waratte,10
-Sakamoto Desu ga?,6
-Sanrio Danshi,10
-Satsuriku no Tenshi,10
-Seikimatsu Occult Gakuin,10
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
-Sekaiichi Hatsukoi,7
-Sekaiichi Hatsukoi 2,7
-Shigatsu wa Kimi no Uso,10
-Soul Eater,10
-Soul Eater NOT!,10
-Steins;Gate,10
-Strawberry Panic,10
-Suki na Mono wa Suki Dakara Shou ga Nai!!,9
-Suzumiya Haruhi no Yuuutsu,9
-Suzumiya Haruhi no Yuuutsu (2009),2
-Sword Art Online,5
-Sword Art Online Alternative: Gun Gale Online,10
-Sword Art Online II,10
-Sword Art Online: Alicization,10
-Sword Art Online: Alicization - War of Underworld,10
-Tasogare Otome x Amnesia,5
-Togainu no Chi,7
-Tokyo Ghoul,2
-Tokyo Ghoul √A,1
-Toradora!,10
-Uchi no Ko no Tame naraba Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.,10
-Udon no Kuni no Kiniro Kemari,10
-Vampire Knight,10
-Vampire Knight: Guilty,9
-Violet Evergarden,10
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,9
-Watashi Nouryoku wa Heikinchi de tte Itta yo ne!,7
-Wotaku ni Koi wa Muzukashii,10
-Yakusoku no Neverland,10
-Youjo Senki,10
-Yuri!!! on Ice,10
-Zombieland Saga,10
+MOUSOU DAIRININ,5
+MURENASE! SETON GAKUEN,10
+NAGI NO ASU KARA,10
+NARUTO,7
+NEKOPARA,8
+NETOGE NO YOME WA ONNANOKO JA NAI TO OMOTTA?,7
+NEW GAME!,4
+NHK NI YOUKOSO!,7
+NIJIIRO DAYS,10
+NISEKOI,10
+NISEKOI:,6
+NO GAME NO LIFE,9
+NO.6,8
+NORAGAMI,9
+NORAGAMI ARAGOTO,10
+OCCULTIC;NINE,10
+OJAMAJO DOREMI,6
+ONE PUNCH MAN,9
+ORANGE,10
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI,10
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI.,10
+ORE NO NOUNAI SENTAKUSHI GA GAKUEN LOVE COMEDY WO ZENRYOKU DE JAMA SHITEIRU,10
+ORE WO SUKI NANO WA OMAE DAKE KA YO,10
+OSHI GA BUDOUKAN ITTEKURETARA SHINU,10
+OURAN KOUKOU HOST CLUB,10
+PAPA DATTE SHITAI,10
+RANPO KITAN: GAME OF LAPLACE,10
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+RELIFE,10
+RENAI BOUKUN,10
+RUNWAY DE WARATTE,10
+SAKAMOTO DESU GA?,6
+SANRIO DANSHI,10
+SATSURIKU NO TENSHI,10
+SEIKIMATSU OCCULT GAKUIN,10
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,10
+SEKAIICHI HATSUKOI,7
+SEKAIICHI HATSUKOI 2,7
+SHIGATSU WA KIMI NO USO,10
+SOUL EATER,10
+SOUL EATER NOT!,10
+STEINS;GATE,10
+STRAWBERRY PANIC,10
+SUKI NA MONO WA SUKI DAKARA SHOU GA NAI!!,9
+SUZUMIYA HARUHI NO YUUUTSU,9
+SUZUMIYA HARUHI NO YUUUTSU (2009),2
+SWORD ART ONLINE,5
+SWORD ART ONLINE ALTERNATIVE: GUN GALE ONLINE,10
+SWORD ART ONLINE II,10
+SWORD ART ONLINE: ALICIZATION,10
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,10
+TASOGARE OTOME X AMNESIA,5
+TOGAINU NO CHI,7
+TOKYO GHOUL,2
+TOKYO GHOUL √A,1
+TORADORA!,10
+UCHI NO KO NO TAME NARABA ORE WA MOSHIKASHITARA MAOU MO TAOSERU KAMO SHIRENAI.,10
+UDON NO KUNI NO KINIRO KEMARI,10
+VAMPIRE KNIGHT,10
+VAMPIRE KNIGHT: GUILTY,9
+VIOLET EVERGARDEN,10
+WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,9
+WATASHI NOURYOKU WA HEIKINCHI DE TTE ITTA YO NE!,7
+WOTAKU NI KOI WA MUZUKASHII,10
+YAKUSOKU NO NEVERLAND,10
+YOUJO SENKI,10
+YURI!!! ON ICE,10
+ZOMBIELAND SAGA,10

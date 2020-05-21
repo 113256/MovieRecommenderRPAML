@@ -1,45 +1,45 @@
-﻿Ajin,8
-Ajin 2nd Season,8
-Akame ga Kill!,8
-Another,8
-Boku dake ga Inai Machi,8
-Cowboy Bebop,8
-Death Note,7
-Dororo,9
-Drifters,7
-Fullmetal Alchemist: Brotherhood,10
-Gamers!,5
-Gangsta.,6
-Goblin Slayer,8
-Hunter x Hunter (2011),9
-Initial D Fifth Stage,9
-Initial D Final Stage,9
-Initial D First Stage,9
-Initial D Fourth Stage,9
-Initial D Second Stage,8
-Kenpuu Denki Berserk,8
-Kimetsu no Yaiba,10
-Kiseijuu: Sei no Kakuritsu,9
-Made in Abyss,8
-Mirai Nikki,8
-Mob Psycho 100,8
-Mob Psycho 100 II,9
-Nanatsu no Taizai,7
-Nanatsu no Taizai: Seisen no Shirushi,6
-Nande Koko ni Sensei ga!?,4
-Naruto: Shippuuden,9
-One Punch Man,9
-One Punch Man 2nd Season,9
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Samurai Champloo,9
-Shigurui,7
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,9
-Tokyo Ghoul,8
-Tokyo Ghoul √A,8
-Tokyo Ghoul:re,6
-Tokyo Ghoul:re 2nd Season,6
-Yakusoku no Neverland,9
-Yuragi-sou no Yuuna-san,6
+﻿AJIN,8
+AJIN 2ND SEASON,8
+AKAME GA KILL!,8
+ANOTHER,8
+BOKU DAKE GA INAI MACHI,8
+COWBOY BEBOP,8
+DEATH NOTE,7
+DORORO,9
+DRIFTERS,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GAMERS!,5
+GANGSTA.,6
+GOBLIN SLAYER,8
+HUNTER X HUNTER (2011),9
+INITIAL D FIFTH STAGE,9
+INITIAL D FINAL STAGE,9
+INITIAL D FIRST STAGE,9
+INITIAL D FOURTH STAGE,9
+INITIAL D SECOND STAGE,8
+KENPUU DENKI BERSERK,8
+KIMETSU NO YAIBA,10
+KISEIJUU: SEI NO KAKURITSU,9
+MADE IN ABYSS,8
+MIRAI NIKKI,8
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,9
+NANATSU NO TAIZAI,7
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,6
+NANDE KOKO NI SENSEI GA!?,4
+NARUTO: SHIPPUUDEN,9
+ONE PUNCH MAN,9
+ONE PUNCH MAN 2ND SEASON,9
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+SAMURAI CHAMPLOO,9
+SHIGURUI,7
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+TOKYO GHOUL,8
+TOKYO GHOUL √A,8
+TOKYO GHOUL:RE,6
+TOKYO GHOUL:RE 2ND SEASON,6
+YAKUSOKU NO NEVERLAND,9
+YURAGI-SOU NO YUUNA-SAN,6

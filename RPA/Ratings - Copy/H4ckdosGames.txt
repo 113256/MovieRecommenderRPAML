@@ -1,20 +1,10 @@
-﻿Angel Beats!,-
-Another,-
-Barakamon,-
-Boku no Hero Academia,-
-Charlotte,-
-Death Note,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
-High School DxD,9
-High Score Girl,-
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,-
-Kono Subarashii Sekai ni Shukufuku wo!,10
-Kono Subarashii Sekai ni Shukufuku wo! 2,10
-One Punch Man,8
-One Punch Man 2nd Season,8
-Prison School,-
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,-
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,-
-Tokyo Ghoul,8
+﻿DEATH NOTE,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,9
+HIGH SCHOOL DXD,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,10
+ONE PUNCH MAN,8
+ONE PUNCH MAN 2ND SEASON,8
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,9
+TOKYO GHOUL,8

@@ -1,38 +1,19 @@
-﻿Akame ga Kill!,10
-Angel Beats!,-
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Another,9
-Ansatsu Kyoushitsu,-
-Ansatsu Kyoushitsu 2nd Season,-
-Back Street Girls: Gokudolls,9
-Bikini Warriors,-
-Code Geass: Hangyaku no Lelouch,-
-Death Note,10
-Death Parade,9
-Free!,8
-Girls & Panzer,8
-Goblin Slayer,-
-Haikyuu!!,9
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,-
-Highschool of the Dead,-
-Kakegurui,9
-Kakegurui××,-
-Little Witch Academia (TV),-
-Naruto,10
-Naruto: Shippuuden,10
-Neon Genesis Evangelion,-
-Nisekoi,10
-No Game No Life,8
-Noragami,-
-Noragami Aragoto,-
-One Punch Man,9
-Prison School,-
-Psycho-Pass,-
-Psycho-Pass 2,-
-Shingeki no Kyojin,8
-Shokugeki no Souma,9
-Sword Art Online,7
-Tokyo Ghoul,-
-Tokyo Ghoul √A,-
-Toradora!,-
+﻿AKAME GA KILL!,10
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+ANOTHER,9
+BACK STREET GIRLS: GOKUDOLLS,9
+DEATH NOTE,10
+DEATH PARADE,9
+FREE!,8
+GIRLS & PANZER,8
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,9
+KAKEGURUI,9
+NARUTO,10
+NARUTO: SHIPPUUDEN,10
+NISEKOI,10
+NO GAME NO LIFE,8
+ONE PUNCH MAN,9
+SHINGEKI NO KYOJIN,8
+SHOKUGEKI NO SOUMA,9
+SWORD ART ONLINE,7

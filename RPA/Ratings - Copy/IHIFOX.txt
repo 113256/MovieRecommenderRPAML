@@ -1,58 +1,65 @@
-﻿Accel World,7
-Akame ga Kill!,9
-BanG Dream!,8
-Beastars,10
-Black Bullet,8
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,6
-Darling in the FranXX,6
-Date A Live,6
-Domestic na Kanojo,8
-Dr. Stone,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,6
-Enen no Shouboutai,9
-Fairy Tail,9
-Flying Witch,6
-Gamers!,7
-IS: Infinite Stratos,8
-IS: Infinite Stratos 2,7
-Isekai Maou to Shoukan Shoujo no Dorei Majutsu,8
-Isekai Quartet,9
-Isekai Quartet 2,8
-JoJo no Kimyou na Bouken (TV),10
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,10
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,10
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,10
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,10
+﻿ACCEL WORLD,7
+AKAME GA KILL!,9
+BANG DREAM!,8
+BEASTARS,10
+BLACK BULLET,8
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,6
+DARLING IN THE FRANXX,6
+DATE A LIVE,6
+DOMESTIC NA KANOJO,8
+DR. STONE,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,6
+ENEN NO SHOUBOUTAI,9
+FAIRY TAIL,9
+FLYING WITCH,6
+GAMERS!,7
+IS: INFINITE STRATOS,8
+IS: INFINITE STRATOS 2,7
+ISEKAI MAOU TO SHOUKAN SHOUJO NO DOREI MAJUTSU,8
+ISEKAI QUARTET,9
+ISEKAI QUARTET 2,8
+JOJO NO KIMYOU NA BOUKEN (TV),10
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,10
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,10
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,10
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,10
 K,8
-K: Return of Kings,9
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Karakai Jouzu no Takagi-san,8
-Kiseijuu: Sei no Kakuritsu,10
-Kono Subarashii Sekai ni Shukufuku wo!,5
-Naruto,9
-Netoge no Yome wa Onnanoko ja Nai to Omotta?,7
-Noragami Aragoto,10
-One Punch Man,10
-One Punch Man 2nd Season,8
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,8
-Overlord,8
-Overlord II,6
-Overlord III,7
-Rakudai Kishi no Cavalry,8
-Sakura-sou no Pet na Kanojo,8
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
-Shingeki! Kyojin Chuugakkou,7
-Shokugeki no Souma,8
-Shokugeki no Souma: Ni no Sara,9
-Shokugeki no Souma: San no Sara,10
-Shokugeki no Souma: Shin no Sara,10
-Sword Art Online,7
-Sword Art Online II,7
-Tate no Yuusha no Nariagari,9
-Tensei shitara Slime Datta Ken,10
-Tokyo Ghoul,9
-Trinity Seven,8
+K: RETURN OF KINGS,9
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KARAKAI JOUZU NO TAKAGI-SAN,8
+KIMETSU NO YAIBA,10
+KISEIJUU: SEI NO KAKURITSU,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,5
+NARUTO,9
+NETOGE NO YOME WA ONNANOKO JA NAI TO OMOTTA?,7
+NORAGAMI,10
+NORAGAMI ARAGOTO,10
+ONE PUNCH MAN,10
+ONE PUNCH MAN 2ND SEASON,8
+ORE NO KANOJO TO OSANANAJIMI GA SHURABA SUGIRU,8
+OVERLORD,8
+OVERLORD II,6
+OVERLORD III,7
+RAKUDAI KISHI NO CAVALRY,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+SAKURA-SOU NO PET NA KANOJO,8
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,10
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,10
+SHINGEKI NO KYOJIN SEASON 3,10
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SHINGEKI! KYOJIN CHUUGAKKOU,7
+SHOKUGEKI NO SOUMA,8
+SHOKUGEKI NO SOUMA: NI NO SARA,9
+SHOKUGEKI NO SOUMA: SAN NO SARA,10
+SHOKUGEKI NO SOUMA: SHIN NO SARA,10
+SWORD ART ONLINE,7
+SWORD ART ONLINE II,7
+TATE NO YUUSHA NO NARIAGARI,9
+TENSEI SHITARA SLIME DATTA KEN,10
+TOKYO GHOUL,9
+TRINITY SEVEN,8

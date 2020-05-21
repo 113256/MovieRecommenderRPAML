@@ -1,125 +1,124 @@
-Akame ga Kill!,6
-Akatsuki no Yona,9
-Angel Beats!,8
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Another,6
-Ansatsu Kyoushitsu,8
-Ao no Exorcist,7
-Bishoujo Senshi Sailor Moon,8
-Black Bullet,6
-Black Lagoon,8
-Black Lagoon: The Second Barrage,8
-Bleach,7
-Blue Dragon,6
-Boku dake ga Inai Machi,7
-Boku no Hero Academia,7
-Bokura no,9
-C: The Money of Soul and Possibility Control,7
-Casshern Sins,8
-Chou Robot Seimeitai Transformers Micron Densetsu,6
-Clannad,9
-Clannad: After Story,10
-Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,9
-Cowboy Bebop,10
-Deadman Wonderland,7
-Death Note,9
-Death Parade,7
-Digimon Adventure,7
-Digimon Adventure 02,7
-Dimension W,7
-Dragon Ball,8
-Dragon Ball GT,6
-Dragon Ball Super,7
-Dragon Ball Z,8
-Durarara!!,8
-Elfen Lied,6
-Ergo Proxy,9
-Fate/stay night: Unlimited Blade Works,9
-Fate/stay night: Unlimited Blade Works 2nd Season,9
-Fate/Zero,9
-Fate/Zero 2nd Season,9
-Fruits Basket,8
-Fullmetal Alchemist,9
-Fullmetal Alchemist: Brotherhood,10
-Gangsta.,7
-Gekkan Shoujo Nozaki-kun,7
-Gokukoku no Brynhildr,6
-Great Teacher Onizuka,-
-Haibane Renmei,9
-Hataraku Maou-sama!,7
-Higashi no Eden,9
-Highschool of the Dead,7
-Hunter x Hunter,9
-Hunter x Hunter (2011),10
-Id:Invaded,7
-IGPX: Immortal Grand Prix (2005),7
-IGPX: Immortal Grand Prix (2005) 2nd Season,7
-Ima Soko ni Iru Boku,9
-InuYasha (TV),8
-InuYasha (TV): Kanketsu-hen,8
-Isshuukan Friends.,8
-JoJo no Kimyou na Bouken (TV),7
-Kanon (2006),9
-Kekkai Sensen,7
-Kenpuu Denki Berserk,8
-Kill la Kill,8
-Kino no Tabi: The Beautiful World,10
-Kiseijuu: Sei no Kakuritsu,8
-Koukaku Kidoutai: Stand Alone Complex,9
-Koukaku Kidoutai: Stand Alone Complex 2nd GIG,9
-Koukyoushihen Eureka Seven,7
-Lucky☆Star,7
-Made in Abyss,9
-Magi: The Labyrinth of Magic,8
-Mahou Shoujo Madoka★Magica,9
-Michiko to Hatchin,8
-Mirai Nikki,8
-Mobile Suit Gundam Wing,8
-Mobile Suit Gundam: Iron-Blooded Orphans,7
-Monster,10
-Mousou Dairinin,9
-Mushishi,10
-Mushishi Zoku Shou,10
-Nagi no Asu kara,8
-Nanatsu no Taizai,8
-Naruto,8
-No Game No Life,7
-One Punch Man,8
-Ouran Koukou Host Club,8
-Pokemon,7
-Pokemon Advanced Generation,7
-Psycho-Pass,8
-Psycho-Pass 2,7
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Romeo x Juliet,7
-Rurouni Kenshin: Meiji Kenkaku Romantan,9
-Samurai 7,7
-Samurai Champloo,7
-School Days,5
-Seirei no Moribito,9
-Serial Experiments Lain,9
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,7
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,9
-Sidonia no Kishi,8
-Soul Eater,8
-Space☆Dandy,7
-Space☆Dandy 2nd Season,7
-Steins;Gate,10
-Sword Art Online,7
-Sword Art Online II,6
-Sword Art Online: Alicization,6
-Tenchi Muyou! GXP,5
-Tengen Toppa Gurren Lagann,9
-Texhnolyze,9
-The Big O,8
-Toaru Majutsu no Index,7
-Tokyo Ghoul,7
-Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,7
-Yakusoku no Neverland,9
-Youjo Senki,7
-Yuu☆Yuu☆Hakusho,8
-Zankyou no Terror,9
-Zoids Shinseiki/Zero,7
+﻿AKAME GA KILL!,6
+AKATSUKI NO YONA,9
+ANGEL BEATS!,8
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+ANOTHER,6
+ANSATSU KYOUSHITSU,8
+AO NO EXORCIST,7
+BISHOUJO SENSHI SAILOR MOON,8
+BLACK BULLET,6
+BLACK LAGOON,8
+BLACK LAGOON: THE SECOND BARRAGE,8
+BLEACH,7
+BLUE DRAGON,6
+BOKU DAKE GA INAI MACHI,7
+BOKU NO HERO ACADEMIA,7
+BOKURA NO,9
+C: THE MONEY OF SOUL AND POSSIBILITY CONTROL,7
+CASSHERN SINS,8
+CHOU ROBOT SEIMEITAI TRANSFORMERS MICRON DENSETSU,6
+CLANNAD,9
+CLANNAD: AFTER STORY,10
+CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,9
+COWBOY BEBOP,10
+DEADMAN WONDERLAND,7
+DEATH NOTE,9
+DEATH PARADE,7
+DIGIMON ADVENTURE,7
+DIGIMON ADVENTURE 02,7
+DIMENSION W,7
+DRAGON BALL,8
+DRAGON BALL GT,6
+DRAGON BALL SUPER,7
+DRAGON BALL Z,8
+DURARARA!!,8
+ELFEN LIED,6
+ERGO PROXY,9
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,9
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,9
+FATE/ZERO,9
+FATE/ZERO 2ND SEASON,9
+FRUITS BASKET,8
+FULLMETAL ALCHEMIST,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GANGSTA.,7
+GEKKAN SHOUJO NOZAKI-KUN,7
+GOKUKOKU NO BRYNHILDR,6
+HAIBANE RENMEI,9
+HATARAKU MAOU-SAMA!,7
+HIGASHI NO EDEN,9
+HIGHSCHOOL OF THE DEAD,7
+HUNTER X HUNTER,9
+HUNTER X HUNTER (2011),10
+ID:INVADED,7
+IGPX: IMMORTAL GRAND PRIX (2005),7
+IGPX: IMMORTAL GRAND PRIX (2005) 2ND SEASON,7
+IMA SOKO NI IRU BOKU,9
+INUYASHA (TV),8
+INUYASHA (TV): KANKETSU-HEN,8
+ISSHUUKAN FRIENDS.,8
+JOJO NO KIMYOU NA BOUKEN (TV),7
+KANON (2006),9
+KEKKAI SENSEN,7
+KENPUU DENKI BERSERK,8
+KILL LA KILL,8
+KINO NO TABI: THE BEAUTIFUL WORLD,10
+KISEIJUU: SEI NO KAKURITSU,8
+KOUKAKU KIDOUTAI: STAND ALONE COMPLEX,9
+KOUKAKU KIDOUTAI: STAND ALONE COMPLEX 2ND GIG,9
+KOUKYOUSHIHEN EUREKA SEVEN,7
+LUCKY☆STAR,7
+MADE IN ABYSS,9
+MAGI: THE LABYRINTH OF MAGIC,8
+MAHOU SHOUJO MADOKA★MAGICA,9
+MICHIKO TO HATCHIN,8
+MIRAI NIKKI,8
+MOBILE SUIT GUNDAM WING,8
+MOBILE SUIT GUNDAM: IRON-BLOODED ORPHANS,7
+MONSTER,10
+MOUSOU DAIRININ,9
+MUSHISHI,10
+MUSHISHI ZOKU SHOU,10
+NAGI NO ASU KARA,8
+NANATSU NO TAIZAI,8
+NARUTO,8
+NO GAME NO LIFE,7
+ONE PUNCH MAN,8
+OURAN KOUKOU HOST CLUB,8
+POKEMON,7
+POKEMON ADVANCED GENERATION,7
+PSYCHO-PASS,8
+PSYCHO-PASS 2,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+ROMEO X JULIET,7
+RUROUNI KENSHIN: MEIJI KENKAKU ROMANTAN,9
+SAMURAI 7,7
+SAMURAI CHAMPLOO,7
+SCHOOL DAYS,5
+SEIREI NO MORIBITO,9
+SERIAL EXPERIMENTS LAIN,9
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,7
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SIDONIA NO KISHI,8
+SOUL EATER,8
+SPACE☆DANDY,7
+SPACE☆DANDY 2ND SEASON,7
+STEINS;GATE,10
+SWORD ART ONLINE,7
+SWORD ART ONLINE II,6
+SWORD ART ONLINE: ALICIZATION,6
+TENCHI MUYOU! GXP,5
+TENGEN TOPPA GURREN LAGANN,9
+TEXHNOLYZE,9
+THE BIG O,8
+TOARU MAJUTSU NO INDEX,7
+TOKYO GHOUL,7
+WATASHI GA MOTENAI NO WA DOU KANGAETEMO OMAERA GA WARUI!,7
+YAKUSOKU NO NEVERLAND,9
+YOUJO SENKI,7
+YUU☆YUU☆HAKUSHO,8
+ZANKYOU NO TERROR,9
+ZOIDS SHINSEIKI/ZERO,7

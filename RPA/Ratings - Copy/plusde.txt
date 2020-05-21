@@ -1,30 +1,24 @@
-﻿Bakemonogatari,8
-Blend S,9
-Charlotte,9
-Chuunibyou demo Koi ga Shitai!,7
-Cowboy Bebop,10
-Darling in the FranXX,7
-Gabriel DropOut,6
-Goblin Slayer,10
-Initial D Fifth Stage,-
-Initial D Final Stage,-
-Initial D First Stage,10
-Initial D Fourth Stage,-
-Initial D Second Stage,-
-K-On!,9
-Kobayashi-san Chi no Maid Dragon,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Made in Abyss,10
-Neon Genesis Evangelion,8
-Re:Zero kara Hajimeru Isekai Seikatsu,10
-Samurai Champloo,9
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Shigatsu wa Kimi no Uso,9
-SSSS.Gridman,9
-Steins;Gate,10
-Steins;Gate 0,9
-Tanaka-kun wa Itsumo Kedaruge,10
-To LOVE-Ru,-
-Wangan Midnight,-
-Yuru Camp△,10
-Zombieland Saga,8
+﻿BAKEMONOGATARI,8
+BLEND S,9
+CHARLOTTE,9
+CHUUNIBYOU DEMO KOI GA SHITAI!,7
+COWBOY BEBOP,10
+DARLING IN THE FRANXX,7
+GABRIEL DROPOUT,6
+GOBLIN SLAYER,10
+INITIAL D FIRST STAGE,10
+K-ON!,9
+KOBAYASHI-SAN CHI NO MAID DRAGON,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+MADE IN ABYSS,10
+NEON GENESIS EVANGELION,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,10
+SAMURAI CHAMPLOO,9
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SHIGATSU WA KIMI NO USO,9
+SSSS.GRIDMAN,9
+STEINS;GATE,10
+STEINS;GATE 0,9
+TANAKA-KUN WA ITSUMO KEDARUGE,10
+YURU CAMP△,10
+ZOMBIELAND SAGA,8

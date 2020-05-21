@@ -1,62 +1,62 @@
-91 Days,10
-Absolute Duo,8
-Akame ga Kill!,8
-Another,8
-Ansatsu Kyoushitsu,9
-Ao no Exorcist,9
-Ao no Exorcist: Kyoto Fujouou-hen,9
-Asobi Asobase,10
-Black Bullet,8
-Black Lagoon,9
-BlazBlue: Alter Memory,8
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Bungou Stray Dogs,9
-Bungou Stray Dogs 2nd Season,10
-Cowboy Bebop,9
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,9
-Death Note,7
-Death Parade,8
-Dr. Stone,9
-Enen no Shouboutai,9
-Fullmetal Alchemist,9
-Fullmetal Alchemist: Brotherhood,9
-Haiyore! Nyaruko-san,9
-Hataraku Maou-sama!,8
-High School DxD,8
-Jigoku Shoujo,9
-JoJo no Kimyou na Bouken (TV),9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,9
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,9
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
-Kimetsu no Yaiba,9
-Kiseijuu: Sei no Kakuritsu,9
-Kono Subarashii Sekai ni Shukufuku wo!,8
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Kuroshitsuji,9
-Kuroshitsuji II,9
-Kuroshitsuji: Book of Circus,9
-Log Horizon,8
-Log Horizon 2nd Season,9
-Mirai Nikki,7
-Mob Psycho 100,9
-Mob Psycho 100 II,9
-No Game No Life,8
-Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,8
-Ore wo Suki nano wa Omae dake ka yo,9
-Panty & Stocking with Garterbelt,7
-Persona 4 the Animation,8
-Plastic Memories,9
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,8
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,8
-Sword Art Online,8
-Sword Art Online II,7
-Tokyo Ghoul,9
-Tokyo Ghoul √A,8
-Trickster: Edogawa Ranpo Shounen Tanteidan yori,8
-Working!!,9
-Working'!!,10
-Yoru no Yatterman,7
+﻿91 DAYS,10
+ABSOLUTE DUO,8
+AKAME GA KILL!,8
+ANOTHER,8
+ANSATSU KYOUSHITSU,9
+AO NO EXORCIST,9
+AO NO EXORCIST: KYOTO FUJOUOU-HEN,9
+ASOBI ASOBASE,10
+BLACK BULLET,8
+BLACK LAGOON,9
+BLAZBLUE: ALTER MEMORY,8
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BUNGOU STRAY DOGS,9
+BUNGOU STRAY DOGS 2ND SEASON,10
+COWBOY BEBOP,9
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,9
+DEATH NOTE,7
+DEATH PARADE,8
+DR. STONE,9
+ENEN NO SHOUBOUTAI,9
+FULLMETAL ALCHEMIST,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+HAIYORE! NYARUKO-SAN,9
+HATARAKU MAOU-SAMA!,8
+HIGH SCHOOL DXD,8
+JIGOKU SHOUJO,9
+JOJO NO KIMYOU NA BOUKEN (TV),9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,9
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,9
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,9
+KIMETSU NO YAIBA,9
+KISEIJUU: SEI NO KAKURITSU,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+KUROSHITSUJI,9
+KUROSHITSUJI II,9
+KUROSHITSUJI: BOOK OF CIRCUS,9
+LOG HORIZON,8
+LOG HORIZON 2ND SEASON,9
+MIRAI NIKKI,7
+MOB PSYCHO 100,9
+MOB PSYCHO 100 II,9
+NO GAME NO LIFE,8
+ORE NO NOUNAI SENTAKUSHI GA GAKUEN LOVE COMEDY WO ZENRYOKU DE JAMA SHITEIRU,8
+ORE WO SUKI NANO WA OMAE DAKE KA YO,9
+PANTY & STOCKING WITH GARTERBELT,7
+PERSONA 4 THE ANIMATION,8
+PLASTIC MEMORIES,9
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+SHIMONETA TO IU GAINEN GA SONZAI SHINAI TAIKUTSU NA SEKAI,8
+SHINCHOU YUUSHA: KONO YUUSHA GA ORE TSUEEE KUSE NI SHINCHOU SUGIRU,8
+SWORD ART ONLINE,8
+SWORD ART ONLINE II,7
+TOKYO GHOUL,9
+TOKYO GHOUL √A,8
+TRICKSTER: EDOGAWA RANPO SHOUNEN TANTEIDAN YORI,8
+WORKING!!,9
+WORKING'!!,10
+YORU NO YATTERMAN,7

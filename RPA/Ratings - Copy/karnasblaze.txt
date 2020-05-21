@@ -1,46 +1,46 @@
-﻿Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Ao no Exorcist,6
-Bakemonogatari,9
-Bleach,10
-Boku no Hero Academia,7
-Bungou Stray Dogs,8
-Bungou Stray Dogs 2nd Season,9
-Bungou Stray Dogs 3rd Season,8
-Citrus,5
-Claymore,6
-Code Geass: Hangyaku no Lelouch,9
-Code Geass: Hangyaku no Lelouch R2,10
-Death Note,9
-Enen no Shouboutai,8
-Fairy Tail,7
-Fairy Tail: Final Series,5
-Fate/Apocrypha,7
-Fate/Grand Order: Zettai Majuu Sensen Babylonia,8
-Fate/stay night: Unlimited Blade Works,10
-Fullmetal Alchemist: Brotherhood,9
-Hunter x Hunter,10
-JoJo no Kimyou na Bouken (TV),10
-Kimetsu no Yaiba,8
-Kiseijuu: Sei no Kakuritsu,9
-Magi: The Kingdom of Magic,10
-Magi: The Labyrinth of Magic,9
-Mahou Shoujo Madoka★Magica,9
-Medaka Box,7
-Medaka Box Abnormal,8
-Mirai Nikki,6
-Mob Psycho 100 II,9
-Monogatari Series: Second Season,10
-Naruto: Shippuuden,7
-Nekomonogatari: Kuro,8
-Nisemonogatari,8
-Owari no Seraph,8
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Shingeki no Kyojin,9
-Sword Art Online,6
-Sword Art Online: Alicization,8
-Tate no Yuusha no Nariagari,8
-Tensei shitara Slime Datta Ken,8
-Tokyo Ghoul,8
-Tokyo Ghoul:re,5
-Yagate Kimi ni Naru,8
-Yakusoku no Neverland,8
+﻿ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+AO NO EXORCIST,7
+BAKEMONOGATARI,10
+BLEACH,10
+BOKU NO HERO ACADEMIA,7
+BUNGOU STRAY DOGS,8
+BUNGOU STRAY DOGS 2ND SEASON,9
+BUNGOU STRAY DOGS 3RD SEASON,8
+CITRUS,5
+CLAYMORE,6
+CODE GEASS: HANGYAKU NO LELOUCH,9
+CODE GEASS: HANGYAKU NO LELOUCH R2,10
+DEATH NOTE,9
+ENEN NO SHOUBOUTAI,8
+FAIRY TAIL,7
+FAIRY TAIL: FINAL SERIES,5
+FATE/APOCRYPHA,7
+FATE/GRAND ORDER: ZETTAI MAJUU SENSEN BABYLONIA,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,10
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+HUNTER X HUNTER (2011),10
+JOJO NO KIMYOU NA BOUKEN (TV),10
+KIMETSU NO YAIBA,8
+KISEIJUU: SEI NO KAKURITSU,9
+MAGI: THE KINGDOM OF MAGIC,10
+MAGI: THE LABYRINTH OF MAGIC,9
+MAHOU SHOUJO MADOKA★MAGICA,9
+MEDAKA BOX,7
+MEDAKA BOX ABNORMAL,8
+MIRAI NIKKI,6
+MOB PSYCHO 100 II,9
+MONOGATARI SERIES: SECOND SEASON,10
+NARUTO: SHIPPUUDEN,7
+NEKOMONOGATARI: KURO,8
+NISEMONOGATARI,8
+OWARI NO SERAPH,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+SHINGEKI NO KYOJIN,9
+SWORD ART ONLINE,6
+SWORD ART ONLINE: ALICIZATION,8
+TATE NO YUUSHA NO NARIAGARI,8
+TENSEI SHITARA SLIME DATTA KEN,8
+TOKYO GHOUL,8
+TOKYO GHOUL:RE,5
+YAGATE KIMI NI NARU,8
+YAKUSOKU NO NEVERLAND,8

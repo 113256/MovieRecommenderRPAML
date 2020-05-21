@@ -1,73 +1,73 @@
-﻿91 Days,7
-Akame ga Kill!,6
-Akuma no Riddle,6
-Baccano!,5
-Bakemonogatari,7
-Beastars,7
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,8
-Citrus,6
-Death Parade,8
-Fate/stay night: Unlimited Blade Works,7
-Fate/stay night: Unlimited Blade Works 2nd Season,7
-Fate/Zero,8
-Fate/Zero 2nd Season,8
-Flip Flappers,8
-Fullmetal Alchemist: Brotherhood,8
-Gakkougurashi!,6
-Hanamonogatari,7
-Hibike! Euphonium,5
-Houseki no Kuni (TV),5
-Hunter x Hunter (2011),10
-JoJo no Kimyou na Bouken (TV),6
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,6
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,6
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,7
-K-On!,7
-K-On!!,8
-Kannazuki no Miko,4
-Kill la Kill,8
-Kimetsu no Yaiba,7
-Kobayashi-san Chi no Maid Dragon,8
-Kuzu no Honkai,6
-Little Witch Academia (TV),7
-Made in Abyss,9
-Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV),7
-Mahou Shoujo Ikusei Keikaku,7
-Mahou Shoujo Madoka★Magica,8
-Metal Fight Beyblade,8
-Metal Fight Beyblade: Baku,8
-Mob Psycho 100,8
-Mob Psycho 100 II,8
-Monogatari Series: Second Season,7
-Monster,10
-Mousou Dairinin,8
-Nekomonogatari: Kuro,6
-Neon Genesis Evangelion,5
-Nisemonogatari,7
-One Punch Man,8
-Poputepipikku,6
-Princess Principal,8
-Psycho-Pass,8
-Re:Zero kara Hajimeru Isekai Seikatsu,7
-Sakura Trick,7
-Shiki,6
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,8
-Shingeki no Kyojin Season 3 Part 2,9
-Shoujo Shuumatsu Ryokou,8
-Shuumatsu no Izetta,8
-Steins;Gate,7
-Strawberry Panic,7
-Suzumiya Haruhi no Yuuutsu,7
-Suzumiya Haruhi no Yuuutsu (2009),7
-Tengen Toppa Gurren Lagann,7
-Texhnolyze,7
-Tsukimonogatari,5
-Violet Evergarden,8
-Yakusoku no Neverland,7
-Yuri Kuma Arashi,6
-Yuri!!! on Ice,7
-Yuuki Yuuna wa Yuusha de Aru,7
+﻿91 DAYS,7
+AKAME GA KILL!,6
+AKUMA NO RIDDLE,6
+BACCANO!,5
+BAKEMONOGATARI,7
+BEASTARS,7
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+CITRUS,6
+DEATH PARADE,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,7
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,7
+FATE/ZERO,8
+FATE/ZERO 2ND SEASON,8
+FLIP FLAPPERS,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,8
+GAKKOUGURASHI!,6
+HANAMONOGATARI,7
+HIBIKE! EUPHONIUM,5
+HOUSEKI NO KUNI (TV),5
+HUNTER X HUNTER (2011),10
+JOJO NO KIMYOU NA BOUKEN (TV),6
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,6
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,6
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,7
+K-ON!,7
+K-ON!!,8
+KANNAZUKI NO MIKO,4
+KILL LA KILL,8
+KIMETSU NO YAIBA,7
+KOBAYASHI-SAN CHI NO MAID DRAGON,8
+KUZU NO HONKAI,6
+LITTLE WITCH ACADEMIA (TV),7
+MADE IN ABYSS,9
+MAGIA RECORD: MAHOU SHOUJO MADOKA☆MAGICA GAIDEN (TV),7
+MAHOU SHOUJO IKUSEI KEIKAKU,7
+MAHOU SHOUJO MADOKA★MAGICA,8
+METAL FIGHT BEYBLADE,8
+METAL FIGHT BEYBLADE: BAKU,8
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,8
+MONOGATARI SERIES: SECOND SEASON,7
+MONSTER,10
+MOUSOU DAIRININ,8
+NEKOMONOGATARI: KURO,6
+NEON GENESIS EVANGELION,5
+NISEMONOGATARI,7
+ONE PUNCH MAN,8
+POPUTEPIPIKKU,6
+PRINCESS PRINCIPAL,8
+PSYCHO-PASS,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,7
+SAKURA TRICK,7
+SHIKI,6
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,8
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+SHOUJO SHUUMATSU RYOKOU,8
+SHUUMATSU NO IZETTA,8
+STEINS;GATE,7
+STRAWBERRY PANIC,7
+SUZUMIYA HARUHI NO YUUUTSU,7
+SUZUMIYA HARUHI NO YUUUTSU (2009),7
+TENGEN TOPPA GURREN LAGANN,7
+TEXHNOLYZE,7
+TSUKIMONOGATARI,5
+VIOLET EVERGARDEN,8
+YAKUSOKU NO NEVERLAND,7
+YURI KUMA ARASHI,6
+YURI!!! ON ICE,7
+YUUKI YUUNA WA YUUSHA DE ARU,7

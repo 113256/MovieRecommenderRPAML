@@ -1,125 +1,44 @@
-Aho Girl,5
-Ani ni Tsukeru Kusuri wa Nai!,-
-Ani ni Tsukeru Kusuri wa Nai! 2,-
-Another,-
-Ao no Exorcist: Kyoto Fujouou-hen,-
-Astarotte no Omocha!,-
-Bakuman.,-
-Banana Fish,8
-Barakamon,-
-Beelzebub,7
-Blood Lad,-
-Boku dake ga Inai Machi,10
-Boku no Hero Academia,6
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,7
-Boku no Kanojo ga Majimesugiru Sho-bitch na Ken,-
-Boku wa Tomodachi ga Sukunai,-
-Boku wa Tomodachi ga Sukunai Next,-
-Centaur no Nayami,-
-Charlotte,-
-Chuunibyou demo Koi ga Shitai!,7
-Chuunibyou demo Koi ga Shitai! Ren,6
-Clannad,-
-Clannad: After Story,10
-Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,-
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,-
-Danna ga Nani wo Itteiru ka Wakaranai Ken,-
-Darling in the FranXX,-
-Death Note,8
-Diabolik Lovers,-
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,-
-Enen no Shouboutai,-
-Eromanga-sensei,5
-Free!,-
-Fudanshi Koukou Seikatsu,-
-Fullmetal Alchemist: Brotherhood,10
-Gakuen Babysitters,-
-Given,9
-Hajimete no Gal,-
-Hataraku Maou-sama!,-
-High Score Girl,-
-Himouto! Umaru-chan,-
-Hitorijime My Hero,-
-Hourou Musuko,-
-Inu x Boku SS,-
-Jingai-san no Yome,-
-Junjou Romantica,-
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,-
-Kanokon,-
-Kaze ga Tsuyoku Fuiteiru,8
-Keijo!!!!!!!!,-
-Kimetsu no Yaiba,9
-Kimi ni Todoke,-
-Kiseijuu: Sei no Kakuritsu,-
-Kiss x Sis (TV),-
-Kiznaiver,-
-Kobayashi-san Chi no Maid Dragon,8
-Koi to Uso,-
-Kono Bijutsubu ni wa Mondai ga Aru!,-
-Kono Subarashii Sekai ni Shukufuku wo!,10
-Kono Subarashii Sekai ni Shukufuku wo! 2,7
-Kuroshitsuji II,-
-Kuroshitsuji: Book of Circus,7
-Ladies versus Butlers!,-
-Love Stage!!,-
-Makura no Danshi,-
-MM!,-
-Mob Psycho 100,7
-Mob Psycho 100 II,10
-Monster Musume no Iru Nichijou,-
-Motto To LOVE-Ru,-
-Naruto,8
-Netsuzou TRap,-
-Nisekoi,-
-Nisekoi:,-
-No.6,-
-Nora to Oujo to Noraneko Heart,-
-Noragami Aragoto,-
-Nyan Koi!,-
-Okusama ga Seitokaichou!,-
-Okusama ga Seitokaichou!+!,-
-One Punch Man,8
-Ore no Imouto ga Konnani Kawaii Wake ga Nai.,-
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,-
-Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,-
-Outbreak Company,-
-Owari no Seraph,-
-Owari no Seraph: Nagoya Kessen-hen,-
-Pokemon XY,-
-Pokemon XY&Z,-
-Re:Zero kara Hajimeru Isekai Seikatsu,-
-ReLIFE,-
-Renai Boukun,-
-Rokudenashi Majutsu Koushi to Akashic Records,-
-Rosario to Vampire,-
-Rosario to Vampire Capu2,-
-Saiki Kusuo no Ψ-nan,10
-Saiki Kusuo no Ψ-nan 2,10
-Saikin Imouto no Yousu ga Chotto Okashiinda ga.,-
-Sakura-sou no Pet na Kanojo,-
-Seitokai Yakuindomo,-
-Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,-
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,-
-Shingeki no Kyojin Season 3,-
-Shingeki no Kyojin Season 3 Part 2,-
-Suki na Mono wa Suki Dakara Shou ga Nai!!,-
-Super Lovers,8
-Super Lovers 2,7
-Sword Art Online,4
-Sword Art Online II,-
-To LOVE-Ru,7
-To LOVE-Ru Darkness 2nd,4
-Tokyo Ghoul,6
-Tokyo Ghoul √A,7
-Tokyo Ghoul:re,6
-Tokyo Ghoul:re 2nd Season,8
-Toradora!,5
-Udon no Kuni no Kiniro Kemari,7
-Watashi ga Motete Dousunda,6
-Wotaku ni Koi wa Muzukashii,9
-Yakusoku no Neverland,7
-Yamada-kun to 7-nin no Majo (TV),6
-Yosuga no Sora: In Solitude Where We Are Least Alone.,5
-Yuri!!! on Ice,7
+﻿AHO GIRL,5
+BANANA FISH,8
+BEELZEBUB,7
+BOKU DAKE GA INAI MACHI,10
+BOKU NO HERO ACADEMIA,6
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+CHUUNIBYOU DEMO KOI GA SHITAI!,7
+CHUUNIBYOU DEMO KOI GA SHITAI! REN,6
+CLANNAD: AFTER STORY,10
+DEATH NOTE,8
+EROMANGA-SENSEI,5
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+GIVEN,9
+KAZE GA TSUYOKU FUITEIRU,8
+KIMETSU NO YAIBA,9
+KOBAYASHI-SAN CHI NO MAID DRAGON,8
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,7
+KUROSHITSUJI: BOOK OF CIRCUS,7
+MOB PSYCHO 100,7
+MOB PSYCHO 100 II,10
+NARUTO,8
+ONE PUNCH MAN,8
+SAIKI KUSUO NO Ψ-NAN,10
+SAIKI KUSUO NO Ψ-NAN 2,10
+SHINGEKI NO KYOJIN,10
+SUPER LOVERS,8
+SUPER LOVERS 2,7
+SWORD ART ONLINE,4
+TO LOVE-RU,7
+TO LOVE-RU DARKNESS 2ND,4
+TOKYO GHOUL,6
+TOKYO GHOUL √A,7
+TOKYO GHOUL:RE,6
+TOKYO GHOUL:RE 2ND SEASON,8
+TORADORA!,5
+UDON NO KUNI NO KINIRO KEMARI,7
+WATASHI GA MOTETE DOUSUNDA,6
+WOTAKU NI KOI WA MUZUKASHII,9
+YAKUSOKU NO NEVERLAND,7
+YAMADA-KUN TO 7-NIN NO MAJO (TV),6
+YOSUGA NO SORA: IN SOLITUDE WHERE WE ARE LEAST ALONE.,5
+YURI!!! ON ICE,7

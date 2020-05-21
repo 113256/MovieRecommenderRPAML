@@ -1,111 +1,110 @@
-Absolute Duo,7
-Accel World,8
-Ai Yori Aoshi,8
-Ai Yori Aoshi: Enishi,8
-Akame ga Kill!,8
-Akatsuki no Yona,8
-Another,8
-Ao Haru Ride,8
-Ao no Exorcist,7
-Asu no Yoichi!,7
-B-gata H-kei,8
-Bakemonogatari,8
-Bakuman.,8
-Bakuman. 2nd Season,8
-Bakuman. 3rd Season,9
-Beelzebub,9
-Ben-To,8
-Bleach,9
-Boku wa Tomodachi ga Sukunai,6
-Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou,8
-Claymore,8
-D.Gray-man,9
-Dakara Boku wa H ga Dekinai.,9
-Danna ga Nani wo Itteiru ka Wakaranai Ken,8
-Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me,8
-Date A Live,7
-Date A Live II,8
-Deadman Wonderland,8
-Dragon Ball,10
-Dragon Ball GT,9
-Dragon Ball Kai,10
-Dragon Ball Z,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
-Freezing,8
-Freezing Vibration,8
-Fullmetal Alchemist: Brotherhood,-
-Gangsta.,9
-Gintama,10
-Gintama',10
-Gintama°,10
-GJ-bu,9
-Golden Time,7
-Goshuushou-sama Ninomiya-kun,6
-Green Green,6
-Gugure! Kokkuri-san,9
-Hagure Yuusha no Aesthetica,8
-Hajime no Ippo,10
-Hajime no Ippo: New Challenger,10
-Hajime no Ippo: Rising,10
-High School DxD,9
-High School DxD BorN,9
-High School DxD New,9
-Himouto! Umaru-chan,9
-Hunter x Hunter (2011),9
-Hyakka Ryouran: Samurai Bride,9
-Hyakka Ryouran: Samurai Girls,9
-Ichiban Ushiro no Daimaou,8
-Inazuma Eleven,9
-IS: Infinite Stratos,7
-IS: Infinite Stratos 2,7
-Itazura na Kiss,6
-Kamisama Hajimemashita,7
-Kamisama Hajimemashita◎,7
-Katekyo Hitman Reborn!,7
-Kimi ni Todoke,8
-Kimi ni Todoke 2nd Season,8
-Kingdom,8
-Kingdom 2nd Season,8
-Kiss x Sis (TV),8
-Koi to Senkyo to Chocolate,7
-Madan no Ou to Vanadis,7
-Magi: The Kingdom of Magic,8
-Magi: The Labyrinth of Magic,8
-Maji de Watashi ni Koi Shinasai!,6
-Maken-Ki!,8
-Nanatsu no Taizai,7
-Naruto,10
-No Game No Life,8
-Nyan Koi!,7
-One Punch Man,10
-Ore Monogatari!!,10
-Ore no Imouto ga Konnani Kawaii Wake ga Nai.,8
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,7
-Ore no Nounai Sentakushi ga Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,7
-Papa no Iukoto wo Kikinasai!,9
-Prison School,8
-Sakura-sou no Pet na Kanojo,7
-Seikon no Qwaser,7
-Seikon no Qwaser II,8
-Seireitsukai no Blade Dance,7
-Sekirei,8
-Sekirei: Pure Engagement,9
-Shijou Saikyou no Deshi Kenichi,9
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 3 Part 2,7
-Sora no Otoshimono,6
-Sora no Otoshimono: Forte,7
-Soredemo Sekai wa Utsukushii,6
-Special A,8
-Sukitte Ii na yo.,7
-Tokyo Ghoul,8
-Tokyo Ghoul √A,9
-Toradora!,5
-Toriko,9
-Trinity Seven,8
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,9
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,9
-Yosuga no Sora: In Solitude Where We Are Least Alone.,1
-Zero no Tsukaima,7
-Zero no Tsukaima F,7
-Zero no Tsukaima: Princesses no Rondo,7
+﻿ABSOLUTE DUO,7
+ACCEL WORLD,8
+AI YORI AOSHI,8
+AI YORI AOSHI: ENISHI,8
+AKAME GA KILL!,8
+AKATSUKI NO YONA,8
+ANOTHER,8
+AO HARU RIDE,8
+AO NO EXORCIST,7
+ASU NO YOICHI!,7
+B-GATA H-KEI,8
+BAKEMONOGATARI,8
+BAKUMAN.,8
+BAKUMAN. 2ND SEASON,8
+BAKUMAN. 3RD SEASON,9
+BEELZEBUB,9
+BEN-TO,8
+BLEACH,9
+BOKU WA TOMODACHI GA SUKUNAI,6
+CAMPIONE!: MATSUROWANU KAMIGAMI TO KAMIGOROSHI NO MAOU,8
+CLAYMORE,8
+D.GRAY-MAN,9
+DAKARA BOKU WA H GA DEKINAI.,9
+DANNA GA NANI WO ITTEIRU KA WAKARANAI KEN,8
+DANNA GA NANI WO ITTEIRU KA WAKARANAI KEN 2 SURE-ME,8
+DATE A LIVE,7
+DATE A LIVE II,8
+DEADMAN WONDERLAND,8
+DRAGON BALL,10
+DRAGON BALL GT,9
+DRAGON BALL KAI,10
+DRAGON BALL Z,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,9
+FREEZING,8
+FREEZING VIBRATION,8
+GANGSTA.,9
+GINTAMA,10
+GINTAMA',10
+GINTAMA°,10
+GJ-BU,9
+GOLDEN TIME,7
+GOSHUUSHOU-SAMA NINOMIYA-KUN,6
+GREEN GREEN,6
+GUGURE! KOKKURI-SAN,9
+HAGURE YUUSHA NO AESTHETICA,8
+HAJIME NO IPPO,10
+HAJIME NO IPPO: NEW CHALLENGER,10
+HAJIME NO IPPO: RISING,10
+HIGH SCHOOL DXD,9
+HIGH SCHOOL DXD BORN,9
+HIGH SCHOOL DXD NEW,9
+HIMOUTO! UMARU-CHAN,9
+HUNTER X HUNTER (2011),9
+HYAKKA RYOURAN: SAMURAI BRIDE,9
+HYAKKA RYOURAN: SAMURAI GIRLS,9
+ICHIBAN USHIRO NO DAIMAOU,8
+INAZUMA ELEVEN,9
+IS: INFINITE STRATOS,7
+IS: INFINITE STRATOS 2,7
+ITAZURA NA KISS,6
+KAMISAMA HAJIMEMASHITA,7
+KAMISAMA HAJIMEMASHITA◎,7
+KATEKYO HITMAN REBORN!,7
+KIMI NI TODOKE,8
+KIMI NI TODOKE 2ND SEASON,8
+KINGDOM,8
+KINGDOM 2ND SEASON,8
+KISS X SIS (TV),8
+KOI TO SENKYO TO CHOCOLATE,7
+MADAN NO OU TO VANADIS,7
+MAGI: THE KINGDOM OF MAGIC,8
+MAGI: THE LABYRINTH OF MAGIC,8
+MAJI DE WATASHI NI KOI SHINASAI!,6
+MAKEN-KI!,8
+NANATSU NO TAIZAI,7
+NARUTO,10
+NO GAME NO LIFE,8
+NYAN KOI!,7
+ONE PUNCH MAN,10
+ORE MONOGATARI!!,10
+ORE NO IMOUTO GA KONNANI KAWAII WAKE GA NAI.,8
+ORE NO KANOJO TO OSANANAJIMI GA SHURABA SUGIRU,7
+ORE NO NOUNAI SENTAKUSHI GA GAKUEN LOVE COMEDY WO ZENRYOKU DE JAMA SHITEIRU,7
+PAPA NO IUKOTO WO KIKINASAI!,9
+PRISON SCHOOL,8
+SAKURA-SOU NO PET NA KANOJO,7
+SEIKON NO QWASER,7
+SEIKON NO QWASER II,8
+SEIREITSUKAI NO BLADE DANCE,7
+SEKIREI,8
+SEKIREI: PURE ENGAGEMENT,9
+SHIJOU SAIKYOU NO DESHI KENICHI,9
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,7
+SORA NO OTOSHIMONO,6
+SORA NO OTOSHIMONO: FORTE,7
+SOREDEMO SEKAI WA UTSUKUSHII,6
+SPECIAL A,8
+SUKITTE II NA YO.,7
+TOKYO GHOUL,8
+TOKYO GHOUL √A,9
+TORADORA!,5
+TORIKO,9
+TRINITY SEVEN,8
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,9
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,9
+YOSUGA NO SORA: IN SOLITUDE WHERE WE ARE LEAST ALONE.,1
+ZERO NO TSUKAIMA,7
+ZERO NO TSUKAIMA F,7
+ZERO NO TSUKAIMA: PRINCESSES NO RONDO,7

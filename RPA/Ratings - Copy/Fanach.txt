@@ -1,32 +1,33 @@
-﻿Akame ga Kill!,10
-Angel Beats!,10
-Darling in the FranXX,10
-Death Note,9
-Domestic na Kanojo,10
-K-On!,10
-K-On!!,10
-Kakegurui,10
-Kakegurui××,10
-Kimetsu no Yaiba,10
-Kiznaiver,10
-Nanatsu no Taizai,10
-Nanatsu no Taizai: Imashime no Fukkatsu,10
-Nanatsu no Taizai: Kamigami no Gekirin,10
-Nanatsu no Taizai: Seisen no Shirushi,10
-Naruto,9
-Naruto: Shippuuden,10
-Noragami,10
-Noragami Aragoto,10
-One Punch Man,7
-One Punch Man 2nd Season,7
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,10
-Shigatsu wa Kimi no Uso,10
-Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,10
-Sword Art Online,10
-Sword Art Online II,10
-Sword Art Online: Alicization,10
-Sword Art Online: Alicization - War of Underworld,10
-Tokyo Ghoul,10
-Tokyo Ghoul √A,10
-Tokyo Ghoul:re,10
-Tokyo Ghoul:re 2nd Season,10
+﻿AKAME GA KILL!,10
+ANGEL BEATS!,10
+CHARLOTTE,10
+DARLING IN THE FRANXX,10
+DEATH NOTE,9
+DOMESTIC NA KANOJO,10
+K-ON!,10
+K-ON!!,10
+KAKEGURUI,10
+KAKEGURUI××,10
+KIMETSU NO YAIBA,10
+KIZNAIVER,10
+NANATSU NO TAIZAI,10
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,10
+NANATSU NO TAIZAI: KAMIGAMI NO GEKIRIN,10
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,10
+NARUTO,9
+NARUTO: SHIPPUUDEN,10
+NORAGAMI,10
+NORAGAMI ARAGOTO,10
+ONE PUNCH MAN,7
+ONE PUNCH MAN 2ND SEASON,7
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,10
+SHIGATSU WA KIMI NO USO,10
+SHUUMATSU NANI SHITEMASU KA? ISOGASHII DESU KA? SUKUTTE MORATTE II DESU KA?,10
+SWORD ART ONLINE,10
+SWORD ART ONLINE II,10
+SWORD ART ONLINE: ALICIZATION,10
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,10
+TOKYO GHOUL,10
+TOKYO GHOUL √A,10
+TOKYO GHOUL:RE,10
+TOKYO GHOUL:RE 2ND SEASON,10

@@ -1,42 +1,43 @@
-﻿3-gatsu no Lion,8
-3-gatsu no Lion 2nd Season,10
-Angel Beats!,7
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,10
-Baccano!,9
-Clannad,8
-Clannad: After Story,9
-Code Geass: Hangyaku no Lelouch,7
-Code Geass: Hangyaku no Lelouch R2,7
-Cowboy Bebop,10
-Death Note,8
-Dragon Ball Z,9
-Fate/stay night,8
-Fate/stay night: Unlimited Blade Works,9
-Fate/stay night: Unlimited Blade Works 2nd Season,9
-Fullmetal Alchemist: Brotherhood,9
-Higurashi no Naku Koro ni,8
-Higurashi no Naku Koro ni Kai,9
-Hunter x Hunter (2011),10
-JoJo no Kimyou na Bouken (TV),7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,10
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,9
-Kill la Kill,9
-Made in Abyss,9
-Mahou Shoujo Madoka★Magica,7
-Mob Psycho 100,8
-Neon Genesis Evangelion,10
-No Game No Life,6
-One Punch Man,8
-Sakamichi no Apollon,8
-Samurai Champloo,10
-Shigatsu wa Kimi no Uso,8
-Shingeki no Kyojin,8
-Shingeki no Kyojin Season 2,7
-Shingeki no Kyojin Season 3,7
-Shingeki no Kyojin Season 3 Part 2,9
-Steins;Gate,9
-Tengen Toppa Gurren Lagann,10
-Violet Evergarden,7
-Yakusoku no Neverland,9
+﻿3-GATSU NO LION,8
+3-GATSU NO LION 2ND SEASON,10
+ANGEL BEATS!,7
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,10
+BACCANO!,9
+CLANNAD,8
+CLANNAD: AFTER STORY,9
+CODE GEASS: HANGYAKU NO LELOUCH,7
+CODE GEASS: HANGYAKU NO LELOUCH R2,7
+COWBOY BEBOP,10
+DEATH NOTE,8
+DRAGON BALL Z,9
+FATE/STAY NIGHT,8
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,9
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+HIGURASHI NO NAKU KORO NI,8
+HIGURASHI NO NAKU KORO NI KAI,9
+HUNTER X HUNTER (2011),10
+JOJO NO KIMYOU NA BOUKEN (TV),7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,8
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,10
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,9
+KILL LA KILL,9
+MADE IN ABYSS,9
+MAHOU SHOUJO MADOKA★MAGICA,7
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,8
+NEON GENESIS EVANGELION,10
+NO GAME NO LIFE,6
+ONE PUNCH MAN,8
+SAKAMICHI NO APOLLON,8
+SAMURAI CHAMPLOO,10
+SHIGATSU WA KIMI NO USO,8
+SHINGEKI NO KYOJIN,8
+SHINGEKI NO KYOJIN SEASON 2,7
+SHINGEKI NO KYOJIN SEASON 3,7
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+STEINS;GATE,9
+TENGEN TOPPA GURREN LAGANN,10
+VIOLET EVERGARDEN,7
+YAKUSOKU NO NEVERLAND,9

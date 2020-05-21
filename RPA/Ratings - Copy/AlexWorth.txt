@@ -1,62 +1,63 @@
-﻿5-toubun no Hanayome,8
-Ajin,8
-Amagi Brilliant Park,8
-Araburu Kisetsu no Otome-domo yo.,9
-Boku dake ga Inai Machi,9
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,8
-Bokutachi wa Benkyou ga Dekinai,8
-Code Geass: Hangyaku no Lelouch,10
-Code Geass: Hangyaku no Lelouch R2,10
-D-Frag!,8
-Death Note,10
-Domestic na Kanojo,8
-Dororo,9
-Dr. Stone,9
-Drifters,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
-Enen no Shouboutai,9
-Eyeshield 21,9
-Fate/stay night: Unlimited Blade Works,10
-Fate/stay night: Unlimited Blade Works 2nd Season,10
-Fate/Zero 2nd Season,8
-Fullmetal Alchemist: Brotherhood,10
-Haikyuu!!,8
-Haikyuu!! Second Season,8
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,9
-Karakai Jouzu no Takagi-san,10
-Karakai Jouzu no Takagi-san 2,9
-Kimetsu no Yaiba,10
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kuroko no Basket,8
-Midara na Ao-chan wa Benkyou ga Dekinai,8
-Mob Psycho 100 II,9
-Nakanohito Genome [Jikkyouchuu],7
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Seisen no Shirushi,8
-Naruto,9
-Nisekoi,9
-Noragami,9
-One Outs,9
-One Punch Man,10
-One Punch Man 2nd Season,7
-Ore no Kanojo to Osananajimi ga Shuraba Sugiru,8
-Overlord,8
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,10
-Shokugeki no Souma,9
-Soul Eater,8
-Sword Art Online,7
-Sword Art Online II,6
-Tate no Yuusha no Nariagari,9
-Tokyo Ghoul,9
-Tsurezure Children,8
-Vinland Saga,10
-Yakusoku no Neverland,10
-Youjo Senki,8
+﻿5-TOUBUN NO HANAYOME,8
+AJIN,8
+AMAGI BRILLIANT PARK,8
+ARABURU KISETSU NO OTOME-DOMO YO.,9
+BOKU DAKE GA INAI MACHI,9
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BOKUTACHI WA BENKYOU GA DEKINAI,8
+CODE GEASS: HANGYAKU NO LELOUCH,10
+CODE GEASS: HANGYAKU NO LELOUCH R2,10
+D-FRAG!,8
+DEATH NOTE,10
+DOMESTIC NA KANOJO,8
+DORORO,9
+DR. STONE,9
+DRIFTERS,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,7
+ENEN NO SHOUBOUTAI,9
+EYESHIELD 21,9
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS,10
+FATE/STAY NIGHT: UNLIMITED BLADE WORKS 2ND SEASON,10
+FATE/ZERO 2ND SEASON,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,8
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,8
+HAIKYUU!!: TO THE TOP,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,9
+KARAKAI JOUZU NO TAKAGI-SAN,10
+KARAKAI JOUZU NO TAKAGI-SAN 2,9
+KIMETSU NO YAIBA,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KUROKO NO BASKET,8
+MIDARA NA AO-CHAN WA BENKYOU GA DEKINAI,8
+MOB PSYCHO 100 II,9
+NAKANOHITO GENOME [JIKKYOUCHUU],7
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,8
+NARUTO,9
+NISEKOI,9
+NORAGAMI,9
+ONE OUTS,9
+ONE PUNCH MAN,10
+ONE PUNCH MAN 2ND SEASON,7
+ORE NO KANOJO TO OSANANAJIMI GA SHURABA SUGIRU,8
+OVERLORD,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SHOKUGEKI NO SOUMA,9
+SOUL EATER,8
+SWORD ART ONLINE,7
+SWORD ART ONLINE II,6
+TATE NO YUUSHA NO NARIAGARI,9
+TOKYO GHOUL,9
+TSUREZURE CHILDREN,8
+VINLAND SAGA,10
+YAKUSOKU NO NEVERLAND,10
+YOUJO SENKI,8

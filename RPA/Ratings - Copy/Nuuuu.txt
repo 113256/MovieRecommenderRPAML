@@ -1,45 +1,39 @@
-﻿Angel Beats!,6
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,7
-Another,5
-Bakemonogatari,7
-Black★Rock Shooter (TV),6
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,7
-Boku no Hero Academia 3rd Season,7
-Charlotte,6
-Clannad,5
-Clockwork Planet,5
-Conception,2
-Cowboy Bebop,8
-Danna ga Nani wo Itteiru ka Wakaranai Ken,8
-Death Note,7
-Haibane Renmei,6
-Hunter x Hunter (2011),9
-Kenpuu Denki Berserk,10
-Kill la Kill,8
-Kobayashi-san Chi no Maid Dragon,9
-Koukyoushihen Eureka Seven,8
-Made in Abyss,10
-Mahou Shoujo Madoka★Magica,8
-Mob Psycho 100,8
-Mob Psycho 100 II,8
-Neon Genesis Evangelion,8
-New Game!,7
-Nisemonogatari,6
-No Game No Life,8
-One Punch Man,7
-Poputepipikku,6
-Psycho-Pass,8
-Re:Zero kara Hajimeru Isekai Seikatsu,4
-Serial Experiments Lain,9
-Shinryaku! Ika Musume,9
-Shinryaku!? Ika Musume,8
-Shoujo Shuumatsu Ryokou,8
-SSSS.Gridman,2
-Steins;Gate,8
-Steins;Gate 0,6
-Strike Witches,5
-Suzumiya Haruhi no Yuuutsu,8
-Suzumiya Haruhi no Yuuutsu (2009),7
-Tengen Toppa Gurren Lagann,7
-Tensei shitara Slime Datta Ken,9
+﻿ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,7
+BAKEMONOGATARI,7
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,7
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+CLANNAD,5
+CLOCKWORK PLANET,5
+CONCEPTION,2
+COWBOY BEBOP,7
+DANNA GA NANI WO ITTEIRU KA WAKARANAI KEN,8
+DEATH NOTE,8
+HAIBANE RENMEI,6
+HUNTER X HUNTER (2011),8
+KENPUU DENKI BERSERK,10
+KILL LA KILL,7
+KOBAYASHI-SAN CHI NO MAID DRAGON,9
+KOUKYOUSHIHEN EUREKA SEVEN,7
+MADE IN ABYSS,10
+MAHOU SHOUJO MADOKA★MAGICA,8
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,8
+NEON GENESIS EVANGELION,8
+NISEMONOGATARI,6
+NO GAME NO LIFE,8
+ONE PUNCH MAN,7
+POPUTEPIPIKKU,6
+PSYCHO-PASS,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,3
+SERIAL EXPERIMENTS LAIN,9
+SHINRYAKU! IKA MUSUME,9
+SHINRYAKU!? IKA MUSUME,8
+SHOUJO SHUUMATSU RYOKOU,8
+SSSS.GRIDMAN,2
+STEINS;GATE,7
+STEINS;GATE 0,5
+SUZUMIYA HARUHI NO YUUUTSU,8
+SUZUMIYA HARUHI NO YUUUTSU (2009),7
+TENGEN TOPPA GURREN LAGANN,7
+TENSEI SHITARA SLIME DATTA KEN,9

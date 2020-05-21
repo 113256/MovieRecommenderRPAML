@@ -1,31 +1,29 @@
-﻿Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,9
-Cowboy Bebop,8
-Dorohedoro,8
-Dr. Stone,8
-Fullmetal Alchemist: Brotherhood,9
-Haikyuu!!,9
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Haikyuu!!: To the Top,9
-Hajime no Ippo,10
-Hajime no Ippo: New Challenger,10
-Hunter x Hunter (2011),8
-JoJo no Kimyou na Bouken (TV),-
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,8
-Kenpuu Denki Berserk,8
-Kimetsu no Yaiba,9
-Monster,-
-Naruto,8
-One Punch Man,9
-Samurai Champloo,8
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,-
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,9
-Steins;Gate,9
-Tengen Toppa Gurren Lagann,9
-Vinland Saga,10
-Yakusoku no Neverland,9
+﻿BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+COWBOY BEBOP,8
+DOROHEDORO,8
+DR. STONE,8
+FULLMETAL ALCHEMIST: BROTHERHOOD,9
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HAIKYUU!!: TO THE TOP,9
+HAJIME NO IPPO,10
+HAJIME NO IPPO: NEW CHALLENGER,10
+HAJIME NO IPPO: RISING,9
+HUNTER X HUNTER (2011),8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,8
+KENPUU DENKI BERSERK,8
+KIMETSU NO YAIBA,9
+NARUTO,8
+ONE PUNCH MAN,9
+SAMURAI CHAMPLOO,8
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+STEINS;GATE,9
+TENGEN TOPPA GURREN LAGANN,9
+VINLAND SAGA,10
+YAKUSOKU NO NEVERLAND,9

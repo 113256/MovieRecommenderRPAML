@@ -1,7 +1,7 @@
-﻿Death Note,10
-Nanatsu no Taizai,10
-Nanatsu no Taizai: Kamigami no Gekirin,7
-One Punch Man,9
-Saiki Kusuo no Ψ-nan,10
-Sword Art Online,2
-Sword Art Online II,1
+﻿DEATH NOTE,10
+NANATSU NO TAIZAI,10
+NANATSU NO TAIZAI: KAMIGAMI NO GEKIRIN,7
+ONE PUNCH MAN,9
+SAIKI KUSUO NO Ψ-NAN,10
+SWORD ART ONLINE,2
+SWORD ART ONLINE II,1

@@ -1,71 +1,70 @@
-3-gatsu no Lion,8
-3-gatsu no Lion 2nd Season,9
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
-Another,8
-Bakemonogatari,8
-Beastars,6
-Blend S,6
-Boku dake ga Inai Machi,8
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,9
-Boku no Hero Academia 4th Season,8
-Chuunibyou demo Koi ga Shitai!,8
-Citrus,5
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,8
-Darling in the FranXX,7
-Death Note,7
-Dr. Stone,8
-Eromanga-sensei,4
-Fullmetal Alchemist: Brotherhood,10
-Haikyuu!!,8
-Haikyuu!! Second Season,8
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Haikyuu!!: To the Top,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kakegurui,4
-Kakegurui××,4
-Kimetsu no Yaiba,9
-Kobayashi-san Chi no Maid Dragon,7
-Kokoro Connect,7
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Mob Psycho 100,8
-Mob Psycho 100 II,9
-Nanatsu no Taizai,3
-Nanatsu no Taizai: Imashime no Fukkatsu,3
-Nanatsu no Taizai: Seisen no Shirushi,2
-Naruto,6
-Naruto: Shippuuden,7
-Neon Genesis Evangelion,7
-No Game No Life,8
-Non Non Biyori,6
-Non Non Biyori Repeat,7
-Noragami,8
-Noragami Aragoto,8
-One Punch Man,6
-One Punch Man 2nd Season,4
-One Room,4
-One Room Second Season,3
-Re:Zero kara Hajimeru Isekai Seikatsu,7
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,8
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,8
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,10
-Sora yori mo Tooi Basho,8
-Steins;Gate,10
-Steins;Gate 0,9
-Sword Art Online,5
-Sword Art Online II,5
-Sword Art Online: Alicization,6
-Sword Art Online: Alicization - War of Underworld,6
-Tate no Yuusha no Nariagari,7
-Tokyo Ghoul,6
-Tokyo Ghoul √A,4
-Tokyo Ghoul:re,3
-Tokyo Ghoul:re 2nd Season,2
-Tsurezure Children,5
-Violet Evergarden,8
-Yakusoku no Neverland,7
-Yosuga no Sora: In Solitude Where We Are Least Alone.,-
+﻿3-GATSU NO LION,8
+3-GATSU NO LION 2ND SEASON,9
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,8
+ANOTHER,8
+BAKEMONOGATARI,8
+BEASTARS,6
+BLEND S,6
+BOKU DAKE GA INAI MACHI,8
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,9
+BOKU NO HERO ACADEMIA 4TH SEASON,8
+CHUUNIBYOU DEMO KOI GA SHITAI!,8
+CITRUS,5
+DANGANRONPA: KIBOU NO GAKUEN TO ZETSUBOU NO KOUKOUSEI THE ANIMATION,8
+DARLING IN THE FRANXX,7
+DEATH NOTE,7
+DR. STONE,8
+EROMANGA-SENSEI,4
+FULLMETAL ALCHEMIST: BROTHERHOOD,10
+HAIKYUU!!,8
+HAIKYUU!! SECOND SEASON,8
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HAIKYUU!!: TO THE TOP,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KAKEGURUI,4
+KAKEGURUI××,4
+KIMETSU NO YAIBA,9
+KOBAYASHI-SAN CHI NO MAID DRAGON,7
+KOKORO CONNECT,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,9
+NANATSU NO TAIZAI,3
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,3
+NANATSU NO TAIZAI: SEISEN NO SHIRUSHI,2
+NARUTO,6
+NARUTO: SHIPPUUDEN,7
+NEON GENESIS EVANGELION,7
+NO GAME NO LIFE,8
+NON NON BIYORI,6
+NON NON BIYORI REPEAT,7
+NORAGAMI,8
+NORAGAMI ARAGOTO,8
+ONE PUNCH MAN,6
+ONE PUNCH MAN 2ND SEASON,4
+ONE ROOM,4
+ONE ROOM SECOND SEASON,3
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,7
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,8
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,8
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SORA YORI MO TOOI BASHO,8
+STEINS;GATE,10
+STEINS;GATE 0,9
+SWORD ART ONLINE,5
+SWORD ART ONLINE II,5
+SWORD ART ONLINE: ALICIZATION,6
+SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD,6
+TATE NO YUUSHA NO NARIAGARI,7
+TOKYO GHOUL,6
+TOKYO GHOUL √A,4
+TOKYO GHOUL:RE,3
+TOKYO GHOUL:RE 2ND SEASON,2
+TSUREZURE CHILDREN,5
+VIOLET EVERGARDEN,8
+YAKUSOKU NO NEVERLAND,7

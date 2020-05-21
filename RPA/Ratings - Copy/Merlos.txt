@@ -1,11 +1,7 @@
-﻿Amnesia,8
-Another,9
-Ansatsu Kyoushitsu,9
-Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,-
-Evil or Live,9
-Highschool of the Dead,9
-Kono Subarashii Sekai ni Shukufuku wo!,-
-Kono Subarashii Sekai ni Shukufuku wo! 2,-
-Mirai Nikki,8
-Phi Brain: Kami no Puzzle,-
-School Days,7
+﻿AMNESIA,8
+ANOTHER,9
+ANSATSU KYOUSHITSU,9
+EVIL OR LIVE,9
+HIGHSCHOOL OF THE DEAD,9
+MIRAI NIKKI,8
+SCHOOL DAYS,7

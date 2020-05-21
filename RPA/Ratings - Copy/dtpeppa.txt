@@ -1,13 +1,13 @@
-﻿Beastars,8
-Boku dake ga Inai Machi,6
-Boku no Hero Academia,7
-Boku no Hero Academia 2nd Season,6
-Boku no Hero Academia 3rd Season,7
-Death Note,7
-Fullmetal Alchemist: Brotherhood,8
-Golden Time,6
-Kimetsu no Yaiba,9
-Pokemon,5
-Soul Eater,7
-Sword Art Online,4
-Sword Art Online II,3
+﻿BEASTARS,8
+BOKU DAKE GA INAI MACHI,6
+BOKU NO HERO ACADEMIA,7
+BOKU NO HERO ACADEMIA 2ND SEASON,6
+BOKU NO HERO ACADEMIA 3RD SEASON,7
+DEATH NOTE,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,8
+GOLDEN TIME,6
+KIMETSU NO YAIBA,9
+POKEMON,5
+SOUL EATER,7
+SWORD ART ONLINE,4
+SWORD ART ONLINE II,3

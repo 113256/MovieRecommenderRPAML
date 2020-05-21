@@ -1,39 +1,41 @@
-﻿5-toubun no Hanayome,8
-Akame ga Kill!,10
-Ao no Exorcist,7
-Assassins Pride,5
-Boku dake ga Inai Machi,10
-Boku no Hero Academia,9
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,10
-Boku no Hero Academia 4th Season,8
-Bungou Stray Dogs,7
-Bungou Stray Dogs 2nd Season,8
-Dr. Stone,8
-Dragon Ball Super,9
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,8
-Enen no Shouboutai,8
-Gamers!,7
-Goblin Slayer,8
-Hajimete no Gal,7
-Kenja no Mago,6
-Kimetsu no Yaiba,10
-Kiseijuu: Sei no Kakuritsu,10
-Kono Subarashii Sekai ni Shukufuku wo!,9
-Kono Subarashii Sekai ni Shukufuku wo! 2,10
-Kyoukai no Kanata,10
-Mob Psycho 100,8
-Mob Psycho 100 II,8
-One Punch Man,10
-One Punch Man 2nd Season,7
-Overflow,6
-Rokudenashi Majutsu Koushi to Akashic Records,7
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,7
-Shingeki no Kyojin Season 3,7
-Shingeki no Kyojin Season 3 Part 2,10
-Sirius,7
-To Be Hero,4
-Yuragi-sou no Yuuna-san,8
-Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.,8
+﻿5-TOUBUN NO HANAYOME,9
+AKAME GA KILL!,10
+AO NO EXORCIST,7
+ASSASSINS PRIDE,5
+BOKU DAKE GA INAI MACHI,10
+BOKU NO HERO ACADEMIA,9
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+BOKU NO HERO ACADEMIA 4TH SEASON,8
+BUNGOU STRAY DOGS,7
+BUNGOU STRAY DOGS 2ND SEASON,8
+DR. STONE,8
+DRAGON BALL SUPER,9
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,8
+ENEN NO SHOUBOUTAI,8
+GAMERS!,7
+GOBLIN SLAYER,8
+HAJIMETE NO GAL,7
+ISEKAI WA SMARTPHONE TO TOMO NI.,6
+KENJA NO MAGO,6
+KIMETSU NO YAIBA,10
+KISEIJUU: SEI NO KAKURITSU,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,9
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,10
+KYOUKAI NO KANATA,10
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,8
+ONE PUNCH MAN,10
+ONE PUNCH MAN 2ND SEASON,7
+OVERFLOW,6
+ROKUDENASHI MAJUTSU KOUSHI TO AKASHIC RECORDS,7
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,7
+SHINGEKI NO KYOJIN SEASON 3,7
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SIRIUS,7
+TO BE HERO,4
+YAMADA-KUN TO 7-NIN NO MAJO (TV),9
+YURAGI-SOU NO YUUNA-SAN,8
+YUUSHA NI NARENAKATTA ORE WA SHIBUSHIBU SHUUSHOKU WO KETSUI SHIMASHITA.,8

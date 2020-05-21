@@ -1,100 +1,101 @@
-﻿3-gatsu no Lion,8
-3-gatsu no Lion 2nd Season,10
-Akkun to Kanojo,5
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,10
-Another,9
-Ansatsu Kyoushitsu,8
-Ansatsu Kyoushitsu 2nd Season,10
-Babylon,4
-Baccano!,8
-Bakuman.,8
-Bakuman. 2nd Season,8
-Bakuman. 3rd Season,8
-Barakamon,10
-Beastars,6
-Boku dake ga Inai Machi,10
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,8
-Boku no Hero Academia 3rd Season,8
-Boku no Hero Academia 4th Season,8
-Chihayafuru,7
-Chihayafuru 2,7
-Chihayafuru 3,7
-Code Geass: Hangyaku no Lelouch,8
-Code Geass: Hangyaku no Lelouch R2,8
-Domestic na Kanojo,7
-Dororo,7
-Dr. Stone,7
-Fruits Basket 1st Season,6
-Fullmetal Alchemist: Brotherhood,7
-Haikyuu!!,9
-Haikyuu!! Second Season,9
-Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
-Haikyuu!!: To the Top,9
-Hinamatsuri,9
-Hitoribocchi no Marumaru Seikatsu,7
-Honobono Log,8
-Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,9
-Hoshiai no Sora,6
-Houseki no Kuni (TV),9
-Hyouka,7
-Idaten Jump,6
-IS: Infinite Stratos,5
-IS: Infinite Stratos 2,5
-Isshuukan Friends.,7
-Jibaku Shounen Hanako-kun,7
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,7
-Kanata no Astra,7
-Karakai Jouzu no Takagi-san,7
-Karakai Jouzu no Takagi-san 2,8
-Kimetsu no Yaiba,7
-Kiseijuu: Sei no Kakuritsu,9
-Kono Bijutsubu ni wa Mondai ga Aru!,7
-Kono Subarashii Sekai ni Shukufuku wo!,7
-Kono Subarashii Sekai ni Shukufuku wo! 2,7
-Kuzu no Honkai,9
-Kyokou Suiri,6
-Made in Abyss,7
-Midara na Ao-chan wa Benkyou ga Dekinai,5
-Naruto,7
-Naruto: Shippuuden,7
-Neon Genesis Evangelion,6
-NHK ni Youkoso!,6
-No Game No Life,7
-Ore wo Suki nano wa Omae dake ka yo,6
-Ping Pong the Animation,6
-Re:Zero kara Hajimeru Isekai Seikatsu,8
-ReLIFE,9
-Sakamichi no Apollon,9
-Sakura-sou no Pet na Kanojo,7
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9
-Senryuu Shoujo,7
-Shigatsu wa Kimi no Uso,9
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,10
-Shouwa Genroku Rakugo Shinjuu,6
-Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,6
-Somali to Mori no Kamisama,7
-Sora yori mo Tooi Basho,8
-Steins;Gate,7
-Sukitte Ii na yo.,8
-Tate no Yuusha no Nariagari,8
-Tensei shitara Slime Datta Ken,9
-Toaru Kagaku no Railgun,6
-Toaru Kagaku no Railgun S,6
-Toradora!,9
-Tsuki ga Kirei,9
-Tsurezure Children,9
-Ueki no Housoku,7
-Usagi Drop,10
-Vinland Saga,9
-Violet Evergarden,8
-Wotaku ni Koi wa Muzukashii,7
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,6
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,7
-Yakusoku no Neverland,10
-Yojouhan Shinwa Taikei,6
-Youjo Senki,8
-Zankyou no Terror,4
+﻿3-GATSU NO LION,8
+3-GATSU NO LION 2ND SEASON,10
+AKKUN TO KANOJO,5
+ANGEL BEATS!,6
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,10
+ANOTHER,9
+ANSATSU KYOUSHITSU,8
+ANSATSU KYOUSHITSU 2ND SEASON,10
+BABYLON,4
+BACCANO!,8
+BAKUMAN.,8
+BAKUMAN. 2ND SEASON,8
+BAKUMAN. 3RD SEASON,8
+BARAKAMON,10
+BEASTARS,6
+BOKU DAKE GA INAI MACHI,9
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,8
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BOKU NO HERO ACADEMIA 4TH SEASON,8
+CHIHAYAFURU,7
+CHIHAYAFURU 2,7
+CHIHAYAFURU 3,7
+CODE GEASS: HANGYAKU NO LELOUCH,8
+CODE GEASS: HANGYAKU NO LELOUCH R2,8
+DOMESTIC NA KANOJO,7
+DORORO,7
+DR. STONE,7
+FRUITS BASKET 1ST SEASON,6
+FULLMETAL ALCHEMIST: BROTHERHOOD,7
+HAIKYUU!!,9
+HAIKYUU!! SECOND SEASON,9
+HAIKYUU!!: KARASUNO KOUKOU VS. SHIRATORIZAWA GAKUEN KOUKOU,9
+HAIKYUU!!: TO THE TOP,9
+HINAMATSURI,9
+HITORIBOCCHI NO MARUMARU SEIKATSU,7
+HONOBONO LOG,8
+HONZUKI NO GEKOKUJOU: SHISHO NI NARU TAME NI WA SHUDAN WO ERANDEIRAREMASEN,9
+HOSHIAI NO SORA,6
+HOUSEKI NO KUNI (TV),9
+HYOUKA,7
+IDATEN JUMP,6
+IS: INFINITE STRATOS,5
+IS: INFINITE STRATOS 2,5
+ISSHUUKAN FRIENDS.,7
+JIBAKU SHOUNEN HANAKO-KUN,7
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,7
+KANATA NO ASTRA,7
+KARAKAI JOUZU NO TAKAGI-SAN,7
+KARAKAI JOUZU NO TAKAGI-SAN 2,8
+KIMETSU NO YAIBA,7
+KISEIJUU: SEI NO KAKURITSU,9
+KONO BIJUTSUBU NI WA MONDAI GA ARU!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO!,7
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,7
+KUZU NO HONKAI,9
+KYOKOU SUIRI,6
+MADE IN ABYSS,7
+MIDARA NA AO-CHAN WA BENKYOU GA DEKINAI,5
+NARUTO,7
+NARUTO: SHIPPUUDEN,7
+NEON GENESIS EVANGELION,6
+NHK NI YOUKOSO!,6
+NO GAME NO LIFE,7
+ORE WO SUKI NANO WA OMAE DAKE KA YO,6
+PING PONG THE ANIMATION,6
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,8
+RELIFE,9
+SAKAMICHI NO APOLLON,9
+SAKURA-SOU NO PET NA KANOJO,7
+SEISHUN BUTA YAROU WA BUNNY GIRL SENPAI NO YUME WO MINAI,9
+SENRYUU SHOUJO,7
+SHIGATSU WA KIMI NO USO,9
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,10
+SHOUWA GENROKU RAKUGO SHINJUU,6
+SHOUWA GENROKU RAKUGO SHINJUU: SUKEROKU FUTATABI-HEN,6
+SOMALI TO MORI NO KAMISAMA,7
+SORA YORI MO TOOI BASHO,8
+STEINS;GATE,7
+SUKITTE II NA YO.,8
+TATE NO YUUSHA NO NARIAGARI,8
+TENSEI SHITARA SLIME DATTA KEN,9
+TOARU KAGAKU NO RAILGUN,6
+TOARU KAGAKU NO RAILGUN S,6
+TORADORA!,9
+TSUKI GA KIREI,9
+TSUREZURE CHILDREN,9
+UEKI NO HOUSOKU,7
+USAGI DROP,10
+VINLAND SAGA,9
+VIOLET EVERGARDEN,8
+WOTAKU NI KOI WA MUZUKASHII,7
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,6
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. ZOKU,7
+YAKUSOKU NO NEVERLAND,10
+YOJOUHAN SHINWA TAIKEI,6
+YOUJO SENKI,8
+ZANKYOU NO TERROR,4

@@ -1,40 +1,32 @@
-﻿Ansatsu Kyoushitsu 2nd Season,8
-Arifureta Shokugyou de Sekai Saikyou,10
-Boku no Hero Academia,10
-Date A Live II,8
-Date A Live III,9
-Dragon Ball Z,10
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,9
-Fairy Tail: Final Series,9
-Gintama,-
-Gintama',-
-Gintama': Enchousen,-
-Gintama.,-
-Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,-
-Gintama°,-
-InuYasha (TV): Kanketsu-hen,9
-Isekai Cheat Magician,10
-Kenja no Mago,10
-Kono Subarashii Sekai ni Shukufuku wo! 2,8
-Mob Psycho 100,10
-Mob Psycho 100 II,10
-Nande Koko ni Sensei ga!?,-
-Naruto,10
-No Game No Life,9
-One Punch Man 2nd Season,10
-Radiant,9
-Saiki Kusuo no Ψ-nan,10
-Saiki Kusuo no Ψ-nan 2,10
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,10
-Shingeki no Kyojin Season 3,10
-Shokugeki no Souma,10
-Shokugeki no Souma: Ni no Sara,10
-Shokugeki no Souma: San no Sara,10
-Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,10
-Tate no Yuusha no Nariagari,10
-Tejina-senpai,-
-Tengen Toppa Gurren Lagann,7
-Tensei shitara Slime Datta Ken,10
-Tokyo Ravens,9
-Yuu☆Yuu☆Hakusho,10
+﻿ANSATSU KYOUSHITSU 2ND SEASON,8
+ARIFURETA SHOKUGYOU DE SEKAI SAIKYOU,10
+BOKU NO HERO ACADEMIA,10
+DATE A LIVE II,8
+DATE A LIVE III,9
+DRAGON BALL Z,10
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA II,9
+FAIRY TAIL: FINAL SERIES,9
+INUYASHA (TV): KANKETSU-HEN,9
+ISEKAI CHEAT MAGICIAN,10
+KENJA NO MAGO,10
+KONO SUBARASHII SEKAI NI SHUKUFUKU WO! 2,8
+MOB PSYCHO 100,10
+MOB PSYCHO 100 II,10
+NARUTO,10
+NO GAME NO LIFE,9
+ONE PUNCH MAN 2ND SEASON,10
+RADIANT,9
+SAIKI KUSUO NO Ψ-NAN,10
+SAIKI KUSUO NO Ψ-NAN 2,10
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,10
+SHINGEKI NO KYOJIN SEASON 3,10
+SHOKUGEKI NO SOUMA,10
+SHOKUGEKI NO SOUMA: NI NO SARA,10
+SHOKUGEKI NO SOUMA: SAN NO SARA,10
+SHOKUGEKI NO SOUMA: SAN NO SARA - TOOTSUKI RESSHA-HEN,10
+TATE NO YUUSHA NO NARIAGARI,10
+TENGEN TOPPA GURREN LAGANN,7
+TENSEI SHITARA SLIME DATTA KEN,10
+TOKYO RAVENS,9
+YUU☆YUU☆HAKUSHO,10

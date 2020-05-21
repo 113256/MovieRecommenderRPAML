@@ -1,56 +1,56 @@
-﻿Akagami no Shirayuki-hime,8
-Akame ga Kill!,6
-Akatsuki no Yona,8
-Angel Beats!,8
-Ao Haru Ride,7
-Boku dake ga Inai Machi,7
-Boku wa Tomodachi ga Sukunai,7
-Charlotte,5
-Chihayafuru,8
-Chihayafuru 2,8
-Chihayafuru 3,8
-Chuunibyou demo Koi ga Shitai!,7
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
-Fruits Basket 1st Season,10
-Gokukoku no Brynhildr,5
-Gosick,9
-Hataraku Maou-sama!,7
-Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,8
-Hyouka,10
-Inu x Boku SS,6
-Isshuukan Friends.,5
-Jibaku Shounen Hanako-kun,10
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,6
-Kaichou wa Maid-sama!,7
-Kamisama Hajimemashita,8
-Kimetsu no Yaiba,10
-Kimi ni Todoke,7
-Mahou Shoujo Madoka★Magica,7
-Nagi no Asu kara,8
-Nanatsu no Taizai,6
-No Game No Life,7
-Noragami,9
-Ookami Shoujo to Kuro Ouji,6
-Ouran Koukou Host Club,7
-Owari no Seraph,8
-Owari no Seraph: Nagoya Kessen-hen,8
-Pandora Hearts,8
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Rokka no Yuusha,8
-Rozen Maiden,9
-Shakugan no Shana,8
-Shakugan no Shana II (Second),7
-Shingeki no Kyojin,9
-Shokugeki no Souma,6
-Shokugeki no Souma: San no Sara,6
-Sword Art Online,7
-Tate no Yuusha no Nariagari,4
-Tokyo Ghoul,8
-Tokyo Ghoul √A,6
-Tonari no Kaibutsu-kun,6
-Toradora!,6
-Vinland Saga,7
-Yakusoku no Neverland,10
-Yamada-kun to 7-nin no Majo (TV),6
-Zero no Tsukaima,8
-Zetsuen no Tempest,8
+﻿AKAGAMI NO SHIRAYUKI-HIME,8
+AKAME GA KILL!,6
+AKATSUKI NO YONA,8
+ANGEL BEATS!,8
+AO HARU RIDE,7
+BOKU DAKE GA INAI MACHI,7
+BOKU WA TOMODACHI GA SUKUNAI,7
+CHARLOTTE,5
+CHIHAYAFURU,8
+CHIHAYAFURU 2,8
+CHIHAYAFURU 3,8
+CHUUNIBYOU DEMO KOI GA SHITAI!,7
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,7
+FRUITS BASKET 1ST SEASON,10
+GOKUKOKU NO BRYNHILDR,5
+GOSICK,9
+HATARAKU MAOU-SAMA!,7
+HONZUKI NO GEKOKUJOU: SHISHO NI NARU TAME NI WA SHUDAN WO ERANDEIRAREMASEN,8
+HYOUKA,10
+INU X BOKU SS,6
+ISSHUUKAN FRIENDS.,5
+JIBAKU SHOUNEN HANAKO-KUN,10
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,6
+KAICHOU WA MAID-SAMA!,7
+KAMISAMA HAJIMEMASHITA,8
+KIMETSU NO YAIBA,10
+KIMI NI TODOKE,7
+MAHOU SHOUJO MADOKA★MAGICA,7
+NAGI NO ASU KARA,8
+NANATSU NO TAIZAI,6
+NO GAME NO LIFE,7
+NORAGAMI,9
+OOKAMI SHOUJO TO KURO OUJI,6
+OURAN KOUKOU HOST CLUB,7
+OWARI NO SERAPH,8
+OWARI NO SERAPH: NAGOYA KESSEN-HEN,8
+PANDORA HEARTS,8
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+ROKKA NO YUUSHA,8
+ROZEN MAIDEN,9
+SHAKUGAN NO SHANA,8
+SHAKUGAN NO SHANA II (SECOND),7
+SHINGEKI NO KYOJIN,9
+SHOKUGEKI NO SOUMA,6
+SHOKUGEKI NO SOUMA: SAN NO SARA,6
+SWORD ART ONLINE,7
+TATE NO YUUSHA NO NARIAGARI,4
+TOKYO GHOUL,8
+TOKYO GHOUL √A,6
+TONARI NO KAIBUTSU-KUN,6
+TORADORA!,6
+VINLAND SAGA,7
+YAKUSOKU NO NEVERLAND,10
+YAMADA-KUN TO 7-NIN NO MAJO (TV),6
+ZERO NO TSUKAIMA,8
+ZETSUEN NO TEMPEST,8

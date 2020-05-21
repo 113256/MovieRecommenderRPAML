@@ -1,95 +1,94 @@
-﻿Afro Samurai,7
-Angel Beats!,6
-Ao no Exorcist,6
-Black Bullet,6
-Black Lagoon,10
-Black Lagoon: The Second Barrage,10
-Black★Rock Shooter (TV),5
-Blue Gender,5
-Casshern Sins,6
-Cowboy Bebop,10
-Deadman Wonderland,6
-Death Note,10
-Death Parade,8
-Dragon Ball,7
-Dragon Ball GT,6
-Dragon Ball Z,7
-Durarara!!,10
-Durarara!!x2 Ketsu,10
-Durarara!!x2 Shou,10
-Durarara!!x2 Ten,10
-Elfen Lied,6
-Fullmetal Alchemist,7
-Fullmetal Alchemist: Brotherhood,7
-Gangsta.,5
-Goblin Slayer,6
-Golden Kamuy,9
-Golden Kamuy 2nd Season,9
-Guilty Crown,6
-Hellsing,7
-Higashi no Eden,6
-Highschool of the Dead,7
-Itou Junji: Collection,5
-JoJo no Kimyou na Bouken (TV),8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,10
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,10
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
-Jormungand,6
-K-On!,7
-Kill la Kill,6
-Kiseijuu: Sei no Kakuritsu,9
-Kobayashi-san Chi no Maid Dragon,6
-Koukaku Kidoutai Arise: Alternative Architecture,7
-Koukaku Kidoutai: Stand Alone Complex,10
-Koukaku Kidoutai: Stand Alone Complex 2nd GIG,10
-Kuroshitsuji,6
-Kuroshitsuji II,6
-Kuroshitsuji: Book of Circus,7
-Kyoukai no Kanata,7
-Little Witch Academia (TV),7
-Made in Abyss,7
-Mahou Shoujo Madoka★Magica,7
-Megalo Box,8
-Michiko to Hatchin,8
-Mob Psycho 100,7
-Mob Psycho 100 II,7
-Nichijou,6
-No Game No Life,6
-One Punch Man,7
-One Punch Man 2nd Season,6
-Overlord,6
-Panty & Stocking with Garterbelt,7
-Pokemon,-
-Poputepipikku,5
-Prison School,8
-Psycho-Pass,7
-Psycho-Pass 2,7
-Samurai Champloo,10
-Seihou Bukyou Outlaw Star,9
-Sewayaki Kitsune no Senko-san,6
-Shigatsu wa Kimi no Uso,7
-Shingeki no Kyojin,7
-Shingeki no Kyojin Season 2,7
-Shingeki no Kyojin Season 3,7
-Shingeki no Kyojin Season 3 Part 2,6
-Sirius,5
-Space☆Dandy,6
-Space☆Dandy 2nd Season,6
-Steins;Gate,8
-Steins;Gate 0,7
-Sword Art Online,6
-Tokyo Ghoul,8
-Tokyo Ghoul √A,6
-Tokyo Ghoul:re,5
-Tokyo Ghoul:re 2nd Season,6
-Trigun,8
-Vinland Saga,7
-Violet Evergarden,10
-Yakusoku no Neverland,10
-Yami Shibai,6
-Yu☆Gi☆Oh!,6
-Yu☆Gi☆Oh! 5D's,7
-Yu☆Gi☆Oh! Duel Monsters,10
-Yu☆Gi☆Oh!: Duel Monsters GX,7
-Zankyou no Terror,5
+﻿AFRO SAMURAI,7
+ANGEL BEATS!,6
+AO NO EXORCIST,6
+BLACK BULLET,6
+BLACK LAGOON,10
+BLACK LAGOON: THE SECOND BARRAGE,10
+BLACK★ROCK SHOOTER (TV),5
+BLUE GENDER,5
+CASSHERN SINS,6
+COWBOY BEBOP,10
+DEADMAN WONDERLAND,6
+DEATH NOTE,10
+DEATH PARADE,8
+DRAGON BALL,7
+DRAGON BALL GT,6
+DRAGON BALL Z,7
+DURARARA!!,10
+DURARARA!!X2 KETSU,10
+DURARARA!!X2 SHOU,10
+DURARARA!!X2 TEN,10
+ELFEN LIED,6
+FULLMETAL ALCHEMIST,7
+FULLMETAL ALCHEMIST: BROTHERHOOD,7
+GANGSTA.,5
+GOBLIN SLAYER,6
+GOLDEN KAMUY,9
+GOLDEN KAMUY 2ND SEASON,9
+GUILTY CROWN,6
+HELLSING,7
+HIGASHI NO EDEN,6
+HIGHSCHOOL OF THE DEAD,7
+ITOU JUNJI: COLLECTION,5
+JOJO NO KIMYOU NA BOUKEN (TV),8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,10
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,10
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,8
+JORMUNGAND,6
+K-ON!,7
+KILL LA KILL,6
+KISEIJUU: SEI NO KAKURITSU,9
+KOBAYASHI-SAN CHI NO MAID DRAGON,6
+KOUKAKU KIDOUTAI ARISE: ALTERNATIVE ARCHITECTURE,7
+KOUKAKU KIDOUTAI: STAND ALONE COMPLEX,10
+KOUKAKU KIDOUTAI: STAND ALONE COMPLEX 2ND GIG,10
+KUROSHITSUJI,6
+KUROSHITSUJI II,6
+KUROSHITSUJI: BOOK OF CIRCUS,7
+KYOUKAI NO KANATA,7
+LITTLE WITCH ACADEMIA (TV),7
+MADE IN ABYSS,7
+MAHOU SHOUJO MADOKA★MAGICA,7
+MEGALO BOX,8
+MICHIKO TO HATCHIN,8
+MOB PSYCHO 100,7
+MOB PSYCHO 100 II,7
+NICHIJOU,6
+NO GAME NO LIFE,6
+ONE PUNCH MAN,7
+ONE PUNCH MAN 2ND SEASON,6
+OVERLORD,6
+PANTY & STOCKING WITH GARTERBELT,7
+POPUTEPIPIKKU,5
+PRISON SCHOOL,8
+PSYCHO-PASS,7
+PSYCHO-PASS 2,7
+SAMURAI CHAMPLOO,10
+SEIHOU BUKYOU OUTLAW STAR,9
+SEWAYAKI KITSUNE NO SENKO-SAN,6
+SHIGATSU WA KIMI NO USO,7
+SHINGEKI NO KYOJIN,7
+SHINGEKI NO KYOJIN SEASON 2,7
+SHINGEKI NO KYOJIN SEASON 3,7
+SHINGEKI NO KYOJIN SEASON 3 PART 2,6
+SIRIUS,5
+SPACE☆DANDY,6
+SPACE☆DANDY 2ND SEASON,6
+STEINS;GATE,8
+STEINS;GATE 0,7
+SWORD ART ONLINE,6
+TOKYO GHOUL,8
+TOKYO GHOUL √A,6
+TOKYO GHOUL:RE,5
+TOKYO GHOUL:RE 2ND SEASON,6
+TRIGUN,8
+VINLAND SAGA,7
+VIOLET EVERGARDEN,10
+YAKUSOKU NO NEVERLAND,10
+YAMI SHIBAI,6
+YU☆GI☆OH!,6
+YU☆GI☆OH! 5D'S,7
+YU☆GI☆OH! DUEL MONSTERS,10
+YU☆GI☆OH!: DUEL MONSTERS GX,7
+ZANKYOU NO TERROR,5

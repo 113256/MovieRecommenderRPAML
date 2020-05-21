@@ -1,37 +1,36 @@
-﻿Boku dake ga Inai Machi,7
-Boku no Hero Academia,8
-Boku no Hero Academia 2nd Season,9
-Boku no Hero Academia 3rd Season,8
-Boku no Hero Academia 4th Season,7
-Darwin's Game,6
-Death Note,5
-Dr. Stone,9
-Enen no Shouboutai,6
-Fruits Basket 1st Season,8
-JoJo no Kimyou na Bouken (TV),7
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,8
-JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season,9
-JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,8
-JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,8
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,8
-Kanata no Astra,6
-Kimetsu no Yaiba,9
-Mob Psycho 100,8
-Mob Psycho 100 II,8
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Imashime no Fukkatsu,8
-Nanatsu no Taizai: Kamigami no Gekirin,6
-Nanatsu no Taizai: Seisen no Shirushi,-
-No Game No Life,7
-No Guns Life,7
-Noragami,6
-Noragami Aragoto,7
-One Punch Man,9
-One Punch Man 2nd Season,6
-Shingeki no Kyojin,9
-Shingeki no Kyojin Season 2,9
-Shingeki no Kyojin Season 3,9
-Shingeki no Kyojin Season 3 Part 2,9
-Tokyo Ghoul,5
-Vinland Saga,8
-Yakusoku no Neverland,8
+﻿BOKU DAKE GA INAI MACHI,7
+BOKU NO HERO ACADEMIA,8
+BOKU NO HERO ACADEMIA 2ND SEASON,9
+BOKU NO HERO ACADEMIA 3RD SEASON,8
+BOKU NO HERO ACADEMIA 4TH SEASON,7
+DARWIN'S GAME,6
+DEATH NOTE,5
+DR. STONE,9
+ENEN NO SHOUBOUTAI,6
+FRUITS BASKET 1ST SEASON,8
+JOJO NO KIMYOU NA BOUKEN (TV),7
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS,8
+JOJO NO KIMYOU NA BOUKEN PART 3: STARDUST CRUSADERS 2ND SEASON,9
+JOJO NO KIMYOU NA BOUKEN PART 4: DIAMOND WA KUDAKENAI,8
+JOJO NO KIMYOU NA BOUKEN PART 5: OUGON NO KAZE,8
+KAGUYA-SAMA WA KOKURASETAI: TENSAI-TACHI NO RENAI ZUNOUSEN,8
+KANATA NO ASTRA,6
+KIMETSU NO YAIBA,9
+MOB PSYCHO 100,8
+MOB PSYCHO 100 II,8
+NANATSU NO TAIZAI,9
+NANATSU NO TAIZAI: IMASHIME NO FUKKATSU,8
+NANATSU NO TAIZAI: KAMIGAMI NO GEKIRIN,6
+NO GAME NO LIFE,7
+NO GUNS LIFE,7
+NORAGAMI,6
+NORAGAMI ARAGOTO,7
+ONE PUNCH MAN,9
+ONE PUNCH MAN 2ND SEASON,6
+SHINGEKI NO KYOJIN,9
+SHINGEKI NO KYOJIN SEASON 2,9
+SHINGEKI NO KYOJIN SEASON 3,9
+SHINGEKI NO KYOJIN SEASON 3 PART 2,9
+TOKYO GHOUL,5
+VINLAND SAGA,8
+YAKUSOKU NO NEVERLAND,8

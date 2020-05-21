@@ -1,13 +1,12 @@
-﻿Black Lagoon,7
-Boku no Hero Academia,10
-Boku no Hero Academia 2nd Season,10
-Boku no Hero Academia 3rd Season,10
-Boku no Hero Academia 4th Season,10
-Dakaretai Otoko 1-i ni Odosarete Imasu.,10
-Fairy Tail,10
-Gakuen Babysitters,7
-Nanatsu no Taizai,9
-Nanatsu no Taizai: Seisen no Shirushi,-
-Tate no Yuusha no Nariagari,9
-Tensei shitara Slime Datta Ken,8
-Watashi ga Motete Dousunda,9
+﻿BLACK LAGOON,7
+BOKU NO HERO ACADEMIA,10
+BOKU NO HERO ACADEMIA 2ND SEASON,10
+BOKU NO HERO ACADEMIA 3RD SEASON,10
+BOKU NO HERO ACADEMIA 4TH SEASON,10
+DAKARETAI OTOKO 1-I NI ODOSARETE IMASU.,10
+FAIRY TAIL,10
+GAKUEN BABYSITTERS,7
+NANATSU NO TAIZAI,9
+TATE NO YUUSHA NO NARIAGARI,9
+TENSEI SHITARA SLIME DATTA KEN,8
+WATASHI GA MOTETE DOUSUNDA,9

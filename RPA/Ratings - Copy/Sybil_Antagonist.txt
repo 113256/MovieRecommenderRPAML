@@ -1,76 +1,76 @@
-﻿Akame ga Kill!,9
-Angel Beats!,10
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,9
-Bakemonogatari,8
-Basilisk: Kouga Ninpou Chou,8
-Black Lagoon: The Second Barrage,8
-Blood-C,8
-Blue Drop: Tenshi-tachi no Gikyoku,8
-Boku dake ga Inai Machi,7
-ChäoS;HEAd,7
-Chrno Crusade,9
-Chrome Shelled Regios,8
-Clannad,10
-Clannad: After Story,10
-Claymore,10
-Code Geass: Hangyaku no Lelouch,10
-Code Geass: Hangyaku no Lelouch R2,10
-D.Gray-man,9
-D.Gray-man Hallow,9
-Death Note,10
-Death Parade,9
-Densetsu no Yuusha no Densetsu,8
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
-Elfen Lied,8
-Full Metal Panic!,9
-Fullmetal Alchemist,9
-Fullmetal Alchemist: Brotherhood,8
-Golden Kamuy,10
-Great Teacher Onizuka,9
-Hatenkou Yuugi,9
-Hunter x Hunter (2011),8
-I My Me! Strawberry Eggs,8
-InuYasha (TV),9
-Katanagatari,7
-Kenpuu Denki Berserk,8
-Kimetsu no Yaiba,8
-Kono Minikuku mo Utsukushii Sekai,10
-Kuroshitsuji,9
-Little Witch Academia (TV),10
-Made in Abyss,10
-Mahouka Koukou no Rettousei,8
-Mahoutsukai no Yome,10
-Mikakunin de Shinkoukei,9
-Mirai Nikki,9
-Mobile Suit Gundam SEED,10
-Mobile Suit Gundam Wing,9
-Monster,10
-Mushishi,10
-No Game No Life,9
-Noragami,8
-One Punch Man,9
-Ookami to Koushinryou,9
-Overlord,8
-Phantom: Requiem for the Phantom,9
-Psycho-Pass,9
-Psycho-Pass 2,7
-Re:Zero kara Hajimeru Isekai Seikatsu,9
-Sekirei: Pure Engagement,8
-Shigatsu wa Kimi no Uso,8
-Shiki,9
-Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru,9
-Shingeki no Bahamut: Genesis,7
-Shingeki no Bahamut: Virgin Soul,8
-Shingeki no Kyojin,10
-Shingeki no Kyojin Season 2,8
-Shouwa Genroku Rakugo Shinjuu,8
-Sword Art Online,8
-Tenshi na Konamaiki,9
-Tokyo Ghoul,10
-Tokyo Ghoul √A,9
-Toradora!,8
-Ushinawareta Mirai wo Motomete,8
-Violet Evergarden,9
-Yahari Ore no Seishun Love Comedy wa Machigatteiru.,9
-Yakusoku no Neverland,10
-Zero no Tsukaima,7
+﻿AKAME GA KILL!,9
+ANGEL BEATS!,10
+ANO HI MITA HANA NO NAMAE WO BOKUTACHI WA MADA SHIRANAI.,9
+BAKEMONOGATARI,8
+BASILISK: KOUGA NINPOU CHOU,8
+BLACK LAGOON: THE SECOND BARRAGE,8
+BLOOD-C,8
+BLUE DROP: TENSHI-TACHI NO GIKYOKU,8
+BOKU DAKE GA INAI MACHI,7
+CHÄOS;HEAD,7
+CHRNO CRUSADE,9
+CHROME SHELLED REGIOS,8
+CLANNAD,10
+CLANNAD: AFTER STORY,10
+CLAYMORE,10
+CODE GEASS: HANGYAKU NO LELOUCH,10
+CODE GEASS: HANGYAKU NO LELOUCH R2,10
+D.GRAY-MAN,9
+D.GRAY-MAN HALLOW,9
+DEATH NOTE,10
+DEATH PARADE,9
+DENSETSU NO YUUSHA NO DENSETSU,8
+DUNGEON NI DEAI WO MOTOMERU NO WA MACHIGATTEIRU DAROU KA,9
+ELFEN LIED,8
+FULL METAL PANIC!,9
+FULLMETAL ALCHEMIST,9
+FULLMETAL ALCHEMIST: BROTHERHOOD,8
+GOLDEN KAMUY,10
+GREAT TEACHER ONIZUKA,9
+HATENKOU YUUGI,9
+HUNTER X HUNTER (2011),8
+I MY ME! STRAWBERRY EGGS,8
+INUYASHA (TV),9
+KATANAGATARI,7
+KENPUU DENKI BERSERK,8
+KIMETSU NO YAIBA,8
+KONO MINIKUKU MO UTSUKUSHII SEKAI,10
+KUROSHITSUJI,9
+LITTLE WITCH ACADEMIA (TV),10
+MADE IN ABYSS,10
+MAHOUKA KOUKOU NO RETTOUSEI,8
+MAHOUTSUKAI NO YOME,10
+MIKAKUNIN DE SHINKOUKEI,9
+MIRAI NIKKI,9
+MOBILE SUIT GUNDAM SEED,10
+MOBILE SUIT GUNDAM WING,9
+MONSTER,10
+MUSHISHI,10
+NO GAME NO LIFE,9
+NORAGAMI,8
+ONE PUNCH MAN,9
+OOKAMI TO KOUSHINRYOU,9
+OVERLORD,8
+PHANTOM: REQUIEM FOR THE PHANTOM,9
+PSYCHO-PASS,9
+PSYCHO-PASS 2,7
+RE:ZERO KARA HAJIMERU ISEKAI SEIKATSU,9
+SEKIREI: PURE ENGAGEMENT,8
+SHIGATSU WA KIMI NO USO,8
+SHIKI,9
+SHINCHOU YUUSHA: KONO YUUSHA GA ORE TSUEEE KUSE NI SHINCHOU SUGIRU,9
+SHINGEKI NO BAHAMUT: GENESIS,7
+SHINGEKI NO BAHAMUT: VIRGIN SOUL,8
+SHINGEKI NO KYOJIN,10
+SHINGEKI NO KYOJIN SEASON 2,8
+SHOUWA GENROKU RAKUGO SHINJUU,8
+SWORD ART ONLINE,8
+TENSHI NA KONAMAIKI,9
+TOKYO GHOUL,10
+TOKYO GHOUL √A,9
+TORADORA!,8
+USHINAWARETA MIRAI WO MOTOMETE,8
+VIOLET EVERGARDEN,9
+YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU.,9
+YAKUSOKU NO NEVERLAND,10
+ZERO NO TSUKAIMA,7
